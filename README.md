@@ -13,9 +13,9 @@ Name | Website | Region | Company Type | Stack
 [Flowing](https://www.flowing.it/job-opportunity/) | https://flowing.it | Italy | Consulting | AWS - PHP - JS
 [Madisoft](https://labs.madisoft.it/) | https://labs.madisoft.it | Italy | Product | AWS - PHP - React
 [Prima](https://it.prima.jobs/?lang=it-it) | https://www.prima.it/ | Italy | Product | AWS
-[Docplanner](https://www.docplanner.com/career) | https://www.docplanner.com | Italy | AWS - PHP
-[Sysdig](https://sysdig.com/jobs/) | https://sysdig.com/ | Italy | Go - K8S - AWS - GCP
-[Immobiliare.it](https://www.immobiliare.it/info/lavora-con-noi/) | https://www.immobiliare.it/ | Italy | PHP - Openstack
+[Docplanner](https://www.docplanner.com/career) | https://www.docplanner.com | Italy | Product | AWS - PHP
+[Sysdig](https://sysdig.com/jobs/) | https://sysdig.com/ | Italy | Product | Go - K8S - AWS - GCP
+[Immobiliare.it](https://www.immobiliare.it/info/lavora-con-noi/) | https://www.immobiliare.it/ | Product | Italy | PHP - Openstack
 
 
 -------------
