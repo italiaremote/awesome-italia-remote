@@ -15,7 +15,7 @@ Name | Website | Region | Company Type | Stack
 [Prima](https://it.prima.jobs/?lang=it-it) | https://www.prima.it/ | Italy | Product | AWS
 [Docplanner](https://www.docplanner.com/career) | https://www.docplanner.com | Italy | Product | AWS - PHP
 [Sysdig](https://sysdig.com/jobs/) | https://sysdig.com/ | Italy | Product | Go - K8S - AWS - GCP
-[Immobiliare.it](https://www.immobiliare.it/info/lavora-con-noi/) | https://www.immobiliare.it/ | Product | Italy | PHP - Openstack
+[Immobiliare.it](https://www.immobiliare.it/info/lavora-con-noi/) | https://www.immobiliare.it/ | Italy | Product | PHP - Openstack
 
 
 -------------
