@@ -1,3 +1,0 @@
-# Madisoft
-
-Work In Progress

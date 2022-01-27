@@ -9,11 +9,13 @@ Do you want to insert/remove/modify an entry, open a PR/Issue or contact me on m
 
 Name | Website | Region | Company Type | Stack
 ------------ | ------- | ------- | -------| -------
-[Claranet Italia](/company-profiles/claranet-italia.md) | https://www.claranet.it/ | Italy | Consulting | AWS
-[Flowing](/company-profiles/flowing.md) | https://flowing.it | Italy | Consulting | AWS - PHP - JS
-[Madisoft](/company-profiles/madisoft.md) | https://labs.madisoft.it | Italy | Product | AWS - PHP - React
-[Prima](/company-profiles/prima.md) | https://www.prima.it/ | Italy | Product | AWS
-
+[Claranet Italia](https://claranetitalia.recruitee.com/l/it) | https://www.claranet.it/ | Italy | Consulting | AWS
+[Flowing](https://www.flowing.it/job-opportunity/) | https://flowing.it | Italy | Consulting | AWS - PHP - JS
+[Madisoft](https://labs.madisoft.it/) | https://labs.madisoft.it | Italy | Product | AWS - PHP - React
+[Prima](https://it.prima.jobs/?lang=it-it) | https://www.prima.it/ | Italy | Product | AWS
+[Docplanner](https://www.docplanner.com/career) | https://www.docplanner.com | Italy | AWS - PHP
+[Sysdig](https://sysdig.com/jobs/) | https://sysdig.com/ | Italy | Go - K8S - AWS - GCP
+[Immobiliare.it](https://www.immobiliare.it/info/lavora-con-noi/) | https://www.immobiliare.it/ | Italy | PHP - Openstack
 
 
 -------------
