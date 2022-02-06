@@ -7,6 +7,8 @@ Do you want to insert/remove/modify an entry, open a PR/Issue or contact me on m
 
 ## Companies
 
+Tech stacks are usually incomplete check the careers page of each company to get more details.
+
 ### Software and Cloud
 
 Name | Website | Company Type | Stack
