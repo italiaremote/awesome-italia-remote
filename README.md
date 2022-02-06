@@ -24,3 +24,14 @@ Name | Website | Company Type | Stack
 [ShippyPro](https://www.shippypro.com/en/work-with-us/) | https://www.shippypro.com/ | Product | PHP - Terraform
 [Datadog](https://www.datadoghq.com/careers/) | https://www.datadoghq.com/ | Product | Go - Kubernetes
 [Aruba S.p.A.](https://www.aruba.it/en/home.aspx) | https://www.aruba.it/en/home.aspx | Product | OpenShift - Serverless - Istio
+[ProntoPro](https://jobs.jobvite.com/prontopro/jobs) | https://www.prontopro.it/ | Product | PHP - Go - AWS - Terraform - Kubernetes
+[Canonical](https://canonical.com/careers) | https://canonical.com/ | Product | Python - Go - OpenStack - Kubernetes
+[GitLab](https://about.gitlab.com/jobs/) | https://about.gitlab.com/ | Product | Go - Kubernetes - Python - Ruby on Rails
+[Facile.it](https://inrecruiting.intervieweb.it/facileit/it/career#vacancies) | https://www.facile.it/ | Product | PHP
+[MailUp](https://www.growens.io/en/work-with-us/) | https://www.mailup.com/ | Product | Linux - Go - AWS - IaC - JS
+[Mattermost](https://mattermost.com/careers/) | https://mattermost.com/ | Product | Go - Terraform - AWS - Kubernetes - CircleCI
+[CrowdStrike](https://www.crowdstrike.com/careers/) | https://www.crowdstrike.com/ | Product | Go - AWS - IoT - Security
+[TUI Musement](https://careers.tuigroup.com/jobs/) | https://www.musement.com/us/ | Product | AWS - PHP
+[elastic](https://www.elastic.co/about/careers/) | https://www.elastic.co/ | Product | Go - Cloud - Scala - OpenStack
+[everli](https://it.everli.com/it/lavora-con-noi) | https://it.everli.com/it | Product | PHP - JS
+[Cortilia](https://about.cortilia.it/lavora-con-noi) | https://about.cortilia.it/ | Product | AWS - Java
