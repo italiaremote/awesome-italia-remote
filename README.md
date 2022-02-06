@@ -7,7 +7,7 @@ Do you want to insert/remove/modify an entry, open a PR/Issue or contact me on m
 
 ## Companies
 
-Tech stacks are usually incomplete, check the careers page of each company to get more details. 
+### Software and Cloud
 
 Name | Website | Company Type | Stack
 ------------ | ------- | -------| -------
@@ -35,3 +35,25 @@ Name | Website | Company Type | Stack
 [elastic](https://www.elastic.co/about/careers/) | https://www.elastic.co/ | Product | Go - Cloud - Scala - OpenStack
 [everli](https://it.everli.com/it/lavora-con-noi) | https://it.everli.com/it | Product | PHP - JS
 [Cortilia](https://about.cortilia.it/lavora-con-noi) | https://about.cortilia.it/ | Product | AWS - Java
+
+### Marketing and Writing
+
+Name | Website
+------------ | -------
+[Meta](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | https://about.facebook.com/meta/
+[BendingSpoons](https://bendingspoons.com/careers.html) | https://bendingspoons.com/
+[everli](https://it.everli.com/it/lavora-con-noi) | https://it.everli.com/it
+
+### HR
+
+Name | Website
+------------ | -------
+[TUI](https://careers.tuigroup.com/) | https://www.tuigroup.com/en-en
+[Meta](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | https://about.facebook.com/meta/
+
+### Design and UX
+
+Name | Website
+------------ | -------
+[Meta](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | https://about.facebook.com/meta/
+[TUI](https://careers.tuigroup.com/) | https://www.tuigroup.com/en-en
