@@ -33,6 +33,16 @@
             ]
         },
         {
+            "name": "CodicePlastico",
+            "career_page_url": "https://codiceplastico.com/jobs/",
+            "url": "https://codiceplastico.com/",
+            "type": "Consulting",
+            "tags": [
+                ".NET",
+                "Node.js"
+            ]
+        },
+        {
             "name": "Cortilia",
             "career_page_url": "https://about.cortilia.it/lavora-con-noi",
             "url": "https://about.cortilia.it/",
@@ -72,7 +82,7 @@
             "tags": [
                 "AWS",
                 "Terraform",
-                "Node",
+                "Node.js",
                 "Angular",
                 "PHP"
             ]
@@ -111,6 +121,22 @@
             ]
         },
         {
+            "name": "Flightradar24",
+            "career_page_url": "https://careers.flightradar24.com/",
+            "url": "https://flightradar24.com/",
+            "type": "Product",
+            "tags": [
+                "C++",
+                "Python",
+                "IoT",
+                "AWS",
+                "Terraform",
+                "Kubernetes",
+                "PHP",
+                "Vue.js"
+            ]
+        },
+        {
             "name": "Flowing",
             "career_page_url": "https://www.flowing.it/job-opportunity/",
             "url": "https://flowing.it",
@@ -131,6 +157,19 @@
                 "Kubernetes",
                 "Python",
                 "Ruby on Rails"
+            ]
+        },
+        {
+            "name": "Hotjar",
+            "career_page_url": "https://careers.hotjar.com/",
+            "url": "https://www.hotjar.com/",
+            "type": "Product",
+            "tags": [
+                "AWS",
+                "Kubernetes",
+                "Terraform",
+                 "Python",
+                "React"
             ]
         },
         {
@@ -264,7 +303,7 @@
             "type": "Product",
             "tags": [
                 "PHP",
-                "Vue",
+                "Vue.js",
                 "Android",
                 "iOS"
             ]
@@ -297,6 +336,11 @@
             "name": "everli",
             "career_page_url": "https://it.everli.com/it/lavora-con-noi",
             "url": "https://it.everli.com/it"
+        },
+        {
+            "name": "Hotjar",
+            "career_page_url": "https://careers.hotjar.com/",
+            "url": "https://www.hotjar.com/"
         }
     ],
     "hr": [
@@ -326,6 +370,11 @@
             "name": "MailUp",
             "career_page_url": "https://www.growens.io/en/work-with-us/",
             "url": "https://www.mailup.com/"
+        },
+        {
+            "name": "Hotjar",
+            "career_page_url": "https://careers.hotjar.com/",
+            "url": "https://www.hotjar.com/"
         }
     ]
 }
