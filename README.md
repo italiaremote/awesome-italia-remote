@@ -50,8 +50,8 @@ Name | Website
 
 Name | Website
 ------------ | -------
-[TUI](https://careers.tuigroup.com/) | https://www.tuigroup.com/en-en
 [Meta](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | https://about.facebook.com/meta/
+[TUI](https://careers.tuigroup.com/) | https://www.tuigroup.com/en-en
 
 ### Design and UX
 
