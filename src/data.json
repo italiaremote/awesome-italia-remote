@@ -1,6 +1,29 @@
 {
     "cloud_software": [
         {
+            "name": "Aruba S.p.A.",
+            "career_page_url": "https://www.aruba.it/en/home.aspx",
+            "url": "https://www.aruba.it/en/home.aspx",
+            "type": "Product",
+            "tags": [
+                "OpenShift",
+                "Serverless",
+                "Istio"
+            ]
+        },
+        {
+            "name": "Canonical",
+            "career_page_url": "https://canonical.com/careers",
+            "url": "https://canonical.com/",
+            "type": "Product",
+            "tags": [
+                "Python",
+                "Go",
+                "OpenStack",
+                "Kubernetes"
+            ]
+        },
+        {
             "name": "Claranet Italia",
             "career_page_url": "https://claranetitalia.recruitee.com/l/it",
             "url": "https://www.claranet.it/",
@@ -10,101 +33,35 @@
             ]
         },
         {
-            "name": "Flowing",
-            "career_page_url": "https://www.flowing.it/job-opportunity/",
-            "url": "https://flowing.it",
-            "type": "Consulting",
-            "tags": [
-                "AWS",
-                "PHP",
-                "JS"
-            ]
-        },
-        {
-            "name": "Madisoft",
-            "career_page_url": "https://labs.madisoft.it/",
-            "url": "https://labs.madisoft.it",
+            "name": "Cortilia",
+            "career_page_url": "https://about.cortilia.it/lavora-con-noi",
+            "url": "https://about.cortilia.it/",
             "type": "Product",
             "tags": [
                 "AWS",
-                "PHP",
-                "React"
+                "Java"
             ]
         },
         {
-            "name": "Prima",
-            "career_page_url": "https://it.prima.jobs/?lang=it-it",
-            "url": "https://www.prima.it/",
-            "type": "Product",
-            "tags": [
-                "AWS",
-                "Kubernetes",
-                "Rust",
-                "Elixir",
-                "Android",
-                "iOS",
-                "ELM",
-                "React",
-                "PHP"
-            ]
-        },
-        {
-            "name": "Docplanner",
-            "career_page_url": "https://www.docplanner.com/career",
-            "url": "https://www.docplanner.com",
-            "type": "Product",
-            "tags": [
-                "AWS",
-                "PHP",
-                ".NET",
-                "ElasticSearch"
-
-            ]
-        },
-        {
-            "name": "Sysdig",
-            "career_page_url": "https://sysdig.com/jobs/",
-            "url": "https://sysdig.com/",
+            "name": "CrowdStrike",
+            "career_page_url": "https://www.crowdstrike.com/careers/",
+            "url": "https://www.crowdstrike.com/",
             "type": "Product",
             "tags": [
                 "Go",
-                "K8S",
                 "AWS",
-                "GCP"
+                "IoT",
+                "Security"
             ]
         },
         {
-            "name": "Immobiliare.it",
-            "career_page_url": "https://www.immobiliare.it/info/lavora-con-noi/",
-            "url": "https://www.immobiliare.it/",
+            "name": "Datadog",
+            "career_page_url": "https://www.datadoghq.com/careers/",
+            "url": "https://www.datadoghq.com/",
             "type": "Product",
             "tags": [
-                "PHP",
-                "Openstack"
-            ]
-        },
-        {
-            "name": "lastminute.com",
-            "career_page_url": "https://careers.lastminute.com/",
-            "url": "https://www.lastminute.com/",
-            "type": "Product",
-            "tags": [
-                "AWS",
-                "Kubernetes",
                 "Go",
-                "Python"
-            ]
-        },
-        {
-            "name": "EDB",
-            "career_page_url": "https://www.enterprisedb.com/careers",
-            "url": "https://www.enterprisedb.com/",
-            "type": "Product",
-            "tags": [
-                "Azure",
-                "C",
-                "Kubernetes",
-                "PostgreSQL"
+                "Kubernetes"
             ]
         },
         {
@@ -121,59 +78,47 @@
             ]
         },
         {
-            "name": "ShippyPro",
-            "career_page_url": "https://www.shippypro.com/en/work-with-us/",
-            "url": "https://www.shippypro.com/",
+            "name": "Docplanner",
+            "career_page_url": "https://www.docplanner.com/career",
+            "url": "https://www.docplanner.com",
             "type": "Product",
             "tags": [
-                "PHP",
-                "Terraform"
-            ]
-        },
-        {
-            "name": "Datadog",
-            "career_page_url": "https://www.datadoghq.com/careers/",
-            "url": "https://www.datadoghq.com/",
-            "type": "Product",
-            "tags": [
-                "Go",
-                "Kubernetes"
-            ]
-        },
-        {
-            "name": "Aruba S.p.A.",
-            "career_page_url": "https://www.aruba.it/en/home.aspx",
-            "url": "https://www.aruba.it/en/home.aspx",
-            "type": "Product",
-            "tags": [
-                "OpenShift",
-                "Serverless",
-                "Istio"
-            ]
-        },
-        {
-            "name": "ProntoPro",
-            "career_page_url": "https://jobs.jobvite.com/prontopro/jobs",
-            "url": "https://www.prontopro.it/",
-            "type": "Product",
-            "tags": [
-                "PHP",
-                "Go",
                 "AWS",
-                "Terraform",
-                "Kubernetes"
+                "PHP",
+                ".NET",
+                "ElasticSearch"
             ]
         },
         {
-            "name": "Canonical",
-            "career_page_url": "https://canonical.com/careers",
-            "url": "https://canonical.com/",
+            "name": "EDB",
+            "career_page_url": "https://www.enterprisedb.com/careers",
+            "url": "https://www.enterprisedb.com/",
             "type": "Product",
             "tags": [
-                "Python",
-                "Go",
-                "OpenStack",
-                "Kubernetes"
+                "Azure",
+                "C",
+                "Kubernetes",
+                "PostgreSQL"
+            ]
+        },
+        {
+            "name": "Facile.it",
+            "career_page_url": "https://inrecruiting.intervieweb.it/facileit/it/career#vacancies",
+            "url": "https://www.facile.it/",
+            "type": "Product",
+            "tags": [
+                "PHP"
+            ]
+        },
+        {
+            "name": "Flowing",
+            "career_page_url": "https://www.flowing.it/job-opportunity/",
+            "url": "https://flowing.it",
+            "type": "Consulting",
+            "tags": [
+                "AWS",
+                "PHP",
+                "JS"
             ]
         },
         {
@@ -189,12 +134,24 @@
             ]
         },
         {
-            "name": "Facile.it",
-            "career_page_url": "https://inrecruiting.intervieweb.it/facileit/it/career#vacancies",
-            "url": "https://www.facile.it/",
+            "name": "Immobiliare.it",
+            "career_page_url": "https://www.immobiliare.it/info/lavora-con-noi/",
+            "url": "https://www.immobiliare.it/",
             "type": "Product",
             "tags": [
-                "PHP"
+                "PHP",
+                "Openstack"
+            ]
+        },
+        {
+            "name": "Madisoft",
+            "career_page_url": "https://labs.madisoft.it/",
+            "url": "https://labs.madisoft.it",
+            "type": "Product",
+            "tags": [
+                "AWS",
+                "PHP",
+                "React"
             ]
         },
         {
@@ -227,15 +184,55 @@
             ]
         },
         {
-            "name": "CrowdStrike",
-            "career_page_url": "https://www.crowdstrike.com/careers/",
-            "url": "https://www.crowdstrike.com/",
+            "name": "Prima",
+            "career_page_url": "https://it.prima.jobs/?lang=it-it",
+            "url": "https://www.prima.it/",
+            "type": "Product",
+            "tags": [
+                "AWS",
+                "Kubernetes",
+                "Rust",
+                "Elixir",
+                "Android",
+                "iOS",
+                "ELM",
+                "React",
+                "PHP"
+            ]
+        },
+        {
+            "name": "ProntoPro",
+            "career_page_url": "https://jobs.jobvite.com/prontopro/jobs",
+            "url": "https://www.prontopro.it/",
+            "type": "Product",
+            "tags": [
+                "PHP",
+                "Go",
+                "AWS",
+                "Terraform",
+                "Kubernetes"
+            ]
+        },
+        {
+            "name": "ShippyPro",
+            "career_page_url": "https://www.shippypro.com/en/work-with-us/",
+            "url": "https://www.shippypro.com/",
+            "type": "Product",
+            "tags": [
+                "PHP",
+                "Terraform"
+            ]
+        },
+        {
+            "name": "Sysdig",
+            "career_page_url": "https://sysdig.com/jobs/",
+            "url": "https://sysdig.com/",
             "type": "Product",
             "tags": [
                 "Go",
+                "K8S",
                 "AWS",
-                "IoT",
-                "Security"
+                "GCP"
             ]
         },
         {
@@ -273,13 +270,15 @@
             ]
         },
         {
-            "name": "Cortilia",
-            "career_page_url": "https://about.cortilia.it/lavora-con-noi",
-            "url": "https://about.cortilia.it/",
+            "name": "lastminute.com",
+            "career_page_url": "https://careers.lastminute.com/",
+            "url": "https://www.lastminute.com/",
             "type": "Product",
             "tags": [
                 "AWS",
-                "Java"
+                "Kubernetes",
+                "Go",
+                "Python"
             ]
         }
     ],
