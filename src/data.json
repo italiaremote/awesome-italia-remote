@@ -37,7 +37,15 @@
             "url": "https://www.prima.it/",
             "type": "Product",
             "tags": [
-                "AWS"
+                "AWS",
+                "Kubernetes",
+                "Rust",
+                "Elixir",
+                "Android",
+                "iOS",
+                "ELM",
+                "React",
+                "PHP"
             ]
         },
         {
@@ -47,7 +55,10 @@
             "type": "Product",
             "tags": [
                 "AWS",
-                "PHP"
+                "PHP",
+                ".NET",
+                "ElasticSearch"
+
             ]
         },
         {
@@ -104,7 +115,8 @@
             "tags": [
                 "AWS",
                 "Terraform",
-                "JS",
+                "Node",
+                "Angular",
                 "PHP"
             ]
         },
@@ -195,7 +207,10 @@
                 "Go",
                 "AWS",
                 "IaC",
-                "JS"
+                "React",
+                "Angular",
+                "C#",
+                "Python"
             ]
         },
         {
@@ -252,7 +267,9 @@
             "type": "Product",
             "tags": [
                 "PHP",
-                "JS"
+                "Vue",
+                "Android",
+                "iOS"
             ]
         },
         {
@@ -305,6 +322,11 @@
             "name": "TUI",
             "career_page_url": "https://careers.tuigroup.com/",
             "url": "https://www.tuigroup.com/en-en"
+        },
+        {
+            "name": "MailUp",
+            "career_page_url": "https://www.growens.io/en/work-with-us/",
+            "url": "https://www.mailup.com/"
         }
     ]
 }
