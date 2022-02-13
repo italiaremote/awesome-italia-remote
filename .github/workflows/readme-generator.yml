@@ -5,10 +5,12 @@ on:
     branches: [ main ]
     paths: 
     - 'src/data.json'
+    - '.github/workflows/readme-generator.yml'
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: main
     steps:
     - uses: actions/checkout@v2
 
@@ -24,7 +26,9 @@ jobs:
     
     - name: Git Push
       run: |
+        git config --global user.name 'Alessandro Marino'
+        git config --global user.email '${{ secrets.EMAIL }}'
         git add README.md
         git commit -m "Automatic README.md update" || echo "No changes to commit"
-        git push origin main
+        git push
     
