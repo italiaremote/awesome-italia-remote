@@ -1,6 +1,19 @@
 {
     "cloud_software": [
         {
+            "name": "Agile Lab",
+            "career_page_url": "https://www.agilelab.it/open-positions/",
+            "url": "https://www.agilelab.it/",
+            "type": "Product",
+            "tags": [
+                "AWS",
+                "Spark",
+                "Scala",
+                "Java",
+                "Python"
+            ]
+        },
+        {
             "name": "Aruba S.p.A.",
             "career_page_url": "https://www.aruba.it/en/home.aspx",
             "url": "https://www.aruba.it/en/home.aspx",
@@ -168,7 +181,7 @@
                 "AWS",
                 "Kubernetes",
                 "Terraform",
-                 "Python",
+                "Python",
                 "React"
             ]
         },
@@ -355,6 +368,11 @@
             "name": "Hotjar",
             "career_page_url": "https://careers.hotjar.com/",
             "url": "https://www.hotjar.com/"
+        },
+        {
+            "name": "Agile Lab",
+            "career_page_url": "https://www.agilelab.it/open-positions/",
+            "url": "https://www.agilelab.it/"
         }
     ],
     "hr": [
