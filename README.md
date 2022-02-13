@@ -13,6 +13,7 @@ Tech stacks are usually incomplete check the careers page of each company to get
 
 Name | Website | Company Type | Stack
 ------------ | ------- | -------| -------
+[Agile Lab](https://www.agilelab.it/open-positions/) | https://www.agilelab.it/ | Product | AWS - Spark - Scala - Java - Python
 [Aruba S.p.A.](https://www.aruba.it/en/home.aspx) | https://www.aruba.it/en/home.aspx | Product | OpenShift - Serverless - Istio
 [Canonical](https://canonical.com/careers) | https://canonical.com/ | Product | Python - Go - OpenStack - Kubernetes
 [Claranet Italia](https://claranetitalia.recruitee.com/l/it) | https://www.claranet.it/ | Consulting | AWS
@@ -34,6 +35,7 @@ Name | Website | Company Type | Stack
 [Mattermost](https://mattermost.com/careers/) | https://mattermost.com/ | Product | Go - Terraform - AWS - Kubernetes - CircleCI
 [Prima](https://it.prima.jobs/?lang=it-it) | https://www.prima.it/ | Product | AWS - Kubernetes - Rust - Elixir - Android - iOS - ELM - React - PHP
 [ProntoPro](https://jobs.jobvite.com/prontopro/jobs) | https://www.prontopro.it/ | Product | PHP - Go - AWS - Terraform - Kubernetes
+[Qonto](https://qonto.com/en/careers) | https://qonto.com/en | Product | Go - EmberJS - Kotlin - Swift - Kubernetes - Terraform - AWS
 [Refactory](https://www.refactory-project.com/join-the-team/) | https://www.refactory-project.com/ | Consulting | PHP - Symfony - JS - Node.js - Vue.js - AWS
 [ShippyPro](https://www.shippypro.com/en/work-with-us/) | https://www.shippypro.com/ | Product | PHP - Terraform
 [Sysdig](https://sysdig.com/jobs/) | https://sysdig.com/ | Product | Go - K8S - AWS - GCP
@@ -50,6 +52,7 @@ Name | Website
 [BendingSpoons](https://bendingspoons.com/careers.html) | https://bendingspoons.com/
 [everli](https://it.everli.com/it/lavora-con-noi) | https://it.everli.com/it
 [Hotjar](https://careers.hotjar.com/) | https://www.hotjar.com/
+[Agile Lab](https://www.agilelab.it/open-positions/) | https://www.agilelab.it/
 
 ### HR
 

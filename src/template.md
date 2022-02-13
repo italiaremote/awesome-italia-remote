@@ -3,7 +3,7 @@
 A list of remote-friendly or full-remote companies that targets Italian talents.  
 Companies can be both based in Italy or around the world but with operations in Italy.
 
-Do you want to insert/remove/modify an entry, open a PR/Issue or contact me on my socials [Twitter](https://twitter.com/alessmarinoac)
+Please read the contribution guidelines before opening a pull request or contributing to this repository.
 
 ## Companies
 
