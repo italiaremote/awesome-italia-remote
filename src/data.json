@@ -266,6 +266,21 @@
             ]
         },
         {
+            "name": "Qonto",
+            "career_page_url": "https://qonto.com/en/careers",
+            "url": "https://qonto.com/en",
+            "type": "Product",
+            "tags": [
+                "Go",
+                "EmberJS",
+                "Kotlin",
+                "Swift",
+                "Kubernetes",
+                "Terraform",
+                "AWS"
+            ]
+        },
+        {
             "name": "Refactory",
             "career_page_url": "https://www.refactory-project.com/join-the-team/",
             "url": "https://www.refactory-project.com/",
