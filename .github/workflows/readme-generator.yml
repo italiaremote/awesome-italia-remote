@@ -1,0 +1,30 @@
+name: Go
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - ./src/data.json
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Go
+      uses: actions/setup-go@v2
+      with:
+        go-version: 1.17
+
+    - name: Generate
+      run: |
+        cd ./src
+        go run .
+    
+    - name: Git Push
+      run: |
+        git add README.md
+        git commit -m "Automatic README.md update" || echo "No changes to commit"
+        git push origin main
+    
