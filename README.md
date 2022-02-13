@@ -34,6 +34,7 @@ Name | Website | Company Type | Stack
 [Mattermost](https://mattermost.com/careers/) | https://mattermost.com/ | Product | Go - Terraform - AWS - Kubernetes - CircleCI
 [Prima](https://it.prima.jobs/?lang=it-it) | https://www.prima.it/ | Product | AWS - Kubernetes - Rust - Elixir - Android - iOS - ELM - React - PHP
 [ProntoPro](https://jobs.jobvite.com/prontopro/jobs) | https://www.prontopro.it/ | Product | PHP - Go - AWS - Terraform - Kubernetes
+[Refactory](https://www.refactory-project.com/join-the-team/) | https://www.refactory-project.com/ | Maintenance | PHP - Symfony - JS - Node - Vue - AWS
 [ShippyPro](https://www.shippypro.com/en/work-with-us/) | https://www.shippypro.com/ | Product | PHP - Terraform
 [Sysdig](https://sysdig.com/jobs/) | https://sysdig.com/ | Product | Go - K8S - AWS - GCP
 [TUI Musement](https://careers.tuigroup.com/jobs/) | https://www.musement.com/us/ | Product | AWS - PHP
