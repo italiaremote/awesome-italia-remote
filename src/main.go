@@ -16,7 +16,10 @@ type Company struct {
 	CareerPageURL string   `json:"career_page_url"`
 	Type          string   `json:"type,omitempty"`
 	Tags          []string `json:"tags,omitempty"`
-	TagsString    string   `json:"-"`
+}
+
+func (c Company) GetTagsString() string {
+	return strings.Join(c.Tags, " - ")
 }
 
 func main() {
@@ -29,17 +32,6 @@ func main() {
 	err = json.Unmarshal(file, &companies)
 	if err != nil {
 		log.Fatalln(err)
-	}
-
-	for typeName, companiesType := range companies {
-		for k, company := range companiesType {
-			tagsString := ""
-			for _, tag := range company.Tags {
-				tagsString += tag + " - "
-			}
-			tagsString = strings.Trim(tagsString, " - ")
-			companies[typeName][k].TagsString = tagsString
-		}
 	}
 
 	templ, err := template.ParseFiles("./template.md")

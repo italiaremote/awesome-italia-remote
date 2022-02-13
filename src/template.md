@@ -15,7 +15,7 @@ Name | Website | Company Type | Stack
 ------------ | ------- | -------| -------
 
 {{- range .cloud_software}}
-[{{.Name}}]({{.CareerPageURL}}) | {{.URL}} | {{.Type}} | {{.TagsString}}
+[{{.Name}}]({{.CareerPageURL}}) | {{.URL}} | {{.Type}} | {{.GetTagsString}}
 {{- end}}
 
 ### Marketing and Writing
