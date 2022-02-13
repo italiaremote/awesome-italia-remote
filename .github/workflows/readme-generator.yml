@@ -3,8 +3,8 @@ name: Readme generator
 on:
   push:
     branches: [ main ]
-    paths:
-      - ./src/data.json
+    paths: 
+    - 'src/data.json'
 
 jobs:
   build:
