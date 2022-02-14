@@ -1,0 +1,12 @@
+{
+  "name": "Canonical",
+  "career_page_url": "https://canonical.com/careers",
+  "url": "https://canonical.com/",
+  "type": "Product",
+  "tags": [
+    "Python",
+    "Go",
+    "OpenStack",
+    "Kubernetes"
+  ]
+}

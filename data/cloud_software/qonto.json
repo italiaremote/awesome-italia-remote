@@ -1,0 +1,15 @@
+{
+  "name": "Qonto",
+  "career_page_url": "https://qonto.com/en/careers",
+  "url": "https://qonto.com/en",
+  "type": "Product",
+  "tags": [
+    "Go",
+    "EmberJS",
+    "Kotlin",
+    "Swift",
+    "Kubernetes",
+    "Terraform",
+    "AWS"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Aruba S.p.A.",
+  "career_page_url": "https://www.aruba.it/en/home.aspx",
+  "url": "https://www.aruba.it/en/home.aspx",
+  "type": "Product",
+  "tags": [
+    "OpenShift",
+    "Serverless",
+    "Istio"
+  ]
+}

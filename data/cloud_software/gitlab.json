@@ -1,0 +1,12 @@
+{
+  "name": "GitLab",
+  "career_page_url": "https://about.gitlab.com/jobs/",
+  "url": "https://about.gitlab.com/",
+  "type": "Product",
+  "tags": [
+    "Go",
+    "Kubernetes",
+    "Python",
+    "Ruby on Rails"
+  ]
+}

@@ -12,18 +12,20 @@ Pull requests can be used to add/edit/delete companies from the list.
 
 ### How To Contribute with PRs
 
-Companies must be added to `./src/data.json` file using the JSON format.  
-The `README.md` file is automatically generated, so it should be left untouched.  
+The new companies should be added to the data folder using a dedicated file, the files are divided by category (software, marketing, ecc...).
+The `README.md` file is automatically generated, so you don't have to edit it manually.
 
-1. Open `./src/data.json`
-2. Add the company
+1. Open `./data` directory
+2. Choose the correct company category (software, marketing, ecc...) and enter that directory
+3. Add a new JSON file for the new company (file name should be a slugified version of the company name)
+4. File content should respect the following format:
 
 ```JSON
 {
     "name": "CompanyName",
     "career_page_url": "https://companyname.companytld/jobs",
     "url": "https://www.companyname.companytld/",
-    "type": "Product",
+    "type": "B2B",
     "tags": [
         "PHP",
         "Go",
@@ -34,7 +36,8 @@ The `README.md` file is automatically generated, so it should be left untouched.
 
 #### Allowed Company Types
 
-1. Product
-2. Consulting
+1. B2B
+2. B2C
+3. Consulting
 
 To suggest a new company type, please open an issue.

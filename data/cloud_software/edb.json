@@ -1,0 +1,12 @@
+{
+  "name": "EDB",
+  "career_page_url": "https://www.enterprisedb.com/careers",
+  "url": "https://www.enterprisedb.com/",
+  "type": "Product",
+  "tags": [
+    "Azure",
+    "C",
+    "Kubernetes",
+    "PostgreSQL"
+  ]
+}
