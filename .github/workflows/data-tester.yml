@@ -19,6 +19,5 @@ jobs:
 
     - name: Generate
       run: |
-        cd ./src
-        go run .
+        make generate
     
