@@ -15,6 +15,7 @@ Name | Website | Company Type | Stack
 ------------ | ------- | -------| -------
 [Agile Lab](https://www.agilelab.it/open-positions/) | https://www.agilelab.it/ | Consulting | AWS - Spark - Scala - Java - Python
 [Aruba S.p.A.](https://www.aruba.it/en/home.aspx) | https://www.aruba.it/en/home.aspx | Product | OpenShift - Serverless - Istio
+[BMC](https://www.bmc.com/careers/careers.html) | https://www.bmc.com | Product | Angular - AWS - Kubernetes - Java - Python
 [Canonical](https://canonical.com/careers) | https://canonical.com/ | Product | Python - Go - OpenStack - Kubernetes
 [Claranet Italia](https://claranetitalia.recruitee.com/l/it) | https://www.claranet.it/ | Consulting | AWS
 [CodicePlastico](https://codiceplastico.com/jobs/) | https://codiceplastico.com/ | Consulting | .NET - Node.js
@@ -33,16 +34,20 @@ Name | Website | Company Type | Stack
 [Madisoft](https://labs.madisoft.it/) | https://labs.madisoft.it | Product | AWS - PHP - React
 [MailUp](https://www.growens.io/en/work-with-us/) | https://www.mailup.com/ | Product | Linux - Go - AWS - IaC - React - Angular - C# - Python
 [Mattermost](https://mattermost.com/careers/) | https://mattermost.com/ | Product | Go - Terraform - AWS - Kubernetes - CircleCI
-[Prima](https://it.prima.jobs/?lang=it-it) | https://www.prima.it/ | Product | AWS - Kubernetes - Rust - Elixir - Android - iOS - ELM - React - PHP
+[Neulabs](https://neulabs.com/careers) | https://neulabs.com/ | Product | AWS - Kubernetes - Serverless - Terraform - Python - Typescript - React
+[Prima](https://it.prima.jobs/?lang=it-it) | https://www.prima.it/ | Product | AWS - Kubernetes - Rust - Elixir - Android - iOS - ELM - React - PHP - Python - Spark - Machine Learning - RabbitMQ - CQRS - DDD - Pulumi
 [ProntoPro](https://jobs.jobvite.com/prontopro/jobs) | https://www.prontopro.it/ | Product | PHP - Go - AWS - Terraform - Kubernetes
 [Qonto](https://qonto.com/en/careers) | https://qonto.com/en | Product | Go - EmberJS - Kotlin - Swift - Kubernetes - Terraform - AWS
 [Refactory](https://www.refactory-project.com/join-the-team/) | https://www.refactory-project.com/ | Consulting | PHP - Symfony - JS - Node.js - Vue.js - AWS
 [ShippyPro](https://www.shippypro.com/en/work-with-us/) | https://www.shippypro.com/ | Product | PHP - Terraform
+[Spreaker](https://careers.spreaker.com/) | https://www.spreaker.com/ | Product | PHP - Node.js - AWS - Kubernetes - Serverless
 [Sysdig](https://sysdig.com/jobs/) | https://sysdig.com/ | Product | Go - K8S - AWS - GCP
-[TUI Musement](https://careers.tuigroup.com/jobs/) | https://www.musement.com/us/ | Product | AWS - PHP
+[TUI Musement](https://careers.tuigroup.com/jobs/) | https://www.musement.com/us/ | Product | AWS - PHP - Go - C# - Java - Vue.js
 [elastic](https://www.elastic.co/about/careers/) | https://www.elastic.co/ | Product | Go - Cloud - Scala - OpenStack
 [everli](https://it.everli.com/it/lavora-con-noi) | https://it.everli.com/it | Product | PHP - Vue.js - Android - iOS
 [lastminute.com](https://careers.lastminute.com/) | https://www.lastminute.com/ | Product | AWS - Kubernetes - Go - Python
+[iSolutions](https://www.isolutions.it/workwithus.html) | https://www.isolutions.it/index.html | Product | Azure - .NET - SQL server - AWS
+[Zendesk](https://jobs.zendesk.com/us/en) | https://www.zendesk.com | Product | Android - AWS - Go - Kafka - Kubernetes - iOS - Java - Python - React - Scala
 
 ### Marketing and Writing
 
@@ -53,6 +58,7 @@ Name | Website
 [everli](https://it.everli.com/it/lavora-con-noi) | https://it.everli.com/it
 [Hotjar](https://careers.hotjar.com/) | https://www.hotjar.com/
 [Agile Lab](https://www.agilelab.it/open-positions/) | https://www.agilelab.it/
+[Zendesk](https://jobs.zendesk.com/us/en) | https://www.zendesk.com
 
 ### HR
 
@@ -69,3 +75,4 @@ Name | Website
 [TUI](https://careers.tuigroup.com/) | https://www.tuigroup.com/en-en
 [MailUp](https://www.growens.io/en/work-with-us/) | https://www.mailup.com/
 [Hotjar](https://careers.hotjar.com/) | https://www.hotjar.com/
+[Zendesk](https://jobs.zendesk.com/us/en) | https://www.zendesk.com
