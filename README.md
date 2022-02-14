@@ -30,7 +30,6 @@ Name | Website | Company Type | Stack
 [Facile.it](https://inrecruiting.intervieweb.it/facileit/it/career#vacancies) | https://www.facile.it/ | Product | PHP
 [Flightradar24](https://careers.flightradar24.com/) | https://flightradar24.com/ | Product | C++ - Python - IoT - AWS - Terraform - Kubernetes - PHP - Vue.js
 [Flowing](https://www.flowing.it/job-opportunity/) | https://flowing.it | Consulting | AWS - PHP - JS
-[GitLab](https://about.gitlab.com/jobs/) | https://about.gitlab.com/ | Product | Go - Kubernetes - Python - Ruby on Rails
 [Hotjar](https://careers.hotjar.com/) | https://www.hotjar.com/ | Product | AWS - Kubernetes - Terraform - Python - React
 [Immobiliare.it](https://www.immobiliare.it/info/lavora-con-noi/) | https://www.immobiliare.it/ | Product | PHP - Openstack
 [iSolutions](https://www.isolutions.it/workwithus.html) | https://www.isolutions.it/index.html | Product | Azure - .NET - SQL server - AWS
