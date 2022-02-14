@@ -249,7 +249,14 @@
                 "iOS",
                 "ELM",
                 "React",
-                "PHP"
+                "PHP",
+                "Python",
+                "Spark",
+                "Machine Learning",
+                "RabbitMQ",
+                "CQRS",
+                "DDD",
+                "Pulumi"
             ]
         },
         {
