@@ -323,7 +323,11 @@
             "type": "Product",
             "tags": [
                 "AWS",
-                "PHP"
+                "PHP",
+                "Go",
+                "C#",
+                "Java",
+                "Vue.js"
             ]
         },
         {
