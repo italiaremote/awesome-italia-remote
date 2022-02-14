@@ -400,6 +400,24 @@
                 "Go",
                 "Python"
             ]
+        },
+        {
+            "name": "Zendesk",
+            "career_page_url": "https://jobs.zendesk.com/us/en",
+            "url": "https://www.zendesk.com",
+            "type": "Product",
+            "tags": [
+                "Android",
+                "AWS",
+                "Go",
+                "Kafka",
+                "Kubernetes",
+                "iOS",
+                "Java",
+                "Python",
+                "React",
+                "Scala"
+            ]
         }
     ],
     "marketing_writing": [
@@ -427,6 +445,11 @@
             "name": "Agile Lab",
             "career_page_url": "https://www.agilelab.it/open-positions/",
             "url": "https://www.agilelab.it/"
+        },
+        {
+            "name": "Zendesk",
+            "career_page_url": "https://jobs.zendesk.com/us/en",
+            "url": "https://www.zendesk.com"
         }
     ],
     "hr": [
@@ -461,6 +484,11 @@
             "name": "Hotjar",
             "career_page_url": "https://careers.hotjar.com/",
             "url": "https://www.hotjar.com/"
+        },
+        {
+            "name": "Zendesk",
+            "career_page_url": "https://jobs.zendesk.com/us/en",
+            "url": "https://www.zendesk.com"
         }
     ]
 }
