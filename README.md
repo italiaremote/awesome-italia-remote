@@ -15,7 +15,6 @@ Name | Website | Company Type | Stack
 ------------ | ------- | -------| -------
 [Agile Lab](https://www.agilelab.it/open-positions/) | https://www.agilelab.it/ | Consulting | AWS - Spark - Scala - Java - Python
 [Aruba S.p.A.](https://www.aruba.it/en/home.aspx) | https://www.aruba.it/en/home.aspx | Product | OpenShift - Serverless - Istio
-[BMC](https://www.bmc.com/careers/careers.html) | https://www.bmc.com | Product | Angular - AWS - Kubernetes - Java - Python
 [Canonical](https://canonical.com/careers) | https://canonical.com/ | Product | Python - Go - OpenStack - Kubernetes
 [Claranet Italia](https://claranetitalia.recruitee.com/l/it) | https://www.claranet.it/ | Consulting | AWS
 [CodicePlastico](https://codiceplastico.com/jobs/) | https://codiceplastico.com/ | Consulting | .NET - Node.js
