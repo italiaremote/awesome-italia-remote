@@ -15,6 +15,7 @@ Name | Website | Company Type | Stack
 ------------ | ------- | -------| -------
 [Agile Lab](https://www.agilelab.it/open-positions/) | https://www.agilelab.it/ | Consulting | AWS - Spark - Scala - Java - Python
 [Aruba S.p.A.](https://www.aruba.it/en/home.aspx) | https://www.aruba.it/en/home.aspx | Product | OpenShift - Serverless - Istio
+[BMC](https://www.bmc.com/careers/careers.html) | https://www.bmc.com | Product | Angular - AWS - Kubernetes - Java - Python
 [Canonical](https://canonical.com/careers) | https://canonical.com/ | Product | Python - Go - OpenStack - Kubernetes
 [Claranet Italia](https://claranetitalia.recruitee.com/l/it) | https://www.claranet.it/ | Consulting | AWS
 [CodicePlastico](https://codiceplastico.com/jobs/) | https://codiceplastico.com/ | Consulting | .NET - Node.js
@@ -45,6 +46,8 @@ Name | Website | Company Type | Stack
 [elastic](https://www.elastic.co/about/careers/) | https://www.elastic.co/ | Product | Go - Cloud - Scala - OpenStack
 [everli](https://it.everli.com/it/lavora-con-noi) | https://it.everli.com/it | Product | PHP - Vue.js - Android - iOS
 [lastminute.com](https://careers.lastminute.com/) | https://www.lastminute.com/ | Product | AWS - Kubernetes - Go - Python
+[iSolutions](https://www.isolutions.it/workwithus.html) | https://www.isolutions.it/index.html | Product | Azure - .NET - SQL server - AWS
+[Zendesk](https://jobs.zendesk.com/us/en) | https://www.zendesk.com | Product | Android - AWS - Go - Kafka - Kubernetes - iOS - Java - Python - React - Scala
 
 ### Marketing and Writing
 
@@ -55,6 +58,7 @@ Name | Website
 [everli](https://it.everli.com/it/lavora-con-noi) | https://it.everli.com/it
 [Hotjar](https://careers.hotjar.com/) | https://www.hotjar.com/
 [Agile Lab](https://www.agilelab.it/open-positions/) | https://www.agilelab.it/
+[Zendesk](https://jobs.zendesk.com/us/en) | https://www.zendesk.com
 
 ### HR
 
@@ -71,3 +75,4 @@ Name | Website
 [TUI](https://careers.tuigroup.com/) | https://www.tuigroup.com/en-en
 [MailUp](https://www.growens.io/en/work-with-us/) | https://www.mailup.com/
 [Hotjar](https://careers.hotjar.com/) | https://www.hotjar.com/
+[Zendesk](https://jobs.zendesk.com/us/en) | https://www.zendesk.com
