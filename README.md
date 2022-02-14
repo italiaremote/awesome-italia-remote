@@ -33,13 +33,15 @@ Name | Website | Company Type | Stack
 [Madisoft](https://labs.madisoft.it/) | https://labs.madisoft.it | Product | AWS - PHP - React
 [MailUp](https://www.growens.io/en/work-with-us/) | https://www.mailup.com/ | Product | Linux - Go - AWS - IaC - React - Angular - C# - Python
 [Mattermost](https://mattermost.com/careers/) | https://mattermost.com/ | Product | Go - Terraform - AWS - Kubernetes - CircleCI
-[Prima](https://it.prima.jobs/?lang=it-it) | https://www.prima.it/ | Product | AWS - Kubernetes - Rust - Elixir - Android - iOS - ELM - React - PHP
+[Neulabs](https://neulabs.com/careers) | https://neulabs.com/ | Product | AWS - Kubernetes - Serverless - Terraform - Python - Typescript - React
+[Prima](https://it.prima.jobs/?lang=it-it) | https://www.prima.it/ | Product | AWS - Kubernetes - Rust - Elixir - Android - iOS - ELM - React - PHP - Python - Spark - Machine Learning - RabbitMQ - CQRS - DDD - Pulumi
 [ProntoPro](https://jobs.jobvite.com/prontopro/jobs) | https://www.prontopro.it/ | Product | PHP - Go - AWS - Terraform - Kubernetes
 [Qonto](https://qonto.com/en/careers) | https://qonto.com/en | Product | Go - EmberJS - Kotlin - Swift - Kubernetes - Terraform - AWS
 [Refactory](https://www.refactory-project.com/join-the-team/) | https://www.refactory-project.com/ | Consulting | PHP - Symfony - JS - Node.js - Vue.js - AWS
 [ShippyPro](https://www.shippypro.com/en/work-with-us/) | https://www.shippypro.com/ | Product | PHP - Terraform
+[Spreaker](https://careers.spreaker.com/) | https://www.spreaker.com/ | Product | PHP - Node.js - AWS - Kubernetes - Serverless
 [Sysdig](https://sysdig.com/jobs/) | https://sysdig.com/ | Product | Go - K8S - AWS - GCP
-[TUI Musement](https://careers.tuigroup.com/jobs/) | https://www.musement.com/us/ | Product | AWS - PHP
+[TUI Musement](https://careers.tuigroup.com/jobs/) | https://www.musement.com/us/ | Product | AWS - PHP - Go - C# - Java - Vue.js
 [elastic](https://www.elastic.co/about/careers/) | https://www.elastic.co/ | Product | Go - Cloud - Scala - OpenStack
 [everli](https://it.everli.com/it/lavora-con-noi) | https://it.everli.com/it | Product | PHP - Vue.js - Android - iOS
 [lastminute.com](https://careers.lastminute.com/) | https://www.lastminute.com/ | Product | AWS - Kubernetes - Go - Python
