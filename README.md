@@ -25,12 +25,16 @@ Name | Website | Company Type | Stack
 [Docebo](https://www.docebo.com/company/careers/) | https://www.docebo.com/ | Product | AWS - Terraform - Node.js - Angular - PHP
 [Docplanner](https://www.docplanner.com/career) | https://www.docplanner.com | Product | AWS - PHP - .NET - ElasticSearch
 [EDB](https://www.enterprisedb.com/careers) | https://www.enterprisedb.com/ | Product | Azure - C - Kubernetes - PostgreSQL
+[elastic](https://www.elastic.co/about/careers/) | https://www.elastic.co/ | Product | Go - Cloud - Scala - OpenStack
+[everli](https://it.everli.com/it/lavora-con-noi) | https://it.everli.com/it | Product | PHP - Vue.js - Android - iOS
 [Facile.it](https://inrecruiting.intervieweb.it/facileit/it/career#vacancies) | https://www.facile.it/ | Product | PHP
 [Flightradar24](https://careers.flightradar24.com/) | https://flightradar24.com/ | Product | C++ - Python - IoT - AWS - Terraform - Kubernetes - PHP - Vue.js
 [Flowing](https://www.flowing.it/job-opportunity/) | https://flowing.it | Consulting | AWS - PHP - JS
 [GitLab](https://about.gitlab.com/jobs/) | https://about.gitlab.com/ | Product | Go - Kubernetes - Python - Ruby on Rails
 [Hotjar](https://careers.hotjar.com/) | https://www.hotjar.com/ | Product | AWS - Kubernetes - Terraform - Python - React
 [Immobiliare.it](https://www.immobiliare.it/info/lavora-con-noi/) | https://www.immobiliare.it/ | Product | PHP - Openstack
+[iSolutions](https://www.isolutions.it/workwithus.html) | https://www.isolutions.it/index.html | Product | Azure - .NET - SQL server - AWS
+[lastminute.com](https://careers.lastminute.com/) | https://www.lastminute.com/ | Product | AWS - Kubernetes - Go - Python
 [Madisoft](https://labs.madisoft.it/) | https://labs.madisoft.it | Product | AWS - PHP - React
 [MailUp](https://www.growens.io/en/work-with-us/) | https://www.mailup.com/ | Product | Linux - Go - AWS - IaC - React - Angular - C# - Python
 [Mattermost](https://mattermost.com/careers/) | https://mattermost.com/ | Product | Go - Terraform - AWS - Kubernetes - CircleCI
@@ -43,21 +47,17 @@ Name | Website | Company Type | Stack
 [Spreaker](https://careers.spreaker.com/) | https://www.spreaker.com/ | Product | PHP - Node.js - AWS - Kubernetes - Serverless
 [Sysdig](https://sysdig.com/jobs/) | https://sysdig.com/ | Product | Go - K8S - AWS - GCP
 [TUI Musement](https://careers.tuigroup.com/jobs/) | https://www.musement.com/us/ | Product | AWS - PHP - Go - C# - Java - Vue.js
-[elastic](https://www.elastic.co/about/careers/) | https://www.elastic.co/ | Product | Go - Cloud - Scala - OpenStack
-[everli](https://it.everli.com/it/lavora-con-noi) | https://it.everli.com/it | Product | PHP - Vue.js - Android - iOS
-[lastminute.com](https://careers.lastminute.com/) | https://www.lastminute.com/ | Product | AWS - Kubernetes - Go - Python
-[iSolutions](https://www.isolutions.it/workwithus.html) | https://www.isolutions.it/index.html | Product | Azure - .NET - SQL server - AWS
 [Zendesk](https://jobs.zendesk.com/us/en) | https://www.zendesk.com | Product | Android - AWS - Go - Kafka - Kubernetes - iOS - Java - Python - React - Scala
 
 ### Marketing and Writing
 
 Name | Website
 ------------ | -------
-[Meta](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | https://about.facebook.com/meta/
+[Agile Lab](https://www.agilelab.it/open-positions/) | https://www.agilelab.it/
 [BendingSpoons](https://bendingspoons.com/careers.html) | https://bendingspoons.com/
 [everli](https://it.everli.com/it/lavora-con-noi) | https://it.everli.com/it
 [Hotjar](https://careers.hotjar.com/) | https://www.hotjar.com/
-[Agile Lab](https://www.agilelab.it/open-positions/) | https://www.agilelab.it/
+[Meta](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | https://about.facebook.com/meta/
 [Zendesk](https://jobs.zendesk.com/us/en) | https://www.zendesk.com
 
 ### HR
@@ -71,8 +71,8 @@ Name | Website
 
 Name | Website
 ------------ | -------
+[Hotjar](https://careers.hotjar.com/) | https://www.hotjar.com/
+[MailUp](https://www.growens.io/en/work-with-us/) | https://www.mailup.com/
 [Meta](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | https://about.facebook.com/meta/
 [TUI](https://careers.tuigroup.com/) | https://www.tuigroup.com/en-en
-[MailUp](https://www.growens.io/en/work-with-us/) | https://www.mailup.com/
-[Hotjar](https://careers.hotjar.com/) | https://www.hotjar.com/
 [Zendesk](https://jobs.zendesk.com/us/en) | https://www.zendesk.com
