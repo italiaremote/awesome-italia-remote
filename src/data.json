@@ -236,6 +236,21 @@
             ]
         },
         {
+            "name": "Neulabs",
+            "career_page_url": "https://neulabs.com/careers",
+            "url": "https://neulabs.com/",
+            "type": "Product",
+            "tags": [
+                "AWS",
+                "Kubernetes",
+                "Serverless",
+                "Terraform",
+                "Python",
+                "Typescript",
+                "React"
+            ]
+        },
+        {
             "name": "Prima",
             "career_page_url": "https://it.prima.jobs/?lang=it-it",
             "url": "https://www.prima.it/",
