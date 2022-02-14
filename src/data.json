@@ -236,21 +236,6 @@
             ]
         },
         {
-            "name": "Neulabs",
-            "career_page_url": "https://neulabs.com/careers",
-            "url": "https://neulabs.com/",
-            "type": "Product",
-            "tags": [
-                "AWS",
-                "Kubernetes",
-                "Serverless",
-                "Terraform",
-                "Python",
-                "Typescript",
-                "React"
-            ]
-        },
-        {
             "name": "Prima",
             "career_page_url": "https://it.prima.jobs/?lang=it-it",
             "url": "https://www.prima.it/",
@@ -264,14 +249,7 @@
                 "iOS",
                 "ELM",
                 "React",
-                "PHP",
-                "Python",
-                "Spark",
-                "Machine Learning",
-                "RabbitMQ",
-                "CQRS",
-                "DDD",
-                "Pulumi"
+                "PHP"
             ]
         },
         {
@@ -327,19 +305,6 @@
             ]
         },
         {
-            "name": "Spreaker",
-            "career_page_url": "https://careers.spreaker.com/",
-            "url": "https://www.spreaker.com/",
-            "type": "Product",
-            "tags": [
-                "PHP",
-                "Node.js",
-                "AWS",
-                "Kubernetes",
-                "Serverless"
-            ]
-        },
-        {
             "name": "Sysdig",
             "career_page_url": "https://sysdig.com/jobs/",
             "url": "https://sysdig.com/",
@@ -358,11 +323,7 @@
             "type": "Product",
             "tags": [
                 "AWS",
-                "PHP",
-                "Go",
-                "C#",
-                "Java",
-                "Vue.js"
+                "PHP"
             ]
         },
         {
@@ -399,6 +360,18 @@
                 "Kubernetes",
                 "Go",
                 "Python"
+            ]
+        },
+        {
+            "name": "iSolutions",
+            "career_page_url": "https://www.isolutions.it/workwithus.html",
+            "url": "https://www.isolutions.it/index.html",
+            "type": "Product",
+            "tags": [
+                "Azure",
+                ".NET",
+                "SQL server",
+                "AWS"
             ]
         }
     ],
