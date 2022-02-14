@@ -19,5 +19,5 @@ jobs:
 
     - name: Generate
       run: |
-        make generate
+        make generator
     
