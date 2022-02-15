@@ -15,6 +15,8 @@ Name | Website | Company Type | Stack
 ------------ | ------- | -------| -------
 [Agile Lab](https://www.agilelab.it/open-positions/) | https://www.agilelab.it/ | Consulting | AWS - Spark - Scala - Java - Python
 [Aruba S.p.A.](https://www.aruba.it/en/home.aspx) | https://www.aruba.it/en/home.aspx | Product | OpenShift - Serverless - Istio
+[Belka](https://www.belkadigital.com/hiring) | https://www.belkadigital.com | Consulting | JavaScript - React - TypeScript
+[BOOM](https://boom.co/careers) | https://boom.co/ | B2B | Typescript - React - NestJS - Java - Kotlin - Data Science - AWS
 [Canonical](https://canonical.com/careers) | https://canonical.com/ | Product | Python - Go - OpenStack - Kubernetes
 [Claranet Italia](https://claranetitalia.recruitee.com/l/it) | https://www.claranet.it/ | Consulting | AWS
 [CodicePlastico](https://codiceplastico.com/jobs/) | https://codiceplastico.com/ | Consulting | .NET - Node.js
@@ -26,17 +28,18 @@ Name | Website | Company Type | Stack
 [EDB](https://www.enterprisedb.com/careers) | https://www.enterprisedb.com/ | Product | Azure - C - Kubernetes - PostgreSQL
 [elastic](https://www.elastic.co/about/careers/) | https://www.elastic.co/ | Product | Go - Cloud - Scala - OpenStack
 [everli](https://it.everli.com/it/lavora-con-noi) | https://it.everli.com/it | Product | PHP - Vue.js - Android - iOS
-[Facile.it](https://inrecruiting.intervieweb.it/facileit/it/career#vacancies) | https://www.facile.it/ | Product | PHP
+[Facile.it](https://inrecruiting.intervieweb.it/facileit/it/career#vacancies) | https://www.facile.it/ | Product | PHP - React - Node.js - TypeScript - Kubernetes
 [Flightradar24](https://careers.flightradar24.com/) | https://flightradar24.com/ | Product | C++ - Python - IoT - AWS - Terraform - Kubernetes - PHP - Vue.js
 [Flowing](https://www.flowing.it/job-opportunity/) | https://flowing.it | Consulting | AWS - PHP - JS
 [Hotjar](https://careers.hotjar.com/) | https://www.hotjar.com/ | Product | AWS - Kubernetes - Terraform - Python - React
 [Immobiliare.it](https://www.immobiliare.it/info/lavora-con-noi/) | https://www.immobiliare.it/ | Product | PHP - Openstack
+[Innoteam](https://labs.innoteam.it/carriere/) | https://www.innoteam.it/ | Consulting | AWS - Kubernetes - JavaScript - Python - React - TypeScript
 [iSolutions](https://www.isolutions.it/workwithus.html) | https://www.isolutions.it/index.html | Product | Azure - .NET - SQL server - AWS
 [lastminute.com](https://careers.lastminute.com/) | https://www.lastminute.com/ | Product | AWS - Kubernetes - Go - Python
 [Luxoft](https://career.luxoft.com/locations/italy/) | https://www.luxoft.com/ | Consulting | C++ - Python
 [Madisoft](https://labs.madisoft.it/) | https://labs.madisoft.it | Product | AWS - PHP - React
 [MailUp](https://www.growens.io/en/work-with-us/) | https://www.mailup.com/ | Product | Linux - Go - AWS - IaC - React - Angular - C# - Python
-[Mattermost](https://mattermost.com/careers/) | https://mattermost.com/ | Product | Go - Terraform - AWS - Kubernetes - CircleCI
+[NearForm](https://www.nearform.com/careers/) | https://www.nearform.com | Consulting | Node.js - React - AWS - GCP - Kubernetes
 [Neulabs](https://neulabs.com/careers) | https://neulabs.com/ | Product | AWS - Kubernetes - Serverless - Terraform - Python - Typescript - React
 [Prima](https://it.prima.jobs/?lang=it-it) | https://www.prima.it/ | Product | AWS - Kubernetes - Rust - Elixir - Android - iOS - ELM - React - PHP - Python - Spark - Machine Learning - RabbitMQ - CQRS - DDD - Pulumi
 [ProntoPro](https://jobs.jobvite.com/prontopro/jobs) | https://www.prontopro.it/ | Product | PHP - Go - AWS - Terraform - Kubernetes
@@ -44,15 +47,18 @@ Name | Website | Company Type | Stack
 [Refactory](https://www.refactory-project.com/join-the-team/) | https://www.refactory-project.com/ | Consulting | PHP - Symfony - JS - Node.js - Vue.js - AWS
 [ShippyPro](https://www.shippypro.com/en/work-with-us/) | https://www.shippypro.com/ | Product | PHP - Terraform
 [Spreaker](https://careers.spreaker.com/) | https://www.spreaker.com/ | Product | PHP - Node.js - AWS - Kubernetes - Serverless
+[Superlayer](https://superlayer-1634135852323.freshteam.com/jobs) | https://superlayer.co/ | Product | Go - Terraform - AWS - PostgreSQL - HTMX
 [Sysdig](https://sysdig.com/jobs/) | https://sysdig.com/ | Product | Go - K8S - AWS - GCP
 [TUI Musement](https://careers.tuigroup.com/jobs/) | https://www.musement.com/us/ | Product | AWS - PHP - Go - C# - Java - Vue.js
-[Zendesk](https://jobs.zendesk.com/us/en) | https://www.zendesk.com | Product | Android - AWS - Go - Kafka - Kubernetes - iOS - Java - Python - React - Scala
+[ZappyRent](https://zappyrent.zendesk.com/hc/en-us/articles/4407693578897-Work-with-Us) | https://www.zappyrent.com | B2C | Node.js - React - AWS - Kubernetes
+[Zendesk](https://jobs.zendesk.com/us/en) | https://www.zendesk.com | Product | Android - AWS - Go - iOS - Java - JavaScript - Kafka - Kubernetes - Python - React - Scala - Terraform - Typescript
 
 ### Marketing and Writing
 
 Name | Website
 ------------ | -------
 [Agile Lab](https://www.agilelab.it/open-positions/) | https://www.agilelab.it/
+[Belka](https://www.belkadigital.com/hiring) | https://www.belkadigital.com
 [BendingSpoons](https://bendingspoons.com/careers.html) | https://bendingspoons.com/
 [everli](https://it.everli.com/it/lavora-con-noi) | https://it.everli.com/it
 [Hotjar](https://careers.hotjar.com/) | https://www.hotjar.com/
@@ -70,8 +76,10 @@ Name | Website
 
 Name | Website
 ------------ | -------
+[Belka](https://www.belkadigital.com/hiring) | https://www.belkadigital.com
 [Hotjar](https://careers.hotjar.com/) | https://www.hotjar.com/
 [MailUp](https://www.growens.io/en/work-with-us/) | https://www.mailup.com/
 [Meta](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | https://about.facebook.com/meta/
+[Superlayer](https://superlayer-1634135852323.freshteam.com/jobs) | https://superlayer.co/
 [TUI](https://careers.tuigroup.com/) | https://www.tuigroup.com/en-en
 [Zendesk](https://jobs.zendesk.com/us/en) | https://www.zendesk.com
