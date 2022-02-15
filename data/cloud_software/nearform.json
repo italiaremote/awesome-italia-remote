@@ -1,0 +1,13 @@
+{
+  "name": "NearForm",
+  "career_page_url": "https://www.nearform.com/careers/",
+  "url": "https://www.nearform.com",
+  "type": "Consulting",
+  "tags": [
+    "Node.js",
+    "React",
+    "AWS",
+    "GCP",
+    "Kubernetes"
+  ]
+}
