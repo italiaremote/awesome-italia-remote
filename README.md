@@ -33,6 +33,7 @@ Name | Website | Company Type | Stack
 [Immobiliare.it](https://www.immobiliare.it/info/lavora-con-noi/) | https://www.immobiliare.it/ | Product | PHP - Openstack
 [iSolutions](https://www.isolutions.it/workwithus.html) | https://www.isolutions.it/index.html | Product | Azure - .NET - SQL server - AWS
 [lastminute.com](https://careers.lastminute.com/) | https://www.lastminute.com/ | Product | AWS - Kubernetes - Go - Python
+[Luxoft](https://career.luxoft.com/locations/italy/) | https://www.luxoft.com/ | Consulting | C++ - Python
 [Madisoft](https://labs.madisoft.it/) | https://labs.madisoft.it | Product | AWS - PHP - React
 [MailUp](https://www.growens.io/en/work-with-us/) | https://www.mailup.com/ | Product | Linux - Go - AWS - IaC - React - Angular - C# - Python
 [Mattermost](https://mattermost.com/careers/) | https://mattermost.com/ | Product | Go - Terraform - AWS - Kubernetes - CircleCI
