@@ -12,8 +12,8 @@ Pull requests can be used to add/edit/delete companies from the list.
 
 ### How To Contribute with PRs
 
-The new companies should be added to the data folder using a dedicated file, the files are divided by category (software, marketing, ecc...).
-The `README.md` file is automatically generated, so you don't have to edit it manually.
+The new companies must be added to the `/data` folder using a dedicated file in `snake_case.json` format. The files are divided by category into sub-folders (software, marketing, ecc...).
+Subsequently, the `README.md` file is automatically generated, so you don't have to edit it manually.
 
 1. Open `./data` directory
 2. Choose the correct company category (software, marketing, ecc...) and enter that directory
