@@ -7,12 +7,15 @@
     "Android",
     "AWS",
     "Go",
-    "Kafka",
-    "Kubernetes",
     "iOS",
     "Java",
+    "JavaScript",
+    "Kafka",
+    "Kubernetes",
     "Python",
     "React",
-    "Scala"
+    "Scala",
+    "Terraform",
+    "Typescript"
   ]
 }
