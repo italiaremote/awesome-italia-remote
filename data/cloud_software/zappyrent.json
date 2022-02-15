@@ -1,0 +1,12 @@
+{
+  "name": "ZappyRent",
+  "career_page_url": "https://zappyrent.zendesk.com/hc/en-us/articles/4407693578897-Work-with-Us",
+  "url": "https://www.zappyrent.com",
+  "type": "B2C",
+  "tags": [
+    "Node.js",
+    "React",
+    "AWS",
+    "Kubernetes"
+  ]
+}
