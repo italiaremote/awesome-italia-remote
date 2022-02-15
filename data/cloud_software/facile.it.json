@@ -4,6 +4,10 @@
   "url": "https://www.facile.it/",
   "type": "Product",
   "tags": [
-    "PHP"
+    "PHP",
+    "React",
+    "Node.js",
+    "TypeScript",
+    "Kubernetes"
   ]
 }
