@@ -1,0 +1,17 @@
+{
+  "name": "Subito",
+  "career_page_url": "https://www.adevinta.com/jobs?company=subito",
+  "url": "https://www.subito.it/",
+  "type": "Product",
+  "tags": [
+    "Go",
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Android",
+    "iOS",
+    "Terraform",
+    "AWS",
+    "Kubernetes"
+  ]
+}
