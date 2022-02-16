@@ -4,6 +4,7 @@
     "url": "https://www.hyland.com/en",
     "type": "Product",
     "tags": [
+        "Ansible",
         "AWS",
         "Kubernetes",
         "Terraform",
