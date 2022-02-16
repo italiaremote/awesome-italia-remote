@@ -1,0 +1,19 @@
+{
+  "name": "Casavo",
+  "career_page_url": "https://careers.casavo.com",
+  "url": "casavo.com",
+  "type": "Product",
+  "tags": [
+    "Elixir",
+    "CQRS Event-driven architectures",
+    "Python",
+    "Next.js",
+    "React",
+    "Android",
+    "iOS",
+    "Terraform",
+    "AWS",
+    "Kubernetes",
+    "Kotlin"
+  ]
+}
