@@ -15,6 +15,7 @@ Name | Website | Company Type | Stack
 ------------ | ------- | -------| -------
 [Advigator](https://www.advigator.com/careers) | https://www.advigator.com | B2B | Ruby On Rails
 [Agile Lab](https://www.agilelab.it/open-positions/) | https://www.agilelab.it/ | Consulting | AWS - Spark - Scala - Java - Python
+[alpenite](https://careers.alpenite.com/) | https://www.alpenite.com | Consulting | Salesforce - Magento - Shopify - SAP - Hootsuite - JavaScript - Java
 [Aruba S.p.A.](https://www.aruba.it/en/home.aspx) | https://www.aruba.it/en/home.aspx | Product | OpenShift - Serverless - Istio
 [Belka](https://www.belkadigital.com/hiring) | https://www.belkadigital.com | Consulting | JavaScript - React - TypeScript
 [BOOM](https://boom.co/careers) | https://boom.co/ | B2B | Typescript - React - NestJS - Java - Kotlin - Data Science - AWS
@@ -34,6 +35,7 @@ Name | Website | Company Type | Stack
 [Flightradar24](https://careers.flightradar24.com/) | https://flightradar24.com/ | Product | C++ - Python - IoT - AWS - Terraform - Kubernetes - PHP - Vue.js
 [Flowing](https://www.flowing.it/job-opportunity/) | https://flowing.it | Consulting | AWS - PHP - TypeScript - Java - Kotlin - JS
 [FourTheorem](https://www.fourtheorem.com/careers) | https://www.fourtheorem.com | Consulting | AWS - Cloud Computing - Node.js - Python
+[Garden](https://www.garden.io/careers) | https://www.garden.io | Product | Typescript - Kubernetes
 [Gorgias](https://www.gorgias.com/about-us/jobs) | https://www.gorgias.com/ | Product | GCP - Python - PostgreSQL - Typescript - Javascript - React - Terraform - Kubernetes - Socket.io - RabbitMQ - Celery
 [Hotjar](https://careers.hotjar.com/) | https://www.hotjar.com/ | Product | AWS - Kubernetes - Terraform - Python - React
 [Hyland Software, Inc.](https://careers-hyland.icims.com/jobs/intro) | https://www.hyland.com/en | Product | Ansible - AWS - Kubernetes - Terraform - Java - Open Source - PostgreSQL
