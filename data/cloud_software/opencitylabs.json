@@ -4,6 +4,7 @@
     "url": "https://www.opencityitalia.it/",
     "type": "Product",
     "tags": [
+        "Open Source",
         "PHP",
         "Symfony",
         "AWS",
