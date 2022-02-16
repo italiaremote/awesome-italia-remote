@@ -1,0 +1,10 @@
+{
+  "name": "Garden",
+  "career_page_url": "https://www.garden.io/careers",
+  "url": "https://www.garden.io",
+  "type": "Product",
+  "tags": [
+    "Typescript",
+    "Kubernetes"
+  ]
+}
