@@ -39,5 +39,6 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
 1. B2B
 2. B2C
 3. Consulting
+4. Product
 
 To suggest a new company type, please open an issue.
