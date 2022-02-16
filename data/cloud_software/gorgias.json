@@ -1,0 +1,19 @@
+{
+  "name": "Gorgias",
+  "career_page_url": "https://www.gorgias.com/about-us/jobs",
+  "url": "https://www.gorgias.com/",
+  "type": "Product",
+  "tags": [
+    "GCP",
+    "Python",
+    "PostgreSQL",
+    "Typescript",
+    "Javascript",
+    "React",
+    "Terraform",
+    "Kubernetes",
+    "Socket.io",
+    "RabbitMQ",
+    "Celery"
+  ]
+}
