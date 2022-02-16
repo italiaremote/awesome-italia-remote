@@ -13,6 +13,7 @@ Tech stacks are usually incomplete check the careers page of each company to get
 
 Name | Website | Company Type | Stack
 ------------ | ------- | -------| -------
+[Advigator](https://www.advigator.com/careers) | https://www.advigator.com/ | Product | Ruby on Rails 
 [Agile Lab](https://www.agilelab.it/open-positions/) | https://www.agilelab.it/ | Consulting | AWS - Spark - Scala - Java - Python
 [Aruba S.p.A.](https://www.aruba.it/en/home.aspx) | https://www.aruba.it/en/home.aspx | Product | OpenShift - Serverless - Istio
 [Belka](https://www.belkadigital.com/hiring) | https://www.belkadigital.com | Consulting | JavaScript - React - TypeScript
