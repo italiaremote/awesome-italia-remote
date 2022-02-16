@@ -41,3 +41,7 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
 3. Consulting
 
 To suggest a new company type, please open an issue.
+
+#### Max number of tags
+
+The maximum number of tags is 20. This rule is necessary to avoid format problems with the MarkDown file.
