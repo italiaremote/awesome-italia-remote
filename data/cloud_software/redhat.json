@@ -3,8 +3,8 @@
   "url": "https://www.redhat.com/it/global/italia",
   "career_page_url": "https://careers-redhat.icims.com/jobs/search?ss=1\u0026searchLocation=13270--Remote",
   "type": "Product",
-  "remote_policy": "-",
-  "hiring_policy": "-",
+  "remote_policy": "FullRemote",
+  "hiring_policy": "Direct",
   "tags": [
     "AWS",
     "Java",

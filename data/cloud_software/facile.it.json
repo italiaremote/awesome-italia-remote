@@ -3,8 +3,8 @@
   "url": "https://www.facile.it/",
   "career_page_url": "https://inrecruiting.intervieweb.it/facileit/it/career#vacancies",
   "type": "Product",
-  "remote_policy": "-",
-  "hiring_policy": "-",
+  "remote_policy": "FullRemote",
+  "hiring_policy": "Direct",
   "tags": [
     "PHP",
     "React",
