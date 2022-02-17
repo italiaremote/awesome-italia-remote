@@ -1,10 +1,28 @@
 {
   "name": "Immobiliare.it",
-  "career_page_url": "https://www.immobiliare.it/info/lavora-con-noi/",
-  "url": "https://www.immobiliare.it/",
+  "career_page_url": "https://www.immobiliare.it/info/lavora-con-noi/?utm_source=GitHubAwesomeItaliaRemote",
+  "url": "https://labs.immobiliare.it/",
   "type": "Product",
   "tags": [
+    "Swift",
+    "Java",
+    "Kotlin",
+    "Sass",
+    "React",
+    "Node.js",
     "PHP",
-    "Openstack"
+    "Python",
+    "Go",
+    "GIS",
+    "RabbitMQ",
+    "Big Data",
+    "Machine Learning",
+    "OpenStack",
+    "Palo Alto Networks",
+    "Arista Networks",
+    "Kubernetes",
+    "Terraform",
+    "SaltStack",
+    "Ansible"
   ]
 }
