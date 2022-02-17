@@ -28,15 +28,18 @@ func main() {
 			var company cmp.Company
 			file, err := os.ReadFile(dataPath + section + "/" + companyFiles.Name())
 			if err != nil {
+				log.Println(companyFiles.Name())
 				log.Fatalln(err)
 			}
 
 			err = json.Unmarshal(file, &company)
 			if err != nil {
+				log.Println(companyFiles.Name())
 				log.Fatalln(err)
 			}
 			err = company.Validate()
 			if err != nil {
+				log.Println(companyFiles.Name())
 				log.Fatalln(err)
 			}
 

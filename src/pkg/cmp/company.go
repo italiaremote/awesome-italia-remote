@@ -27,12 +27,12 @@ func (c Company) Validate() error {
 
 	_, err := url.ParseRequestURI(c.URL)
 	if err != nil {
-		return fmt.Errorf("Company URL is not valid")
+		return fmt.Errorf("Company URL is not valid. ", err)
 	}
 
 	_, err = url.ParseRequestURI(c.CareerPageURL)
 	if err != nil {
-		return fmt.Errorf("Company Career Page URL is not valid")
+		return fmt.Errorf("Company Career Page URL is not valid. ", err)
 	}
 	return nil
 }
