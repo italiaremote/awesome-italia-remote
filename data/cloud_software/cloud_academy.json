@@ -1,0 +1,16 @@
+{
+    "name": "Cloud Academy",
+    "career_page_url": "https://jobs.cloudacademy.com",
+    "url": "https://www.cloudacademy.com",
+    "type": "Product",
+    "tags": [
+        "AWS",
+        "Django",
+        "GraphQL",
+        "Kotlin",
+        "Python",
+        "PostgresQL",
+        "React",
+        "TypeScript"
+    ]
+}
