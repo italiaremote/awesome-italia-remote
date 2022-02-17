@@ -25,6 +25,8 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
     "name": "CompanyName",
     "career_page_url": "https://companyname.companytld/jobs",
     "url": "https://www.companyname.companytld/",
+    "remote_policy": "FullRemote",
+    "hiring_policy": "Contract",
     "type": "B2B",
     "tags": [
         "PHP",
@@ -41,7 +43,16 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
 3. Consulting
 4. Product
 
-To suggest a new company type, please open an issue.
+#### Allowed Company Remote Policies
+
+1. FullRemote
+2. PartialRemote
+
+#### Allowed Hiring Policies
+
+1. Contract
+2. Direct
+3. Intermediary
 
 #### Max number of tags
 

@@ -1,8 +1,10 @@
 {
   "name": "FourTheorem",
-  "career_page_url": "https://www.fourtheorem.com/careers",
   "url": "https://www.fourtheorem.com",
+  "career_page_url": "https://www.fourtheorem.com/careers",
   "type": "Consulting",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "AWS",
     "Cloud Computing",

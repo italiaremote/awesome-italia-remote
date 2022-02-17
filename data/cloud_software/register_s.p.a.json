@@ -1,8 +1,10 @@
 {
   "name": "Register S.p.A.",
-  "career_page_url": "https://itcareers.team.blue/",
   "url": "https://www.register.it/",
+  "career_page_url": "https://itcareers.team.blue/",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "Java",
     "PHP",

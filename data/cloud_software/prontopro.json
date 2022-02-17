@@ -1,8 +1,10 @@
 {
   "name": "ProntoPro",
-  "career_page_url": "https://jobs.jobvite.com/prontopro/jobs",
   "url": "https://www.prontopro.it/",
+  "career_page_url": "https://jobs.jobvite.com/prontopro/jobs",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "PHP",
     "Go",

@@ -1,8 +1,10 @@
 {
   "name": "VLK Studio",
-  "career_page_url": "https://www.linkedin.com/company/vlk-studio",
   "url": "https://vlkstudio.com/",
+  "career_page_url": "https://www.linkedin.com/company/vlk-studio",
   "type": "Consulting",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "JavaScript",
     "TypeScript",

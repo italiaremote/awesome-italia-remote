@@ -1,8 +1,10 @@
 {
   "name": "Zendesk",
-  "career_page_url": "https://jobs.zendesk.com/us/en",
   "url": "https://www.zendesk.com",
+  "career_page_url": "https://jobs.zendesk.com/us/en",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "Android",
     "AWS",

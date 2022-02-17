@@ -1,8 +1,10 @@
 {
   "name": "Jimdo",
-  "career_page_url": "https://careers.jimdo.com/",
   "url": "https://jimdo.com/",
+  "career_page_url": "https://careers.jimdo.com/",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "SaaS",
     "TypeScript",

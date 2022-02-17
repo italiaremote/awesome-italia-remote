@@ -1,8 +1,10 @@
 {
   "name": "BOOM",
-  "career_page_url": "https://boom.co/careers",
   "url": "https://boom.co/",
+  "career_page_url": "https://boom.co/careers",
   "type": "B2B",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "Typescript",
     "React",

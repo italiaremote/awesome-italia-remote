@@ -1,8 +1,10 @@
 {
   "name": "VMWare",
-  "career_page_url": "https://careers.vmware.com/main/jobs?stretch=10&stretchUnit=MILES&lat=&lng=&location=Italy&woe=12&keywords=&brand=&categories=&locations=&page=1&tags=Yes",
   "url": "https://www.vmware.com/",
+  "career_page_url": "https://careers.vmware.com/main/jobs?stretch=10\u0026stretchUnit=MILES\u0026lat=\u0026lng=\u0026location=Italy\u0026woe=12\u0026keywords=\u0026brand=\u0026categories=\u0026locations=\u0026page=1\u0026tags=Yes",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "Cloud",
     "Java",

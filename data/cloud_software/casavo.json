@@ -1,8 +1,10 @@
 {
   "name": "Casavo",
-  "career_page_url": "https://careers.casavo.com",
   "url": "https://casavo.com",
+  "career_page_url": "https://careers.casavo.com",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "Elixir",
     "CQRS Event-driven architectures",

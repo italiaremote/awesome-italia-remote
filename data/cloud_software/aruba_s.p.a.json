@@ -1,8 +1,10 @@
 {
   "name": "Aruba S.p.A.",
-  "career_page_url": "https://www.aruba.it/en/home.aspx",
   "url": "https://www.aruba.it/en/home.aspx",
+  "career_page_url": "https://www.aruba.it/en/home.aspx",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "OpenShift",
     "Serverless",

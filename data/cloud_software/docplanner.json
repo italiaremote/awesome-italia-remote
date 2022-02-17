@@ -1,8 +1,10 @@
 {
   "name": "Docplanner",
-  "career_page_url": "https://www.docplanner.com/career",
   "url": "https://www.docplanner.com",
+  "career_page_url": "https://www.docplanner.com/career",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "AWS",
     "PHP",

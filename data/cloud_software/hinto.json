@@ -1,8 +1,10 @@
 {
   "name": "Hinto®",
-  "career_page_url": "https://www.hinto.com/en/join-us",
   "url": "https://www.hinto.com/",
+  "career_page_url": "https://www.hinto.com/en/join-us",
   "type": "Consulting",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "AWS",
     "Terraform",

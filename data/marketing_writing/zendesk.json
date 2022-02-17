@@ -1,5 +1,7 @@
 {
   "name": "Zendesk",
+  "url": "https://www.zendesk.com",
   "career_page_url": "https://jobs.zendesk.com/us/en",
-  "url": "https://www.zendesk.com"
+  "remote_policy": "-",
+  "hiring_policy": "-"
 }

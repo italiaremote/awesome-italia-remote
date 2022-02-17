@@ -1,8 +1,10 @@
 {
   "name": "Cloud Academy",
-  "career_page_url": "https://jobs.cloudacademy.com",
   "url": "https://www.cloudacademy.com",
+  "career_page_url": "https://jobs.cloudacademy.com",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "AWS",
     "Django",

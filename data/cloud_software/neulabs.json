@@ -1,8 +1,10 @@
 {
   "name": "Neulabs",
-  "career_page_url": "https://neulabs.com/careers",
   "url": "https://neulabs.com/",
+  "career_page_url": "https://neulabs.com/careers",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "AWS",
     "Kubernetes",

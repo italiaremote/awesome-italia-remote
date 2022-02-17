@@ -1,8 +1,10 @@
 {
   "name": "Hotjar",
-  "career_page_url": "https://careers.hotjar.com/",
   "url": "https://www.hotjar.com/",
+  "career_page_url": "https://careers.hotjar.com/",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "AWS",
     "Kubernetes",

@@ -1,8 +1,10 @@
 {
   "name": "Kaleyra",
-  "career_page_url": "https://www.kaleyra.com/careers?utm_source=GitHubAwesomeItaliaRemote",
   "url": "https://www.kaleyra.com",
+  "career_page_url": "https://www.kaleyra.com/careers?utm_source=GitHubAwesomeItaliaRemote",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "CPaaS",
     "Node",

@@ -1,8 +1,10 @@
 {
   "name": "Patchai",
-  "career_page_url": "https://www.linkedin.com/company/ai-patch/jobs/",
   "url": "https://www.patchai.io/",
+  "career_page_url": "https://www.linkedin.com/company/ai-patch/jobs/",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "AWS",
     "Kubernetes",
