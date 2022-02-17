@@ -1,8 +1,10 @@
 {
   "name": "Sysdig",
-  "career_page_url": "https://sysdig.com/jobs/",
   "url": "https://sysdig.com/",
+  "career_page_url": "https://sysdig.com/jobs/",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "Go",
     "AWS",

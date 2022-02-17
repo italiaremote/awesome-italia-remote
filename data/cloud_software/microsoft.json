@@ -1,8 +1,10 @@
 {
   "name": "Microsoft",
-  "career_page_url": "https://careers.microsoft.com/professionals/us/en/search-results?rk=l-c-engineering",
   "url": "https://www.microsoft.com/it-it/",
+  "career_page_url": "https://careers.microsoft.com/professionals/us/en/search-results?rk=l-c-engineering",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "Azure",
     "C#",

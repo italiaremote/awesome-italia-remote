@@ -1,8 +1,10 @@
 {
   "name": "Subito",
-  "career_page_url": "https://www.adevinta.com/jobs?company=subito",
   "url": "https://www.subito.it/",
+  "career_page_url": "https://www.adevinta.com/jobs?company=subito",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "Go",
     "React",

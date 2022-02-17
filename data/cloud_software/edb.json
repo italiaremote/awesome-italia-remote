@@ -1,8 +1,10 @@
 {
   "name": "EDB",
-  "career_page_url": "https://www.enterprisedb.com/careers",
   "url": "https://www.enterprisedb.com/",
+  "career_page_url": "https://www.enterprisedb.com/careers",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "Azure",
     "C",

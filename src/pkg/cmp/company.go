@@ -13,6 +13,8 @@ type Company struct {
 	URL           string   `json:"url"`
 	CareerPageURL string   `json:"career_page_url"`
 	Type          string   `json:"type,omitempty"`
+	RemotePolicy  string   `json:"remote_policy,omitempty"`
+	HiringPolicy  string   `json:"hiring_policy,omitempty"`
 	Tags          []string `json:"tags,omitempty"`
 }
 

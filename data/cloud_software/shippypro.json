@@ -1,8 +1,10 @@
 {
   "name": "ShippyPro",
-  "career_page_url": "https://www.shippypro.com/en/work-with-us/",
   "url": "https://www.shippypro.com/",
+  "career_page_url": "https://www.shippypro.com/en/work-with-us/",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "PHP",
     "Terraform"

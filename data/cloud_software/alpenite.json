@@ -1,8 +1,10 @@
 {
   "name": "alpenite",
-  "career_page_url": "https://careers.alpenite.com/",
   "url": "https://www.alpenite.com",
+  "career_page_url": "https://careers.alpenite.com/",
   "type": "Consulting",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "Salesforce",
     "Magento",

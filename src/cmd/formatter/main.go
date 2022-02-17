@@ -1,8 +1,8 @@
 package main
 
 import (
-	"bytes"
 	"encoding/json"
+	"github.com/italiaremote/awesome-italia-remote/pkg/cmp"
 	"log"
 	"os"
 )
@@ -28,12 +28,19 @@ func main() {
 			if err != nil {
 				log.Fatalln(err)
 			}
-			var buf bytes.Buffer
-			err = json.Indent(&buf, file, "", "  ")
+			var company cmp.Company
+
+			err = json.Unmarshal(file, &company)
 			if err != nil {
 				log.Fatalln(err)
 			}
-			err = os.WriteFile(fileName, buf.Bytes(), 0644)
+
+			jsonByte, err := json.MarshalIndent(company, "", "  ")
+			if err != nil {
+				log.Fatalln(err)
+			}
+
+			err = os.WriteFile(fileName, jsonByte, 0644)
 			if err != nil {
 				log.Fatalln(err)
 			}

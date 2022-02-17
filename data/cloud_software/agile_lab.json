@@ -1,8 +1,10 @@
 {
   "name": "Agile Lab",
-  "career_page_url": "https://www.agilelab.it/open-positions/",
   "url": "https://www.agilelab.it/",
+  "career_page_url": "https://www.agilelab.it/open-positions/",
   "type": "Consulting",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "AWS",
     "Spark",

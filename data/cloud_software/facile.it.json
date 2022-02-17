@@ -1,8 +1,10 @@
 {
   "name": "Facile.it",
-  "career_page_url": "https://inrecruiting.intervieweb.it/facileit/it/career#vacancies",
   "url": "https://www.facile.it/",
+  "career_page_url": "https://inrecruiting.intervieweb.it/facileit/it/career#vacancies",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "PHP",
     "React",

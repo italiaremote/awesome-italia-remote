@@ -1,8 +1,10 @@
 {
   "name": "lastminute.com",
-  "career_page_url": "https://careers.lastminute.com/",
   "url": "https://www.lastminute.com/",
+  "career_page_url": "https://careers.lastminute.com/",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "AWS",
     "Kubernetes",

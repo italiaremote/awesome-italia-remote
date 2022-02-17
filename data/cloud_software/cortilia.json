@@ -1,8 +1,10 @@
 {
   "name": "Cortilia",
-  "career_page_url": "https://about.cortilia.it/lavora-con-noi",
   "url": "https://about.cortilia.it/",
+  "career_page_url": "https://about.cortilia.it/lavora-con-noi",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "AWS",
     "Java"

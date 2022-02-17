@@ -1,7 +1,9 @@
 {
   "name": "TLM Partners",
-  "career_page_url": "https://tlmpartners.com/being-a-monster/",
   "url": "https://tlmpartners.com",
+  "career_page_url": "https://tlmpartners.com/being-a-monster/",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "UnrealEngine"
   ]

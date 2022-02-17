@@ -1,8 +1,10 @@
 {
   "name": "Dove.it",
-  "career_page_url": "https://www.dove.it/lavora-con-noi",
   "url": "https://www.dove.it",
+  "career_page_url": "https://www.dove.it/lavora-con-noi",
   "type": "B2C",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "TypeScript",
     "Kotlin",

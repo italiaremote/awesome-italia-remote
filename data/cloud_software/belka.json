@@ -1,8 +1,10 @@
 {
   "name": "Belka",
-  "career_page_url": "https://www.belkadigital.com/hiring",
   "url": "https://www.belkadigital.com",
+  "career_page_url": "https://www.belkadigital.com/hiring",
   "type": "Consulting",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "JavaScript",
     "React",

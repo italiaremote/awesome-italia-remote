@@ -1,8 +1,10 @@
 {
   "name": "Clastix",
-  "career_page_url": "https://github.com/clastix/hiring",
   "url": "https://clastix.io",
+  "career_page_url": "https://github.com/clastix/hiring",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "Cloud Native",
     "Kubernetes",

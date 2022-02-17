@@ -1,8 +1,10 @@
 {
   "name": "Innoteam",
-  "career_page_url": "https://labs.innoteam.it/carriere/",
   "url": "https://www.innoteam.it/",
+  "career_page_url": "https://labs.innoteam.it/carriere/",
   "type": "Consulting",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "AWS",
     "Kubernetes",

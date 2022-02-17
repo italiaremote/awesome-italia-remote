@@ -1,8 +1,10 @@
 {
   "name": "Gorgias",
-  "career_page_url": "https://www.gorgias.com/about-us/jobs",
   "url": "https://www.gorgias.com/",
+  "career_page_url": "https://www.gorgias.com/about-us/jobs",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "GCP",
     "Python",

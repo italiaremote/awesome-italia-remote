@@ -1,8 +1,10 @@
 {
   "name": "Flightradar24",
-  "career_page_url": "https://careers.flightradar24.com/",
   "url": "https://flightradar24.com/",
+  "career_page_url": "https://careers.flightradar24.com/",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "C++",
     "Python",

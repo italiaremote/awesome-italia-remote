@@ -1,8 +1,10 @@
 {
   "name": "Canonical",
-  "career_page_url": "https://canonical.com/careers",
   "url": "https://canonical.com/",
+  "career_page_url": "https://canonical.com/careers",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "Python",
     "Go",

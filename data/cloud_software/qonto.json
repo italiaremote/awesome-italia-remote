@@ -1,8 +1,10 @@
 {
   "name": "Qonto",
-  "career_page_url": "https://qonto.com/en/careers",
   "url": "https://qonto.com/en",
+  "career_page_url": "https://qonto.com/en/careers",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "Go",
     "EmberJS",

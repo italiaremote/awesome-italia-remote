@@ -1,8 +1,10 @@
 {
   "name": "Spotify",
-  "career_page_url": "https://www.lifeatspotify.com/jobs",
   "url": "https://www.spotify.com/it/",
+  "career_page_url": "https://www.lifeatspotify.com/jobs",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "Java",
     "C++",

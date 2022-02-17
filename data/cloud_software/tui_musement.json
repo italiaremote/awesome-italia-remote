@@ -1,8 +1,10 @@
 {
   "name": "TUI Musement",
-  "career_page_url": "https://careers.tuigroup.com/jobs/",
   "url": "https://www.musement.com/us/",
+  "career_page_url": "https://careers.tuigroup.com/jobs/",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "AWS",
     "PHP",

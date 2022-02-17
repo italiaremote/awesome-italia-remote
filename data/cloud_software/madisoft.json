@@ -1,8 +1,10 @@
 {
   "name": "Madisoft",
-  "career_page_url": "https://labs.madisoft.it/",
   "url": "https://labs.madisoft.it",
+  "career_page_url": "https://labs.madisoft.it/",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "AWS",
     "PHP",

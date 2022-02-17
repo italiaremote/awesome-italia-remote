@@ -1,8 +1,10 @@
 {
   "name": "Refactory",
-  "career_page_url": "https://www.refactory-project.com/join-the-team/",
   "url": "https://www.refactory-project.com/",
+  "career_page_url": "https://www.refactory-project.com/join-the-team/",
   "type": "Consulting",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "PHP",
     "Symfony",

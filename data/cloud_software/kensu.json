@@ -1,8 +1,10 @@
 {
   "name": "Kensu",
-  "career_page_url": "https://kensu.betterteam.com",
   "url": "https://www.kensu.io/",
+  "career_page_url": "https://kensu.betterteam.com",
   "type": "Product",
+  "remote_policy": "-",
+  "hiring_policy": "-",
   "tags": [
     "Scala",
     "React",
