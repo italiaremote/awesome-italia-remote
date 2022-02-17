@@ -3,8 +3,8 @@
   "url": "https://www.subito.it/",
   "career_page_url": "https://www.adevinta.com/jobs?company=subito",
   "type": "Product",
-  "remote_policy": "-",
-  "hiring_policy": "-",
+  "remote_policy": "FullRemote",
+  "hiring_policy": "Direct",
   "tags": [
     "Go",
     "React",

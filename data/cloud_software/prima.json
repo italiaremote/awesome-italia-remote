@@ -3,7 +3,7 @@
   "url": "https://www.prima.it/",
   "career_page_url": "https://it.prima.jobs/?lang=it-it",
   "type": "Product",
-  "remote_policy": "Mixed",
+  "remote_policy": "FullRemote",
   "hiring_policy": "Direct",
   "tags": [
     "AWS",

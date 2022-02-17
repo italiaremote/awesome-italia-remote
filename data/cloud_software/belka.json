@@ -3,8 +3,8 @@
   "url": "https://www.belkadigital.com",
   "career_page_url": "https://www.belkadigital.com/hiring",
   "type": "Consulting",
-  "remote_policy": "-",
-  "hiring_policy": "-",
+  "remote_policy": "PartialRemote",
+  "hiring_policy": "Direct",
   "tags": [
     "JavaScript",
     "React",
