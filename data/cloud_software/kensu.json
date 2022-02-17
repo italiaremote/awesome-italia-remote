@@ -1,0 +1,18 @@
+{
+  "name": "Kensu",
+  "career_page_url": "https://kensu.betterteam.com",
+  "url": "https://www.kensu.io/",
+  "type": "Product",
+  "tags": [
+    "Scala",
+    "React",
+    "TypeScript",
+    "Python",
+    "Redis",
+    "Terraform",
+    "Ansible",
+    "AWS",
+    "MariaDB",
+    "OrientDB"
+  ]
+}
