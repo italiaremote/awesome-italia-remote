@@ -11,33 +11,35 @@ Tech stacks are usually incomplete check the careers page of each company to get
 
 ### Software and Cloud
 
-Name | Website | Company Type | Remote Policy | Hiring Policy | Stack
------------- | ------- | ------- | ------- |---------------| -------
+Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
+------------ | -- | ------- | ------- |---------------| -------
 
 {{- range .cloud_software}}
-[{{.Name}}]({{.CareerPageURL}}) | {{.URL}} | {{.Type}} | {{.RemotePolicy}} | {{.HiringPolicy}} | {{.GetTagsString}}
+[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.RemotePolicy}} | {{.HiringPolicy}} | {{.GetTagsString}}
 {{- end}}
 
 ### Marketing and Writing
 
-Name | Website | Remote Policy| Hiring Policy
------------- | ------- | ------- | -------
+Name | Career Page | Remote Policy| Hiring Policy
+------------ | -- | ------- | -------
 {{- range .marketing_writing}}
-[{{.Name}}]({{.CareerPageURL}}) | {{.URL}} | {{.RemotePolicy}} | {{.HiringPolicy}}
+[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.RemotePolicy}} | {{.HiringPolicy}}
 {{- end}}
 
 ### HR
 
-Name | Website | Remote Policy| Hiring Policy
------------- | ------- | ------- | -------
+Name | Career Page | Remote Policy| Hiring Policy
+------------ | -- | ------- | -------
 {{- range .hr}}
-[{{.Name}}]({{.CareerPageURL}}) | {{.URL}} | {{.RemotePolicy}} | {{.HiringPolicy}}
+[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.RemotePolicy}} | {{.HiringPolicy}}
 {{- end}}
 
 ### Design and UX
 
-Name | Website | Remote Policy| Hiring Policy
------------- | ------- | ------- | -------
+Name | Career Page | Remote Policy| Hiring Policy
+------------ | -- | ------- | -------
 {{- range .design_ux}}
-[{{.Name}}]({{.CareerPageURL}}) | {{.URL}} | {{.RemotePolicy}} | {{.HiringPolicy}}
+[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.RemotePolicy}} | {{.HiringPolicy}}
 {{- end}}
+
+
