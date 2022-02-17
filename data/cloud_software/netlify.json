@@ -1,0 +1,14 @@
+{
+  "name": "Netlify",
+  "career_page_url": "https://www.netlify.com/careers/",
+  "url": "https://www.netlify.com/",
+  "type": "Product",
+  "tags": [
+    "AWS",
+    "Javascript",
+    "Go",
+    "Node",
+    "React",
+    "Ruby"
+  ]
+}
