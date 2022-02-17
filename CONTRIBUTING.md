@@ -46,7 +46,7 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
 #### Allowed Company Remote Policies
 
 1. FullRemote
-2. PartialRemote
+2. Mixed
 
 #### Allowed Hiring Policies
 
