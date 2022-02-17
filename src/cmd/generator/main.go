@@ -12,7 +12,7 @@ const homePath = "../../../"
 const dataPath = homePath + "data/"
 
 func main() {
-	var companies cmp.Companies = make(map[string][]cmp.Company)
+	companies := make(map[string][]cmp.Company)
 	sections, err := os.ReadDir(dataPath)
 	if err != nil {
 		log.Fatalln(err)
