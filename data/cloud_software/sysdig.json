@@ -5,8 +5,18 @@
   "type": "Product",
   "tags": [
     "Go",
-    "K8S",
     "AWS",
-    "GCP"
+    "GCP",
+    "Node.js",
+    "TypeScript",
+    "React",
+    "Open Source",
+    "Kubernetes",
+    "Falco",
+    "Elasticsearch",
+    "Cloud",
+    "JavaScript",
+    "Python",
+    "Linux"
   ]
 }
