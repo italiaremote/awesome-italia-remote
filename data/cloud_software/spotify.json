@@ -1,0 +1,13 @@
+{
+  "name": "Spotify",
+  "career_page_url": "https://www.lifeatspotify.com/jobs",
+  "url": "https://www.spotify.com/it/",
+  "type": "Product",
+  "tags": [
+    "Java",
+    "C++",
+    "JavaScript",
+    "React",
+    "Node"
+  ]
+}
