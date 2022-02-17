@@ -1,15 +1,15 @@
 {
-    "name": "BOOM",
-    "career_page_url": "https://boom.co/careers",
-    "url": "https://boom.co/",
-    "type": "B2B",
-    "tags": [
-        "Typescript",
-        "React",
-        "NestJS",
-        "Java",
-        "Kotlin",
-        "Data Science",
-        "AWS"
-    ]
+  "name": "BOOM",
+  "career_page_url": "https://boom.co/careers",
+  "url": "https://boom.co/",
+  "type": "B2B",
+  "tags": [
+    "Typescript",
+    "React",
+    "NestJS",
+    "Java",
+    "Kotlin",
+    "Data Science",
+    "AWS"
+  ]
 }

@@ -1,17 +1,17 @@
 {
-    "name": "OpenCity Labs",
-    "career_page_url": "https://opencityitalia.it/lavora-con-noi/",
-    "url": "https://www.opencityitalia.it/",
-    "type": "Product",
-    "tags": [
-        "Open Source",
-        "PHP",
-        "Symfony",
-        "AWS",
-        "Docker",
-        "Go",
-        "Angular",
-        "Kafka",
-        "Python"
-    ]
+  "name": "OpenCity Labs",
+  "career_page_url": "https://opencityitalia.it/lavora-con-noi/",
+  "url": "https://www.opencityitalia.it/",
+  "type": "Product",
+  "tags": [
+    "Open Source",
+    "PHP",
+    "Symfony",
+    "AWS",
+    "Docker",
+    "Go",
+    "Angular",
+    "Kafka",
+    "Python"
+  ]
 }

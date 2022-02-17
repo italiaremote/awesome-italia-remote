@@ -1,9 +1,9 @@
 {
-    "name": "Advigator",
-    "career_page_url": "https://www.advigator.com/careers",
-    "url": "https://www.advigator.com",
-    "type": "B2B",
-    "tags": [
-        "Ruby On Rails"
-    ]
+  "name": "Advigator",
+  "career_page_url": "https://www.advigator.com/careers",
+  "url": "https://www.advigator.com",
+  "type": "B2B",
+  "tags": [
+    "Ruby On Rails"
+  ]
 }

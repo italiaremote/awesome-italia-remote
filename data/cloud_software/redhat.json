@@ -1,12 +1,12 @@
 {
-    "name": "RedHat",
-    "career_page_url": "https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=13270--Remote",
-    "url": "https://www.redhat.com/it/global/italia",
-    "type": "Product",
-    "tags": [
-        "AWS",
-        "Java",
-        "Linux",
-        "OpenShift"
-    ]
-  }
+  "name": "RedHat",
+  "career_page_url": "https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=13270--Remote",
+  "url": "https://www.redhat.com/it/global/italia",
+  "type": "Product",
+  "tags": [
+    "AWS",
+    "Java",
+    "Linux",
+    "OpenShift"
+  ]
+}

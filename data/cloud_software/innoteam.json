@@ -1,14 +1,14 @@
 {
-    "name": "Innoteam",
-    "career_page_url": "https://labs.innoteam.it/carriere/",
-    "url": "https://www.innoteam.it/",
-    "type": "Consulting",
-    "tags": [
-      "AWS",
-      "Kubernetes",
-      "JavaScript",
-      "Python",
-      "React",
-      "TypeScript"
-    ]
-  }
+  "name": "Innoteam",
+  "career_page_url": "https://labs.innoteam.it/carriere/",
+  "url": "https://www.innoteam.it/",
+  "type": "Consulting",
+  "tags": [
+    "AWS",
+    "Kubernetes",
+    "JavaScript",
+    "Python",
+    "React",
+    "TypeScript"
+  ]
+}

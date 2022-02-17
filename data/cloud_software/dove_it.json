@@ -1,15 +1,15 @@
 {
-    "name": "Dove.it",
-    "career_page_url": "https://www.dove.it/lavora-con-noi",
-    "url": "https://www.dove.it",
-    "type": "B2C",
-    "tags": [
-        "TypeScript",
-        "Kotlin",
-        "React",
-        "Elasticsearch",
-        "PostgreSQL",
-        "GCP",
-        "Kubernetes"
-    ]
+  "name": "Dove.it",
+  "career_page_url": "https://www.dove.it/lavora-con-noi",
+  "url": "https://www.dove.it",
+  "type": "B2C",
+  "tags": [
+    "TypeScript",
+    "Kotlin",
+    "React",
+    "Elasticsearch",
+    "PostgreSQL",
+    "GCP",
+    "Kubernetes"
+  ]
 }

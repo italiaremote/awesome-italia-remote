@@ -1,11 +1,11 @@
 {
-    "name": "Belka",
-    "career_page_url": "https://www.belkadigital.com/hiring",
-    "url": "https://www.belkadigital.com",
-    "type": "Consulting",
-    "tags": [
-        "JavaScript",
-        "React",
-        "TypeScript"
-    ]
+  "name": "Belka",
+  "career_page_url": "https://www.belkadigital.com/hiring",
+  "url": "https://www.belkadigital.com",
+  "type": "Consulting",
+  "tags": [
+    "JavaScript",
+    "React",
+    "TypeScript"
+  ]
 }

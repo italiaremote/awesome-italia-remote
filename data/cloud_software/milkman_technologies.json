@@ -1,15 +1,15 @@
 {
-    "name": "Milkman Technologies",
-    "career_page_url": "https://www.linkedin.com/company/milkmantechnologies/jobs/",
-    "url": "https://www.milkmantechnologies.com/",
-    "type": "Product",
-    "tags": [
-        "Java",
-        "Clojure",
-        "AWS",
-        "JavaScript",
-        "React",
-        "Kotlin",
-        "Kafka"
-    ]
+  "name": "Milkman Technologies",
+  "career_page_url": "https://www.linkedin.com/company/milkmantechnologies/jobs/",
+  "url": "https://www.milkmantechnologies.com/",
+  "type": "Product",
+  "tags": [
+    "Java",
+    "Clojure",
+    "AWS",
+    "JavaScript",
+    "React",
+    "Kotlin",
+    "Kafka"
+  ]
 }

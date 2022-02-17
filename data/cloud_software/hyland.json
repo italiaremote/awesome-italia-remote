@@ -1,15 +1,15 @@
 {
-    "name": "Hyland Software, Inc.",
-    "career_page_url": "https://careers-hyland.icims.com/jobs/intro",
-    "url": "https://www.hyland.com/en",
-    "type": "Product",
-    "tags": [
-        "Ansible",
-        "AWS",
-        "Kubernetes",
-        "Terraform",
-        "Java",
-        "Open Source",
-        "PostgreSQL"
-    ]
+  "name": "Hyland Software, Inc.",
+  "career_page_url": "https://careers-hyland.icims.com/jobs/intro",
+  "url": "https://www.hyland.com/en",
+  "type": "Product",
+  "tags": [
+    "Ansible",
+    "AWS",
+    "Kubernetes",
+    "Terraform",
+    "Java",
+    "Open Source",
+    "PostgreSQL"
+  ]
 }

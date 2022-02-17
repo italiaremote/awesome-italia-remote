@@ -1,10 +1,10 @@
 {
-    "name": "Luxoft",
-    "career_page_url": "https://career.luxoft.com/locations/italy/",
-    "url": "https://www.luxoft.com/",
-    "type": "Consulting",
-    "tags": [
-        "C++",
-        "Python"
-    ]
+  "name": "Luxoft",
+  "career_page_url": "https://career.luxoft.com/locations/italy/",
+  "url": "https://www.luxoft.com/",
+  "type": "Consulting",
+  "tags": [
+    "C++",
+    "Python"
+  ]
 }

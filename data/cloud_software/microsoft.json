@@ -1,12 +1,12 @@
 {
-    "name": "Microsoft",
-    "career_page_url": "https://careers.microsoft.com/professionals/us/en/search-results?rk=l-c-engineering",
-    "url": "https://www.microsoft.com/it-it/",
-    "type": "Product",
-    "tags": [
-      "Azure",
-      "C#",
-      "SAP",
-      "TypeScript"
-    ]
-  }
+  "name": "Microsoft",
+  "career_page_url": "https://careers.microsoft.com/professionals/us/en/search-results?rk=l-c-engineering",
+  "url": "https://www.microsoft.com/it-it/",
+  "type": "Product",
+  "tags": [
+    "Azure",
+    "C#",
+    "SAP",
+    "TypeScript"
+  ]
+}
