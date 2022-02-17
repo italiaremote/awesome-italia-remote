@@ -4,7 +4,7 @@ on:
   pull_request:
     branches:
     - main
-    types: [edited,opened]
+    types: [opened,synchronize]
     paths:
      - 'data/**'
 
