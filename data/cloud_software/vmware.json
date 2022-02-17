@@ -1,0 +1,11 @@
+{
+    "name": "VMWare",
+    "career_page_url": "https://careers.vmware.com/main/jobs?stretch=10&stretchUnit=MILES&lat=&lng=&location=Italy&woe=12&keywords=&brand=&categories=&locations=&page=1&tags=Yes",
+    "url": "https://www.vmware.com/",
+    "type": "Product",
+    "tags": [
+        "Cloud",
+        "Java",
+        "RabbitMQ"
+    ]
+  }
