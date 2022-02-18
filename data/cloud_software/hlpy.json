@@ -10,7 +10,11 @@
       "Flutter",
       "Python",
       "PostgreSQL",
+      "GIS",
       "Kubernetes",
-      "AWS"
+      "ElasticSearch",
+      "AWS",
+      "Terraform",
+      "Machine Learning"
   ]
 }
