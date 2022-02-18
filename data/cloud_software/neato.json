@@ -5,7 +5,6 @@
     "type": "Product",
     "remote_policy": "FullRemote",
     "hiring_policy": "Direct",
-    "type": "B2B",
     "tags": [
         "AWS",
         "iOS",
