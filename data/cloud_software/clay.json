@@ -1,0 +1,16 @@
+{
+    "name": "Clay",
+    "career_page_url": "https://jobs.clay.art",
+    "url": "https://jobs.clay.art",
+    "remote_policy": "FullRemote",
+    "hiring_policy": "Contract",
+    "type": "B2C",
+    "tags": [
+        "Dart",
+        "Flutter",
+        "Swift",
+        "GCP",
+        "Firebase",
+        "Python"
+    ]
+}
