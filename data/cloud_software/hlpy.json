@@ -1,0 +1,16 @@
+{
+  "name": "hlpy",
+  "career_page_url": "https://www.linkedin.com/company/hlpy/",
+  "url": "https://hlpy.co",
+  "remote_policy": "FullRemote",
+  "hiring_policy": "Direct",
+  "type": "Product",
+  "tags": [
+      "Vue.js",
+      "Flutter",
+      "Python",
+      "PostgreSQL",
+      "Kubernetes",
+      "AWS"
+  ]
+}
