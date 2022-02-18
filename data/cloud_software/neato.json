@@ -12,7 +12,6 @@
         "Android",
         "Kotlin",
         "Elixir",
-        "Distributed Erlang",
-        "PostgreSQL"
+        "Distributed Erlang"
     ]
 }
