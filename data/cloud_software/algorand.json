@@ -1,0 +1,16 @@
+{
+  "name": "AlgorandEurope",
+  "url": "https://www.algorand.com",
+  "career_page_url": "https://www.algorand.com/about/careers/our-jobs",
+  "type": "Product",
+  "remote_policy": "Mixed",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Blockchain",
+    "Go",
+    "JavaScript",
+    "Python",
+    "React",
+    "Typescript"
+  ]
+}
