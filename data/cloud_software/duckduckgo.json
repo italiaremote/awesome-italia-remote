@@ -3,7 +3,7 @@
   "url": "https://www.duckduckgo.com/",
   "career_page_url": "https://duckduckgo.com/hiring",
   "type": "Consulting",
-  "remote_policy": "FullRemote",
+  "remote_policy": "Full",
   "hiring_policy": "-",
   "tags": ["TypeScript", "JavaScript", "MacOS", "iOS", "Android"]
 }

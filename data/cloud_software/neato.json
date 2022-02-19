@@ -3,7 +3,7 @@
     "career_page_url": "https://neatorobotics.com/pages/careers",
     "url": "https://neatorobotics.com",
     "type": "Product",
-    "remote_policy": "FullRemote",
+    "remote_policy": "Full",
     "hiring_policy": "Direct",
     "tags": [
         "AWS",

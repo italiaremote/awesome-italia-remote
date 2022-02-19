@@ -3,7 +3,7 @@
   "url": "https://www.microsoft.com/it-it/",
   "career_page_url": "https://careers.microsoft.com/professionals/us/en/search-results?rk=l-c-engineering",
   "type": "Product",
-  "remote_policy": "FullRemote",
+  "remote_policy": "Full",
   "hiring_policy": "Direct",
   "tags": [
     "Azure",

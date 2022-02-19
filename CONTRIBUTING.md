@@ -25,7 +25,7 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
     "name": "CompanyName",
     "career_page_url": "https://companyname.companytld/jobs",
     "url": "https://www.companyname.companytld/",
-    "remote_policy": "FullRemote",
+    "remote_policy": "Full",
     "hiring_policy": "Contract",
     "type": "B2B",
     "tags": [
@@ -45,8 +45,9 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
 
 #### Allowed Company Remote Policies
 
-1. FullRemote
-2. Mixed
+1. Full
+2. Hybrid
+3. Optional
 
 #### Allowed Hiring Policies
 
