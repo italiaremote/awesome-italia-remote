@@ -1,17 +1,16 @@
 {
-    "name": "HACKERSGEN",
-    "career_page_url": "https://www.sorint.com/en/careers/",
-    "url": "https://hackersgen.com",
-    "type": "Consulting",
-    "remote_policy": "Full",
-    "hiring_policy": "Direct",
-    "tags": [
-        "Online Trainings",
-	"DevOps",
-	"Linux",
-	"FullStackDev",
-	"Cloud",
-	"CyberSec"
-    ]
+  "name": "HACKERSGEN",
+  "url": "https://hackersgen.com",
+  "career_page_url": "https://www.sorint.com/en/careers/",
+  "type": "Consulting",
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Online Trainings",
+    "DevOps",
+    "Linux",
+    "FullStackDev",
+    "Cloud",
+    "CyberSec"
+  ]
 }
-

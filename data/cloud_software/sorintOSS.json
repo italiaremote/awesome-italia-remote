@@ -1,16 +1,15 @@
 {
-    "name": "SORINT.OSS",
-    "career_page_url": "https://sorintoss.io/contact/",
-    "url": "https://sorintoss.io/",
-    "type": "Consulting",
-    "remote_policy": "Full",
-    "hiring_policy": "Direct",
-    "tags": [
-	"Open Source development",
-	"Agola",
-	"Ercole",
-	"Stolon",
-	"SYNwall"
-    ]
+  "name": "SORINT.OSS",
+  "url": "https://sorintoss.io/",
+  "career_page_url": "https://sorintoss.io/contact/",
+  "type": "Consulting",
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Open Source development",
+    "Agola",
+    "Ercole",
+    "Stolon",
+    "SYNwall"
+  ]
 }
-

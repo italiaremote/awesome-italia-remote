@@ -5,5 +5,11 @@
   "type": "Consulting",
   "remote_policy": "Full",
   "hiring_policy": "-",
-  "tags": ["TypeScript", "JavaScript", "MacOS", "iOS", "Android"]
+  "tags": [
+    "TypeScript",
+    "JavaScript",
+    "MacOS",
+    "iOS",
+    "Android"
+  ]
 }
