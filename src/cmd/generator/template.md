@@ -60,6 +60,12 @@ Name | Career Page | Remote Policy| Hiring Policy
 [{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.RemotePolicy}} | {{.HiringPolicy}}
 {{- end}}
 
+---------
 
+## Contributors
 
+<a href="https://github.com/italiaremote/awesome-italia-remote/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=italiaremote/awesome-italia-remote" />
+</a>
 
+Made with [contrib.rocks](https://contrib.rocks).

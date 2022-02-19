@@ -148,6 +148,12 @@ Name | Career Page | Remote Policy| Hiring Policy
 [TUI](https://www.tuigroup.com/en-en) | [Career Page](https://careers.tuigroup.com/) | - | -
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Full | Direct
 
+---------
 
+## Contributors
 
+<a href="https://github.com/italiaremote/awesome-italia-remote/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=italiaremote/awesome-italia-remote" />
+</a>
 
+Made with [contrib.rocks](https://contrib.rocks).
