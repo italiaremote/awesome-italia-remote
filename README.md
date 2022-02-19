@@ -102,6 +102,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Subito](https://www.subito.it/) | [Career Page](https://www.adevinta.com/jobs?company=subito) | Product | - | Direct | Go - React - Next.js - TypeScript - Android - iOS - Terraform - AWS - Kubernetes
 [Superlayer](https://superlayer.co/) | [Career Page](https://superlayer-1634135852323.freshteam.com/jobs) | Product | - | - | Go - Terraform - AWS - PostgreSQL - HTMX
 [Sysdig](https://sysdig.com/) | [Career Page](https://sysdig.com/jobs/) | Product | - | Direct | Go - AWS - GCP - Node.js - TypeScript - React - Open Source - Kubernetes - Falco - Cloud - JavaScript - Machine Learning - Java - Prometheus
+[TLM Partners](https://tlmpartners.com) | [Career Page](https://tlmpartners.com/being-a-monster/) |  | - | - | UnrealEngine
 [TUI Musement](https://www.musement.com/us/) | [Career Page](https://careers.tuigroup.com/jobs/) | Product | - | Direct | AWS - PHP - Go - C# - Java - Vue.js
 [VLK Studio](https://vlkstudio.com/) | [Career Page](https://www.linkedin.com/company/vlk-studio) | Consulting | Full | Direct | JavaScript - TypeScript - React - React Native - Node.js - Open source - Full remote - .NET - morfeojs - nocode
 [VMWare](https://www.vmware.com/) | [Career Page](https://careers.vmware.com/main/jobs?stretch=10&stretchUnit=MILES&lat=&lng=&location=Italy&woe=12&keywords=&brand=&categories=&locations=&page=1&tags=Yes) | Product | Full | Direct | Cloud - Java - RabbitMQ
