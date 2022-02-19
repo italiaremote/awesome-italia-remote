@@ -7,7 +7,7 @@ Please read the contribution guidelines before opening a pull request or contrib
 
 ## Legenda
 
-### Remote Policy
+### Remote Policies
 
 Label | Meaning
 --- | ---
@@ -15,7 +15,7 @@ Full | Company doesn't have physical offices, so you'll always work remotely.
 Hybrid | Company allows remote but only for some days.
 Optional | Company allows you to choose when work remotely or in office, but can ask you to go sometimes.
 
-### Hiring Policy
+### Hiring Policies
 
 Label | Meaning
 --- | ---
