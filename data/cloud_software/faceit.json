@@ -1,0 +1,13 @@
+{
+  "name": "FACEIT",
+  "career_page_url": "https://corporate.faceit.com/available-jobs/",
+  "url": "https://www.faceit.com/en",
+  "remote_policy": "Full",
+  "hiring_policy": "Contract",
+  "type": "Product",
+  "tags": [
+    "React",
+    "Typescript",
+    "Go"
+  ]
+}
