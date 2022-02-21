@@ -1,0 +1,19 @@
+{
+    "name": "PagoPA S.p.A.",
+    "career_page_url": "https://www.pagopa.it/it/lavora-con-noi",
+    "url": "https://www.pagopa.it/it/",
+    "remote_policy": "Optional",
+    "hiring_policy": "Direct",
+    "type": "Product",
+    "tags": [
+        "TypeScript",
+        "React",
+        "Scala",
+        "Node.js",
+        "JavaScript",
+        "Java",
+        "Terraform",
+        "Azure",
+        "Kubernetes"
+    ]
+}
