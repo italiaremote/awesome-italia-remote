@@ -3,7 +3,7 @@
   "url": "https://labs.immobiliare.it/",
   "career_page_url": "https://www.immobiliare.it/info/lavora-con-noi/?utm_source=GitHubAwesomeItaliaRemote",
   "type": "Product",
-  "remote_policy": "-",
+  "remote_policy": "Optional",
   "hiring_policy": "Direct",
   "tags": [
     "Swift",
