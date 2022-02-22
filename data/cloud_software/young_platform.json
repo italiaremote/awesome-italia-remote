@@ -6,14 +6,14 @@
     "remote_policy": "Optional",
     "hiring_policy": "Direct",
     "tags": [
-      "Go",
-      ".NET Core 5",
-      "AWS",
-      "GCloud",
-      "Kubernetes",
-      "C#",
-      "MSSQL",
-      "PostgreSQL",
-      "MongoDB"
+        "Go",
+        ".NET Core 5",
+        "AWS",
+        "GCloud",
+        "Kubernetes",
+        "C#",
+        "MSSQL",
+        "PostgreSQL",
+        "MongoDB"
     ]
-  }
+}
