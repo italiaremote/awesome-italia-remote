@@ -1,0 +1,12 @@
+
+{
+  "name": "Amazon",
+  "url": "https://www.amazon.it",
+  "career_page_url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&country%5B%5D=ITA&distanceType=Mi&radius=24km&location%5B%5D=virtual-locations&location%5B%5D=virtual-locations&location%5B%5D=virtual-locations&latitude=&longitude=&loc_group_id=&loc_query=Virtual%20Locations&base_query=&city=&country=&region=&county=&query_options=&",
+  "type": "Product",
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Java", "Python", "C", "Clojure"
+  ]
+}
