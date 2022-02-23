@@ -1,8 +1,10 @@
 {
-    "name": "ESTECO SpA",
+    "name": "ESTECO",
     "career_page_url": "https://jobs.esteco.com/",
     "url": "https://www.esteco.com/",
     "type": "Product",
+    "remote_policy": "Optional",
+    "hiring_policy": "Direct",
     "tags": [
         "Android",
         "Angular",
