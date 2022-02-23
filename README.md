@@ -46,7 +46,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Casavo](https://casavo.com) | [Career Page](https://careers.casavo.com) | Product | Full | Direct | Elixir - CQRS Event-driven architectures - Python - Next.js - React - Android - iOS - Terraform - AWS - Kubernetes - Kotlin
 [Claranet Italia](https://www.claranet.it/) | [Career Page](https://claranetitalia.recruitee.com/l/it) | Consulting | Optional | Direct | AWS
 [Clastix](https://clastix.io) | [Career Page](https://github.com/clastix/hiring) | Product | - | - | Cloud Native - Kubernetes - Go - DevOps - Software Development
-[Cloud Academy](https://www.cloudacademy.com) | [Career Page](https://jobs.cloudacademy.com) | Product | - | - | AWS - Django - GraphQL - Kotlin - Python - PostgresQL - React - TypeScript
+[Cloud Academy](https://www.cloudacademy.com) | [Career Page](https://jobs.cloudacademy.com) | Product | Optional | - | AWS - Django - GraphQL - Kotlin - Python - PostgresQL - React - TypeScript
 [CodicePlastico](https://codiceplastico.com/) | [Career Page](https://codiceplastico.com/jobs/) | Consulting | - | - | .NET - Node.js
 [Collabora Ltd.](https://www.collabora.com/) | [Career Page](https://www.collabora.com/careers.html) | Consulting | FullRemote | Contract | Vulkan - Rust - Python - Open Source - Multimedia - Mesa - Linux - Kubernetes - Kernel - Go - GStreamer - Embedded - DevOps - Debian - Continuous Integration - C/C++
 [Cortilia](https://about.cortilia.it/) | [Career Page](https://about.cortilia.it/lavora-con-noi) | Product | - | - | AWS - Java
@@ -149,6 +149,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
 [Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/hiring) | - | -
+[Cloud Academy](https://www.cloudacademy.com) | [Career Page](https://jobs.cloudacademy.com) | Optional | -
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
 [Flowing](https://flowing.it) | [Career Page](https://www.flowing.it/job-opportunity/) | - | -
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | - | -
