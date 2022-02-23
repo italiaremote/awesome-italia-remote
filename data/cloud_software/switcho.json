@@ -1,0 +1,18 @@
+{
+    "name": "Switcho",
+    "career_page_url": "https://switcho.it/jobs",
+    "url": "https://www.switcho.it/",
+    "remote_policy": "Full",
+    "hiring_policy": "Direct",
+    "type": "Product",
+    "tags": [
+        "PostgreSQL",
+        "Kubernetes",
+        "GCP",
+        "PHP",
+        "Typescript",
+        "React Native",
+        "Vue",
+        "React"
+    ]
+}
