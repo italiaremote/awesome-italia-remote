@@ -73,6 +73,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [hlpy](https://hlpy.co) | [Career Page](https://www.linkedin.com/company/hlpy/jobs/) | Product | Full | Direct | Vue.js - Flutter - Python - PostgreSQL - GIS - Kubernetes - ElasticSearch - AWS - Terraform - Machine Learning
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | Product | - | - | AWS - Kubernetes - Terraform - Python - React
 [Hyland Software, Inc.](https://www.hyland.com/en) | [Career Page](https://careers-hyland.icims.com/jobs/intro) | Product | - | - | Ansible - AWS - Kubernetes - Terraform - Java - Open Source - PostgreSQL
+[Ignite](https://ignt.com) | [Career Page](https://ignt.com/careers) | Product | Full | Direct | Blockchain - Cosmos - Go - JavaScript - Vue - Typescript - Kubernetes
 [Immobiliare.it](https://labs.immobiliare.it/) | [Career Page](https://www.immobiliare.it/info/lavora-con-noi/?utm_source=GitHubAwesomeItaliaRemote) | Product | Optional | Direct | Swift - Java - Kotlin - Sass - React - Node.js - PHP - Python - Go - GIS - RabbitMQ - Big Data - Machine Learning - OpenStack - Palo Alto Networks - Arista Networks - Kubernetes - Terraform - SaltStack - Ansible
 [Innoteam](https://www.innoteam.it/) | [Career Page](https://labs.innoteam.it/carriere/) | Consulting | Full | Direct | AWS - Kubernetes - JavaScript - Python - React - TypeScript
 [iSolutions](https://www.isolutions.it/index.html) | [Career Page](https://www.isolutions.it/workwithus.html) | Product | - | - | Azure - .NET - SQL server - AWS
