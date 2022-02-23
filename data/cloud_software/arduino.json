@@ -1,14 +1,14 @@
 {
-    "name": "Arduino",
-    "career_page_url": "https://careers.arduino.cc/",
-    "url": "https://arduino.cc/",
-    "remote_policy": "Optional",
-    "hiring_policy": "Direct",
-    "type": "Product",
-    "tags": [
-        "Python",
-        "Go",
-        "AWS",
-        "React"
-    ]
+  "name": "Arduino",
+  "url": "https://arduino.cc/",
+  "career_page_url": "https://careers.arduino.cc/",
+  "type": "Product",
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Python",
+    "Go",
+    "AWS",
+    "React"
+  ]
 }

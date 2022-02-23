@@ -1,17 +1,17 @@
 {
-    "name": "Radical Storage",
-    "url": "https://radicalstorage.com/",
-    "career_page_url": "https://www.linkedin.com/company/radicalstorage/jobs/",
-    "type": "Product",
-    "remote_policy": "Full",
-    "hiring_policy": "Contract",
-    "tags": [
-      "Go",
-      "AWS",
-      "React",
-      "Docker",
-      "Kubernetes",
-      "Terraform",
-      "DDD"
-    ]
-  }
+  "name": "Radical Storage",
+  "url": "https://radicalstorage.com/",
+  "career_page_url": "https://www.linkedin.com/company/radicalstorage/jobs/",
+  "type": "Product",
+  "remote_policy": "Full",
+  "hiring_policy": "Contract",
+  "tags": [
+    "Go",
+    "AWS",
+    "React",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "DDD"
+  ]
+}

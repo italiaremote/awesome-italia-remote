@@ -1,14 +1,14 @@
 {
-    "name": "TrueLayer",
-    "career_page_url": "https://truelayer.com/careers",
-    "url": "https://truelayer.com",
-    "remote_policy": "Optional",
-    "hiring_policy": "Direct",
-    "type": "B2B",
-    "tags": [
-        "Rust",
-        "C#",
-        "AWS",
-        "K8S"
-    ]
+  "name": "TrueLayer",
+  "url": "https://truelayer.com",
+  "career_page_url": "https://truelayer.com/careers",
+  "type": "B2B",
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Rust",
+    "C#",
+    "AWS",
+    "K8S"
+  ]
 }
