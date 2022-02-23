@@ -69,6 +69,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Garden](https://www.garden.io) | [Career Page](https://www.garden.io/careers) | Product | - | - | Typescript - Kubernetes
 [Gorgias](https://www.gorgias.com/) | [Career Page](https://www.gorgias.com/about-us/jobs) | Product | - | - | GCP - Python - PostgreSQL - Typescript - Javascript - React - Terraform - Kubernetes - Socket.io - RabbitMQ - Celery
 [HACKERSGEN](https://hackersgen.com) | [Career Page](https://www.sorint.com/en/careers/) | Consulting | Full | Direct | Online Trainings - DevOps - Linux - FullStackDev - Cloud - CyberSec
+[Hastega](https://www.hastega.it/) | [Career Page](https://www.hastega.it/posizioni-aperte/) | Consulting | Optional | Direct | Angular - Laravel - Spring Boot - Android - iOS - AWS - GCP
 [Hinto®](https://www.hinto.com/) | [Career Page](https://www.hinto.com/en/join-us) | Consulting | - | - | AWS - Terraform - PHP - Symfony - Drupal - JS - TypeScript - React - Node.js
 [hlpy](https://hlpy.co) | [Career Page](https://www.linkedin.com/company/hlpy/jobs/) | Product | Full | Direct | Vue.js - Flutter - Python - PostgreSQL - GIS - Kubernetes - ElasticSearch - AWS - Terraform - Machine Learning
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | Product | - | - | AWS - Kubernetes - Terraform - Python - React
