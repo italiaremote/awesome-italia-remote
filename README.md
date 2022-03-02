@@ -40,6 +40,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Aruba S.p.A.](https://www.aruba.it/en/home.aspx) | [Career Page](https://www.aruba.it/en/home.aspx) | Product | - | Direct | OpenShift - Serverless - Istio
 [Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/hiring) | Consulting | Optional | Direct | JavaScript - React - TypeScript
 [BitBull](https://www.bitbull.it) | [Career Page](https://www.bitbull.it/team/) | Consulting | Full | Direct | Magento - Shopify - JavaScript - PHP - Node - AWS - Terraform - Serverless - Vue.js - Nuxt.js
+[Blexin](https://www.blexin.com) | [Career Page](https://www.blexin.com) | Consulting | Optional | Direct | .NET - Azure - DevOps - Javascript - Angular - React  - Docker - Kubernetes
 [BOOM](https://boom.co/) | [Career Page](https://boom.co/careers) | B2B | - | - | Typescript - React - NestJS - Java - Kotlin - Data Science - AWS
 [Canonical](https://canonical.com/) | [Career Page](https://canonical.com/careers) | Product | Full | Contract | Python - Go - OpenStack - Kubernetes
 [Capgemini](https://www.capgemini.com/it-it/) | [Career Page](https://www.capgemini.com/it-it/careers/) | Consulting | - | - | Consulting
