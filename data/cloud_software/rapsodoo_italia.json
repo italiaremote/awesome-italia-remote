@@ -1,0 +1,22 @@
+{
+    "name": "Rapsodoo Italia",
+    "url": "https://www.rapsodoo.com",
+    "career_page_url": "https://italia.rapsodoo.com/jobs",
+    "remote_policy": "Optional",
+    "hiring_policy": "Direct",
+    "type": "Consulting",
+    "tags": [
+        "Python",
+        "Javascript",
+        "Docker",
+        "GCP",
+        "AWS",
+        "Kubernetes",
+        "DevOps",
+        "Odoo",
+        "Terraform",
+        "Git",
+        "Cloud Native",
+        "OWL"
+    ]
+  }
