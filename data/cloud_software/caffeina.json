@@ -1,0 +1,19 @@
+{
+  "name": "Caffeina",
+  "url": "https://caffeina.com",
+  "career_page_url": "https://caffeina.com/jobs",
+  "type": "Product",
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "JavaScript",
+    "PHP",
+    "NodeJS",
+    "ReactJS",
+    "ReactNative",
+    "Laravel",
+    "AWS",
+    "Kubernetes",
+    "Terraform"
+  ]
+}
