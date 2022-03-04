@@ -1,0 +1,18 @@
+{
+    "name": "Nephila",
+    "career_page_url": "https://nephila.digital/jobs/",
+    "url": "https://nephila.digital/",
+    "remote_policy": "Optional",
+    "hiring_policy": "Direct",
+    "type": "Consulting",
+    "tags": [
+        "Python",
+        "Django",
+        "Vue.js",
+        "React",
+        "DevOps",
+        "Docker",
+        "PostgreSQL",
+        "AWS"
+    ]
+}
