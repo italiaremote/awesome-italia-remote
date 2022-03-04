@@ -1,0 +1,16 @@
+{
+    "name": "Aiven",
+    "career_page_url": "https://aiven.io/careers",
+    "url": "https://aiven.io",
+    "remote_policy": "Full",
+    "hiring_policy": "Direct",
+    "type": "Product",
+    "tags": [
+        "AWS",
+        "GCP",
+        "Python",
+        "PostgreSQL",
+        "Kafka",
+        "Databases"
+    ]
+}
