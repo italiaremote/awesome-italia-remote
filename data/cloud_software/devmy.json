@@ -1,0 +1,24 @@
+{
+  "name": "Devmy",
+  "url": "https://devmy.it",
+  "career_page_url": "https://devmy.it/aboutus#hiring",
+  "type": "Consulting",
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "AWS",
+    "Angular",
+    "Dart",
+    "DevOps",
+    "Docker",
+    "Flutter",
+    "JavaScript",
+    "Nestjs",
+    "Next.js",
+    "Open source",
+    "React",
+    "Redis",
+    "Terraform",
+    "TypeScript"
+  ]
+}
