@@ -12,13 +12,12 @@ Pull requests can be used to add/edit/delete companies from the list.
 
 ### How To Contribute with PRs
 
-The new companies must be added to the `/data` folder using a dedicated file in `snake_case.json` format. The files are divided by category into sub-folders (software, marketing, ecc...).
+The new companies must be added to the `/data` folder using a dedicated file in `snake_case.json` format.
 Subsequently, the `README.md` file is automatically generated, so you don't have to edit it manually.
 
 1. Open `./data` directory
-2. Choose the correct company category (software, marketing, ecc...) and enter that directory
-3. Add a new JSON file for the new company (file name should be a slugified version of the company name)
-4. File content should respect the following format:
+2. Add a new JSON file for the new company (file name should be a slugified version of the company name)
+3. File content should respect the following format:
 
 ```JSON
 {
@@ -28,6 +27,7 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
     "remote_policy": "Full",
     "hiring_policy": "Contract",
     "type": "B2B",
+    "category": "cloud_software",
     "tags": [
         "PHP",
         "Go",
@@ -35,6 +35,13 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
     ]
 }
 ```
+
+#### Allowed Company Categories
+
+1. cloud_software
+2. design_ux
+3. marketing_writing
+4. hr
 
 #### Allowed Company Types
 

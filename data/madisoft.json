@@ -1,0 +1,16 @@
+{
+  "name": "Madisoft",
+  "url": "https://labs.madisoft.it",
+  "career_page_url": "https://labs.madisoft.it/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "Direct",
+  "tags": [
+    "AWS",
+    "PHP",
+    "React"
+  ]
+}

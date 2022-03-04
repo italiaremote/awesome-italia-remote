@@ -1,0 +1,25 @@
+{
+  "name": "Everli",
+  "url": "https://it.everli.com/it",
+  "career_page_url": "https://it.everli.com/it/lavora-con-noi",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "marketing_writing"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Laravel",
+    "Python",
+    "MySQL",
+    "Elasticsearch",
+    "RabbitMQ",
+    "Redis",
+    "Vue.js",
+    "Kotlin",
+    "Swift",
+    "AWS",
+    "Docker"
+  ]
+}

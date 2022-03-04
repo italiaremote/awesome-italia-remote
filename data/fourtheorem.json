@@ -1,0 +1,17 @@
+{
+  "name": "FourTheorem",
+  "url": "https://www.fourtheorem.com",
+  "career_page_url": "https://www.fourtheorem.com/careers",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "AWS",
+    "Cloud Computing",
+    "Node.js",
+    "Python"
+  ]
+}

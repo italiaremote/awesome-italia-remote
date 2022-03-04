@@ -1,0 +1,27 @@
+{
+  "name": "iGenius S.r.l.",
+  "url": "https://igenius.ai/",
+  "career_page_url": "https://www.linkedin.com/company/igeniusai/jobs/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "React",
+    "Kotlin",
+    "Swift",
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "Python",
+    "AWS",
+    "GCP",
+    "Kubernetes",
+    "Docker",
+    "Machine Learning",
+    "Go",
+    "PostgreSQL"
+  ]
+}

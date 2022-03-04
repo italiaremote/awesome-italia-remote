@@ -1,0 +1,22 @@
+{
+  "name": "Hinto®",
+  "url": "https://www.hinto.com/",
+  "career_page_url": "https://www.hinto.com/en/join-us",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "AWS",
+    "Terraform",
+    "PHP",
+    "Symfony",
+    "Drupal",
+    "JS",
+    "TypeScript",
+    "React",
+    "Node.js"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Zendesk",
+  "url": "https://www.zendesk.com",
+  "career_page_url": "https://jobs.zendesk.com/us/en",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "design_ux",
+    "marketing_writing"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Android",
+    "AWS",
+    "Go",
+    "iOS",
+    "Java",
+    "JavaScript",
+    "Kafka",
+    "Kubernetes",
+    "Python",
+    "React",
+    "Scala",
+    "Terraform",
+    "Typescript"
+  ]
+}

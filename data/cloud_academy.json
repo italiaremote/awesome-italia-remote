@@ -1,0 +1,22 @@
+{
+  "name": "Cloud Academy",
+  "url": "https://www.cloudacademy.com",
+  "career_page_url": "https://jobs.cloudacademy.com",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "design_ux"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policy": "-",
+  "tags": [
+    "AWS",
+    "Django",
+    "GraphQL",
+    "Kotlin",
+    "Python",
+    "PostgresQL",
+    "React",
+    "TypeScript"
+  ]
+}

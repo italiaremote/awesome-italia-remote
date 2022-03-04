@@ -1,0 +1,31 @@
+{
+  "name": "SparkFabrik",
+  "url": "https://www.sparkfabrik.com",
+  "career_page_url": "https://careers.sparkfabrik.com",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "AWS",
+    "GCP",
+    "Alibaba Cloud",
+    "Kubernetes",
+    "Docker",
+    "Cloud-native",
+    "DevOps",
+    "GitOps",
+    "PHP",
+    "TypeScript",
+    "JS",
+    "Go",
+    "Drupal",
+    "Laravel",
+    "Symphony",
+    "Angular",
+    "React",
+    "React Native"
+  ]
+}

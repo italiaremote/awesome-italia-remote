@@ -1,0 +1,20 @@
+{
+  "name": "Dove.it",
+  "url": "https://www.dove.it",
+  "career_page_url": "https://www.dove.it/lavora-con-noi",
+  "type": "B2C",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "TypeScript",
+    "Kotlin",
+    "React",
+    "Elasticsearch",
+    "PostgreSQL",
+    "GCP",
+    "Kubernetes"
+  ]
+}

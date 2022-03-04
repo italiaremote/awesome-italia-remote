@@ -1,0 +1,20 @@
+{
+  "name": "Milkman Technologies",
+  "url": "https://www.milkmantechnologies.com/",
+  "career_page_url": "https://www.linkedin.com/company/milkmantechnologies/jobs/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "Java",
+    "Clojure",
+    "AWS",
+    "JavaScript",
+    "React",
+    "Kotlin",
+    "Kafka"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Qonto",
+  "url": "https://qonto.com/en",
+  "career_page_url": "https://qonto.com/en/careers",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "Contract",
+  "tags": [
+    "Go",
+    "EmberJS",
+    "Kotlin",
+    "Swift",
+    "Kubernetes",
+    "Terraform",
+    "AWS"
+  ]
+}

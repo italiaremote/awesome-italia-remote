@@ -68,6 +68,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Empatica](https://www.empatica.com) | [Career Page](https://apply.workable.com/empatica/) | Product | Full | Direct | AWS - GCP - Kubernetes - Docker - Cloud-native - DevOps - DataOps - GitOps - SecOps - Python - Typescript - Terraform - Security - Go - React
 [ESTECO](https://www.esteco.com/) | [Career Page](https://jobs.esteco.com/) | Product | Optional | Direct | Android - Angular - AWS - iOS - Java - JavaScript - TypeScript - Kubernetes - GCP - Python - Node.js
 [Everli](https://it.everli.com/it) | [Career Page](https://it.everli.com/it/lavora-con-noi) | Product | Full | Direct | Laravel - Python - MySQL - Elasticsearch - RabbitMQ - Redis - Vue.js - Kotlin - Swift - AWS - Docker
+[Fabrick](https://www.fabrick.com/) | [Career Page](https://www.fabrick.com/it/azienda/lavora-con-noi/) | B2B | Hybrid | - | Typescript - Java - React - React Native - OracleSQL
 [FACEIT](https://www.faceit.com/en) | [Career Page](https://corporate.faceit.com/available-jobs/) | Product | Full | Contract | React - Typescript - Go
 [Facile.it](https://www.facile.it/) | [Career Page](https://inrecruiting.intervieweb.it/facileit/it/career#vacancies) | Product | Full | Direct | PHP - React - Node.js - TypeScript - Kubernetes
 [Flightradar24](https://flightradar24.com/) | [Career Page](https://careers.flightradar24.com/) | Product | - | - | C++ - Python - IoT - AWS - Terraform - Kubernetes - PHP - Vue.js
@@ -95,6 +96,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Macai](https://macaiapp.com/) | [Career Page](https://www.linkedin.com/company/macaiit/jobs/) | Product | Full | Direct | AWS - Serverless - DynamoDB - CDK - CQRS Event-driven architectures - Go - Node.js - TypeScript - fp-ts - React - React Native - Android - iOS - CI/CD - LocalStack - Docker - Python - Machine Learning - Serverless Big Data - Kanban
 [Madisoft](https://labs.madisoft.it) | [Career Page](https://labs.madisoft.it/) | Product | - | Direct | AWS - PHP - React
 [MailUp](https://www.mailup.com/) | [Career Page](https://www.growens.io/en/work-with-us/) | Product | - | - | Linux - Go - AWS - IaC - React - Angular - C# - Python
+[Medicilio](https://www.medicilio.it) | [Career Page](https://medicilio.it/careers) | B2C | Full | Direct | Python - Django - Javascript - Go - REST API - React.js - Vue.js - PostgreSQL - Typescript - Docker - AWS
 [Mia Burton](https://corporate.miaburton.com/en/) | [Career Page](https://corporate.miaburton.com/en/jobs/) | B2C | Full | Direct | NodeJS - Go - VueJs - TypeScript - NuxtJS - AWS - MongoDB - MariaDB - Redis
 [Mia-Platform](https://mia-platform.eu/) | [Career Page](https://mia-platform.eu/company/careers/?utm_source=github&utm_medium=awesome-italian-remote) | Product | Hybrid | Direct | Kubernetes - DevOps - Cloud Native Technologies - TypeScript - Node.js - C# - Java - Kotlin - Go - Python - Rust
 [Microsoft](https://www.microsoft.com/it-it/) | [Career Page](https://careers.microsoft.com/professionals/us/en/search-results?rk=l-c-engineering) | Product | Full | Direct | Azure - C# - SAP - TypeScript
@@ -143,11 +145,11 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
 [Agile Lab](https://www.agilelab.it/) | [Career Page](https://www.agilelab.it/open-positions/) | - | -
-[Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/hiring) | - | -
+[Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/hiring) | Optional | Direct
 [BendingSpoons](https://bendingspoons.com/) | [Career Page](https://bendingspoons.com/careers.html) | - | -
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
 [Empatica](https://www.empatica.com) | [Career Page](https://apply.workable.com/empatica/) | Full | Direct
-[everli](https://it.everli.com/it) | [Career Page](https://it.everli.com/it/lavora-con-noi) | - | -
+[Everli](https://it.everli.com/it) | [Career Page](https://it.everli.com/it/lavora-con-noi) | Full | Direct
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | - | -
 [Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | - | -
 [Superfluid Team](https://www.superfluidteam.com/) | [Career Page](https://www.superfluidteam.com/careers/) | - | -
@@ -165,18 +167,18 @@ Name | Career Page | Remote Policy| Hiring Policy
 
 Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
-[Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/hiring) | - | -
+[Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/hiring) | Optional | Direct
 [Cloud Academy](https://www.cloudacademy.com) | [Career Page](https://jobs.cloudacademy.com) | Optional | -
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
-[Flowing](https://flowing.it) | [Career Page](https://www.flowing.it/job-opportunity/) | - | -
+[Flowing](https://flowing.it) | [Career Page](https://www.flowing.it/job-opportunity/) | Full | Direct
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | - | -
 [Immobiliare.it](https://labs.immobiliare.it/) | [Career Page](https://www.immobiliare.it/info/lavora-con-noi/?utm_source=GitHubAwesomeItaliaRemote) | Optional | Direct
 [MailUp](https://www.mailup.com/) | [Career Page](https://www.growens.io/en/work-with-us/) | - | -
 [Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | - | -
 [Patchai](https://www.patchai.io/) | [Career Page](https://www.linkedin.com/company/ai-patch/jobs/) | Full | Direct
-[Subito](https://www.subito.it/) | [Career Page](https://www.adevinta.com/jobs?company=subito) | - | -
+[Subito](https://www.subito.it/) | [Career Page](https://www.adevinta.com/jobs?company=subito) | - | Direct
 [Superlayer](https://superlayer.co/) | [Career Page](https://superlayer-1634135852323.freshteam.com/jobs) | - | -
-[Sysdig](https://www.sysdig.com/) | [Career Page](https://sysdig.com/careers/) | - | Direct
+[Sysdig](https://sysdig.com/) | [Career Page](https://sysdig.com/jobs/) | - | Direct
 [TUI](https://www.tuigroup.com/en-en) | [Career Page](https://careers.tuigroup.com/) | - | -
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Full | Direct
 

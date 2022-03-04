@@ -1,0 +1,17 @@
+{
+  "name": "Kaleyra",
+  "url": "https://www.kaleyra.com",
+  "career_page_url": "https://www.kaleyra.com/careers?utm_source=GitHubAwesomeItaliaRemote",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "CPaaS",
+    "Node",
+    "PHP",
+    "Python"
+  ]
+}

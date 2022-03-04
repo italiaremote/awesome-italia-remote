@@ -1,0 +1,17 @@
+{
+  "name": "3Bee",
+  "url": "https://www.3bee.com/",
+  "career_page_url": "https://www.linkedin.com/company/3beesrl/jobs/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "React",
+    "Django",
+    "AWS",
+    "IoT"
+  ]
+}

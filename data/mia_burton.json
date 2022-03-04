@@ -1,0 +1,22 @@
+{
+  "name": "Mia Burton",
+  "url": "https://corporate.miaburton.com/en/",
+  "career_page_url": "https://corporate.miaburton.com/en/jobs/",
+  "type": "B2C",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "NodeJS",
+    "Go",
+    "VueJs",
+    "TypeScript",
+    "NuxtJS",
+    "AWS",
+    "MongoDB",
+    "MariaDB",
+    "Redis"
+  ]
+}

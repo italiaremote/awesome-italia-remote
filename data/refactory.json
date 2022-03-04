@@ -1,0 +1,19 @@
+{
+  "name": "Refactory",
+  "url": "https://www.refactory-project.com/",
+  "career_page_url": "https://www.refactory-project.com/join-the-team/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "PHP",
+    "Symfony",
+    "JS",
+    "Node.js",
+    "Vue.js",
+    "AWS"
+  ]
+}

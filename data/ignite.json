@@ -1,0 +1,20 @@
+{
+  "name": "Ignite",
+  "url": "https://ignt.com",
+  "career_page_url": "https://ignt.com/careers",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Blockchain",
+    "Cosmos",
+    "Go",
+    "JavaScript",
+    "Vue",
+    "Typescript",
+    "Kubernetes"
+  ]
+}

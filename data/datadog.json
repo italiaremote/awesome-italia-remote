@@ -1,0 +1,15 @@
+{
+  "name": "Datadog",
+  "url": "https://www.datadoghq.com/",
+  "career_page_url": "https://www.datadoghq.com/careers/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "Go",
+    "Kubernetes"
+  ]
+}

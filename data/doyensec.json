@@ -1,0 +1,16 @@
+{
+  "name": "doyensec",
+  "url": "https://www.doyensec.com",
+  "career_page_url": "https://doyensec.com/careers.html",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "Security",
+    "Infosec",
+    "Pentest"
+  ]
+}

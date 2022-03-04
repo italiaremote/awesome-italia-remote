@@ -1,0 +1,23 @@
+{
+  "name": "BitBull",
+  "url": "https://www.bitbull.it",
+  "career_page_url": "https://www.bitbull.it/team/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Magento",
+    "Shopify",
+    "JavaScript",
+    "PHP",
+    "Node",
+    "AWS",
+    "Terraform",
+    "Serverless",
+    "Vue.js",
+    "Nuxt.js"
+  ]
+}

@@ -8,6 +8,7 @@
     "remote_policy": "Full",
     "hiring_policy": "Contract",
     "type": "B2B",
+    "category": "cloud_software",
     "tags": [
         "PHP",
         "Go",
