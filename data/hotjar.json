@@ -1,0 +1,20 @@
+{
+  "name": "Hotjar",
+  "url": "https://www.hotjar.com/",
+  "career_page_url": "https://careers.hotjar.com/",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "design_ux",
+    "marketing_writing"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "AWS",
+    "Kubernetes",
+    "Terraform",
+    "Python",
+    "React"
+  ]
+}

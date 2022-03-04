@@ -1,0 +1,19 @@
+{
+  "name": "Agile Lab",
+  "url": "https://www.agilelab.it/",
+  "career_page_url": "https://www.agilelab.it/open-positions/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software",
+    "marketing_writing"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "AWS",
+    "Spark",
+    "Scala",
+    "Java",
+    "Python"
+  ]
+}

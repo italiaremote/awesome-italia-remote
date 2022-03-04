@@ -1,0 +1,24 @@
+{
+  "name": "SORINT.lab",
+  "url": "https://www.sorint.com/en/",
+  "career_page_url": "https://www.sorint.com/en/careers/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "FullStackDev",
+    "DevOps",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Linux",
+    "Opensource",
+    "Kubernates",
+    "OpenShift",
+    "Automation",
+    "Oracle"
+  ]
+}

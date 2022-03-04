@@ -1,0 +1,21 @@
+{
+  "name": "DuckDuckGo",
+  "url": "https://www.duckduckgo.com/",
+  "career_page_url": "https://duckduckgo.com/hiring",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software",
+    "design_ux",
+    "hr",
+    "marketing_writing"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "-",
+  "tags": [
+    "TypeScript",
+    "JavaScript",
+    "MacOS",
+    "iOS",
+    "Android"
+  ]
+}

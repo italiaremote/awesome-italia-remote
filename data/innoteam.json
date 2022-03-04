@@ -1,0 +1,19 @@
+{
+  "name": "Innoteam",
+  "url": "https://www.innoteam.it/",
+  "career_page_url": "https://labs.innoteam.it/carriere/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "AWS",
+    "Kubernetes",
+    "JavaScript",
+    "Python",
+    "React",
+    "TypeScript"
+  ]
+}

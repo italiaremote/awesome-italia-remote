@@ -1,0 +1,20 @@
+{
+  "name": "BOOM",
+  "url": "https://boom.co/",
+  "career_page_url": "https://boom.co/careers",
+  "type": "B2B",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "Typescript",
+    "React",
+    "NestJS",
+    "Java",
+    "Kotlin",
+    "Data Science",
+    "AWS"
+  ]
+}

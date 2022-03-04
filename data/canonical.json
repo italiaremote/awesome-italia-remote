@@ -1,0 +1,17 @@
+{
+  "name": "Canonical",
+  "url": "https://canonical.com/",
+  "career_page_url": "https://canonical.com/careers",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Contract",
+  "tags": [
+    "Python",
+    "Go",
+    "OpenStack",
+    "Kubernetes"
+  ]
+}

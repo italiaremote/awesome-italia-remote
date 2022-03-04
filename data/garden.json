@@ -1,0 +1,15 @@
+{
+  "name": "Garden",
+  "url": "https://www.garden.io",
+  "career_page_url": "https://www.garden.io/careers",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "Typescript",
+    "Kubernetes"
+  ]
+}

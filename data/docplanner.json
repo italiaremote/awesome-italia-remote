@@ -1,0 +1,17 @@
+{
+  "name": "Docplanner",
+  "url": "https://www.docplanner.com",
+  "career_page_url": "https://www.docplanner.com/career",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "AWS",
+    "PHP",
+    ".NET",
+    "ElasticSearch"
+  ]
+}

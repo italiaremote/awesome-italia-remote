@@ -1,0 +1,16 @@
+{
+  "name": "Aruba S.p.A.",
+  "url": "https://www.aruba.it/en/home.aspx",
+  "career_page_url": "https://www.aruba.it/en/home.aspx",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "Direct",
+  "tags": [
+    "OpenShift",
+    "Serverless",
+    "Istio"
+  ]
+}

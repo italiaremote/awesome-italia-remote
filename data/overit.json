@@ -1,0 +1,20 @@
+{
+  "name": "OverIT",
+  "url": "https://www.overit.it/",
+  "career_page_url": "https://www.overit.it/lavora-con-noi/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Android",
+    "AWS",
+    "C#",
+    "GIS technologies",
+    "Java",
+    "JavaScript",
+    "Python"
+  ]
+}

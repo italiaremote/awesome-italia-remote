@@ -1,0 +1,21 @@
+{
+  "name": "Blexin",
+  "url": "https://www.blexin.com/",
+  "career_page_url": "https://www.linkedin.com/company/blexin/jobs/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    ".NET",
+    "Microsoft Azure",
+    "DevOps",
+    "Javascript",
+    "Angular",
+    "React",
+    "Docker",
+    "Kubernetes"
+  ]
+}

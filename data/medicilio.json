@@ -1,0 +1,24 @@
+{
+  "name": "Medicilio",
+  "url": "https://www.medicilio.it",
+  "career_page_url": "https://medicilio.it/careers",
+  "type": "B2C",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Python",
+    "Django",
+    "Javascript",
+    "Go",
+    "REST API",
+    "React.js",
+    "Vue.js",
+    "PostgreSQL",
+    "Typescript",
+    "Docker",
+    "AWS"
+  ]
+}

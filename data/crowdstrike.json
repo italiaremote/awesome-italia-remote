@@ -1,0 +1,17 @@
+{
+  "name": "CrowdStrike",
+  "url": "https://www.crowdstrike.com/",
+  "career_page_url": "https://www.crowdstrike.com/careers/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "Go",
+    "AWS",
+    "IoT",
+    "Security"
+  ]
+}

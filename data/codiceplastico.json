@@ -1,0 +1,15 @@
+{
+  "name": "CodicePlastico",
+  "url": "https://codiceplastico.com/",
+  "career_page_url": "https://codiceplastico.com/jobs/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    ".NET",
+    "Node.js"
+  ]
+}

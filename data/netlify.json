@@ -1,0 +1,19 @@
+{
+  "name": "Netlify",
+  "url": "https://www.netlify.com/",
+  "career_page_url": "https://www.netlify.com/careers/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "Contract",
+  "tags": [
+    "AWS",
+    "JavaScript",
+    "Go",
+    "Node",
+    "React",
+    "Ruby"
+  ]
+}

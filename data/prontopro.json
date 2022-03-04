@@ -1,0 +1,18 @@
+{
+  "name": "ProntoPro",
+  "url": "https://www.prontopro.it/",
+  "career_page_url": "https://jobs.jobvite.com/prontopro/jobs",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "Direct",
+  "tags": [
+    "PHP",
+    "Go",
+    "AWS",
+    "Terraform",
+    "Kubernetes"
+  ]
+}

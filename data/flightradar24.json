@@ -1,0 +1,21 @@
+{
+  "name": "Flightradar24",
+  "url": "https://flightradar24.com/",
+  "career_page_url": "https://careers.flightradar24.com/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "C++",
+    "Python",
+    "IoT",
+    "AWS",
+    "Terraform",
+    "Kubernetes",
+    "PHP",
+    "Vue.js"
+  ]
+}

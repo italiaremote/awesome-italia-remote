@@ -1,0 +1,20 @@
+{
+  "name": "Hyland Software, Inc.",
+  "url": "https://www.hyland.com/en",
+  "career_page_url": "https://careers-hyland.icims.com/jobs/intro",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policy": "-",
+  "tags": [
+    "Ansible",
+    "AWS",
+    "Kubernetes",
+    "Terraform",
+    "Java",
+    "Open Source",
+    "PostgreSQL"
+  ]
+}

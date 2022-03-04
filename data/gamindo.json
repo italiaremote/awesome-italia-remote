@@ -1,0 +1,19 @@
+{
+  "name": "Gamindo",
+  "url": "https://gamindo.com",
+  "career_page_url": "https://www.linkedin.com/company/gamindo/jobs/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "PHP",
+    "React",
+    "React Native",
+    "TypeScript",
+    "Vue.js",
+    "MySQL"
+  ]
+}
