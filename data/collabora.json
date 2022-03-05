@@ -6,7 +6,7 @@
   "categories": [
     "cloud_software"
   ],
-  "remote_policy": "FullRemote",
+  "remote_policy": "Full",
   "hiring_policy": "Contract",
   "tags": [
     "Vulkan",
