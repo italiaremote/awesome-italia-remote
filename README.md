@@ -91,6 +91,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Jimdo](https://jimdo.com/) | [Career Page](https://careers.jimdo.com/) | Product | - | - | SaaS - TypeScript - React - Kotlin - AWS
 [Kaleyra](https://www.kaleyra.com) | [Career Page](https://www.kaleyra.com/careers?utm_source=GitHubAwesomeItaliaRemote) | Product | - | - | CPaaS - Node - PHP - Python
 [Kensu](https://www.kensu.io?utm_source=github&utm_medium=recruitment_channel) | [Career Page](https://kensu.betterteam.com?utm_source=github&utm_medium=recruitment_channel) | Product | - | - | Scala - React - TypeScript - Python - Redis - Terraform - Ansible - AWS - MariaDB - OrientDB
+[Klondike](https://www.klondike.ai) | [Career Page](https://www.linkedin.com/company/klondike/jobs/) | B2B | Full | Direct | PHP - Javascript - Python
 [lastminute.com](https://www.lastminute.com/) | [Career Page](https://careers.lastminute.com/) | Product | Full | Direct | Android - AWS - iOS - Kubernetes - Go - Python - React Native
 [Luxoft](https://www.luxoft.com/) | [Career Page](https://career.luxoft.com/locations/italy/) | Consulting | - | - | C++ - Python
 [Macai](https://macaiapp.com/) | [Career Page](https://www.linkedin.com/company/macaiit/jobs/) | Product | Full | Direct | AWS - Serverless - DynamoDB - CDK - CQRS Event-driven architectures - Go - Node.js - TypeScript - fp-ts - React - React Native - Android - iOS - CI/CD - LocalStack - Docker - Python - Machine Learning - Serverless Big Data - Kanban
