@@ -53,7 +53,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Clastix](https://clastix.io) | [Career Page](https://github.com/clastix/hiring) | Product | - | - | Cloud Native - Kubernetes - Go - DevOps - Software Development
 [Cloud Academy](https://www.cloudacademy.com) | [Career Page](https://jobs.cloudacademy.com) | Product | Optional | - | AWS - Django - GraphQL - Kotlin - Python - PostgresQL - React - TypeScript
 [CodicePlastico](https://codiceplastico.com/) | [Career Page](https://codiceplastico.com/jobs/) | Consulting | - | - | .NET - Node.js
-[Collabora Ltd.](https://www.collabora.com/) | [Career Page](https://www.collabora.com/careers.html) | Consulting | FullRemote | Contract | Vulkan - Rust - Python - Open Source - Multimedia - Mesa - Linux - Kubernetes - Kernel - Go - GStreamer - Embedded - DevOps - Debian - Continuous Integration - C/C++
+[Collabora Ltd.](https://www.collabora.com/) | [Career Page](https://www.collabora.com/careers.html) | Consulting | Full | Contract | Vulkan - Rust - Python - Open Source - Multimedia - Mesa - Linux - Kubernetes - Kernel - Go - GStreamer - Embedded - DevOps - Debian - Continuous Integration - C/C++
 [Cortilia](https://about.cortilia.it/) | [Career Page](https://about.cortilia.it/lavora-con-noi) | Product | - | - | AWS - Java
 [CrowdStrike](https://www.crowdstrike.com/) | [Career Page](https://www.crowdstrike.com/careers/) | Product | - | - | Go - AWS - IoT - Security
 [Datadog](https://www.datadoghq.com/) | [Career Page](https://www.datadoghq.com/careers/) | Product | - | - | Go - Kubernetes
