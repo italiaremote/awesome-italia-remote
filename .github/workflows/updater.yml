@@ -19,10 +19,12 @@ jobs:
     - name: Generate
       run: |
         make generator
+    - name: Set Git Options
+      run: | 
+        git config --global user.email "${{ env.EMAIL }}"
+        git config --global user.name "Alessandro Marino"
     - name: Update README
       run: |
-        git config user.name "AutoUpdater"
-        git config user.email ${{ env.EMAIL }}
         git add README.md
         git commit -m "Update README"
         git push
