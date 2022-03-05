@@ -21,6 +21,8 @@ jobs:
         make generator
     - name: Update README
       run: |
+        git config user.name "AutoUpdater"
+        git config user.email ${{ env.EMAIL }}
         git add README.md
         git commit -m "Update README"
         git push
