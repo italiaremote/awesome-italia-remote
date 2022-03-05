@@ -9,9 +9,12 @@
   "remote_policy": "Full",
   "hiring_policy": "Direct",
   "tags": [
+    "Android",
     "AWS",
+    "iOS",
     "Kubernetes",
     "Go",
-    "Python"
+    "Python",
+    "React Native"
   ]
 }
