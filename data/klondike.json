@@ -1,0 +1,16 @@
+{
+    "name": "Klondike",
+    "url": "https://www.klondike.ai",
+    "career_page_url": "https://www.linkedin.com/company/klondike/jobs/",
+    "type": "B2B",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policy": "Direct",
+    "tags": [
+      "PHP",
+      "Javascript",
+      "Python"
+    ]
+  }
