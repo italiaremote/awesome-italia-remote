@@ -26,6 +26,24 @@ var (
 		"marketing_writing": true,
 		"hr":                true,
 	}
+	allowedHiringPolicies = map[string]bool{
+		"-":            true,
+		"Contract":     true,
+		"Direct":       true,
+		"Intermediary": true,
+	}
+	allowedRemotePolicies = map[string]bool{
+		"-":        true,
+		"Full":     true,
+		"Hybrid":   true,
+		"Optional": true,
+	}
+	allowedCompanyTypes = map[string]bool{
+		"B2B":        true,
+		"B2C":        true,
+		"Consulting": true,
+		"Product":    true,
+	}
 )
 
 func (c Company) GetTagsString() string {
@@ -35,9 +53,24 @@ func (c Company) GetTagsString() string {
 func (c Company) Validate() error {
 	for _, category := range c.Categories {
 		if !allowedCategories[category] {
-			return fmt.Errorf("Category %s not allowed", category)
+			return fmt.Errorf("%s | Category %s not allowed", c.Name, category)
 		}
 	}
+
+	if !allowedHiringPolicies[c.HiringPolicy] {
+		return fmt.Errorf("%s | Hiring Policy %s not allowed", c.Name, c.HiringPolicy)
+	}
+
+	if !allowedRemotePolicies[c.RemotePolicy] {
+		return fmt.Errorf("%s | Remote Policy %s not allowed", c.Name, c.RemotePolicy)
+	}
+
+	if !allowedCompanyTypes[c.Type] {
+		if len(c.Categories) > 0 && c.Categories[0] == "cloud_software" {
+			return fmt.Errorf("%s | Type %s not allowed", c.Name, c.Type)
+		}
+	}
+
 	if len(c.Tags) > 20 {
 		return fmt.Errorf("Company tags must be less than 20")
 	}
@@ -51,5 +84,6 @@ func (c Company) Validate() error {
 	if err != nil {
 		return fmt.Errorf("Company Career Page URL is not valid. ", err)
 	}
+
 	return nil
 }
