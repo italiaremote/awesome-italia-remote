@@ -1,12 +1,12 @@
 {
   "name": "TUI Musement",
-  "url": "https://www.musement.com/us/",
+  "url": "https://www.musement.com/",
   "career_page_url": "https://careers.tuigroup.com/jobs/",
   "type": "Product",
   "categories": [
     "cloud_software"
   ],
-  "remote_policy": "-",
+  "remote_policy": "Optional",
   "hiring_policy": "Direct",
   "tags": [
     "AWS",
