@@ -35,6 +35,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [3Bee](https://www.3bee.com/) | [Career Page](https://www.linkedin.com/company/3beesrl/jobs/) | Product | Full | Direct | React - Django - AWS - IoT
 [Advigator](https://www.advigator.com) | [Career Page](https://www.advigator.com/careers) | B2B | - | - | Ruby On Rails
 [Agile Lab](https://www.agilelab.it/) | [Career Page](https://www.agilelab.it/open-positions/) | Consulting | - | - | AWS - Spark - Scala - Java - Python
+[Aiven](https://aiven.io) | [Career Page](https://aiven.io/careers) | Product | Full | Direct | AWS - GCP - Python - PostgreSQL - Kafka - Databases
 [AlgorandEurope](https://www.algorand.com) | [Career Page](https://www.algorand.com/about/careers/our-jobs) | Product | Optional | Direct | Blockchain - Go - JavaScript - Python - React - Typescript
 [alpenite](https://www.alpenite.com) | [Career Page](https://careers.alpenite.com/) | Consulting | - | - | Salesforce - Magento - Shopify - SAP - Hootsuite - JavaScript - Java
 [Amazon](https://www.amazon.it) | [Career Page](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&country%5B%5D=ITA&distanceType=Mi&radius=24km&location%5B%5D=virtual-locations&location%5B%5D=virtual-locations&location%5B%5D=virtual-locations&latitude=&longitude=&loc_group_id=&loc_query=Virtual%20Locations&base_query=&city=&country=&region=&county=&query_options=&) | Product | Full | Direct | Java - Python - C - Clojure
