@@ -3,7 +3,7 @@
   "url": "https://www.collabora.com/",
   "career_page_url": "https://www.collabora.com/careers.html",
   "type": "Consulting",
-  "remote_policy": "FullRemote",
+  "remote_policy": "Full",
   "hiring_policy": "Contract",
   "tags": [
     "Vulkan",
