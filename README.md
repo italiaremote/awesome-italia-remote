@@ -132,6 +132,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Switcho](https://www.switcho.it/) | [Career Page](https://switcho.it/jobs) | Product | Full | Direct | PostgreSQL - Kubernetes - GCP - PHP - Typescript - React Native - Vue - React
 [Synesthesia srl](https://www.synesthesia.it) | [Career Page](https://inrecruiting.intervieweb.it/synesthesia/it/career) | Consulting | - | - | Mobile - Swift - Kotlin - Flutter - ReactNative - JavaScript - PHP - React - Typescript - .NET - NodeJS - AI/ML
 [Sysdig](https://sysdig.com/) | [Career Page](https://sysdig.com/jobs/) | Product | - | Direct | Go - AWS - GCP - Node.js - TypeScript - React - Open Source - Kubernetes - Falco - Cloud - JavaScript - Machine Learning - Java - Prometheus
+[Tirasa](https://www.tirasa.net/) | [Career Page](https://www.tirasa.net/en/contacts/work-with-us) | Product | Optional | Direct | IAM - Identity - Provisioning - Service Mesh - Authentication - Authorization - SAML - OpenID Connect - SPID - Open Source - Spring Boot - Java
 [TLM Partners](https://tlmpartners.com) | [Career Page](https://tlmpartners.com/being-a-monster/) | Product | - | - | UnrealEngine
 [Treatwell](https://treatwell.com/) | [Career Page](https://treatwell.com/openings/) | Product | Full | Direct | TypeScript - Java - Ruby - React - TDD - DDD
 [TrueLayer](https://truelayer.com) | [Career Page](https://truelayer.com/careers) | B2B | Optional | Direct | Rust - C# - AWS - K8S
