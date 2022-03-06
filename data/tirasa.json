@@ -1,0 +1,25 @@
+{
+  "name": "Tirasa",
+  "url": "https://www.tirasa.net/",
+  "career_page_url": "https://www.tirasa.net/en/contacts/work-with-us",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "IAM",
+    "Identity",
+    "Provisioning",
+    "Service Mesh",
+    "Authentication",
+    "Authorization",
+    "SAML",
+    "OpenID Connect",
+    "SPID",
+    "Open Source",
+    "Spring Boot",
+    "Java"
+  ]
+}
