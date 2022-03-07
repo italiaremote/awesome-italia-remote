@@ -136,7 +136,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [TLM Partners](https://tlmpartners.com) | [Career Page](https://tlmpartners.com/being-a-monster/) | Product | - | - | UnrealEngine
 [Treatwell](https://treatwell.com/) | [Career Page](https://treatwell.com/openings/) | Product | Full | Direct | TypeScript - Java - Ruby - React - TDD - DDD
 [TrueLayer](https://truelayer.com) | [Career Page](https://truelayer.com/careers) | B2B | Optional | Direct | Rust - C# - AWS - K8S
-[TUI Musement](https://www.musement.com/us/) | [Career Page](https://careers.tuigroup.com/jobs/) | Product | - | Direct | AWS - PHP - Go - C# - Java - Vue.js
+[TUI Musement](https://www.musement.com/) | [Career Page](https://careers.tuigroup.com/jobs/) | Product | Optional | Direct | AWS - PHP - Go - C# - Java - Vue.js
 [VLK Studio](https://vlkstudio.com/) | [Career Page](https://www.linkedin.com/company/vlk-studio) | Consulting | Full | Direct | JavaScript - TypeScript - React - React Native - Node.js - Open source - Full remote - .NET - morfeojs - nocode
 [VMWare](https://www.vmware.com/) | [Career Page](https://careers.vmware.com/main/jobs?stretch=10&stretchUnit=MILES&lat=&lng=&location=Italy&woe=12&keywords=&brand=&categories=&locations=&page=1&tags=Yes) | Product | Full | Direct | Cloud - Java - RabbitMQ
 [Young Platform](https://youngplatform.com) | [Career Page](https://www.linkedin.com/company/youngplatformcme/jobs) | Product | Optional | Direct | Go - .NET Core 5 - AWS - GCloud - Kubernetes - C# - MSSQL - PostgreSQL - MongoDB
