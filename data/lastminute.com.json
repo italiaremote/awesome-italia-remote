@@ -12,9 +12,13 @@
     "Android",
     "AWS",
     "iOS",
+    "Java",
+    "Kotlin",
     "Kubernetes",
     "Go",
     "Python",
-    "React Native"
+    "React",
+    "React Native",
+    "TypeScript"
   ]
 }
