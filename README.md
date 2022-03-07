@@ -35,6 +35,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [3Bee](https://www.3bee.com/) | [Career Page](https://www.linkedin.com/company/3beesrl/jobs/) | Product | Full | Direct | React - Django - AWS - IoT
 [Advigator](https://www.advigator.com) | [Career Page](https://www.advigator.com/careers) | B2B | - | - | Ruby On Rails
 [Agile Lab](https://www.agilelab.it/) | [Career Page](https://www.agilelab.it/open-positions/) | Consulting | - | - | AWS - Spark - Scala - Java - Python
+[Aiko](https://www.aikospace.com/) | [Career Page](https://www.aikospace.com/#careers) | Product | Full | Direct | C++ - Python - Docker
 [Aiven](https://aiven.io) | [Career Page](https://aiven.io/careers) | Product | Full | Direct | AWS - GCP - Python - PostgreSQL - Kafka - Databases
 [AlgorandEurope](https://www.algorand.com) | [Career Page](https://www.algorand.com/about/careers/our-jobs) | Product | Optional | Direct | Blockchain - Go - JavaScript - Python - React - Typescript
 [alpenite](https://www.alpenite.com) | [Career Page](https://careers.alpenite.com/) | Consulting | - | - | Salesforce - Magento - Shopify - SAP - Hootsuite - JavaScript - Java
@@ -58,6 +59,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Cortilia](https://about.cortilia.it/) | [Career Page](https://about.cortilia.it/lavora-con-noi) | Product | - | - | AWS - Java
 [CrowdStrike](https://www.crowdstrike.com/) | [Career Page](https://www.crowdstrike.com/careers/) | Product | - | - | Go - AWS - IoT - Security
 [Datadog](https://www.datadoghq.com/) | [Career Page](https://www.datadoghq.com/careers/) | Product | - | - | Go - Kubernetes
+[Deltatre](https://www.deltatre.com/) | [Career Page](https://www.deltatre.com/careers) | Product / B2B | Hybrid | Direct | C++ - Python - Unity - C#
 [Devmy](https://devmy.it) | [Career Page](https://devmy.it/aboutus#hiring) | Consulting | Optional | Direct | AWS - Angular - Dart - DevOps - Docker - Flutter - JavaScript - Nestjs - Next.js - Open source - React - Redis - Terraform - TypeScript
 [Docebo](https://www.docebo.com/) | [Career Page](https://www.docebo.com/company/careers/) | Product | Full | Direct | AWS - Terraform - Node.js - Angular - PHP
 [Docplanner](https://www.docplanner.com) | [Career Page](https://www.docplanner.com/career) | Product | - | - | AWS - PHP - .NET - ElasticSearch
