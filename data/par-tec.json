@@ -1,0 +1,24 @@
+{
+	"name": "Par-Tec",
+	"career_page_url": "https://www.par-tec.it/lavorare-in-par-tec/",
+	"url": "https://www.par-tec.it/",
+	"remote_policy": "Optional",
+	"hiring_policy": "Direct",
+	"type": "B2B",
+	"category": "cloud_software",
+	"tags": [
+		"Linux",
+		"Opensource",
+		"GCP",
+		"OpenStack",
+		"Terraform",
+		"Ansible",
+		"Kubernetes",
+		"Openshift",
+		"Cloud-native",
+		"DevOps",
+		"GitOps",
+		"Python",
+		"Go"
+	]
+}
