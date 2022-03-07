@@ -1,0 +1,34 @@
+{
+  "name": "Jagaad",
+  "career_page_url": "https://jagaad.com/careers",
+  "url": "https://jagaad.com",
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "type": "B2C",
+  "categories": [
+    "cloud_software",
+    "design_ux"
+  ],
+  "tags": [
+    "API Integrations",
+    "AWS",
+    "Docker",
+    "Figma",
+    "Flutter",
+    "Go",
+    "Java",
+    "JavaScript",
+    "Magento",
+    "Mobile Apps",
+    "NextJS",
+    "Node",
+    "PHP",
+    "PostgreSQL",
+    "PrestaShop",
+    "React",
+    "Sitecore",
+    "Strapi",
+    "TypeScript",
+    "Vue"
+  ]
+}
