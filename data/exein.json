@@ -1,0 +1,24 @@
+{
+    "name": "Exein",
+    "url": "https://exein.io",
+    "career_page_url": "https://jobs.exein.io",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policy": "Direct",
+    "tags": [
+      "Security",
+      "Rust",
+      "eBPF",
+      "Linux",
+      "Kernel",
+      "Python",
+      "Machine Learning",
+      "TypeScript",
+      "React",
+      "Open Source",
+      "IoT"
+    ]
+  }
