@@ -6,6 +6,10 @@ Companies can be both based in Italy or around the world but with operations in 
 
 Please read the contribution guidelines before opening a pull request or contributing to this repository.
 
+Maintained by:
+* [Alessandro Marino](https://www.github.com/alessandromr)
+* [Edoardo Costantini](https://www.github.com/edoardocostantinidev)
+
 ## Legenda
 
 ### Remote Policies
