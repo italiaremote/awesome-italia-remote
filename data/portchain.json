@@ -5,7 +5,7 @@
   "remote_policy": "Optional",
   "hiring_policy": "Contract",
   "type": "Product",
-  "category": [
+  "categories": [
     "cloud_software"
   ],
   "tags": [
