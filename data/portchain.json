@@ -1,0 +1,21 @@
+{
+  "name": "Portchain",
+  "career_page_url": "https://www.portchain.com/international-team/",
+  "url": "https://www.portchain.com/",
+  "remote_policy": "Optional",
+  "hiring_policy": "Contract",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "tags": [
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "React",
+      "Python",
+      "PostgreSQL",
+      "AWS",
+      "Heroku"
+  ]
+}
