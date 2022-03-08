@@ -27,7 +27,9 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
     "remote_policy": "Full",
     "hiring_policy": "Contract",
     "type": "B2B",
-    "category": "cloud_software",
+    "categories": [
+        "cloud_software"
+    ],
     "tags": [
         "PHP",
         "Go",
