@@ -1,0 +1,10 @@
+{
+  "name": "Hasura",
+  "url": "https://hasura.io/",
+  "career_page_url": "https://hasura.io/careers/",
+  "type": "Product",
+  "categories": ["cloud_software"],
+  "remote_policy": "Full",
+  "hiring_policy": "Contract",
+  "tags": ["Haskell", "React", "TypeScript"]
+}

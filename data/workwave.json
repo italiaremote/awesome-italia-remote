@@ -1,0 +1,10 @@
+{
+  "name": "WorkWave",
+  "url": "https://workwave.com",
+  "career_page_url": "https://careers.workwave.com/",
+  "type": "Product",
+  "categories": ["cloud_software"],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": ["React.js", "TypeScript", "Java", "Rust"]
+}

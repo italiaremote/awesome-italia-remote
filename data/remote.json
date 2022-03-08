@@ -1,0 +1,10 @@
+{
+  "name": "Remote",
+  "url": "https://remote.com/",
+  "career_page_url": "https://boards.greenhouse.io/remotecom",
+  "type": "Product",
+  "categories": ["cloud_software"],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": ["React.js", "JavaScript"]
+}
