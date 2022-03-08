@@ -89,6 +89,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Immobiliare.it](https://labs.immobiliare.it/) | [Career Page](https://www.immobiliare.it/info/lavora-con-noi/?utm_source=GitHubAwesomeItaliaRemote) | Product | Optional | Direct | Swift - Java - Kotlin - Sass - React - Node.js - PHP - Python - Go - GIS - RabbitMQ - Big Data - Machine Learning - OpenStack - Palo Alto Networks - Arista Networks - Kubernetes - Terraform - SaltStack - Ansible
 [Innoteam](https://www.innoteam.it/) | [Career Page](https://labs.innoteam.it/carriere/) | Consulting | Full | Direct | AWS - Kubernetes - JavaScript - Python - React - TypeScript
 [iSolutions](https://www.isolutions.it/index.html) | [Career Page](https://www.isolutions.it/workwithus.html) | Product | - | - | Azure - .NET - SQL server - AWS
+[Jagaad](https://jagaad.com) | [Career Page](https://jagaad.com/careers) | B2C | Full | Direct | API Integrations - AWS - Docker - Figma - Flutter - Go - Java - JavaScript - Magento - Mobile Apps - NextJS - Node - PHP - PostgreSQL - PrestaShop - React - Sitecore - Strapi - TypeScript - Vue
 [Jimdo](https://jimdo.com/) | [Career Page](https://careers.jimdo.com/) | Product | - | - | SaaS - TypeScript - React - Kotlin - AWS
 [Kaleyra](https://www.kaleyra.com) | [Career Page](https://www.kaleyra.com/careers?utm_source=GitHubAwesomeItaliaRemote) | Product | - | - | CPaaS - Node - PHP - Python
 [Kensu](https://www.kensu.io?utm_source=github&utm_medium=recruitment_channel) | [Career Page](https://kensu.betterteam.com?utm_source=github&utm_medium=recruitment_channel) | Product | - | - | Scala - React - TypeScript - Python - Redis - Terraform - Ansible - AWS - MariaDB - OrientDB
@@ -176,6 +177,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Flowing](https://flowing.it) | [Career Page](https://www.flowing.it/job-opportunity/) | Full | Direct
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | - | -
 [Immobiliare.it](https://labs.immobiliare.it/) | [Career Page](https://www.immobiliare.it/info/lavora-con-noi/?utm_source=GitHubAwesomeItaliaRemote) | Optional | Direct
+[Jagaad](https://jagaad.com) | [Career Page](https://jagaad.com/careers) | Full | Direct
 [MailUp](https://www.mailup.com/) | [Career Page](https://www.growens.io/en/work-with-us/) | - | -
 [Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | - | -
 [Patchai](https://www.patchai.io/) | [Career Page](https://www.linkedin.com/company/ai-patch/jobs/) | Full | Direct
