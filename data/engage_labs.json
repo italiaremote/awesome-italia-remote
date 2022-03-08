@@ -1,0 +1,24 @@
+{
+    "name": "Engage Labs",
+    "career_page_url": "https://www.linkedin.com/company/engage-labs/jobs",
+    "url": "https://www.linkedin.com/company/engage-labs",
+    "remote_policy": "Optional",
+    "hiring_policy": "Direct",
+    "type": "Consulting",
+    "category": "cloud_software",
+    "tags": [
+        ".NET",
+        "C#",
+        "SQL Server",
+        "Azure",
+        "TypeScript",
+        "Angular",
+        "REST Api",
+        "RabbitMQ",
+        "Docker",
+        "Architecture",
+        "DevOps",
+        "Learning",
+        "Troubleshooting"
+    ]
+}
