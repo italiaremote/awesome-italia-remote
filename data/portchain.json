@@ -5,7 +5,9 @@
   "remote_policy": "Optional",
   "hiring_policy": "Contract",
   "type": "Product",
-  "category": "cloud_software",
+  "category": [
+    "cloud_software"
+  ],
   "tags": [
       "JavaScript",
       "TypeScript",
