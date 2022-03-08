@@ -6,10 +6,6 @@ Companies can be both based in Italy or around the world but with operations in 
 
 Please read the contribution guidelines before opening a pull request or contributing to this repository.
 
-Maintained by:
-* [Alessandro Marino](https://www.github.com/alessandromr)
-* [Edoardo Costantini](https://www.github.com/edoardocostantinidev)
-
 ## Legenda
 
 ### Remote Policies
@@ -124,6 +120,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [PagoPA S.p.A.](https://www.pagopa.it/it/) | [Career Page](https://www.pagopa.it/it/lavora-con-noi) | Product | Optional | Direct | TypeScript - React - Scala - Node.js - JavaScript - Java - Terraform - Azure - Kubernetes
 [Par-Tec](https://www.par-tec.it/) | [Career Page](https://www.par-tec.it/lavorare-in-par-tec/) | B2B | Optional | Direct | Linux - Opensource - GCP - OpenStack - Terraform - Ansible - Kubernetes - Openshift - Cloud-native - DevOps - GitOps - Python - Go
 [Patchai](https://www.patchai.io/) | [Career Page](https://www.linkedin.com/company/ai-patch/jobs/) | Product | Full | Direct | AWS - Kubernetes - Go - Node.js - Flutter - Dart - Python - Terraform
+[Portchain](https://www.portchain.com/) | [Career Page](https://www.portchain.com/international-team/) | Product | Optional | Contract | JavaScript - TypeScript - Node.js - React - Python - PostgreSQL - AWS - Heroku
 [Prima](https://www.prima.it/) | [Career Page](https://it.prima.jobs/?lang=it-it) | Product | Full | Direct | AWS - Kubernetes - Rust - Elixir - Android - iOS - ELM - React - PHP - Python - Spark - Machine Learning - RabbitMQ - CQRS - DDD - Pulumi
 [ProntoPro](https://www.prontopro.it/) | [Career Page](https://jobs.jobvite.com/prontopro/jobs) | Product | - | Direct | PHP - Go - AWS - Terraform - Kubernetes
 [Qonto](https://qonto.com/en) | [Career Page](https://qonto.com/en/careers) | Product | - | Contract | Go - EmberJS - Kotlin - Swift - Kubernetes - Terraform - AWS
