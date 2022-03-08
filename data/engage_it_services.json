@@ -5,7 +5,9 @@
     "remote_policy": "Optional",
     "hiring_policy": "Direct",
     "type": "Product",
-    "category": "cloud_software",
+    "categories": [
+        "cloud_software"
+    ],
     "tags": [
         ".NET",
         "C#",

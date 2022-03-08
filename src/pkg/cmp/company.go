@@ -51,6 +51,14 @@ func (c Company) GetTagsString() string {
 }
 
 func (c Company) Validate() error {
+	if len(c.Name) < 1 {
+		return fmt.Errorf("Invalid Name")
+	}
+
+	if len(c.Categories) < 1 {
+		return fmt.Errorf("Company must have at least one category")
+	}
+
 	for _, category := range c.Categories {
 		if !allowedCategories[category] {
 			return fmt.Errorf("%s | Category %s not allowed", c.Name, category)

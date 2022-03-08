@@ -5,7 +5,7 @@
   "remote_policy": "Full",
   "hiring_policy": "Direct",
   "type": "Product",
-  "category": "cloud_software",
+  "categories": ["cloud_software"],
   "tags": [
     "Javascript",
     "Typescript",

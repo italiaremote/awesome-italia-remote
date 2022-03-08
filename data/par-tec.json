@@ -5,7 +5,7 @@
 	"remote_policy": "Optional",
 	"hiring_policy": "Direct",
 	"type": "B2B",
-	"category": "cloud_software",
+	"categories": ["cloud_software"],
 	"tags": [
 		"Linux",
 		"Opensource",

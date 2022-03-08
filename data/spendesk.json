@@ -5,7 +5,7 @@
   "remote_policy": "Optional",
   "hiring_policy": "Intermediary",
   "type": "Product",
-  "category": "cloud_software",
+  "categories": ["cloud_software"],
   "tags": [
     "NodeJS",
     "TypeScript",
