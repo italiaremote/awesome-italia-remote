@@ -1,0 +1,21 @@
+{
+  "name": "Palmabit",
+  "url": "https://www.palmabit.com",
+  "career_page_url": "https://www.palmabit.com/it/work-with-us",
+  "type": "Consulting",
+  "categories": ["cloud_software"],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Node.js",
+    "React Native",
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Jest",
+    "GraphQL",
+    "Docker",
+    "Kubernetes",    
+    "Netlify"
+  ]
+}
