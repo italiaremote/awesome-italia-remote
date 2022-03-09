@@ -1,0 +1,14 @@
+{
+  "name": "Pinv",
+  "url": "https://www.pinv.it",
+  "career_page_url": "https://pinv.it/contatti/",
+  "type": "Product",
+  "categories": ["cloud_software"],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Node.js",
+    "React",
+    "TypeScript"
+  ]
+}
