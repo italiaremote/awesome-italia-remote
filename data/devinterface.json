@@ -1,0 +1,19 @@
+{
+  "name": "DevInterface",
+  "url": "https://www.devinterface.com/",
+  "career_page_url": "https://www.devinterface.com/en/work-with-us",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Hybrid",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Ruby On Rails",
+    "Python",
+    "Django",
+    "Node.js",
+    "React",
+    "Go"
+  ]
+}
