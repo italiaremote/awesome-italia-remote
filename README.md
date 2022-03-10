@@ -60,6 +60,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Cortilia](https://about.cortilia.it/) | [Career Page](https://about.cortilia.it/lavora-con-noi) | Product | - | - | AWS - Java
 [CrowdStrike](https://www.crowdstrike.com/) | [Career Page](https://www.crowdstrike.com/careers/) | Product | - | - | Go - AWS - IoT - Security
 [Datadog](https://www.datadoghq.com/) | [Career Page](https://www.datadoghq.com/careers/) | Product | - | - | Go - Kubernetes
+[DevInterface](https://www.devinterface.com/) | [Career Page](https://www.devinterface.com/en/work-with-us) | Consulting | Hybrid | Direct | Ruby On Rails - Python - Django - Node.js - React - Go
 [Devmy](https://devmy.it) | [Career Page](https://devmy.it/aboutus#hiring) | Consulting | Optional | Direct | AWS - Angular - Dart - DevOps - Docker - Flutter - JavaScript - Nestjs - Next.js - Open source - React - Redis - Terraform - TypeScript
 [Docebo](https://www.docebo.com/) | [Career Page](https://www.docebo.com/company/careers/) | Product | Full | Direct | AWS - Terraform - Node.js - Angular - PHP
 [Docplanner](https://www.docplanner.com) | [Career Page](https://www.docplanner.com/career) | Product | - | - | AWS - PHP - .NET - ElasticSearch
