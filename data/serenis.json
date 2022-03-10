@@ -1,0 +1,21 @@
+{
+  "name": "Serenis",
+  "url": "https://www.serenis.it/",
+  "career_page_url": "https://www.linkedin.com/company/serenis-health/jobs/",
+  "type": "Product",
+  "categories": ["cloud_software"],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Apollo GraphQL Federation",
+    "AWS",
+    "Docker",
+    "Jest",
+    "Kubernetes",
+    "NestJS",
+    "Node.js",
+    "React Native",
+    "React",
+    "TypeScript"
+  ]
+}
