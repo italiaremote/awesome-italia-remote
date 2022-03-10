@@ -1,0 +1,18 @@
+{
+  "name": "WeRoad",
+  "url": "https://www.weroad.it/",
+  "career_page_url": "https://career.weroad.travel/",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "design_ux"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Node.js (Nest.js)",
+    "PHP (Laravel)",
+    "Vue (Nuxt.js)",
+    "GCP"
+  ]
+}
