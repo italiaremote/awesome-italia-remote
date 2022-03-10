@@ -1,0 +1,19 @@
+{
+  "name": "Aptus.AI",
+  "url": "https://www.aptus.ai/",
+  "career_page_url": "https://www.aptus.ai/team",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "AWS",
+    "Python",
+    "TypeScript",
+    "Machine Learning",
+    "Natural Language Processing"  
+  ]  
+    
+}
