@@ -162,7 +162,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Young Platform](https://youngplatform.com) | [Career Page](https://www.linkedin.com/company/youngplatformcme/jobs) | Product | Optional | Direct | Go - .NET Core 5 - AWS - GCloud - Kubernetes - C# - MSSQL - PostgreSQL - MongoDB
 [ZappyRent](https://www.zappyrent.com) | [Career Page](https://zappyrent.zendesk.com/hc/en-us/articles/4407693578897-Work-with-Us) | B2C | - | - | Node.js - React - AWS - Kubernetes
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Product | Full | Direct | Android - AWS - Go - iOS - Java - JavaScript - Kafka - Kubernetes - Python - React - Scala - Terraform - Typescript
-[Zupit](https://www.zupit.it) | [Career Page](https://www.zupit.it/careers.html) | Consulting | Full | Contract | C# - .NET - Xamarin - Java - Spring Boot - Python - Django - Angular - Vue - React - Typescript - Docker
+[Zupit](https://www.zupit.it) | [Career Page](https://www.zupit.it/careers.html) | Consulting | Full | Direct | C# - .NET - Xamarin - Java - Spring Boot - Python - Django - Angular - Vue - React - Typescript - Docker
 
 ### Marketing and Writing
 
