@@ -157,6 +157,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [VLK Studio](https://vlkstudio.com/) | [Career Page](https://www.linkedin.com/company/vlk-studio) | Consulting | Full | Direct | JavaScript - TypeScript - React - React Native - Node.js - Open source - Full remote - .NET - morfeojs - nocode
 [VMWare](https://www.vmware.com/) | [Career Page](https://careers.vmware.com/main/jobs?stretch=10&stretchUnit=MILES&lat=&lng=&location=Italy&woe=12&keywords=&brand=&categories=&locations=&page=1&tags=Yes) | Product | Full | Direct | Cloud - Java - RabbitMQ
 [Wave](https://www.wave.com) | [Career Page](https://www.wave.com/en/careers/) | Product | Full | - | 
+[WeRoad](https://www.weroad.it/) | [Career Page](https://career.weroad.travel/) | Product | Optional | Direct | Node.js (Nest.js) - PHP (Laravel) - Vue (Nuxt.js) - GCP
 [Whatwapp](https://whatwapp.com/) | [Career Page](https://whatwapp.com/careers/) | Product | Optional | Direct | Unity3D - C# - TypeScript - Nakama - iOS - Android - Mobile Gaming
 [WorkWave](https://workwave.com) | [Career Page](https://careers.workwave.com/) | Product | Optional | Direct | React.js - TypeScript - Java - Rust
 [Young Platform](https://youngplatform.com) | [Career Page](https://www.linkedin.com/company/youngplatformcme/jobs) | Product | Optional | Direct | Go - .NET Core 5 - AWS - GCloud - Kubernetes - C# - MSSQL - PostgreSQL - MongoDB
@@ -205,6 +206,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Superlayer](https://superlayer.co/) | [Career Page](https://superlayer-1634135852323.freshteam.com/jobs) | - | -
 [Sysdig](https://sysdig.com/) | [Career Page](https://sysdig.com/jobs/) | - | Direct
 [TUI](https://www.tuigroup.com/en-en) | [Career Page](https://careers.tuigroup.com/) | - | -
+[WeRoad](https://www.weroad.it/) | [Career Page](https://career.weroad.travel/) | Optional | Direct
 [Whatwapp](https://whatwapp.com/) | [Career Page](https://whatwapp.com/careers/) | Optional | Direct
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Full | Direct
 
