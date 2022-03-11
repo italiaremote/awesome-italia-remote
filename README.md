@@ -33,7 +33,7 @@ Tech stacks are usually incomplete check the careers page of each company to get
 Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 ------------ | -- | ------- | ------- |---------------| -------
 [3Bee](https://www.3bee.com/) | [Career Page](https://www.linkedin.com/company/3beesrl/jobs/) | Product | Full | Direct | React - Django - AWS - IoT
-[Advigator](https://www.advigator.com) | [Career Page](https://www.advigator.com/careers) | B2B | - | - | Ruby On Rails
+[Advigator](https://www.advigator.com) | [Career Page](https://www.advigator.com/careers) | Product | Full | Direct | Ruby On Rails
 [Agile Lab](https://www.agilelab.it/) | [Career Page](https://www.agilelab.it/open-positions/) | Consulting | - | - | AWS - Spark - Scala - Java - Python
 [Aiven](https://aiven.io) | [Career Page](https://aiven.io/careers) | Product | Full | Direct | AWS - GCP - Python - PostgreSQL - Kafka - Databases
 [AlgorandEurope](https://www.algorand.com) | [Career Page](https://www.algorand.com/about/careers/our-jobs) | Product | Optional | Direct | Blockchain - Go - JavaScript - Python - React - Typescript
@@ -57,6 +57,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Cloud Academy](https://www.cloudacademy.com) | [Career Page](https://jobs.cloudacademy.com) | Product | Optional | - | AWS - Django - GraphQL - Kotlin - Python - PostgresQL - React - TypeScript
 [CodicePlastico](https://codiceplastico.com/) | [Career Page](https://codiceplastico.com/jobs/) | Consulting | - | - | .NET - Node.js
 [Collabora Ltd.](https://www.collabora.com/) | [Career Page](https://www.collabora.com/careers.html) | Consulting | Full | Contract | Vulkan - Rust - Python - Open Source - Multimedia - Mesa - Linux - Kubernetes - Kernel - Go - GStreamer - Embedded - DevOps - Debian - Continuous Integration - C/C++
+[Conio S.r.l.](https://www.conio.com) | [Career Page](https://www.linkedin.com/company/conio/jobs/) | Product | Hybrid | Direct | Blockchain - Python - AWS - iOS - Android
 [Cortilia](https://about.cortilia.it/) | [Career Page](https://about.cortilia.it/lavora-con-noi) | Product | - | - | AWS - Java
 [CrowdStrike](https://www.crowdstrike.com/) | [Career Page](https://www.crowdstrike.com/careers/) | Product | - | - | Go - AWS - IoT - Security
 [Datadog](https://www.datadoghq.com/) | [Career Page](https://www.datadoghq.com/careers/) | Product | - | - | Go - Kubernetes
@@ -105,7 +106,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [lastminute.com](https://www.lastminute.com/) | [Career Page](https://careers.lastminute.com/) | Product | Full | Direct | Android - AWS - iOS - Java - Kotlin - Kubernetes - Go - Python - React - React Native - TypeScript
 [Luxoft](https://www.luxoft.com/) | [Career Page](https://career.luxoft.com/locations/italy/) | Consulting | - | - | C++ - Python
 [Macai](https://macaiapp.com/) | [Career Page](https://www.linkedin.com/company/macaiit/jobs/) | Product | Full | Direct | AWS - Serverless - DynamoDB - CDK - CQRS Event-driven architectures - Go - Node.js - TypeScript - fp-ts - React - React Native - Android - iOS - CI/CD - LocalStack - Docker - Python - Machine Learning - Serverless Big Data - Kanban
-[Madisoft](https://labs.madisoft.it) | [Career Page](https://labs.madisoft.it/) | Product | - | Direct | AWS - PHP - React
+[Madisoft](https://labs.madisoft.it) | [Career Page](https://labs.madisoft.it/entra-nel-team/) | Product | Full | Direct | AWS - PHP - React
 [MailUp](https://www.mailup.com/) | [Career Page](https://www.growens.io/en/work-with-us/) | Product | - | - | Linux - Go - AWS - IaC - React - Angular - C# - Python
 [Medicilio](https://www.medicilio.it) | [Career Page](https://medicilio.it/careers) | B2C | Full | Direct | Python - Django - Javascript - Go - REST API - React.js - Vue.js - PostgreSQL - Typescript - Docker - AWS
 [Mia Burton](https://corporate.miaburton.com/en/) | [Career Page](https://corporate.miaburton.com/en/jobs/) | B2C | Full | Direct | NodeJS - Go - VueJs - TypeScript - NuxtJS - AWS - MongoDB - MariaDB - Redis
