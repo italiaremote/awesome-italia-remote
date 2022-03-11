@@ -158,6 +158,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [VLK Studio](https://vlkstudio.com/) | [Career Page](https://www.linkedin.com/company/vlk-studio) | Consulting | Full | Direct | JavaScript - TypeScript - React - React Native - Node.js - Open source - Full remote - .NET - morfeojs - nocode
 [VMWare](https://www.vmware.com/) | [Career Page](https://careers.vmware.com/main/jobs?stretch=10&stretchUnit=MILES&lat=&lng=&location=Italy&woe=12&keywords=&brand=&categories=&locations=&page=1&tags=Yes) | Product | Full | Direct | Cloud - Java - RabbitMQ
 [Wave](https://www.wave.com) | [Career Page](https://www.wave.com/en/careers/) | Product | Full | - | 
+[Weiji](https://weiji.it) | [Career Page](https://weiji.it/contatti/) | Product | Optional | Direct | AWS - Cloud native - MongoDB - Node.js - Javascript - HTML - Phonegap - SCRUM - Bitbucket pipelines
 [WeRoad](https://www.weroad.it/) | [Career Page](https://career.weroad.travel/) | Product | Optional | Direct | Node.js (Nest.js) - PHP (Laravel) - Vue (Nuxt.js) - GCP
 [Whatwapp](https://whatwapp.com/) | [Career Page](https://whatwapp.com/careers/) | Product | Optional | Direct | Unity3D - C# - TypeScript - Nakama - iOS - Android - Mobile Gaming
 [WorkWave](https://workwave.com) | [Career Page](https://careers.workwave.com/) | Product | Optional | Direct | React.js - TypeScript - Java - Rust
