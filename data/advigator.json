@@ -2,12 +2,12 @@
   "name": "Advigator",
   "url": "https://www.advigator.com",
   "career_page_url": "https://www.advigator.com/careers",
-  "type": "B2B",
+  "type": "Product",
   "categories": [
     "cloud_software"
   ],
-  "remote_policy": "-",
-  "hiring_policy": "-",
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
   "tags": [
     "Ruby On Rails"
   ]
