@@ -105,7 +105,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [lastminute.com](https://www.lastminute.com/) | [Career Page](https://careers.lastminute.com/) | Product | Full | Direct | Android - AWS - iOS - Java - Kotlin - Kubernetes - Go - Python - React - React Native - TypeScript
 [Luxoft](https://www.luxoft.com/) | [Career Page](https://career.luxoft.com/locations/italy/) | Consulting | - | - | C++ - Python
 [Macai](https://macaiapp.com/) | [Career Page](https://www.linkedin.com/company/macaiit/jobs/) | Product | Full | Direct | AWS - Serverless - DynamoDB - CDK - CQRS Event-driven architectures - Go - Node.js - TypeScript - fp-ts - React - React Native - Android - iOS - CI/CD - LocalStack - Docker - Python - Machine Learning - Serverless Big Data - Kanban
-[Madisoft](https://labs.madisoft.it) | [Career Page](https://labs.madisoft.it/) | Product | - | Direct | AWS - PHP - React
+[Madisoft](https://labs.madisoft.it) | [Career Page](https://labs.madisoft.it/) | Product | Full | Direct | AWS - PHP - React
 [MailUp](https://www.mailup.com/) | [Career Page](https://www.growens.io/en/work-with-us/) | Product | - | - | Linux - Go - AWS - IaC - React - Angular - C# - Python
 [Medicilio](https://www.medicilio.it) | [Career Page](https://medicilio.it/careers) | B2C | Full | Direct | Python - Django - Javascript - Go - REST API - React.js - Vue.js - PostgreSQL - Typescript - Docker - AWS
 [Mia Burton](https://corporate.miaburton.com/en/) | [Career Page](https://corporate.miaburton.com/en/jobs/) | B2C | Full | Direct | NodeJS - Go - VueJs - TypeScript - NuxtJS - AWS - MongoDB - MariaDB - Redis
