@@ -1,0 +1,24 @@
+{
+  "name": "TXT Group",
+  "url": "https://www.txtgroup.com/",
+  "career_page_url": "https://www.txtgroup.com/careers/all-open-vacancies/",
+  "type": "B2B",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "C++",
+    "C#",
+    ".NET",
+    "Microsoft Azure",
+    "DevOps",
+    "Javascript",
+    "Unity",
+    "Unreal",
+    "Aerospace",
+    "Fintech",
+    "Embedded"
+  ]
+}
