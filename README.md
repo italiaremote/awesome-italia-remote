@@ -88,6 +88,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [HACKERSGEN](https://hackersgen.com) | [Career Page](https://www.sorint.com/en/careers/) | Consulting | Full | Direct | Online Trainings - DevOps - Linux - FullStackDev - Cloud - CyberSec
 [Hastega](https://www.hastega.it/) | [Career Page](https://www.hastega.it/posizioni-aperte/) | Consulting | Optional | Direct | Angular - Laravel - Spring Boot - Android - iOS - AWS - GCP
 [Hasura](https://hasura.io/) | [Career Page](https://hasura.io/careers/) | Product | Full | Contract | Haskell - React - TypeScript
+[Heveloon](https://www.heveloon.co.uk/) | [Career Page](https://www.heveloon.co.uk/) | Mobile app & Blockchain | Full | Contract | AWS - PHP - Swifth - Kotlin - flutter - Solidity - TypeScript - React - Node.js
 [Hinto®](https://www.hinto.com/) | [Career Page](https://www.hinto.com/en/join-us) | Consulting | - | - | AWS - Terraform - PHP - Symfony - Drupal - JS - TypeScript - React - Node.js
 [hlpy](https://hlpy.co) | [Career Page](https://www.linkedin.com/company/hlpy/jobs/) | Product | Full | Direct | Vue.js - Flutter - Python - PostgreSQL - GIS - Kubernetes - ElasticSearch - AWS - Terraform - Machine Learning
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | Product | - | - | AWS - Kubernetes - Terraform - Python - React
