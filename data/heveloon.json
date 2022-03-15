@@ -1,0 +1,21 @@
+{
+  "name": "Heveloon",
+  "url": "https://www.heveloon.co.uk/",
+  "career_page_url": "https://www.linkedin.com/company/heveloon-ltd",
+  "type": "Mobile app & Blockchain",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Contract",
+  "tags": [
+    "React",
+    "Flutter",
+    "AWS",
+    "IoT",
+    "Swifth",
+    "Kotlin",
+    "Noda.js",
+    "Solidity"
+  ]
+}
