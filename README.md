@@ -80,7 +80,6 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [FACEIT](https://www.faceit.com/en) | [Career Page](https://corporate.faceit.com/available-jobs/) | Product | Full | Contract | React - Typescript - Go
 [Facile.it](https://www.facile.it/) | [Career Page](https://inrecruiting.intervieweb.it/facileit/it/career#vacancies) | Product | Full | Direct | PHP - React - Node.js - TypeScript - Kubernetes
 [Flightradar24](https://flightradar24.com/) | [Career Page](https://careers.flightradar24.com/) | Product | - | - | C++ - Python - IoT - AWS - Terraform - Kubernetes - PHP - Vue.js
-[Flowe](https://www.flowe.com/) | [Career Page](https://www.linkedin.com/company/floweitalia/jobs/) | Product | Hybrid | Direct | Azure - Python - .NET - C# - Kotlin - Swift
 [Flowing](https://flowing.it) | [Career Page](https://www.flowing.it/job-opportunity/) | Consulting | Full | Direct | AWS - PHP - TypeScript - Java - Kotlin - JS
 [FourTheorem](https://www.fourtheorem.com) | [Career Page](https://www.fourtheorem.com/careers) | Consulting | - | - | AWS - Cloud Computing - Node.js - Python
 [Gamindo](https://gamindo.com) | [Career Page](https://www.linkedin.com/company/gamindo/jobs/) | Product | Full | Direct | PHP - React - React Native - TypeScript - Vue.js - MySQL
