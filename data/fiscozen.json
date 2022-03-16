@@ -1,0 +1,17 @@
+{
+    "name": "Fiscozen",
+    "url": "https://www.fiscozen.it/",
+    "career_page_url": "https://www.linkedin.com/company/fiscozen/",
+    "type": "Product",
+    "categories": [
+        "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policy": "Direct",
+    "tags": [
+        "JavaScript",
+        "PostgresQL",
+        "Python",
+        "Vue"
+    ]
+}
