@@ -1,0 +1,20 @@
+{
+    "name": "Flowe",
+    "career_page_url": "https://www.linkedin.com/company/floweitalia/jobs/",
+    "url": "https://www.flowe.com/",
+    "remote_policy": "Hybrid",
+    "hiring_policy": "Direct",
+    "type": "Product",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "Python",
+        "Databricks",
+        "Azure",
+        ".NET",
+        "C#",
+        "Kotlin",
+        "Swift"
+    ]
+}
