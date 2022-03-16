@@ -1,0 +1,19 @@
+{
+  "name": "Xpeppers",
+  "url": "https://www.xpeppers.com/",
+  "career_page_url": "https://claranetitalia.recruitee.com/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "AWS",
+    "Azure",
+    "Go",
+    "Scala",
+    "Java",
+    "JS"
+  ]
+}
