@@ -76,6 +76,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [ESTECO](https://www.esteco.com/) | [Career Page](https://jobs.esteco.com/) | Product | Optional | Direct | Android - Angular - AWS - iOS - Java - JavaScript - TypeScript - Kubernetes - GCP - Python - Node.js
 [Everli](https://it.everli.com/it) | [Career Page](https://it.everli.com/it/lavora-con-noi) | Product | Full | Direct | Laravel - Python - MySQL - Elasticsearch - RabbitMQ - Redis - Vue.js - Kotlin - Swift - AWS - Docker
 [Exein](https://exein.io) | [Career Page](https://jobs.exein.io) | Product | Optional | Direct | Security - Rust - eBPF - Linux - Kernel - Python - Machine Learning - TypeScript - React - Open Source - IoT
+[Faberbee](https://faberbee.com) | [Career Page](https://faberbee.com/en/job.html) | Product | Full | Direct | Blockchain - Java - Node.js - Angular - TypeScript - Kubernetes - GCP
 [Fabrick](https://www.fabrick.com/) | [Career Page](https://www.fabrick.com/it/azienda/lavora-con-noi/) | B2B | Hybrid | - | Typescript - Java - React - React Native - OracleSQL
 [FACEIT](https://www.faceit.com/en) | [Career Page](https://corporate.faceit.com/available-jobs/) | Product | Full | Contract | React - Typescript - Go
 [Facile.it](https://www.facile.it/) | [Career Page](https://inrecruiting.intervieweb.it/facileit/it/career#vacancies) | Product | Hybrid | Direct | PHP - React - Node.js - TypeScript - Kubernetes
