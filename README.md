@@ -78,7 +78,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Exein](https://exein.io) | [Career Page](https://jobs.exein.io) | Product | Optional | Direct | Security - Rust - eBPF - Linux - Kernel - Python - Machine Learning - TypeScript - React - Open Source - IoT
 [Fabrick](https://www.fabrick.com/) | [Career Page](https://www.fabrick.com/it/azienda/lavora-con-noi/) | B2B | Hybrid | - | Typescript - Java - React - React Native - OracleSQL
 [FACEIT](https://www.faceit.com/en) | [Career Page](https://corporate.faceit.com/available-jobs/) | Product | Full | Contract | React - Typescript - Go
-[Facile.it](https://www.facile.it/) | [Career Page](https://inrecruiting.intervieweb.it/facileit/it/career#vacancies) | Product | Full | Direct | PHP - React - Node.js - TypeScript - Kubernetes
+[Facile.it](https://www.facile.it/) | [Career Page](https://inrecruiting.intervieweb.it/facileit/it/career#vacancies) | Product | Hybrid | Direct | PHP - React - Node.js - TypeScript - Kubernetes
 [Flightradar24](https://flightradar24.com/) | [Career Page](https://careers.flightradar24.com/) | Product | - | - | C++ - Python - IoT - AWS - Terraform - Kubernetes - PHP - Vue.js
 [Flowing](https://flowing.it) | [Career Page](https://www.flowing.it/job-opportunity/) | Consulting | Full | Direct | AWS - PHP - TypeScript - Java - Kotlin - JS
 [FourTheorem](https://www.fourtheorem.com) | [Career Page](https://www.fourtheorem.com/careers) | Consulting | - | - | AWS - Cloud Computing - Node.js - Python
