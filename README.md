@@ -79,7 +79,9 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Fabrick](https://www.fabrick.com/) | [Career Page](https://www.fabrick.com/it/azienda/lavora-con-noi/) | B2B | Hybrid | - | Typescript - Java - React - React Native - OracleSQL
 [FACEIT](https://www.faceit.com/en) | [Career Page](https://corporate.faceit.com/available-jobs/) | Product | Full | Contract | React - Typescript - Go
 [Facile.it](https://www.facile.it/) | [Career Page](https://inrecruiting.intervieweb.it/facileit/it/career#vacancies) | Product | Hybrid | Direct | PHP - React - Node.js - TypeScript - Kubernetes
+[Fiscozen](https://www.fiscozen.it/) | [Career Page](https://www.linkedin.com/company/fiscozen/) | Product | Full | Direct | JavaScript - PostgresQL - Python - Vue
 [Flightradar24](https://flightradar24.com/) | [Career Page](https://careers.flightradar24.com/) | Product | - | - | C++ - Python - IoT - AWS - Terraform - Kubernetes - PHP - Vue.js
+[Flowe](https://www.flowe.com/) | [Career Page](https://www.linkedin.com/company/floweitalia/jobs/) | Product | Hybrid | Direct | Python - Databricks - Azure - .NET - C# - Kotlin - Swift
 [Flowing](https://flowing.it) | [Career Page](https://www.flowing.it/job-opportunity/) | Consulting | Full | Direct | AWS - PHP - TypeScript - Java - Kotlin - JS
 [FourTheorem](https://www.fourtheorem.com) | [Career Page](https://www.fourtheorem.com/careers) | Consulting | - | - | AWS - Cloud Computing - Node.js - Python
 [Gamindo](https://gamindo.com) | [Career Page](https://www.linkedin.com/company/gamindo/jobs/) | Product | Full | Direct | PHP - React - React Native - TypeScript - Vue.js - MySQL
@@ -89,6 +91,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Hastega](https://www.hastega.it/) | [Career Page](https://www.hastega.it/posizioni-aperte/) | Consulting | Optional | Direct | Angular - Laravel - Spring Boot - Android - iOS - AWS - GCP
 [Hasura](https://hasura.io/) | [Career Page](https://hasura.io/careers/) | Product | Full | Contract | Haskell - React - TypeScript
 [Heply](https://heply.it) | [Career Page](https://careers.heply.it) | B2B | Hybrid | Direct | PHP - Node - Vue.js - React - Angular - React Native - Docker - Kubernetes - Terraform
+[Heveloon](https://www.heveloon.co.uk/) | [Career Page](https://www.linkedin.com/company/heveloon-ltd) | Consulting | Full | Contract | React - Flutter - AWS - IoT - Swifth - Kotlin - Node.js - Solidity
 [Hinto®](https://www.hinto.com/) | [Career Page](https://www.hinto.com/en/join-us) | Consulting | - | - | AWS - Terraform - PHP - Symfony - Drupal - JS - TypeScript - React - Node.js
 [hlpy](https://hlpy.co) | [Career Page](https://www.linkedin.com/company/hlpy/jobs/) | Product | Full | Direct | Vue.js - Flutter - Python - PostgreSQL - GIS - Kubernetes - ElasticSearch - AWS - Terraform - Machine Learning
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | Product | - | - | AWS - Kubernetes - Terraform - Python - React
@@ -141,6 +144,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Searchmetrics](https://www.searchmetrics.com/) | [Career Page](https://www.searchmetrics.com/company-and-careers/) | B2B | Full | Contract | 
 [Serenis](https://www.serenis.it/) | [Career Page](https://join.com/companies/serenis/) | Product | Optional | Direct | Apollo GraphQL Federation - AWS - Docker - Jest - Kubernetes - NestJS - Node.js - React Native - React - TypeScript
 [ShippyPro](https://www.shippypro.com/) | [Career Page](https://www.shippypro.com/en/work-with-us/) | Product | - | - | PHP - Terraform
+[ShopFully](https://corporate.shopfully.com/) | [Career Page](https://corporate.shopfully.com/it/lavora-con-noi/) | Product | Full | Contract | PHP - React - React Native - Node.js - Docker - AWS - Serverless - MySQL
 [SORINT.lab](https://www.sorint.com/en/) | [Career Page](https://www.sorint.com/en/careers/) | Consulting | Full | Direct | FullStackDev - DevOps - AWS - GCP - Azure - Linux - Opensource - Kubernates - OpenShift - Automation - Oracle
 [SORINT.OSS](https://sorintoss.io/) | [Career Page](https://sorintoss.io/contact/) | Consulting | Full | Direct | Open Source development - Agola - Ercole - Stolon - SYNwall
 [SparkFabrik](https://www.sparkfabrik.com) | [Career Page](https://careers.sparkfabrik.com) | Consulting | Full | Direct | AWS - GCP - Alibaba Cloud - Kubernetes - Docker - Cloud-native - DevOps - GitOps - PHP - TypeScript - JS - Go - Drupal - Laravel - Symphony - Angular - React - React Native
