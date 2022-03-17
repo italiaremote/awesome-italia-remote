@@ -1,0 +1,21 @@
+{
+    "name": "ShopFully",
+    "career_page_url": "https://corporate.shopfully.com/it/lavora-con-noi/",
+    "url": "https://corporate.shopfully.com/",
+    "remote_policy": "Full",
+    "hiring_policy": "Contract",
+    "type": "Product",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "PHP",
+        "React",
+        "React Native",
+        "Node.js",
+        "Docker",
+        "AWS",
+        "Serverless",
+        "MySQL"
+    ]
+}
