@@ -6,15 +6,17 @@
   "categories": [
     "cloud_software"
   ],
-  "remote_policy": "-",
-  "hiring_policy": "-",
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
   "tags": [
     "Ansible",
     "AWS",
     "Kubernetes",
     "Terraform",
+    "DevOps",
     "Java",
     "Open Source",
-    "PostgreSQL"
+    "PostgreSQL",
+    "Alfresco"
   ]
 }
