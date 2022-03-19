@@ -162,6 +162,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [TrueLayer](https://truelayer.com) | [Career Page](https://truelayer.com/careers) | B2B | Optional | Direct | Rust - C# - AWS - K8S
 [TUI Musement](https://www.musement.com/) | [Career Page](https://careers.tuigroup.com/jobs/) | Product | Optional | Direct | AWS - PHP - Go - C# - Java - Vue.js
 [TXT Group](https://www.txtgroup.com/) | [Career Page](https://www.txtgroup.com/careers/all-open-vacancies/) | B2B | Optional | Direct | C++ - C# - .NET - Microsoft Azure - DevOps - Javascript - Unity - Unreal - Aerospace - Fintech - Embedded
+[UNGUESS](https://unguess.io/) | [Career Page](https://www.linkedin.com/company/unguess/jobs) | Product | Full | Direct | AWS - Node.js - TypeScript - React - DevOps - Databases - PHP
 [VLK Studio](https://vlkstudio.com/) | [Career Page](https://www.linkedin.com/company/vlk-studio) | Consulting | Full | Direct | JavaScript - TypeScript - React - React Native - Node.js - Open source - Full remote - .NET - morfeojs - nocode
 [VMWare](https://www.vmware.com/) | [Career Page](https://careers.vmware.com/main/jobs?stretch=10&stretchUnit=MILES&lat=&lng=&location=Italy&woe=12&keywords=&brand=&categories=&locations=&page=1&tags=Yes) | Product | Full | Direct | Cloud - Java - RabbitMQ
 [Wave](https://www.wave.com) | [Career Page](https://www.wave.com/en/careers/) | Product | Full | - | 
@@ -188,6 +189,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Human Analytica](https://humananalytica.it) | [Career Page](https://www.linkedin.com/company/human-analytica/jobs) | Hybrid | Direct
 [Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | - | -
 [Superfluid Team](https://www.superfluidteam.com/) | [Career Page](https://www.superfluidteam.com/careers/) | - | -
+[UNGUESS](https://unguess.io/) | [Career Page](https://www.linkedin.com/company/unguess/jobs) | Full | Direct
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Full | Direct
 
 ### HR
@@ -217,6 +219,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Superlayer](https://superlayer.co/) | [Career Page](https://superlayer-1634135852323.freshteam.com/jobs) | - | -
 [Sysdig](https://sysdig.com/) | [Career Page](https://sysdig.com/jobs/) | - | Direct
 [TUI](https://www.tuigroup.com/en-en) | [Career Page](https://careers.tuigroup.com/) | - | -
+[UNGUESS](https://unguess.io/) | [Career Page](https://www.linkedin.com/company/unguess/jobs) | Full | Direct
 [WeRoad](https://www.weroad.it/) | [Career Page](https://career.weroad.travel/) | Optional | Direct
 [Whatwapp](https://whatwapp.com/) | [Career Page](https://whatwapp.com/careers/) | Optional | Direct
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Full | Direct
