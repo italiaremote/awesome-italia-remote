@@ -1,0 +1,22 @@
+{
+  "name": "UNGUESS",
+  "url": "https://unguess.io/",
+  "career_page_url": "https://www.linkedin.com/company/unguess/jobs",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "design_ux",
+    "marketing_writing"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "AWS",
+    "Node.js",
+    "TypeScript",
+    "React",
+    "DevOps",
+    "Databases",
+    "PHP"
+  ]
+}
