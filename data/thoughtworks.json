@@ -1,0 +1,26 @@
+{
+  "name": "Thoughtworks",
+  "url": "https://www.thoughtworks.com/",
+  "career_page_url": "https://www.thoughtworks.com/careers/jobs",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software",
+    "marketing_writing",
+    "design_ux"
+  ],
+  "remote_policy": "Hybrid",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Java",
+    "JavaScript",
+    "Typescript",
+    "Python",
+    "C#",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Rust",
+    "Terraform",
+    "React"
+  ]
+}
