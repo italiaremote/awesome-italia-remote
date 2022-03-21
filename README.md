@@ -46,6 +46,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [BitBull](https://www.bitbull.it) | [Career Page](https://www.bitbull.it/team/) | Consulting | Full | Direct | Magento - Shopify - JavaScript - PHP - Node - AWS - Terraform - Serverless - Vue.js - Nuxt.js
 [Blexin](https://www.blexin.com/) | [Career Page](https://www.linkedin.com/company/blexin/jobs/) | Consulting | Optional | Direct | .NET - Microsoft Azure - DevOps - Javascript - Angular - React - Docker - Kubernetes
 [BOOM](https://boom.co/) | [Career Page](https://boom.co/careers) | B2B | - | - | Typescript - React - NestJS - Java - Kotlin - Data Science - AWS
+[Brainy Labs](https://www.brainylabs.it/) | [Career Page](https://www.linkedin.com/company/brainylabsit/jobs) | Consulting | Optional | Direct | Java - Python - Node - JavaScript - Typescript - Angular - Docker - Spring Boot - PostgreSQL - GIT
 [Breadcrumbs](https://breadcrumbs.io/) | [Career Page](https://www.linkedin.com/company/breadcrumbsio/jobs/) | Product | Full | Direct | AWS - Machine Learning - PHP - Python - React - TypeScript
 [Caffeina](https://caffeina.com) | [Career Page](https://caffeina.com/jobs) | Product | Optional | Direct | JavaScript - PHP - NodeJS - ReactJS - ReactNative - Laravel - AWS - Kubernetes - Terraform
 [Canonical](https://canonical.com/) | [Career Page](https://canonical.com/careers) | Product | Full | Contract | Python - Go - OpenStack - Kubernetes
@@ -160,6 +161,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Tirasa](https://www.tirasa.net/) | [Career Page](https://www.tirasa.net/en/contacts/work-with-us) | Product | Optional | Direct | IAM - Identity - Provisioning - Service Mesh - Authentication - Authorization - SAML - OpenID Connect - SPID - Open Source - Spring Boot - Java
 [TLM Partners](https://tlmpartners.com) | [Career Page](https://tlmpartners.com/being-a-monster/) | Product | - | - | UnrealEngine
 [Treatwell](https://treatwell.com/) | [Career Page](https://treatwell.com/openings/) | Product | Full | Direct | TypeScript - Java - Ruby - React - TDD - DDD
+[Treedom](https://www.treedom.net) | [Career Page](https://www.treedom.net/it/workwithus) | Product | Optional | Direct | AWS - JavaScript - NodeJS - PHP - Vue - MongoDB - MySQL - Salesforce - Typescript - Kubernetes - Serverless - GraphQL - DevOps - Datadog - Redis - GCP - Bitbucket
 [TrueLayer](https://truelayer.com) | [Career Page](https://truelayer.com/careers) | B2B | Optional | Direct | Rust - C# - AWS - K8S
 [TUI Musement](https://www.musement.com/) | [Career Page](https://careers.tuigroup.com/jobs/) | Product | Optional | Direct | AWS - PHP - Go - C# - Java - Vue.js
 [TXT Group](https://www.txtgroup.com/) | [Career Page](https://www.txtgroup.com/careers/all-open-vacancies/) | B2B | Optional | Direct | C++ - C# - .NET - Microsoft Azure - DevOps - Javascript - Unity - Unreal - Aerospace - Fintech - Embedded
