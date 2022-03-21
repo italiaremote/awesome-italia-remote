@@ -1,0 +1,23 @@
+{
+  "name": "Brainy Labs",
+  "url": "https://www.brainylabs.it/",
+  "career_page_url": "https://www.linkedin.com/company/brainylabsit/jobs",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Java",
+    "Python",
+    "Node",
+    "JavaScript",
+    "Typescript",
+    "Angular",
+    "Docker",
+    "Spring Boot",
+    "PostgreSQL",
+    "GIT"
+  ]
+}
