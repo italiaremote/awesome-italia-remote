@@ -78,7 +78,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Exein](https://exein.io) | [Career Page](https://jobs.exein.io) | Product | Optional | Direct | Security - Rust - eBPF - Linux - Kernel - Python - Machine Learning - TypeScript - React - Open Source - IoT
 [Fabrick](https://www.fabrick.com/) | [Career Page](https://www.fabrick.com/it/azienda/lavora-con-noi/) | B2B | Hybrid | - | Typescript - Java - React - React Native - OracleSQL
 [FACEIT](https://www.faceit.com/en) | [Career Page](https://corporate.faceit.com/available-jobs/) | Product | Full | Contract | React - Typescript - Go
-[Facile.it](https://www.facile.it/) | [Career Page](https://inrecruiting.intervieweb.it/facileit/it/career#vacancies) | Product | Hybrid | Direct | PHP - React - Node.js - TypeScript - Kubernetes
+[Facile.it](https://www.facile.it/) | [Career Page](https://jobs.facile.it/) | Product | Hybrid | Direct | PHP - Node.js - TypeScript - MySQL - MongoDB - RabbitMQ - Docker - Kubernetes - ELK - React - Open Source - Swift - Kotlin
 [Fiscozen](https://www.fiscozen.it/) | [Career Page](https://www.linkedin.com/company/fiscozen/) | Product | Full | Direct | JavaScript - PostgresQL - Python - Vue
 [Flightradar24](https://flightradar24.com/) | [Career Page](https://careers.flightradar24.com/) | Product | - | - | C++ - Python - IoT - AWS - Terraform - Kubernetes - PHP - Vue.js
 [Flowe](https://www.flowe.com/) | [Career Page](https://www.linkedin.com/company/floweitalia/jobs/) | Product | Hybrid | Direct | Python - Databricks - Azure - .NET - C# - Kotlin - Swift
