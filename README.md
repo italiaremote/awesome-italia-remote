@@ -156,6 +156,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Switcho](https://www.switcho.it/) | [Career Page](https://switcho.it/jobs) | Product | Full | Direct | PostgreSQL - Kubernetes - GCP - PHP - Typescript - React Native - Vue - React
 [Synesthesia srl](https://www.synesthesia.it) | [Career Page](https://inrecruiting.intervieweb.it/synesthesia/it/career) | Consulting | - | - | Mobile - Swift - Kotlin - Flutter - ReactNative - JavaScript - PHP - React - Typescript - .NET - NodeJS - AI/ML
 [Sysdig](https://sysdig.com/) | [Career Page](https://sysdig.com/jobs/) | Product | - | Direct | Go - AWS - GCP - Node.js - TypeScript - React - Open Source - Kubernetes - Falco - Cloud - JavaScript - Machine Learning - Java - Prometheus
+[Thoughtworks](https://www.thoughtworks.com/) | [Career Page](https://www.thoughtworks.com/careers/jobs) | Consulting | Hybrid | Direct | Java - JavaScript - Typescript - Python - C# - AWS - Docker - Kubernetes - Rust - Terraform - React
 [Tirasa](https://www.tirasa.net/) | [Career Page](https://www.tirasa.net/en/contacts/work-with-us) | Product | Optional | Direct | IAM - Identity - Provisioning - Service Mesh - Authentication - Authorization - SAML - OpenID Connect - SPID - Open Source - Spring Boot - Java
 [TLM Partners](https://tlmpartners.com) | [Career Page](https://tlmpartners.com/being-a-monster/) | Product | - | - | UnrealEngine
 [Treatwell](https://treatwell.com/) | [Career Page](https://treatwell.com/openings/) | Product | Full | Direct | TypeScript - Java - Ruby - React - TDD - DDD
@@ -189,6 +190,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Human Analytica](https://humananalytica.it) | [Career Page](https://www.linkedin.com/company/human-analytica/jobs) | Hybrid | Direct
 [Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | - | -
 [Superfluid Team](https://www.superfluidteam.com/) | [Career Page](https://www.superfluidteam.com/careers/) | - | -
+[Thoughtworks](https://www.thoughtworks.com/) | [Career Page](https://www.thoughtworks.com/careers/jobs) | Hybrid | Direct
 [UNGUESS](https://unguess.io/) | [Career Page](https://www.linkedin.com/company/unguess/jobs) | Full | Direct
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Full | Direct
 
@@ -218,6 +220,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Subito](https://www.subito.it/) | [Career Page](https://www.adevinta.com/jobs?company=subito) | - | Direct
 [Superlayer](https://superlayer.co/) | [Career Page](https://superlayer-1634135852323.freshteam.com/jobs) | - | -
 [Sysdig](https://sysdig.com/) | [Career Page](https://sysdig.com/jobs/) | - | Direct
+[Thoughtworks](https://www.thoughtworks.com/) | [Career Page](https://www.thoughtworks.com/careers/jobs) | Hybrid | Direct
 [TUI](https://www.tuigroup.com/en-en) | [Career Page](https://careers.tuigroup.com/) | - | -
 [UNGUESS](https://unguess.io/) | [Career Page](https://www.linkedin.com/company/unguess/jobs) | Full | Direct
 [WeRoad](https://www.weroad.it/) | [Career Page](https://career.weroad.travel/) | Optional | Direct
