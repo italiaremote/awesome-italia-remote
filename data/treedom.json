@@ -1,0 +1,30 @@
+{
+  "name": "Treedom",
+  "career_page_url": "https://www.treedom.net/it/workwithus",
+  "url": "https://www.treedom.net",
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "tags": [
+    "AWS",
+    "JavaScript",
+    "NodeJS",
+    "PHP",
+    "Vue",
+    "MongoDB",
+    "MySQL",
+    "Salesforce",
+    "Typescript",
+    "Kubernetes",
+    "Serverless",
+    "GraphQL",
+    "DevOps",
+    "Datadog",
+    "Redis",
+    "GCP",
+    "Bitbucket"
+  ]
+}
