@@ -1,7 +1,7 @@
 {
   "name": "Facile.it",
   "url": "https://www.facile.it/",
-  "career_page_url": "https://inrecruiting.intervieweb.it/facileit/it/career#vacancies",
+  "career_page_url": "https://jobs.facile.it/",
   "type": "Product",
   "categories": [
     "cloud_software"
@@ -10,9 +10,17 @@
   "hiring_policy": "Direct",
   "tags": [
     "PHP",
-    "React",
     "Node.js",
     "TypeScript",
-    "Kubernetes"
+    "MySQL",
+    "MongoDB",
+    "RabbitMQ",
+    "Docker",
+    "Kubernetes",
+    "ELK",    
+    "React",
+    "Open Source",
+    "Swift",
+    "Kotlin"
   ]
 }
