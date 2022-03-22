@@ -1,0 +1,20 @@
+{
+  "name": "Space Heroes - Clayton",
+  "url": "https://getclayton.com/",
+  "career_page_url": "https://www.notion.so/getclayton/Work-at-Clayton-98fa028f39b44129989d44a02bbbd374",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Contract",
+  "tags": [
+    "AWS",
+    "React",
+    "Typescript",
+    "Next.js",
+    "Java",
+    "Spring Boot",
+    "PostgreSQL"
+  ]
+}
