@@ -1,0 +1,20 @@
+{
+  "name": "Faberbee",
+  "url": "https://faberbee.com",
+  "career_page_url": "https://faberbee.com/en/job.html",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Blockchain",
+    "Java",
+    "Node.js",
+    "Angular",
+    "TypeScript",
+    "Kubernetes",
+    "GCP"
+  ]
+}
