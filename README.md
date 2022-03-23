@@ -148,6 +148,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Serenis](https://www.serenis.it/) | [Career Page](https://join.com/companies/serenis/) | Product | Optional | Direct | Apollo GraphQL Federation - AWS - Docker - Jest - Kubernetes - NestJS - Node.js - React Native - React - TypeScript
 [ShippyPro](https://www.shippypro.com/) | [Career Page](https://www.shippypro.com/en/work-with-us/) | Product | - | - | PHP - Terraform
 [ShopFully](https://corporate.shopfully.com/) | [Career Page](https://corporate.shopfully.com/it/lavora-con-noi/) | Product | Full | Contract | PHP - React - React Native - Node.js - Docker - AWS - Serverless - MySQL
+[SIGHUP](https://sighup.io/) | [Career Page](https://www.linkedin.com/company/sighup/jobs/) | Product | Full | Direct | Go - Typescript - Python - Docker - Terraform - Kubernetes
 [SORINT.lab](https://www.sorint.com/en/) | [Career Page](https://www.sorint.com/en/careers/) | Consulting | Full | Direct | FullStackDev - DevOps - AWS - GCP - Azure - Linux - Opensource - Kubernates - OpenShift - Automation - Oracle
 [SORINT.OSS](https://sorintoss.io/) | [Career Page](https://sorintoss.io/contact/) | Consulting | Full | Direct | Open Source development - Agola - Ercole - Stolon - SYNwall
 [Space Heroes - Clayton](https://getclayton.com/) | [Career Page](https://www.notion.so/getclayton/Work-at-Clayton-98fa028f39b44129989d44a02bbbd374) | Product | Full | Contract | AWS - React - Typescript - Next.js - Java - Spring Boot - PostgreSQL
