@@ -106,6 +106,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [iSolutions](https://www.isolutions.it/index.html) | [Career Page](https://www.isolutions.it/workwithus.html) | Product | - | - | Azure - .NET - SQL server - AWS
 [Jagaad](https://jagaad.com) | [Career Page](https://jagaad.com/careers) | B2C | Full | Direct | API Integrations - AWS - Docker - Figma - Flutter - Go - Java - JavaScript - Magento - Mobile Apps - NextJS - Node - PHP - PostgreSQL - PrestaShop - React - Sitecore - Strapi - TypeScript - Vue
 [Jimdo](https://jimdo.com/) | [Career Page](https://careers.jimdo.com/) | Product | - | - | SaaS - TypeScript - React - Kotlin - AWS
+[Jobtech](https://jobtech.it) | [Career Page](https://jobtech.it/lavora-con-noi.html) | Product | Optional | Direct | AWS - Kubernetes - Terraform - Serverless - ElasticSearch - Node - React - JavaScript - Laravel - PHP - DDD
 [Kaleyra](https://www.kaleyra.com) | [Career Page](https://www.kaleyra.com/careers?utm_source=GitHubAwesomeItaliaRemote) | Product | - | - | CPaaS - Node - PHP - Python
 [Kensu](https://www.kensu.io?utm_source=github&utm_medium=recruitment_channel) | [Career Page](https://kensu.betterteam.com?utm_source=github&utm_medium=recruitment_channel) | Product | - | - | Scala - React - TypeScript - Python - Redis - Terraform - Ansible - AWS - MariaDB - OrientDB
 [Klondike](https://www.klondike.ai) | [Career Page](https://www.linkedin.com/company/klondike/jobs/) | B2B | Full | Direct | PHP - Javascript - Python
