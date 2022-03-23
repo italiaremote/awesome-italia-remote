@@ -168,6 +168,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [TUI Musement](https://www.musement.com/) | [Career Page](https://careers.tuigroup.com/jobs/) | Product | Optional | Direct | AWS - PHP - Go - C# - Java - Vue.js
 [TXT Group](https://www.txtgroup.com/) | [Career Page](https://www.txtgroup.com/careers/all-open-vacancies/) | B2B | Optional | Direct | C++ - C# - .NET - Microsoft Azure - DevOps - Javascript - Unity - Unreal - Aerospace - Fintech - Embedded
 [UNGUESS](https://unguess.io/) | [Career Page](https://www.linkedin.com/company/unguess/jobs) | Product | Full | Direct | AWS - Node.js - TypeScript - React - DevOps - Databases - PHP
+[Userbot](https://userbot.ai/) | [Career Page](https://userbot.ai/it/jobs-opportunities/) | Product | Full | Direct | Node.js - Javascript - Typescript - PHP - Vue.js - Gearman - Memcached - AWS - MySQL - Nginx - Python - Natural Language Processing - Deep Learning - Git - GitLab
 [VLK Studio](https://vlkstudio.com/) | [Career Page](https://www.linkedin.com/company/vlk-studio) | Consulting | Full | Direct | JavaScript - TypeScript - React - React Native - Node.js - Open source - Full remote - .NET - morfeojs - nocode
 [VMWare](https://www.vmware.com/) | [Career Page](https://careers.vmware.com/main/jobs?stretch=10&stretchUnit=MILES&lat=&lng=&location=Italy&woe=12&keywords=&brand=&categories=&locations=&page=1&tags=Yes) | Product | Full | Direct | Cloud - Java - RabbitMQ
 [Wave](https://www.wave.com) | [Career Page](https://www.wave.com/en/careers/) | Product | Full | - | 
