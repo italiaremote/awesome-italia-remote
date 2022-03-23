@@ -1,0 +1,24 @@
+{
+  "name": "Jobtech",
+  "url": "https://jobtech.it",
+  "career_page_url": "https://jobtech.it/lavora-con-noi.html",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "AWS",
+    "Kubernetes",
+    "Terraform",
+    "Serverless",
+    "ElasticSearch",
+    "Node",
+    "React",
+    "JavaScript",
+    "Laravel",
+    "PHP",
+    "DDD"
+  ]
+}
