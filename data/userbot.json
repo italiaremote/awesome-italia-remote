@@ -1,0 +1,28 @@
+{
+  "name": "Userbot",
+  "url": "https://userbot.ai/",
+  "career_page_url": "https://userbot.ai/it/jobs-opportunities/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Node.js",
+    "Javascript",
+    "Typescript",
+    "PHP",
+    "Vue.js",
+    "Gearman",
+    "Memcached",
+    "AWS",
+    "MySQL",
+    "Nginx",
+    "Python",
+    "Natural Language Processing",
+    "Deep Learning",
+    "Git",
+    "GitLab"
+  ]
+}
