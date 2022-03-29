@@ -1,0 +1,21 @@
+{
+  "name": "PED",
+  "url": "https://ped.company/",
+  "career_page_url": "https://www.linkedin.com/company/pane&design/",
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "tags": [
+    "PHP",
+    "Symfony",
+    "Node.js",
+    "React.js",
+    "Vue.js",
+    "Flutter",
+    "React Native",
+    "AWS"
+  ]
+}
