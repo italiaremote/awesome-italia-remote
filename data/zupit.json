@@ -1,25 +1,25 @@
 {
-    "name": "Zupit",
-    "career_page_url": "https://www.zupit.it/careers.html",
-    "url": "https://www.zupit.it",
-    "remote_policy": "Full",
-    "hiring_policy": "Direct",
-    "type": "Consulting",
-    "categories": [
-        "cloud_software"
-    ],
-    "tags": [
-        "C#",
-        ".NET",
-        "Xamarin",
-        "Java",
-        "Spring Boot",
-        "Python",
-        "Django",
-        "Angular",
-        "Vue",
-        "React",
-        "Typescript",
-        "Docker"
-    ]
+  "name": "Zupit",
+  "url": "https://www.zupit.it",
+  "career_page_url": "https://www.zupit.it/careers.html",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "C#",
+    ".NET",
+    "Xamarin",
+    "Java",
+    "Spring Boot",
+    "Python",
+    "Django",
+    "Angular",
+    "Vue",
+    "React",
+    "Typescript",
+    "Docker"
+  ]
 }

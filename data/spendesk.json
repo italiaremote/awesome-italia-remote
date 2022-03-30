@@ -1,11 +1,13 @@
 {
   "name": "Spendesk",
-  "career_page_url": "https://www.spendesk.com/careers",
   "url": "https://www.spendesk.com",
+  "career_page_url": "https://www.spendesk.com/careers",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
   "remote_policy": "Optional",
   "hiring_policy": "Intermediary",
-  "type": "Product",
-  "categories": ["cloud_software"],
   "tags": [
     "NodeJS",
     "TypeScript",

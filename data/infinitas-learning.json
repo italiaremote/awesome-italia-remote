@@ -1,11 +1,13 @@
 {
   "name": "InfinitasLearning",
-  "career_page_url": "https://careers.infinitaslearning.com/o/software-engineer",
   "url": "https://www.infinitaslearning.com/",
+  "career_page_url": "https://careers.infinitaslearning.com/o/software-engineer",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
   "remote_policy": "Full",
   "hiring_policy": "Direct",
-  "type": "Product",
-  "categories": ["cloud_software"],
   "tags": [
     "Javascript",
     "Typescript",

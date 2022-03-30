@@ -3,18 +3,20 @@
   "url": "https://weiji.it",
   "career_page_url": "https://weiji.it/contatti/",
   "type": "Product",
-  "categories": ["cloud_software"],
+  "categories": [
+    "cloud_software"
+  ],
   "remote_policy": "Optional",
   "hiring_policy": "Direct",
   "tags": [
     "AWS",
     "Cloud native",
     "MongoDB",
-	  "Node.js",
-	  "Javascript",
-	  "HTML",
-	  "Phonegap",
-	  "SCRUM",
-	  "Bitbucket pipelines"
+    "Node.js",
+    "Javascript",
+    "HTML",
+    "Phonegap",
+    "SCRUM",
+    "Bitbucket pipelines"
   ]
 }

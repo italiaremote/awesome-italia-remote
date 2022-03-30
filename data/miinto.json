@@ -3,8 +3,12 @@
   "url": "https://www.miinto-group.com/",
   "career_page_url": "https://www.miinto-group.com/jobs/",
   "type": "B2C",
-  "categories": ["cloud_software"],
+  "categories": [
+    "cloud_software"
+  ],
   "remote_policy": "Full",
   "hiring_policy": "Direct",
-  "tags": ["Vue.js"]
+  "tags": [
+    "Vue.js"
+  ]
 }

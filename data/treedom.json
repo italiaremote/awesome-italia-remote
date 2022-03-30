@@ -1,13 +1,13 @@
 {
   "name": "Treedom",
-  "career_page_url": "https://www.treedom.net/it/workwithus",
   "url": "https://www.treedom.net",
-  "remote_policy": "Optional",
-  "hiring_policy": "Direct",
+  "career_page_url": "https://www.treedom.net/it/workwithus",
   "type": "Product",
   "categories": [
     "cloud_software"
   ],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
   "tags": [
     "AWS",
     "JavaScript",

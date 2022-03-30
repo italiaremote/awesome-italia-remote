@@ -1,25 +1,25 @@
 {
-    "name": "Verizon Connect",
-    "career_page_url": "https://www.verizon.com/about/work/search/firenze-italy/jobs",
-    "url": "https://www.verizonconnect.com/",
-    "remote_policy": "Optional",
-    "hiring_policy": "Direct",
-    "type": "B2B",
-    "categories": [
-        "cloud_software"
-    ],
-    "tags": [
-        "AWS",
-        "TypeScript",
-        "Angular",
-        ".NET",
-        "Python",
-        "Machine Learning",
-        "IoT",
-        "DevOps",
-        "Docker",
-        "PostgreSQL",
-        "iOS",
-        "Android"
-    ]
+  "name": "Verizon Connect",
+  "url": "https://www.verizonconnect.com/",
+  "career_page_url": "https://www.verizon.com/about/work/search/firenze-italy/jobs",
+  "type": "B2B",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "AWS",
+    "TypeScript",
+    "Angular",
+    ".NET",
+    "Python",
+    "Machine Learning",
+    "IoT",
+    "DevOps",
+    "Docker",
+    "PostgreSQL",
+    "iOS",
+    "Android"
+  ]
 }

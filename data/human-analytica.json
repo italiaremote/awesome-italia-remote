@@ -1,9 +1,11 @@
 {
   "name": "Human Analytica",
-  "career_page_url": "https://www.linkedin.com/company/human-analytica/jobs",
   "url": "https://humananalytica.it",
+  "career_page_url": "https://www.linkedin.com/company/human-analytica/jobs",
   "type": "Consulting",
-  "categories": ["marketing_writing"],
+  "categories": [
+    "marketing_writing"
+  ],
   "remote_policy": "Hybrid",
   "hiring_policy": "Direct"
 }

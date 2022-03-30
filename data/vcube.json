@@ -1,26 +1,26 @@
 {
-    "name": "Vcube",
-    "url": "https://www.vcube.it/",
-    "career_page_url": "https://www.vcube.it/careers/",
-    "type": "Consulting",
-    "categories": [
-        "cloud_software"
-    ],
-    "remote_policy": "Hybrid",
-    "hiring_policy": "Direct",
-    "tags": [
-        "Ansible",
-        "Automation",
-        "Azure",
-        "DevOps",
-        "Docker",
-        "Elasticsearch",
-        "ELK",
-        "Jenkins",
-        "Kubernetes",
-        "Linux",
-        "Openshift",
-        "Terraform",
-        "VMware"
-    ]
+  "name": "Vcube",
+  "url": "https://www.vcube.it/",
+  "career_page_url": "https://www.vcube.it/careers/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Hybrid",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Ansible",
+    "Automation",
+    "Azure",
+    "DevOps",
+    "Docker",
+    "Elasticsearch",
+    "ELK",
+    "Jenkins",
+    "Kubernetes",
+    "Linux",
+    "Openshift",
+    "Terraform",
+    "VMware"
+  ]
 }

@@ -1,11 +1,14 @@
 {
   "name": "Heply",
-  "career_page_url": "https://careers.heply.it",
   "url": "https://heply.it",
+  "career_page_url": "https://careers.heply.it",
+  "type": "B2B",
+  "categories": [
+    "cloud_software",
+    "design_ux"
+  ],
   "remote_policy": "Hybrid",
   "hiring_policy": "Direct",
-  "type": "B2B",
-  "categories": ["cloud_software", "design_ux"],
   "tags": [
     "PHP",
     "Node",

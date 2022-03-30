@@ -1,13 +1,13 @@
 {
   "name": "SIGHUP",
-  "career_page_url": "https://www.linkedin.com/company/sighup/jobs/",
   "url": "https://sighup.io/",
+  "career_page_url": "https://www.linkedin.com/company/sighup/jobs/",
   "type": "Product",
-  "remote_policy": "Full",
-  "hiring_policy": "Direct",
   "categories": [
     "cloud_software"
   ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
   "tags": [
     "Go",
     "Typescript",

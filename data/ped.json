@@ -1,13 +1,13 @@
 {
   "name": "PED",
   "url": "https://ped.company/",
-  "career_page_url": "https://www.linkedin.com/company/pane&design/",
-  "remote_policy": "Optional",
-  "hiring_policy": "Direct",
+  "career_page_url": "https://www.linkedin.com/company/pane\u0026design/",
   "type": "Consulting",
   "categories": [
     "cloud_software"
   ],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
   "tags": [
     "PHP",
     "Symfony",

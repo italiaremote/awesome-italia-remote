@@ -1,21 +1,21 @@
 {
-    "name": "Whatwapp",
-    "career_page_url": "https://whatwapp.com/careers/",
-    "url": "https://whatwapp.com/",
-    "remote_policy": "Optional",
-    "hiring_policy": "Direct",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "tags": [
-      "Unity3D",
-      "C#",
-      "TypeScript",
-      "Nakama",
-      "iOS",
-      "Android",
-      "Mobile Gaming"
-    ]
+  "name": "Whatwapp",
+  "url": "https://whatwapp.com/",
+  "career_page_url": "https://whatwapp.com/careers/",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "design_ux"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policy": "Direct",
+  "tags": [
+    "Unity3D",
+    "C#",
+    "TypeScript",
+    "Nakama",
+    "iOS",
+    "Android",
+    "Mobile Gaming"
+  ]
 }

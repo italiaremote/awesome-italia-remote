@@ -1,14 +1,14 @@
 {
   "name": "Jagaad",
-  "career_page_url": "https://jagaad.com/careers",
   "url": "https://jagaad.com",
-  "remote_policy": "Full",
-  "hiring_policy": "Direct",
+  "career_page_url": "https://jagaad.com/careers",
   "type": "B2C",
   "categories": [
     "cloud_software",
     "design_ux"
   ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
   "tags": [
     "API Integrations",
     "AWS",

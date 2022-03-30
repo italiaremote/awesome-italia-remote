@@ -3,8 +3,9 @@
   "url": "https://capbase.com/",
   "career_page_url": "https://www.linkedin.com/company/capbase/jobs/",
   "type": "B2B",
-  "categories": ["cloud_software"],
+  "categories": [
+    "cloud_software"
+  ],
   "remote_policy": "Full",
-  "hiring_policy": "Intermediary",
-  "tags": []
+  "hiring_policy": "Intermediary"
 }

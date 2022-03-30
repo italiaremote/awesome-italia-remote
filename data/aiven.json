@@ -1,19 +1,19 @@
 {
-    "name": "Aiven",
-    "career_page_url": "https://aiven.io/careers",
-    "url": "https://aiven.io",
-    "remote_policy": "Full",
-    "hiring_policy": "Direct",
-    "type": "Product",
-    "categories": [
+  "name": "Aiven",
+  "url": "https://aiven.io",
+  "career_page_url": "https://aiven.io/careers",
+  "type": "Product",
+  "categories": [
     "cloud_software"
-    ],
-    "tags": [
-        "AWS",
-        "GCP",
-        "Python",
-        "PostgreSQL",
-        "Kafka",
-        "Databases"
-    ]
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "AWS",
+    "GCP",
+    "Python",
+    "PostgreSQL",
+    "Kafka",
+    "Databases"
+  ]
 }
