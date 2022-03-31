@@ -10,7 +10,6 @@ Please read the contribution guidelines before opening a pull request or contrib
 * [Alessandro Marino](https://github.com/alessandromr)
 * [Edoardo Costantini](https://github.com/edoardocostantinidev)
 
-
 ## Legenda
 
 ### Remote Policies
@@ -70,12 +69,13 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Datadog](https://www.datadoghq.com/) | [Career Page](https://www.datadoghq.com/careers/) | Product | - | - | Go - Kubernetes
 [DevInterface](https://www.devinterface.com/) | [Career Page](https://www.devinterface.com/en/work-with-us) | Consulting | Hybrid | Direct | Ruby On Rails - Python - Django - Node.js - React - Go
 [Devmy](https://devmy.it) | [Career Page](https://devmy.it/aboutus#hiring) | Consulting | Optional | Direct | AWS - Angular - Dart - DevOps - Docker - Flutter - JavaScript - Nestjs - Next.js - Open source - React - Redis - Terraform - TypeScript
+[Digital Science](https://www.digital-science.com) | [Career Page](https://digitalscience.pinpointhq.com/#js-careers-jobs-block) | Product | Full | Contract | Python - Rust - TypeScript - JavaScript
 [Docebo](https://www.docebo.com/) | [Career Page](https://www.docebo.com/company/careers/) | Product | Full | Direct | AWS - Terraform - Node.js - Angular - PHP
 [Docplanner](https://www.docplanner.com) | [Career Page](https://www.docplanner.com/career) | Product | - | - | AWS - PHP - .NET - ElasticSearch
 [Dove.it](https://www.dove.it) | [Career Page](https://www.dove.it/lavora-con-noi) | B2C | - | - | TypeScript - Kotlin - React - Elasticsearch - PostgreSQL - GCP - Kubernetes
 [doyensec](https://www.doyensec.com) | [Career Page](https://doyensec.com/careers.html) | Consulting | - | - | Security - Infosec - Pentest
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Consulting | Full | - | TypeScript - JavaScript - MacOS - iOS - Android
-[EDB](https://www.enterprisedb.com/) | [Career Page](https://www.enterprisedb.com/careers) | Product | - | - | Azure - C - Kubernetes - PostgreSQL
+[EDB](https://www.enterprisedb.com/) | [Career Page](https://www.enterprisedb.com/careers) | Product | Optional | Direct | AWS - Ansible - Azure - C - CI/CD - DevOps - Go - Kubernetes - Kubernetes operators - Open Source - OpenShift - Postgres - PostgreSQL - Python - Terraform
 [Elastic](https://www.elastic.co/) | [Career Page](https://www.elastic.co/about/careers/) | Product | Full | Direct | Go - Cloud - Scala - OpenStack
 [Empatica](https://www.empatica.com) | [Career Page](https://apply.workable.com/empatica/) | Product | Full | Direct | AWS - GCP - Kubernetes - Docker - Cloud-native - DevOps - DataOps - GitOps - SecOps - Python - Typescript - Terraform - Security - Go - React
 [Engage IT Services](https://www.linkedin.com/company/engage-it-services-s-r-l-) | [Career Page](https://www.linkedin.com/company/engage-it-services-s-r-l-/jobs) | Product | Optional | Direct | .NET - C# - PowerShell - SQL Server - Azure - TypeScript - Angular - REST Api - RabbitMQ - Redis - Docker - Architecture - DevOps - Enterprise solutions
