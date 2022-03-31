@@ -1,0 +1,17 @@
+{
+    "name": "Codemotion",
+    "career_page_url": "https://www.codemotion.com/work-with-us",
+    "url": "https://www.codemotion.com",
+    "remote_policy": "Hybrid",
+    "hiring_policy": "Direct",
+    "type": "Product",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "Laravel",
+        "Vue.js",
+        "Azure",
+        "MongoDB"
+    ]
+}
