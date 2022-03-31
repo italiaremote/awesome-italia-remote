@@ -56,6 +56,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Claranet Italia](https://www.claranet.it/) | [Career Page](https://claranetitalia.recruitee.com/l/it) | Consulting | Optional | Direct | AWS
 [Clastix](https://clastix.io) | [Career Page](https://github.com/clastix/hiring) | Product | - | - | Cloud Native - Kubernetes - Go - DevOps - Software Development
 [Cloud Academy](https://www.cloudacademy.com) | [Career Page](https://jobs.cloudacademy.com) | Product | Optional | - | AWS - Django - GraphQL - Kotlin - Python - PostgresQL - React - TypeScript
+[Codemotion](https://www.codemotion.com) | [Career Page](https://www.codemotion.com/work-with-us) | Product | Hybrid | Direct | Laravel - Vue.js - Azure - MongoDB
 [CodicePlastico](https://codiceplastico.com/) | [Career Page](https://codiceplastico.com/jobs/) | Consulting | - | - | .NET - Node.js
 [Collabora Ltd.](https://www.collabora.com/) | [Career Page](https://www.collabora.com/careers.html) | Consulting | Full | Contract | Vulkan - Rust - Python - Open Source - Multimedia - Mesa - Linux - Kubernetes - Kernel - Go - GStreamer - Embedded - DevOps - Debian - Continuous Integration - C/C++
 [Conio S.r.l.](https://www.conio.com) | [Career Page](https://www.linkedin.com/company/conio/jobs/) | Product | Hybrid | Direct | Blockchain - Python - AWS - iOS - Android
