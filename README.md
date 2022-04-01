@@ -191,6 +191,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [ZappyRent](https://www.zappyrent.com) | [Career Page](https://zappyrent.zendesk.com/hc/en-us/articles/4407693578897-Work-with-Us) | B2C | - | - | Node.js - React - AWS - Kubernetes
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Product | Full | Direct | Android - AWS - Go - iOS - Java - JavaScript - Kafka - Kubernetes - Python - React - Scala - Terraform - Typescript
 [Zupit](https://www.zupit.it) | [Career Page](https://www.zupit.it/careers.html) | Consulting | Full | Direct | C# - .NET - Xamarin - Java - Spring Boot - Python - Django - Angular - Vue - React - Typescript - Docker
+[ZuruTech](https://zuru.tech/) | [Career Page](https://zuru.tech/careers) | Product | Optional | Direct | C++ - UnrealEngine - MacOS - Linux - Machine Learning
 
 ### Marketing and Writing
 
@@ -217,6 +218,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
 [Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | - | -
 [TUI](https://www.tuigroup.com/en-en) | [Career Page](https://careers.tuigroup.com/) | - | -
+[ZuruTech](https://zuru.tech/) | [Career Page](https://zuru.tech/careers) | Optional | Direct
 
 ### Design and UX
 
@@ -242,6 +244,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [WeRoad](https://www.weroad.it/) | [Career Page](https://career.weroad.travel/) | Optional | Direct
 [Whatwapp](https://whatwapp.com/) | [Career Page](https://whatwapp.com/careers/) | Optional | Direct
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Full | Direct
+[ZuruTech](https://zuru.tech/) | [Career Page](https://zuru.tech/careers) | Optional | Direct
 
 ---------
 
