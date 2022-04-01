@@ -10,17 +10,20 @@
     "hiring_policy": "Direct",
     "tags": [
         "AWS",
+        "Data Science",
         "Docker",
         "Django",
         "Elasticsearch",
         "Go",
         "JavaScript",
+        "Kafka",
         "Kubernetes",
         "Linux",
         "Machine Learning",
         "PostgreSQL",
         "Python",
         "React",
+        "Spark",
         "Terraform",
         "TypeScript"
     ]
