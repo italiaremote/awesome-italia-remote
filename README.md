@@ -141,7 +141,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [PED](https://ped.company/) | [Career Page](https://www.linkedin.com/company/pane&design/) | Consulting | Optional | Direct | PHP - Symfony - Node.js - React.js - Vue.js - Flutter - React Native - AWS
 [Pinv](https://www.pinv.it) | [Career Page](https://pinv.it/contatti/) | Product | Full | Direct | Node.js - React - TypeScript
 [Portchain](https://www.portchain.com/) | [Career Page](https://www.portchain.com/international-team/) | Product | Optional | Contract | JavaScript - TypeScript - Node.js - React - Python - PostgreSQL - AWS - Heroku
-[Prima](https://www.prima.it/) | [Career Page](https://it.prima.jobs/?lang=it-it) | Product | Full | Direct | AWS - Kubernetes - Rust - Elixir - Android - iOS - ELM - React - PHP - Python - Spark - Machine Learning - RabbitMQ - CQRS - DDD - Pulumi
+[Prima](https://www.prima.it/) | [Career Page](https://it.prima.jobs/?lang=it-it) | Product | Full | Direct | AWS - Kubernetes - Rust - Elixir - Android - iOS - Elm - React - PHP - Python - Spark - Machine Learning - RabbitMQ - CQRS - DDD - Pulumi
 [ProntoPro](https://www.prontopro.it/) | [Career Page](https://jobs.jobvite.com/prontopro/jobs) | Product | - | Direct | PHP - Go - AWS - Terraform - Kubernetes
 [Qonto](https://qonto.com/en) | [Career Page](https://qonto.com/en/careers) | Product | - | Contract | Go - EmberJS - Kotlin - Swift - Kubernetes - Terraform - AWS
 [Radical Storage](https://radicalstorage.com/) | [Career Page](https://www.linkedin.com/company/radicalstorage/jobs/) | Product | Full | Contract | Go - AWS - React - Docker - Kubernetes - Terraform - DDD
