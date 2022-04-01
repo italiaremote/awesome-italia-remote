@@ -1,0 +1,27 @@
+{
+    "name": "SpazioDati",
+    "url": "https://spaziodati.eu/",
+    "career_page_url": "https://spaziodati.eu/en/jobs/",
+    "type": "Product",
+    "categories": [
+        "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policy": "Direct",
+    "tags": [
+        "AWS",
+        "Docker",
+        "Django",
+        "Elasticsearch",
+        "Go",
+        "JavaScript",
+        "Kubernetes",
+        "Linux",
+        "Machine Learning",
+        "PostgreSQL",
+        "Python",
+        "React",
+        "Terraform",
+        "TypeScript"
+    ]
+} 
