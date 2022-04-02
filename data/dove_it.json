@@ -7,7 +7,9 @@
     "cloud_software"
   ],
   "remote_policy": "-",
-  "hiring_policy": "-",
+  "hiring_policies": [
+    "-"
+  ],
   "tags": [
     "TypeScript",
     "Kotlin",

@@ -10,7 +10,9 @@
     "marketing_writing"
   ],
   "remote_policy": "Full",
-  "hiring_policy": "-",
+  "hiring_policies": [
+    "-"
+  ],
   "tags": [
     "TypeScript",
     "JavaScript",

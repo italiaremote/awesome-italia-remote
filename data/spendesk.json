@@ -7,7 +7,9 @@
     "cloud_software"
   ],
   "remote_policy": "Optional",
-  "hiring_policy": "Intermediary",
+  "hiring_policies": [
+    "Intermediary"
+  ],
   "tags": [
     "NodeJS",
     "TypeScript",

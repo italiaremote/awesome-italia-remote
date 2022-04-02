@@ -8,7 +8,9 @@
     "design_ux"
   ],
   "remote_policy": "Hybrid",
-  "hiring_policy": "Direct",
+  "hiring_policies": [
+    "Direct"
+  ],
   "tags": [
     "PHP",
     "Node",

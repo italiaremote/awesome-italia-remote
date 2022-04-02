@@ -9,7 +9,9 @@
     "marketing_writing"
   ],
   "remote_policy": "Optional",
-  "hiring_policy": "Direct",
+  "hiring_policies": [
+    "Direct"
+  ],
   "tags": [
     "JavaScript",
     "React",

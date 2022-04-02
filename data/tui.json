@@ -7,5 +7,7 @@
     "hr"
   ],
   "remote_policy": "-",
-  "hiring_policy": "-"
+  "hiring_policies": [
+    "-"
+  ]
 }

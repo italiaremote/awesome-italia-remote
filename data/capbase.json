@@ -7,5 +7,7 @@
     "cloud_software"
   ],
   "remote_policy": "Full",
-  "hiring_policy": "Intermediary"
+  "hiring_policies": [
+    "Intermediary"
+  ]
 }

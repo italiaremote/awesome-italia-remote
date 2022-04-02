@@ -38,7 +38,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 ------------ | -- | ------- | ------- |---------------| -------
 
 {{- range .cloud_software}}
-[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.RemotePolicy}} | {{.HiringPolicy}} | {{.GetTagsString}}
+[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.RemotePolicy}} | {{.GetHiringPoliciesString}} | {{.GetTagsString}}
 {{- end}}
 
 ### Marketing and Writing
@@ -46,7 +46,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
 {{- range .marketing_writing}}
-[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.RemotePolicy}} | {{.HiringPolicy}}
+[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.RemotePolicy}} | {{.GetHiringPoliciesString}}
 {{- end}}
 
 ### HR
@@ -54,7 +54,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
 {{- range .hr}}
-[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.RemotePolicy}} | {{.HiringPolicy}}
+[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.RemotePolicy}} | {{.GetHiringPoliciesString}}
 {{- end}}
 
 ### Design and UX
@@ -62,7 +62,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
 {{- range .design_ux}}
-[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.RemotePolicy}} | {{.HiringPolicy}}
+[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.RemotePolicy}} | {{.GetHiringPoliciesString}}
 {{- end}}
 
 ---------

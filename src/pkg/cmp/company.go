@@ -9,14 +9,14 @@ import (
 type Companies map[string][]Company
 
 type Company struct {
-	Name          string   `json:"name"`
-	URL           string   `json:"url"`
-	CareerPageURL string   `json:"career_page_url"`
-	Type          string   `json:"type,omitempty"`
-	Categories    []string `json:"categories,omitempty"`
-	RemotePolicy  string   `json:"remote_policy,omitempty"`
-	HiringPolicy  string   `json:"hiring_policy,omitempty"`
-	Tags          []string `json:"tags,omitempty"`
+	Name           string   `json:"name"`
+	URL            string   `json:"url"`
+	CareerPageURL  string   `json:"career_page_url"`
+	Type           string   `json:"type,omitempty"`
+	Categories     []string `json:"categories,omitempty"`
+	RemotePolicy   string   `json:"remote_policy,omitempty"`
+	HiringPolicies []string `json:"hiring_policies,omitempty"`
+	Tags           []string `json:"tags,omitempty"`
 }
 
 var (
@@ -49,6 +49,9 @@ var (
 func (c Company) GetTagsString() string {
 	return strings.Join(c.Tags, " - ")
 }
+func (c Company) GetHiringPoliciesString() string {
+	return strings.Join(c.HiringPolicies, " - ")
+}
 
 func (c Company) Validate() error {
 	if len(c.Name) < 1 {
@@ -65,8 +68,10 @@ func (c Company) Validate() error {
 		}
 	}
 
-	if !allowedHiringPolicies[c.HiringPolicy] {
-		return fmt.Errorf("%s | Hiring Policy %s not allowed", c.Name, c.HiringPolicy)
+	for _, hiringPolicy := range c.HiringPolicies {
+		if !allowedHiringPolicies[hiringPolicy] {
+			return fmt.Errorf("%s | Hiring Policy %s not allowed", c.Name, hiringPolicy)
+		}
 	}
 
 	if !allowedRemotePolicies[c.RemotePolicy] {

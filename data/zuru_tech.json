@@ -9,7 +9,9 @@
     "hr"
   ],
   "remote_policy": "Optional",
-  "hiring_policy": "Direct",
+  "hiring_policies": [
+    "Direct"
+  ],
   "tags": [
     "C++",
     "UnrealEngine",

@@ -25,7 +25,9 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
     "career_page_url": "https://companyname.companytld/jobs",
     "url": "https://www.companyname.companytld/",
     "remote_policy": "Full",
-    "hiring_policy": "Contract",
+    "hiring_policies": [
+        "Contract"
+    ],
     "type": "B2B",
     "categories": [
         "cloud_software"
