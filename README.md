@@ -129,6 +129,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Milkman Technologies](https://www.milkmantechnologies.com/) | [Career Page](https://www.linkedin.com/company/milkmantechnologies/jobs/) | Product | - | - | Java - Clojure - AWS - JavaScript - React - Kotlin - Kafka
 [NearForm](https://www.nearform.com) | [Career Page](https://www.nearform.com/careers/) | Consulting | Full | Intermediary | Node.js - React - AWS - GCP - Kubernetes
 [Neato Robotics](https://neatorobotics.com) | [Career Page](https://neatorobotics.com/pages/careers) | Product | Full | Direct | AWS - iOS - Swift - Android - Kotlin - Elixir - Distributed Erlang
+[Neosperience](https://www.neosperience.com) | [Career Page](https://www.neosperience.com/we-are-hiring/) | B2B | Optional | Direct | AWS - Node - GraphQL - Kotlin - Python - Java - React - TypeScript - AI - Machine Learning - Data Science
 [Nephila](https://nephila.digital/) | [Career Page](https://nephila.digital/jobs/) | Consulting | Optional | Direct | Python - Django - Vue.js - React - DevOps - Docker - PostgreSQL - AWS
 [Netlify](https://www.netlify.com/) | [Career Page](https://www.netlify.com/careers/) | Product | - | Contract | AWS - JavaScript - Go - Node - React - Ruby
 [Neulabs](https://neulabs.com/) | [Career Page](https://neulabs.com/careers) | Product | - | Direct | AWS - Kubernetes - Serverless - Terraform - Python - Typescript - React
@@ -207,6 +208,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | - | -
 [Human Analytica](https://humananalytica.it) | [Career Page](https://www.linkedin.com/company/human-analytica/jobs) | Hybrid | Direct
 [Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | - | -
+[Neosperience](https://www.neosperience.com) | [Career Page](https://www.neosperience.com/we-are-hiring/) | Optional | Direct
 [Superfluid Team](https://www.superfluidteam.com/) | [Career Page](https://www.superfluidteam.com/careers/) | - | -
 [Thoughtworks](https://www.thoughtworks.com/) | [Career Page](https://www.thoughtworks.com/careers/jobs) | Hybrid | Direct
 [UNGUESS](https://unguess.io/) | [Career Page](https://www.linkedin.com/company/unguess/jobs) | Full | Direct
@@ -235,6 +237,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Jagaad](https://jagaad.com) | [Career Page](https://jagaad.com/careers) | Full | Direct
 [MailUp](https://www.mailup.com/) | [Career Page](https://www.growens.io/en/work-with-us/) | - | -
 [Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | - | -
+[Neosperience](https://www.neosperience.com) | [Career Page](https://www.neosperience.com/we-are-hiring/) | Optional | Direct
 [Patchai](https://www.patchai.io/) | [Career Page](https://www.linkedin.com/company/ai-patch/jobs/) | Full | Direct
 [Subito](https://www.subito.it/) | [Career Page](https://www.adevinta.com/jobs?company=subito) | - | Direct
 [Superlayer](https://superlayer.co/) | [Career Page](https://superlayer-1634135852323.freshteam.com/jobs) | - | -
