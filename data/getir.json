@@ -2,8 +2,8 @@
   "name": "Getir",
   "url": "https://getir.com/it/",
   "career_page_url": "https://apply.workable.com/getir/",
-  "type": "B2C",
-  "categories": ["food_delivery"],
+  "type": "Product",
+  "categories": ["B2C"],
   "remote_policy": "Full",
   "hiring_policies": ["-"],
   "tags": ["iOS", "Android", "Node.js", "Go", "Java"]
