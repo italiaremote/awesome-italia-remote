@@ -1,0 +1,10 @@
+{
+  "name": "Shopify",
+  "url": "https://www.shopify.com",
+  "career_page_url": "https://www.shopify.com/careers",
+  "type": "Product",
+  "categories": ["B2B"],
+  "remote_policy": "Full",
+  "hiring_policies": ["-"],
+  "tags": ["Ruby", "Go", "Python", "React", "Kubernetes"]
+}
