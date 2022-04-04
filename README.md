@@ -150,6 +150,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [RedHat](https://www.redhat.com/it/global/italia) | [Career Page](https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=13270--Remote) | Product | Full | Direct | AWS - Java - Linux - OpenShift
 [Refactory](https://www.refactory-project.com/) | [Career Page](https://www.refactory-project.com/join-the-team/) | Consulting | - | - | PHP - Symfony - JS - Node.js - Vue.js - AWS
 [Register S.p.A.](https://www.register.it/) | [Career Page](https://itcareers.team.blue/) | Product | - | Direct | Java - PHP - React
+[Remotamente S.r.l.](https://www.remotamente.it) | [Career Page](https://remotamente.it/en/job/) | Consulting | Full |  | NodeJS - React - AWS - Fullstack - JavaScript
 [Remote](https://remote.com/) | [Career Page](https://boards.greenhouse.io/remotecom) | Product | Full | Direct | React.js - JavaScript
 [S2E - Solutions to Enterprises](https://solutions2enterprises.com/it/) | [Career Page](https://solutions2enterprises.com/lavoraconnoi/) | Consulting | Optional | Direct | Consulting - AWS - Python - ElasticSearch
 [Searchmetrics](https://www.searchmetrics.com/) | [Career Page](https://www.searchmetrics.com/company-and-careers/) | B2B | Full | Contract | 
@@ -189,6 +190,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [WeRoad](https://www.weroad.it/) | [Career Page](https://career.weroad.travel/) | Product | Optional | Direct | Node.js (Nest.js) - PHP (Laravel) - Vue (Nuxt.js) - GCP
 [Whatwapp](https://whatwapp.com/) | [Career Page](https://whatwapp.com/careers/) | Product | Optional | Direct | Unity3D - C# - TypeScript - Nakama - iOS - Android - Mobile Gaming
 [WorkWave](https://workwave.com) | [Career Page](https://careers.workwave.com/) | Product | Optional | Direct | React.js - TypeScript - Java - Rust
+[YOOX NET-A-PORTER GROUP](https://www.ynap.com/it) | [Career Page](https://www.ynap.com/it/pagine/careers) | Product | Hybrid |  | iOS - Android - JavaScript - AWS - TypeScript - React - Node.js
 [Young Platform](https://youngplatform.com) | [Career Page](https://www.linkedin.com/company/youngplatformcme/jobs) | Product | Optional | Direct | Go - .NET Core 5 - AWS - GCloud - Kubernetes - C# - MSSQL - PostgreSQL - MongoDB
 [ZappyRent](https://www.zappyrent.com) | [Career Page](https://zappyrent.zendesk.com/hc/en-us/articles/4407693578897-Work-with-Us) | B2C | - | - | Node.js - React - AWS - Kubernetes
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Product | Full | Direct | Android - AWS - Go - iOS - Java - JavaScript - Kafka - Kubernetes - Python - React - Scala - Terraform - Typescript
@@ -221,6 +223,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
 [Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | - | -
 [TUI](https://www.tuigroup.com/en-en) | [Career Page](https://careers.tuigroup.com/) | - | -
+[YOOX NET-A-PORTER GROUP](https://www.ynap.com/it) | [Career Page](https://www.ynap.com/it/pagine/careers) | Hybrid | 
 [ZuruTech](https://zuru.tech/) | [Career Page](https://zuru.tech/careers) | Optional | Direct
 
 ### Design and UX
@@ -247,6 +250,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [UNGUESS](https://unguess.io/) | [Career Page](https://www.linkedin.com/company/unguess/jobs) | Full | Direct
 [WeRoad](https://www.weroad.it/) | [Career Page](https://career.weroad.travel/) | Optional | Direct
 [Whatwapp](https://whatwapp.com/) | [Career Page](https://whatwapp.com/careers/) | Optional | Direct
+[YOOX NET-A-PORTER GROUP](https://www.ynap.com/it) | [Career Page](https://www.ynap.com/it/pagine/careers) | Hybrid | 
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Full | Direct
 [ZuruTech](https://zuru.tech/) | [Career Page](https://zuru.tech/careers) | Optional | Direct
 
