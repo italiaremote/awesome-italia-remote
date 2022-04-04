@@ -1,0 +1,22 @@
+{
+  "name": "YOOX NET-A-PORTER GROUP",
+  "url": "https://www.ynap.com/it",
+  "career_page_url": "https://www.ynap.com/it/pagine/careers",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "design_ux",
+    "hr"
+  ],
+  "remote_policy": "Hybrid",
+  "hiring_policy": "Direct",
+  "tags": [
+    "iOS",
+    "Android",
+    "JavaScript",
+    "AWS",
+    "TypeScript",
+    "React",
+    "Node.js"
+  ]
+}
