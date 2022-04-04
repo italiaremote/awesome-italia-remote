@@ -1,0 +1,18 @@
+{
+  "name": "Remotamente S.r.l.",
+  "url": "https://www.remotamente.it",
+  "career_page_url": "https://remotamente.it/en/job/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policy": "Direct",
+  "tags": [
+    "NodeJS",
+    "React",
+    "AWS",
+    "Fullstack",
+    "JavaScript"
+  ]
+}
