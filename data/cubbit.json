@@ -1,0 +1,28 @@
+{
+  "name": "Cubbit",
+  "url": "https://www.cubbit.io/",
+  "career_page_url": "https://www.cubbit.io/disruptive-jobs-in-tech",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "PostgreSQL",
+    "Redis",
+    "Android",
+    "iOS",
+    "C++",
+    "WebAssembly",
+    "Python",
+    "Rust",
+    "TypeScript",
+    "React"
+  ]
+}

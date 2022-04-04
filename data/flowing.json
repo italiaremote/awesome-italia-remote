@@ -8,9 +8,9 @@
     "design_ux"
   ],
   "remote_policy": "Full",
-  "hiring_policy": [
-    "Direct",
-    "Contract"
+  "hiring_policies": [
+    "Contract",
+    "Direct"
   ],
   "tags": [
     "AWS",

@@ -1,0 +1,30 @@
+{
+  "name": "Newesis Srl",
+  "url": "https://www.newesis.com",
+  "career_page_url": "https://www.newesis.com/career",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Azure",
+    "AWS",
+    "GCP",
+    "Alibaba Cloud",
+    "Terraform",
+    "IaC",
+    "Kubernetes",
+    "Docker",
+    "Cloud-native",
+    "CICD",
+    "Helm",
+    "DevOps",
+    "GitOps",
+    "GitHub",
+    "GitLab"
+  ]
+}
