@@ -1,0 +1,28 @@
+{
+  "name": "Neosperience",
+  "url": "https://www.neosperience.com",
+  "career_page_url": "https://www.neosperience.com/we-are-hiring/",
+  "type": "B2B",
+  "categories": [
+    "cloud_software",
+    "design_ux",
+    "marketing_writing"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "AWS",
+    "Node",
+    "GraphQL",
+    "Kotlin",
+    "Python",
+    "Java",
+    "React",
+    "TypeScript",
+    "AI",
+    "Machine Learning",
+    "Data Science"
+  ]
+}

@@ -6,12 +6,25 @@
   "categories": [
     "cloud_software"
   ],
-  "remote_policy": "-",
-  "hiring_policy": "-",
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
   "tags": [
+    "AWS",
+    "Ansible",
     "Azure",
     "C",
+    "CI/CD",
+    "DevOps",
+    "Go",
     "Kubernetes",
-    "PostgreSQL"
+    "Kubernetes operators",
+    "Open Source",
+    "OpenShift",
+    "Postgres",
+    "PostgreSQL",
+    "Python",
+    "Terraform"
   ]
 }

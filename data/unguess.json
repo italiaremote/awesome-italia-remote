@@ -9,7 +9,9 @@
     "marketing_writing"
   ],
   "remote_policy": "Full",
-  "hiring_policy": "Direct",
+  "hiring_policies": [
+    "Direct"
+  ],
   "tags": [
     "AWS",
     "Node.js",

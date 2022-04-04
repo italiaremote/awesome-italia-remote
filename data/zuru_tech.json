@@ -1,0 +1,22 @@
+{
+  "name": "ZuruTech",
+  "url": "https://zuru.tech/",
+  "career_page_url": "https://zuru.tech/careers",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "design_ux",
+    "hr"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "C++",
+    "UnrealEngine",
+    "MacOS",
+    "Linux",
+    "Machine Learning"
+  ]
+}

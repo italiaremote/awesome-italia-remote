@@ -1,0 +1,19 @@
+{
+  "name": "Digital Science",
+  "url": "https://www.digital-science.com",
+  "career_page_url": "https://digitalscience.pinpointhq.com/#js-careers-jobs-block",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Contract"
+  ],
+  "tags": [
+    "Python",
+    "Rust",
+    "TypeScript",
+    "JavaScript"
+  ]
+}

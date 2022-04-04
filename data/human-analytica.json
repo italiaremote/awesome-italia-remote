@@ -7,5 +7,7 @@
     "marketing_writing"
   ],
   "remote_policy": "Hybrid",
-  "hiring_policy": "Direct"
+  "hiring_policies": [
+    "Direct"
+  ]
 }

@@ -7,7 +7,9 @@
     "cloud_software"
   ],
   "remote_policy": "Full",
-  "hiring_policy": "Contract",
+  "hiring_policies": [
+    "Contract"
+  ],
   "tags": [
     "Vulkan",
     "Rust",
