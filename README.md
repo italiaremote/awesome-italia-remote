@@ -156,6 +156,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Register S.p.A.](https://www.register.it/) | [Career Page](https://itcareers.team.blue/) | Product | - | Direct | Java - PHP - React
 [Remotamente S.r.l.](https://www.remotamente.it) | [Career Page](https://remotamente.it/en/job/) | Consulting | Full | Direct | NodeJS - React - AWS - Fullstack - JavaScript
 [Remote](https://remote.com/) | [Career Page](https://boards.greenhouse.io/remotecom) | Product | Full | Direct | React.js - JavaScript
+[Rome Tools, Inc.](https://rome.tools) | [Career Page](https://careers.rome.tools) | Product | Full | Intermediary | Rust - TypeScript - Cloudflare
 [S2E - Solutions to Enterprises](https://solutions2enterprises.com/it/) | [Career Page](https://solutions2enterprises.com/lavoraconnoi/) | Consulting | Optional | Direct | Consulting - AWS - Python - ElasticSearch
 [Searchmetrics](https://www.searchmetrics.com/) | [Career Page](https://www.searchmetrics.com/company-and-careers/) | B2B | Full | Contract | 
 [Serenis](https://www.serenis.it/) | [Career Page](https://join.com/companies/serenis/) | Product | Optional | Direct | Apollo GraphQL Federation - AWS - Docker - Jest - Kubernetes - NestJS - Node.js - React Native - React - TypeScript
