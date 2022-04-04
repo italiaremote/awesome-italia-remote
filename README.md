@@ -90,7 +90,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Fiscozen](https://www.fiscozen.it/) | [Career Page](https://www.linkedin.com/company/fiscozen/) | Product | Full | Direct | JavaScript - PostgresQL - Python - Vue
 [Flightradar24](https://flightradar24.com/) | [Career Page](https://careers.flightradar24.com/) | Product | - | - | C++ - Python - IoT - AWS - Terraform - Kubernetes - PHP - Vue.js
 [Flowe](https://www.flowe.com/) | [Career Page](https://www.linkedin.com/company/floweitalia/jobs/) | Product | Hybrid | Direct | Python - Databricks - Azure - .NET - C# - Kotlin - Swift
-[Flowing](https://flowing.it) | [Career Page](https://www.flowing.it/job-opportunity/) | Consulting | Full | Direct | AWS - PHP - TypeScript - Java - Kotlin - JS
+[Flowing](https://flowing.it) | [Career Page](https://www.flowing.it/job-opportunity/) | Consulting | Full |  | AWS - PHP - TypeScript - Java - Kotlin - JS
 [FourTheorem](https://www.fourtheorem.com) | [Career Page](https://www.fourtheorem.com/careers) | Consulting | - | - | AWS - Cloud Computing - Node.js - Python
 [Gamindo](https://gamindo.com) | [Career Page](https://www.linkedin.com/company/gamindo/jobs/) | Product | Full | Direct | PHP - React - React Native - TypeScript - Vue.js - MySQL
 [Garden](https://www.garden.io) | [Career Page](https://www.garden.io/careers) | Product | - | - | Typescript - Kubernetes
@@ -233,7 +233,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/hiring) | Optional | Direct
 [Cloud Academy](https://www.cloudacademy.com) | [Career Page](https://jobs.cloudacademy.com) | Optional | -
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
-[Flowing](https://flowing.it) | [Career Page](https://www.flowing.it/job-opportunity/) | Full | Direct
+[Flowing](https://flowing.it) | [Career Page](https://www.flowing.it/job-opportunity/) | Full | 
 [Heply](https://heply.it) | [Career Page](https://careers.heply.it) | Hybrid | Direct
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | - | -
 [Immobiliare.it](https://labs.immobiliare.it/) | [Career Page](https://www.immobiliare.it/info/lavora-con-noi/?utm_source=GitHubAwesomeItaliaRemote) | Optional | Direct
