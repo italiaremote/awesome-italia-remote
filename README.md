@@ -94,6 +94,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [FourTheorem](https://www.fourtheorem.com) | [Career Page](https://www.fourtheorem.com/careers) | Consulting | - | - | AWS - Cloud Computing - Node.js - Python
 [Gamindo](https://gamindo.com) | [Career Page](https://www.linkedin.com/company/gamindo/jobs/) | Product | Full | Direct | PHP - React - React Native - TypeScript - Vue.js - MySQL
 [Garden](https://www.garden.io) | [Career Page](https://www.garden.io/careers) | Product | - | - | Typescript - Kubernetes
+[Getir](https://getir.com/it/) | [Career Page](https://apply.workable.com/getir/) | Product | Full | - | iOS - Android - Node.js - Go - Java
 [Gorgias](https://www.gorgias.com/) | [Career Page](https://www.gorgias.com/about-us/jobs) | Product | - | - | GCP - Python - PostgreSQL - Typescript - Javascript - React - Terraform - Kubernetes - Socket.io - RabbitMQ - Celery
 [HACKERSGEN](https://hackersgen.com) | [Career Page](https://www.sorint.com/en/careers/) | Consulting | Full | Direct | Online Trainings - DevOps - Linux - FullStackDev - Cloud - CyberSec
 [Hastega](https://www.hastega.it/) | [Career Page](https://www.hastega.it/posizioni-aperte/) | Consulting | Optional | Direct | Angular - Laravel - Spring Boot - Android - iOS - AWS - GCP
@@ -133,6 +134,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Nephila](https://nephila.digital/) | [Career Page](https://nephila.digital/jobs/) | Consulting | Optional | Direct | Python - Django - Vue.js - React - DevOps - Docker - PostgreSQL - AWS
 [Netlify](https://www.netlify.com/) | [Career Page](https://www.netlify.com/careers/) | Product | - | Contract | AWS - JavaScript - Go - Node - React - Ruby
 [Neulabs](https://neulabs.com/) | [Career Page](https://neulabs.com/careers) | Product | - | Direct | AWS - Kubernetes - Serverless - Terraform - Python - Typescript - React
+[Newesis Srl](https://www.newesis.com) | [Career Page](https://www.newesis.com/career) | Consulting | Full | Direct | Azure - AWS - GCP - Alibaba Cloud - Terraform - IaC - Kubernetes - Docker - Cloud-native - CICD - Helm - DevOps - GitOps - GitHub - GitLab
 [OpenCity Labs](https://www.opencityitalia.it/) | [Career Page](https://opencityitalia.it/lavora-con-noi/) | Product | - | - | Open Source - PHP - Symfony - AWS - Docker - Go - Angular - Kafka - Python
 [OverIT](https://www.overit.it/) | [Career Page](https://www.overit.it/lavora-con-noi/) | Product | Optional | Direct | Android - AWS - C# - GIS technologies - Java - JavaScript - Python
 [PagoPA S.p.A.](https://www.pagopa.it/it/) | [Career Page](https://www.pagopa.it/it/lavora-con-noi) | Product | Optional | Direct | TypeScript - React - Scala - Node.js - JavaScript - Java - Terraform - Azure - Kubernetes
