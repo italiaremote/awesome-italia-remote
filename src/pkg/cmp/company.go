@@ -59,11 +59,11 @@ func (c Company) Validate() error {
 	}
 
 	if len(c.Categories) < 1 {
-		return fmt.Errorf("Company must have at least one category")
+		return fmt.Errorf("%s | Company must have at least one category", c.Name)
 	}
 
 	if len(c.HiringPolicies) < 1 {
-		return fmt.Errorf("Hiring Policies must have at least one policy")
+		return fmt.Errorf("%s | Hiring Policies must have at least one policy", c.Name)
 	}
 
 	for _, category := range c.Categories {
