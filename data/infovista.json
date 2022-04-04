@@ -1,0 +1,31 @@
+{
+    "name": "Infovista",
+    "career_page_url": "https://www.linkedin.com/company/infovista/jobs/",
+    "url": "https://www.infovista.com/",
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "Product",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "Kubernetes",
+        "Rancher",
+        "Istio",
+        "Docker",
+        "DevOps",
+        "Terraform",
+        "Prometheus",
+        "Go",
+        "C++",
+        "Java",
+        "Quarkus",
+	"REST",
+        "JavaScript",
+        "Angular",
+        "Redis",
+        "Kafka"
+    ]
+}
