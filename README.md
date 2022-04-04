@@ -66,6 +66,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Conio S.r.l.](https://www.conio.com) | [Career Page](https://www.linkedin.com/company/conio/jobs/) | Product | Hybrid | Direct | Blockchain - Python - AWS - iOS - Android
 [Cortilia](https://about.cortilia.it/) | [Career Page](https://about.cortilia.it/lavora-con-noi) | Product | - | - | AWS - Java
 [CrowdStrike](https://www.crowdstrike.com/) | [Career Page](https://www.crowdstrike.com/careers/) | Product | - | - | Go - AWS - IoT - Security
+[Cubbit](https://www.cubbit.io/) | [Career Page](https://www.cubbit.io/disruptive-jobs-in-tech) | Product | Optional | Direct | AWS - Docker - Kubernetes - PostgreSQL - Redis - Android - iOS - C++ - WebAssembly - Python - Rust - TypeScript - React
 [Datadog](https://www.datadoghq.com/) | [Career Page](https://www.datadoghq.com/careers/) | Product | - | - | Go - Kubernetes
 [DevInterface](https://www.devinterface.com/) | [Career Page](https://www.devinterface.com/en/work-with-us) | Consulting | Hybrid | Direct | Ruby On Rails - Python - Django - Node.js - React - Go
 [Devmy](https://devmy.it) | [Career Page](https://devmy.it/aboutus#hiring) | Consulting | Optional | Direct | AWS - Angular - Dart - DevOps - Docker - Flutter - JavaScript - Nestjs - Next.js - Open source - React - Redis - Terraform - TypeScript
