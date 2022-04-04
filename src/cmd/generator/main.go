@@ -12,12 +12,19 @@ import (
 const homePath = "../../../"
 const dataPath = homePath + "data/"
 
+type TemplateParameters struct {
+	Len       int
+	Companies map[string][]cmp.Company
+}
+
 func main() {
-	companies := make(map[string][]cmp.Company)
+	companies := TemplateParameters{}
+	companies.Companies = make(map[string][]cmp.Company)
 	companiesFile, err := os.ReadDir(dataPath)
 	if err != nil {
 		log.Fatalln(err)
 	}
+	companies.Len = len(companiesFile)
 
 	for _, companyFiles := range companiesFile {
 		var company cmp.Company
@@ -39,7 +46,7 @@ func main() {
 		}
 
 		for _, category := range company.Categories {
-			companies[category] = append(companies[category], company)
+			companies.Companies[category] = append(companies.Companies[category], company)
 		}
 	}
 

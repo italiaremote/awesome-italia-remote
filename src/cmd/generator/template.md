@@ -37,7 +37,7 @@ Tech stacks are usually incomplete check the careers page of each company to get
 Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 ------------ | -- | ------- | ------- |---------------| -------
 
-{{- range .cloud_software}}
+{{- range .Companies.cloud_software}}
 [{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.RemotePolicy}} | {{.GetHiringPoliciesString}} | {{.GetTagsString}}
 {{- end}}
 
@@ -45,7 +45,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 
 Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
-{{- range .marketing_writing}}
+{{- range .Companies.marketing_writing}}
 [{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.RemotePolicy}} | {{.GetHiringPoliciesString}}
 {{- end}}
 
@@ -53,7 +53,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 
 Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
-{{- range .hr}}
+{{- range .Companies.hr}}
 [{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.RemotePolicy}} | {{.GetHiringPoliciesString}}
 {{- end}}
 
@@ -61,7 +61,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 
 Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
-{{- range .design_ux}}
+{{- range .Companies.design_ux}}
 [{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.RemotePolicy}} | {{.GetHiringPoliciesString}}
 {{- end}}
 
