@@ -1,0 +1,23 @@
+{
+  "name": "Develer",
+  "url": "https://www.develer.com/",
+  "career_page_url": "https://www.develer.com/lavora-con-noi/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Qt",
+    "Go",
+    "Python",
+    "Linux",
+    "AWS",
+    "C++",
+    "Rust",
+    "Embedded"
+  ]
+}
