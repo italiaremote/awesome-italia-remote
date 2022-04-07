@@ -1,0 +1,35 @@
+{
+  "name": "Deltatre",
+  "url": "https://www.deltatre.com/",
+  "career_page_url": "https://www.deltatre.com/careers/open-positions",
+  "type": "B2B",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    ".NET",
+    "Azure",
+    "AWS",
+    "GCP",
+    "DevOps",
+    "MLOps",
+    "Machine Learning",
+    "Cybersec",
+    "C#",
+    "Unity 3D",
+    "Python",
+    "Javascript",
+    "Angular",
+    "React",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Kafka",
+    "iOS",
+    "Android"
+  ]
+}
