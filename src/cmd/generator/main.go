@@ -70,7 +70,14 @@ func main() {
 		log.Fatalln(err)
 	}
 
-	jsonByte, err := json.MarshalIndent(companies, "", "  ")
+	var values []cmp.Company
+	for _, companyByType := range companies.Companies {
+		for _, company := range companyByType {
+			values = append(values, company)
+		}
+	}
+
+	jsonByte, err := json.MarshalIndent(values, "", "  ")
 	if err != nil {
 		log.Fatalln(err)
 	}
