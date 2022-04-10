@@ -56,6 +56,27 @@
     ]
   },
   {
+    "name": "Agile Lab",
+    "url": "https://www.agilelab.it/",
+    "career_page_url": "https://www.agilelab.it/open-positions/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software",
+      "marketing_writing"
+    ],
+    "remote_policy": "-",
+    "hiring_policies": [
+      "-"
+    ],
+    "tags": [
+      "AWS",
+      "Spark",
+      "Scala",
+      "Java",
+      "Python"
+    ]
+  },
+  {
     "name": "Aiven",
     "url": "https://aiven.io",
     "career_page_url": "https://aiven.io/careers",
@@ -213,6 +234,58 @@
       "JavaScript",
       "React",
       "TypeScript"
+    ]
+  },
+  {
+    "name": "Belka",
+    "url": "https://www.belkadigital.com",
+    "career_page_url": "https://www.belkadigital.com/hiring",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "marketing_writing"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "JavaScript",
+      "React",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Belka",
+    "url": "https://www.belkadigital.com",
+    "career_page_url": "https://www.belkadigital.com/hiring",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "marketing_writing"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "JavaScript",
+      "React",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "BendingSpoons",
+    "url": "https://bendingspoons.com/",
+    "career_page_url": "https://bendingspoons.com/careers.html",
+    "categories": [
+      "marketing_writing"
+    ],
+    "remote_policy": "-",
+    "hiring_policies": [
+      "-"
     ]
   },
   {
@@ -484,6 +557,30 @@
       "Go",
       "DevOps",
       "Software Development"
+    ]
+  },
+  {
+    "name": "Cloud Academy",
+    "url": "https://www.cloudacademy.com",
+    "career_page_url": "https://jobs.cloudacademy.com",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "-"
+    ],
+    "tags": [
+      "AWS",
+      "Django",
+      "GraphQL",
+      "Kotlin",
+      "Python",
+      "PostgresQL",
+      "React",
+      "TypeScript"
     ]
   },
   {
@@ -908,6 +1005,75 @@
     ]
   },
   {
+    "name": "DuckDuckGo",
+    "url": "https://www.duckduckgo.com/",
+    "career_page_url": "https://duckduckgo.com/hiring",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "hr",
+      "marketing_writing"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "-"
+    ],
+    "tags": [
+      "TypeScript",
+      "JavaScript",
+      "MacOS",
+      "iOS",
+      "Android"
+    ]
+  },
+  {
+    "name": "DuckDuckGo",
+    "url": "https://www.duckduckgo.com/",
+    "career_page_url": "https://duckduckgo.com/hiring",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "hr",
+      "marketing_writing"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "-"
+    ],
+    "tags": [
+      "TypeScript",
+      "JavaScript",
+      "MacOS",
+      "iOS",
+      "Android"
+    ]
+  },
+  {
+    "name": "DuckDuckGo",
+    "url": "https://www.duckduckgo.com/",
+    "career_page_url": "https://duckduckgo.com/hiring",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "hr",
+      "marketing_writing"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "-"
+    ],
+    "tags": [
+      "TypeScript",
+      "JavaScript",
+      "MacOS",
+      "iOS",
+      "Android"
+    ]
+  },
+  {
     "name": "EDB",
     "url": "https://www.enterprisedb.com/",
     "career_page_url": "https://www.enterprisedb.com/careers",
@@ -954,6 +1120,37 @@
       "Cloud",
       "Scala",
       "OpenStack"
+    ]
+  },
+  {
+    "name": "Empatica",
+    "url": "https://www.empatica.com",
+    "career_page_url": "https://apply.workable.com/empatica/",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "marketing_writing"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "AWS",
+      "GCP",
+      "Kubernetes",
+      "Docker",
+      "Cloud-native",
+      "DevOps",
+      "DataOps",
+      "GitOps",
+      "SecOps",
+      "Python",
+      "Typescript",
+      "Terraform",
+      "Security",
+      "Go",
+      "React"
     ]
   },
   {
@@ -1068,6 +1265,33 @@
       "GCP",
       "Python",
       "Node.js"
+    ]
+  },
+  {
+    "name": "Everli",
+    "url": "https://it.everli.com/it",
+    "career_page_url": "https://it.everli.com/it/lavora-con-noi",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "marketing_writing"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Laravel",
+      "Python",
+      "MySQL",
+      "Elasticsearch",
+      "RabbitMQ",
+      "Redis",
+      "Vue.js",
+      "Kotlin",
+      "Swift",
+      "AWS",
+      "Docker"
     ]
   },
   {
@@ -1273,6 +1497,29 @@
       "C#",
       "Kotlin",
       "Swift"
+    ]
+  },
+  {
+    "name": "Flowing",
+    "url": "https://flowing.it",
+    "career_page_url": "https://www.flowing.it/job-opportunity/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Contract",
+      "Direct"
+    ],
+    "tags": [
+      "AWS",
+      "PHP",
+      "TypeScript",
+      "Java",
+      "Kotlin",
+      "JS"
     ]
   },
   {
@@ -1505,6 +1752,31 @@
     ]
   },
   {
+    "name": "Heply",
+    "url": "https://heply.it",
+    "career_page_url": "https://careers.heply.it",
+    "type": "B2B",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "PHP",
+      "Node",
+      "Vue.js",
+      "React",
+      "Angular",
+      "React Native",
+      "Docker",
+      "Kubernetes",
+      "Terraform"
+    ]
+  },
+  {
     "name": "Heveloon",
     "url": "https://www.heveloon.co.uk/",
     "career_page_url": "https://www.linkedin.com/company/heveloon-ltd",
@@ -1599,6 +1871,63 @@
     ]
   },
   {
+    "name": "Hotjar",
+    "url": "https://www.hotjar.com/",
+    "career_page_url": "https://careers.hotjar.com/",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "marketing_writing"
+    ],
+    "remote_policy": "-",
+    "hiring_policies": [
+      "-"
+    ],
+    "tags": [
+      "AWS",
+      "Kubernetes",
+      "Terraform",
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "name": "Hotjar",
+    "url": "https://www.hotjar.com/",
+    "career_page_url": "https://careers.hotjar.com/",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "marketing_writing"
+    ],
+    "remote_policy": "-",
+    "hiring_policies": [
+      "-"
+    ],
+    "tags": [
+      "AWS",
+      "Kubernetes",
+      "Terraform",
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "name": "Human Analytica",
+    "url": "https://humananalytica.it",
+    "career_page_url": "https://www.linkedin.com/company/human-analytica/jobs",
+    "type": "Consulting",
+    "categories": [
+      "marketing_writing"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ]
+  },
+  {
     "name": "Hyland Software, Inc.",
     "url": "https://www.hyland.com/en",
     "career_page_url": "https://careers-hyland.icims.com/jobs/intro",
@@ -1671,6 +2000,42 @@
       "Vue",
       "Typescript",
       "Kubernetes"
+    ]
+  },
+  {
+    "name": "Immobiliare.it",
+    "url": "https://labs.immobiliare.it/",
+    "career_page_url": "https://www.immobiliare.it/info/lavora-con-noi/?utm_source=GitHubAwesomeItaliaRemote",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Swift",
+      "Java",
+      "Kotlin",
+      "Sass",
+      "React",
+      "Node.js",
+      "PHP",
+      "Python",
+      "Go",
+      "GIS",
+      "RabbitMQ",
+      "Big Data",
+      "Machine Learning",
+      "OpenStack",
+      "Palo Alto Networks",
+      "Arista Networks",
+      "Kubernetes",
+      "Terraform",
+      "SaltStack",
+      "Ansible"
     ]
   },
   {
@@ -1807,6 +2172,42 @@
       ".NET",
       "SQL server",
       "AWS"
+    ]
+  },
+  {
+    "name": "Jagaad",
+    "url": "https://jagaad.com",
+    "career_page_url": "https://jagaad.com/careers",
+    "type": "B2C",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "API Integrations",
+      "AWS",
+      "Docker",
+      "Figma",
+      "Flutter",
+      "Go",
+      "Java",
+      "JavaScript",
+      "Magento",
+      "Mobile Apps",
+      "NextJS",
+      "Node",
+      "PHP",
+      "PostgreSQL",
+      "PrestaShop",
+      "React",
+      "Sitecore",
+      "Strapi",
+      "TypeScript",
+      "Vue"
     ]
   },
   {
@@ -2074,6 +2475,30 @@
     ]
   },
   {
+    "name": "MailUp",
+    "url": "https://www.mailup.com/",
+    "career_page_url": "https://www.growens.io/en/work-with-us/",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "-",
+    "hiring_policies": [
+      "-"
+    ],
+    "tags": [
+      "Linux",
+      "Go",
+      "AWS",
+      "IaC",
+      "React",
+      "Angular",
+      "C#",
+      "Python"
+    ]
+  },
+  {
     "name": "Medicilio",
     "url": "https://www.medicilio.it",
     "career_page_url": "https://medicilio.it/careers",
@@ -2097,6 +2522,48 @@
       "Typescript",
       "Docker",
       "AWS"
+    ]
+  },
+  {
+    "name": "Meta",
+    "url": "https://about.facebook.com/meta/",
+    "career_page_url": "https://www.metacareers.com/jobs?roles[0]=full-time\u0026offices[0]=Remote%2C%20Italy",
+    "categories": [
+      "design_ux",
+      "hr",
+      "marketing_writing"
+    ],
+    "remote_policy": "-",
+    "hiring_policies": [
+      "-"
+    ]
+  },
+  {
+    "name": "Meta",
+    "url": "https://about.facebook.com/meta/",
+    "career_page_url": "https://www.metacareers.com/jobs?roles[0]=full-time\u0026offices[0]=Remote%2C%20Italy",
+    "categories": [
+      "design_ux",
+      "hr",
+      "marketing_writing"
+    ],
+    "remote_policy": "-",
+    "hiring_policies": [
+      "-"
+    ]
+  },
+  {
+    "name": "Meta",
+    "url": "https://about.facebook.com/meta/",
+    "career_page_url": "https://www.metacareers.com/jobs?roles[0]=full-time\u0026offices[0]=Remote%2C%20Italy",
+    "categories": [
+      "design_ux",
+      "hr",
+      "marketing_writing"
+    ],
+    "remote_policy": "-",
+    "hiring_policies": [
+      "-"
     ]
   },
   {
@@ -2246,6 +2713,62 @@
       "Kotlin",
       "Elixir",
       "Distributed Erlang"
+    ]
+  },
+  {
+    "name": "Neosperience",
+    "url": "https://www.neosperience.com",
+    "career_page_url": "https://www.neosperience.com/we-are-hiring/",
+    "type": "B2B",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "marketing_writing"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "AWS",
+      "Node",
+      "GraphQL",
+      "Kotlin",
+      "Python",
+      "Java",
+      "React",
+      "TypeScript",
+      "AI",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Neosperience",
+    "url": "https://www.neosperience.com",
+    "career_page_url": "https://www.neosperience.com/we-are-hiring/",
+    "type": "B2B",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "marketing_writing"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "AWS",
+      "Node",
+      "GraphQL",
+      "Kotlin",
+      "Python",
+      "Java",
+      "React",
+      "TypeScript",
+      "AI",
+      "Machine Learning",
+      "Data Science"
     ]
   },
   {
@@ -2493,6 +3016,30 @@
       "GitOps",
       "Python",
       "Go"
+    ]
+  },
+  {
+    "name": "Patchai",
+    "url": "https://www.patchai.io/",
+    "career_page_url": "https://www.linkedin.com/company/ai-patch/jobs/",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "AWS",
+      "Kubernetes",
+      "Go",
+      "Node.js",
+      "Flutter",
+      "Dart",
+      "Python",
+      "Terraform"
     ]
   },
   {
@@ -3182,6 +3729,64 @@
     ]
   },
   {
+    "name": "Subito",
+    "url": "https://www.subito.it/",
+    "career_page_url": "https://www.adevinta.com/jobs?company=subito",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "-",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Go",
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Android",
+      "iOS",
+      "Terraform",
+      "AWS",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "Superfluid Team",
+    "url": "https://www.superfluidteam.com/",
+    "career_page_url": "https://www.superfluidteam.com/careers/",
+    "categories": [
+      "marketing_writing"
+    ],
+    "remote_policy": "-",
+    "hiring_policies": [
+      "-"
+    ]
+  },
+  {
+    "name": "Superlayer",
+    "url": "https://superlayer.co/",
+    "career_page_url": "https://superlayer-1634135852323.freshteam.com/jobs",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "-",
+    "hiring_policies": [
+      "-"
+    ],
+    "tags": [
+      "Go",
+      "Terraform",
+      "AWS",
+      "PostgreSQL",
+      "HTMX"
+    ]
+  },
+  {
     "name": "Superlayer",
     "url": "https://superlayer.co/",
     "career_page_url": "https://superlayer-1634135852323.freshteam.com/jobs",
@@ -3280,6 +3885,92 @@
       "Machine Learning",
       "Java",
       "Prometheus"
+    ]
+  },
+  {
+    "name": "Sysdig",
+    "url": "https://sysdig.com/",
+    "career_page_url": "https://sysdig.com/jobs/",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "-",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Go",
+      "AWS",
+      "GCP",
+      "Node.js",
+      "TypeScript",
+      "React",
+      "Open Source",
+      "Kubernetes",
+      "Falco",
+      "Cloud",
+      "JavaScript",
+      "Machine Learning",
+      "Java",
+      "Prometheus"
+    ]
+  },
+  {
+    "name": "Thoughtworks",
+    "url": "https://www.thoughtworks.com/",
+    "career_page_url": "https://www.thoughtworks.com/careers/jobs",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software",
+      "marketing_writing",
+      "design_ux"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Java",
+      "JavaScript",
+      "Typescript",
+      "Python",
+      "C#",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Rust",
+      "Terraform",
+      "React"
+    ]
+  },
+  {
+    "name": "Thoughtworks",
+    "url": "https://www.thoughtworks.com/",
+    "career_page_url": "https://www.thoughtworks.com/careers/jobs",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software",
+      "marketing_writing",
+      "design_ux"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Java",
+      "JavaScript",
+      "Typescript",
+      "Python",
+      "C#",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Rust",
+      "Terraform",
+      "React"
     ]
   },
   {
@@ -3426,6 +4117,32 @@
     ]
   },
   {
+    "name": "TUI",
+    "url": "https://www.tuigroup.com/en-en",
+    "career_page_url": "https://careers.tuigroup.com/",
+    "categories": [
+      "design_ux",
+      "hr"
+    ],
+    "remote_policy": "-",
+    "hiring_policies": [
+      "-"
+    ]
+  },
+  {
+    "name": "TUI",
+    "url": "https://www.tuigroup.com/en-en",
+    "career_page_url": "https://careers.tuigroup.com/",
+    "categories": [
+      "design_ux",
+      "hr"
+    ],
+    "remote_policy": "-",
+    "hiring_policies": [
+      "-"
+    ]
+  },
+  {
     "name": "TUI Musement",
     "url": "https://www.musement.com/",
     "career_page_url": "https://careers.tuigroup.com/jobs/",
@@ -3470,6 +4187,54 @@
       "Aerospace",
       "Fintech",
       "Embedded"
+    ]
+  },
+  {
+    "name": "UNGUESS",
+    "url": "https://unguess.io/",
+    "career_page_url": "https://www.linkedin.com/company/unguess/jobs",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "marketing_writing"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "AWS",
+      "Node.js",
+      "TypeScript",
+      "React",
+      "DevOps",
+      "Databases",
+      "PHP"
+    ]
+  },
+  {
+    "name": "UNGUESS",
+    "url": "https://unguess.io/",
+    "career_page_url": "https://www.linkedin.com/company/unguess/jobs",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "marketing_writing"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "AWS",
+      "Node.js",
+      "TypeScript",
+      "React",
+      "DevOps",
+      "Databases",
+      "PHP"
     ]
   },
   {
@@ -3682,6 +4447,49 @@
     ]
   },
   {
+    "name": "WeRoad",
+    "url": "https://www.weroad.it/",
+    "career_page_url": "https://career.weroad.travel/",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Node.js (Nest.js)",
+      "PHP (Laravel)",
+      "Vue (Nuxt.js)",
+      "GCP"
+    ]
+  },
+  {
+    "name": "Whatwapp",
+    "url": "https://whatwapp.com/",
+    "career_page_url": "https://whatwapp.com/careers/",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Unity3D",
+      "C#",
+      "TypeScript",
+      "Nakama",
+      "iOS",
+      "Android",
+      "Mobile Gaming"
+    ]
+  },
+  {
     "name": "Whatwapp",
     "url": "https://whatwapp.com/",
     "career_page_url": "https://whatwapp.com/careers/",
@@ -3721,6 +4529,54 @@
       "TypeScript",
       "Java",
       "Rust"
+    ]
+  },
+  {
+    "name": "YOOX NET-A-PORTER GROUP",
+    "url": "https://www.ynap.com/it",
+    "career_page_url": "https://www.ynap.com/it/pagine/careers",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "hr"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "iOS",
+      "Android",
+      "JavaScript",
+      "AWS",
+      "TypeScript",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "YOOX NET-A-PORTER GROUP",
+    "url": "https://www.ynap.com/it",
+    "career_page_url": "https://www.ynap.com/it/pagine/careers",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "hr"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "iOS",
+      "Android",
+      "JavaScript",
+      "AWS",
+      "TypeScript",
+      "React",
+      "Node.js"
     ]
   },
   {
@@ -3821,6 +4677,66 @@
     ]
   },
   {
+    "name": "Zendesk",
+    "url": "https://www.zendesk.com",
+    "career_page_url": "https://jobs.zendesk.com/us/en",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "marketing_writing"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Android",
+      "AWS",
+      "Go",
+      "iOS",
+      "Java",
+      "JavaScript",
+      "Kafka",
+      "Kubernetes",
+      "Python",
+      "React",
+      "Scala",
+      "Terraform",
+      "Typescript"
+    ]
+  },
+  {
+    "name": "Zendesk",
+    "url": "https://www.zendesk.com",
+    "career_page_url": "https://jobs.zendesk.com/us/en",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "marketing_writing"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Android",
+      "AWS",
+      "Go",
+      "iOS",
+      "Java",
+      "JavaScript",
+      "Kafka",
+      "Kubernetes",
+      "Python",
+      "React",
+      "Scala",
+      "Terraform",
+      "Typescript"
+    ]
+  },
+  {
     "name": "Zupit",
     "url": "https://www.zupit.it",
     "career_page_url": "https://www.zupit.it/careers.html",
@@ -3870,848 +4786,6 @@
     ]
   },
   {
-    "name": "Agile Lab",
-    "url": "https://www.agilelab.it/",
-    "career_page_url": "https://www.agilelab.it/open-positions/",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software",
-      "marketing_writing"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "AWS",
-      "Spark",
-      "Scala",
-      "Java",
-      "Python"
-    ]
-  },
-  {
-    "name": "Belka",
-    "url": "https://www.belkadigital.com",
-    "career_page_url": "https://www.belkadigital.com/hiring",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "marketing_writing"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "JavaScript",
-      "React",
-      "TypeScript"
-    ]
-  },
-  {
-    "name": "BendingSpoons",
-    "url": "https://bendingspoons.com/",
-    "career_page_url": "https://bendingspoons.com/careers.html",
-    "categories": [
-      "marketing_writing"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ]
-  },
-  {
-    "name": "DuckDuckGo",
-    "url": "https://www.duckduckgo.com/",
-    "career_page_url": "https://duckduckgo.com/hiring",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "hr",
-      "marketing_writing"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "TypeScript",
-      "JavaScript",
-      "MacOS",
-      "iOS",
-      "Android"
-    ]
-  },
-  {
-    "name": "Empatica",
-    "url": "https://www.empatica.com",
-    "career_page_url": "https://apply.workable.com/empatica/",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "marketing_writing"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "GCP",
-      "Kubernetes",
-      "Docker",
-      "Cloud-native",
-      "DevOps",
-      "DataOps",
-      "GitOps",
-      "SecOps",
-      "Python",
-      "Typescript",
-      "Terraform",
-      "Security",
-      "Go",
-      "React"
-    ]
-  },
-  {
-    "name": "Everli",
-    "url": "https://it.everli.com/it",
-    "career_page_url": "https://it.everli.com/it/lavora-con-noi",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "marketing_writing"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Laravel",
-      "Python",
-      "MySQL",
-      "Elasticsearch",
-      "RabbitMQ",
-      "Redis",
-      "Vue.js",
-      "Kotlin",
-      "Swift",
-      "AWS",
-      "Docker"
-    ]
-  },
-  {
-    "name": "Hotjar",
-    "url": "https://www.hotjar.com/",
-    "career_page_url": "https://careers.hotjar.com/",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "marketing_writing"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "AWS",
-      "Kubernetes",
-      "Terraform",
-      "Python",
-      "React"
-    ]
-  },
-  {
-    "name": "Human Analytica",
-    "url": "https://humananalytica.it",
-    "career_page_url": "https://www.linkedin.com/company/human-analytica/jobs",
-    "type": "Consulting",
-    "categories": [
-      "marketing_writing"
-    ],
-    "remote_policy": "Hybrid",
-    "hiring_policies": [
-      "Direct"
-    ]
-  },
-  {
-    "name": "Meta",
-    "url": "https://about.facebook.com/meta/",
-    "career_page_url": "https://www.metacareers.com/jobs?roles[0]=full-time\u0026offices[0]=Remote%2C%20Italy",
-    "categories": [
-      "design_ux",
-      "hr",
-      "marketing_writing"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ]
-  },
-  {
-    "name": "Neosperience",
-    "url": "https://www.neosperience.com",
-    "career_page_url": "https://www.neosperience.com/we-are-hiring/",
-    "type": "B2B",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "marketing_writing"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "Node",
-      "GraphQL",
-      "Kotlin",
-      "Python",
-      "Java",
-      "React",
-      "TypeScript",
-      "AI",
-      "Machine Learning",
-      "Data Science"
-    ]
-  },
-  {
-    "name": "Superfluid Team",
-    "url": "https://www.superfluidteam.com/",
-    "career_page_url": "https://www.superfluidteam.com/careers/",
-    "categories": [
-      "marketing_writing"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ]
-  },
-  {
-    "name": "Thoughtworks",
-    "url": "https://www.thoughtworks.com/",
-    "career_page_url": "https://www.thoughtworks.com/careers/jobs",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software",
-      "marketing_writing",
-      "design_ux"
-    ],
-    "remote_policy": "Hybrid",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Java",
-      "JavaScript",
-      "Typescript",
-      "Python",
-      "C#",
-      "AWS",
-      "Docker",
-      "Kubernetes",
-      "Rust",
-      "Terraform",
-      "React"
-    ]
-  },
-  {
-    "name": "UNGUESS",
-    "url": "https://unguess.io/",
-    "career_page_url": "https://www.linkedin.com/company/unguess/jobs",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "marketing_writing"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "Node.js",
-      "TypeScript",
-      "React",
-      "DevOps",
-      "Databases",
-      "PHP"
-    ]
-  },
-  {
-    "name": "Zendesk",
-    "url": "https://www.zendesk.com",
-    "career_page_url": "https://jobs.zendesk.com/us/en",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "marketing_writing"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Android",
-      "AWS",
-      "Go",
-      "iOS",
-      "Java",
-      "JavaScript",
-      "Kafka",
-      "Kubernetes",
-      "Python",
-      "React",
-      "Scala",
-      "Terraform",
-      "Typescript"
-    ]
-  },
-  {
-    "name": "Belka",
-    "url": "https://www.belkadigital.com",
-    "career_page_url": "https://www.belkadigital.com/hiring",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "marketing_writing"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "JavaScript",
-      "React",
-      "TypeScript"
-    ]
-  },
-  {
-    "name": "Cloud Academy",
-    "url": "https://www.cloudacademy.com",
-    "career_page_url": "https://jobs.cloudacademy.com",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "AWS",
-      "Django",
-      "GraphQL",
-      "Kotlin",
-      "Python",
-      "PostgresQL",
-      "React",
-      "TypeScript"
-    ]
-  },
-  {
-    "name": "DuckDuckGo",
-    "url": "https://www.duckduckgo.com/",
-    "career_page_url": "https://duckduckgo.com/hiring",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "hr",
-      "marketing_writing"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "TypeScript",
-      "JavaScript",
-      "MacOS",
-      "iOS",
-      "Android"
-    ]
-  },
-  {
-    "name": "Flowing",
-    "url": "https://flowing.it",
-    "career_page_url": "https://www.flowing.it/job-opportunity/",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Contract",
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "PHP",
-      "TypeScript",
-      "Java",
-      "Kotlin",
-      "JS"
-    ]
-  },
-  {
-    "name": "Heply",
-    "url": "https://heply.it",
-    "career_page_url": "https://careers.heply.it",
-    "type": "B2B",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "Hybrid",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "PHP",
-      "Node",
-      "Vue.js",
-      "React",
-      "Angular",
-      "React Native",
-      "Docker",
-      "Kubernetes",
-      "Terraform"
-    ]
-  },
-  {
-    "name": "Hotjar",
-    "url": "https://www.hotjar.com/",
-    "career_page_url": "https://careers.hotjar.com/",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "marketing_writing"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "AWS",
-      "Kubernetes",
-      "Terraform",
-      "Python",
-      "React"
-    ]
-  },
-  {
-    "name": "Immobiliare.it",
-    "url": "https://labs.immobiliare.it/",
-    "career_page_url": "https://www.immobiliare.it/info/lavora-con-noi/?utm_source=GitHubAwesomeItaliaRemote",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Swift",
-      "Java",
-      "Kotlin",
-      "Sass",
-      "React",
-      "Node.js",
-      "PHP",
-      "Python",
-      "Go",
-      "GIS",
-      "RabbitMQ",
-      "Big Data",
-      "Machine Learning",
-      "OpenStack",
-      "Palo Alto Networks",
-      "Arista Networks",
-      "Kubernetes",
-      "Terraform",
-      "SaltStack",
-      "Ansible"
-    ]
-  },
-  {
-    "name": "Jagaad",
-    "url": "https://jagaad.com",
-    "career_page_url": "https://jagaad.com/careers",
-    "type": "B2C",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "API Integrations",
-      "AWS",
-      "Docker",
-      "Figma",
-      "Flutter",
-      "Go",
-      "Java",
-      "JavaScript",
-      "Magento",
-      "Mobile Apps",
-      "NextJS",
-      "Node",
-      "PHP",
-      "PostgreSQL",
-      "PrestaShop",
-      "React",
-      "Sitecore",
-      "Strapi",
-      "TypeScript",
-      "Vue"
-    ]
-  },
-  {
-    "name": "MailUp",
-    "url": "https://www.mailup.com/",
-    "career_page_url": "https://www.growens.io/en/work-with-us/",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "Linux",
-      "Go",
-      "AWS",
-      "IaC",
-      "React",
-      "Angular",
-      "C#",
-      "Python"
-    ]
-  },
-  {
-    "name": "Meta",
-    "url": "https://about.facebook.com/meta/",
-    "career_page_url": "https://www.metacareers.com/jobs?roles[0]=full-time\u0026offices[0]=Remote%2C%20Italy",
-    "categories": [
-      "design_ux",
-      "hr",
-      "marketing_writing"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ]
-  },
-  {
-    "name": "Neosperience",
-    "url": "https://www.neosperience.com",
-    "career_page_url": "https://www.neosperience.com/we-are-hiring/",
-    "type": "B2B",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "marketing_writing"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "Node",
-      "GraphQL",
-      "Kotlin",
-      "Python",
-      "Java",
-      "React",
-      "TypeScript",
-      "AI",
-      "Machine Learning",
-      "Data Science"
-    ]
-  },
-  {
-    "name": "Patchai",
-    "url": "https://www.patchai.io/",
-    "career_page_url": "https://www.linkedin.com/company/ai-patch/jobs/",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "Kubernetes",
-      "Go",
-      "Node.js",
-      "Flutter",
-      "Dart",
-      "Python",
-      "Terraform"
-    ]
-  },
-  {
-    "name": "Subito",
-    "url": "https://www.subito.it/",
-    "career_page_url": "https://www.adevinta.com/jobs?company=subito",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Go",
-      "React",
-      "Next.js",
-      "TypeScript",
-      "Android",
-      "iOS",
-      "Terraform",
-      "AWS",
-      "Kubernetes"
-    ]
-  },
-  {
-    "name": "Superlayer",
-    "url": "https://superlayer.co/",
-    "career_page_url": "https://superlayer-1634135852323.freshteam.com/jobs",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "Go",
-      "Terraform",
-      "AWS",
-      "PostgreSQL",
-      "HTMX"
-    ]
-  },
-  {
-    "name": "Sysdig",
-    "url": "https://sysdig.com/",
-    "career_page_url": "https://sysdig.com/jobs/",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Go",
-      "AWS",
-      "GCP",
-      "Node.js",
-      "TypeScript",
-      "React",
-      "Open Source",
-      "Kubernetes",
-      "Falco",
-      "Cloud",
-      "JavaScript",
-      "Machine Learning",
-      "Java",
-      "Prometheus"
-    ]
-  },
-  {
-    "name": "Thoughtworks",
-    "url": "https://www.thoughtworks.com/",
-    "career_page_url": "https://www.thoughtworks.com/careers/jobs",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software",
-      "marketing_writing",
-      "design_ux"
-    ],
-    "remote_policy": "Hybrid",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Java",
-      "JavaScript",
-      "Typescript",
-      "Python",
-      "C#",
-      "AWS",
-      "Docker",
-      "Kubernetes",
-      "Rust",
-      "Terraform",
-      "React"
-    ]
-  },
-  {
-    "name": "TUI",
-    "url": "https://www.tuigroup.com/en-en",
-    "career_page_url": "https://careers.tuigroup.com/",
-    "categories": [
-      "design_ux",
-      "hr"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ]
-  },
-  {
-    "name": "UNGUESS",
-    "url": "https://unguess.io/",
-    "career_page_url": "https://www.linkedin.com/company/unguess/jobs",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "marketing_writing"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "Node.js",
-      "TypeScript",
-      "React",
-      "DevOps",
-      "Databases",
-      "PHP"
-    ]
-  },
-  {
-    "name": "WeRoad",
-    "url": "https://www.weroad.it/",
-    "career_page_url": "https://career.weroad.travel/",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Node.js (Nest.js)",
-      "PHP (Laravel)",
-      "Vue (Nuxt.js)",
-      "GCP"
-    ]
-  },
-  {
-    "name": "Whatwapp",
-    "url": "https://whatwapp.com/",
-    "career_page_url": "https://whatwapp.com/careers/",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Unity3D",
-      "C#",
-      "TypeScript",
-      "Nakama",
-      "iOS",
-      "Android",
-      "Mobile Gaming"
-    ]
-  },
-  {
-    "name": "YOOX NET-A-PORTER GROUP",
-    "url": "https://www.ynap.com/it",
-    "career_page_url": "https://www.ynap.com/it/pagine/careers",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "hr"
-    ],
-    "remote_policy": "Hybrid",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "iOS",
-      "Android",
-      "JavaScript",
-      "AWS",
-      "TypeScript",
-      "React",
-      "Node.js"
-    ]
-  },
-  {
-    "name": "Zendesk",
-    "url": "https://www.zendesk.com",
-    "career_page_url": "https://jobs.zendesk.com/us/en",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "marketing_writing"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Android",
-      "AWS",
-      "Go",
-      "iOS",
-      "Java",
-      "JavaScript",
-      "Kafka",
-      "Kubernetes",
-      "Python",
-      "React",
-      "Scala",
-      "Terraform",
-      "Typescript"
-    ]
-  },
-  {
     "name": "ZuruTech",
     "url": "https://zuru.tech/",
     "career_page_url": "https://zuru.tech/careers",
@@ -4731,80 +4805,6 @@
       "MacOS",
       "Linux",
       "Machine Learning"
-    ]
-  },
-  {
-    "name": "DuckDuckGo",
-    "url": "https://www.duckduckgo.com/",
-    "career_page_url": "https://duckduckgo.com/hiring",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "hr",
-      "marketing_writing"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "TypeScript",
-      "JavaScript",
-      "MacOS",
-      "iOS",
-      "Android"
-    ]
-  },
-  {
-    "name": "Meta",
-    "url": "https://about.facebook.com/meta/",
-    "career_page_url": "https://www.metacareers.com/jobs?roles[0]=full-time\u0026offices[0]=Remote%2C%20Italy",
-    "categories": [
-      "design_ux",
-      "hr",
-      "marketing_writing"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ]
-  },
-  {
-    "name": "TUI",
-    "url": "https://www.tuigroup.com/en-en",
-    "career_page_url": "https://careers.tuigroup.com/",
-    "categories": [
-      "design_ux",
-      "hr"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ]
-  },
-  {
-    "name": "YOOX NET-A-PORTER GROUP",
-    "url": "https://www.ynap.com/it",
-    "career_page_url": "https://www.ynap.com/it/pagine/careers",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "hr"
-    ],
-    "remote_policy": "Hybrid",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "iOS",
-      "Android",
-      "JavaScript",
-      "AWS",
-      "TypeScript",
-      "React",
-      "Node.js"
     ]
   },
   {

@@ -25,6 +25,7 @@ func main() {
 		log.Fatalln(err)
 	}
 	companies.Len = len(companiesFile)
+	var allCompanies []cmp.Company
 
 	for _, companyFiles := range companiesFile {
 		var company cmp.Company
@@ -47,6 +48,7 @@ func main() {
 
 		for _, category := range company.Categories {
 			companies.Companies[category] = append(companies.Companies[category], company)
+			allCompanies = append(allCompanies, company)
 		}
 	}
 
@@ -70,14 +72,7 @@ func main() {
 		log.Fatalln(err)
 	}
 
-	var values []cmp.Company
-	for _, companyByType := range companies.Companies {
-		for _, company := range companyByType {
-			values = append(values, company)
-		}
-	}
-
-	jsonByte, err := json.MarshalIndent(values, "", "  ")
+	jsonByte, err := json.MarshalIndent(allCompanies, "", "  ")
 	if err != nil {
 		log.Fatalln(err)
 	}
