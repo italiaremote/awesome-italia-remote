@@ -69,4 +69,14 @@ func main() {
 	if err != nil {
 		log.Fatalln(err)
 	}
+
+	jsonByte, err := json.MarshalIndent(companies, "", "  ")
+	if err != nil {
+		log.Fatalln(err)
+	}
+
+	err = os.WriteFile(homePath+"outputs.json", jsonByte, 0644)
+	if err != nil {
+		log.Fatalln(err)
+	}
 }
