@@ -46,9 +46,9 @@ func main() {
 			log.Fatalln(err)
 		}
 
+		allCompanies = append(allCompanies, company)
 		for _, category := range company.Categories {
 			companies.Companies[category] = append(companies.Companies[category], company)
-			allCompanies = append(allCompanies, company)
 		}
 	}
 
