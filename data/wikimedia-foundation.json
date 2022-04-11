@@ -1,0 +1,10 @@
+{
+  "name": "Wikimedia Foundation",
+  "url": "https://wikimediafoundation.org/",
+  "career_page_url": "https://wikimediafoundation.org/about/jobs/",
+  "type": "Product",
+  "categories": ["cloud_software"],
+  "remote_policy": "Full",
+  "hiring_policies": ["-"],
+  "tags": ["PHP", "Java", "Python", "Go"]
+}
