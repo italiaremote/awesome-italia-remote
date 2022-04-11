@@ -1,0 +1,22 @@
+{
+    "name": "Ulixe Group S.r.l.",
+    "career_page_url": "https://www.ulixe.com/work-with-us",
+    "url": "https://www.ulixe.com/",
+    "remote_policy": "Optional",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "Consulting",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "Java",
+        "iOS",
+        "Android",
+        ".NET",
+        "Databases",
+        "Big Data",
+        "Angular"
+    ]
+}
