@@ -6,7 +6,11 @@ Companies can be both based in Italy or around the world but with operations in 
 
 Please read the contribution guidelines before opening a pull request or contributing to this repository.
 
-## Built and maintained by
+## Web View
+
+https://italiaremote.com/companies
+
+### Built and maintained by
 * [Alessandro Marino](https://github.com/alessandromr)
 * [Edoardo Costantini](https://github.com/edoardocostantinidev)
 
@@ -28,10 +32,6 @@ Direct | Company is hiring directly with a legal entity in Italy.
 Contract | Company is hiring contractors in Italy, VAT Number is required.
 Intermediary | Company is hiring using a payroll intermediary in Italy.
 
-## Companies
-
-Tech stacks are usually incomplete check the careers page of each company to get more details.
-
 ### Software and Cloud
 
 Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
@@ -41,7 +41,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Agile Lab](https://www.agilelab.it/) | [Career Page](https://www.agilelab.it/open-positions/) | Consulting | - | - | AWS - Spark - Scala - Java - Python
 [Aiven](https://aiven.io) | [Career Page](https://aiven.io/careers) | Product | Full | Direct | AWS - GCP - Python - PostgreSQL - Kafka - Databases
 [AlgorandEurope](https://www.algorand.com) | [Career Page](https://www.algorand.com/about/careers/our-jobs) | Product | Optional | Direct | Blockchain - Go - JavaScript - Python - React - Typescript
-[alpenite](https://www.alpenite.com) | [Career Page](https://careers.alpenite.com/) | Consulting | - | - | Salesforce - Magento - Shopify - SAP - Hootsuite - JavaScript - Java
+[Alpenite](https://www.alpenite.com) | [Career Page](https://careers.alpenite.com/) | Consulting | - | - | Salesforce - Magento - Shopify - SAP - Hootsuite - JavaScript - Java
 [Amazon](https://www.amazon.it) | [Career Page](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&country%5B%5D=ITA&distanceType=Mi&radius=24km&location%5B%5D=virtual-locations&location%5B%5D=virtual-locations&location%5B%5D=virtual-locations&latitude=&longitude=&loc_group_id=&loc_query=Virtual%20Locations&base_query=&city=&country=&region=&county=&query_options=&) | Product | Full | Direct | Java - Python - C - Clojure
 [Aptus.AI](https://www.aptus.ai/) | [Career Page](https://www.aptus.ai/team) | Product | Optional | Direct | AWS - Python - TypeScript - Machine Learning - Natural Language Processing
 [Arduino](https://arduino.cc/) | [Career Page](https://careers.arduino.cc/) | Product | Optional | Direct | Python - Go - AWS - React
