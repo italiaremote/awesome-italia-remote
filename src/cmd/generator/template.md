@@ -6,7 +6,11 @@ Companies can be both based in Italy or around the world but with operations in 
 
 Please read the contribution guidelines before opening a pull request or contributing to this repository.
 
-## Built and maintained by
+## Web View
+
+https://italiaremote.com/companies
+
+### Built and maintained by
 * [Alessandro Marino](https://github.com/alessandromr)
 * [Edoardo Costantini](https://github.com/edoardocostantinidev)
 
@@ -27,10 +31,6 @@ Label | Meaning
 Direct | Company is hiring directly with a legal entity in Italy.
 Contract | Company is hiring contractors in Italy, VAT Number is required.
 Intermediary | Company is hiring using a payroll intermediary in Italy.
-
-## Companies
-
-Tech stacks are usually incomplete check the careers page of each company to get more details.
 
 ### Software and Cloud
 
