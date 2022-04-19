@@ -1,0 +1,21 @@
+{
+  "name": "Up2You Srl SB",
+  "career_page_url": "https://www.u2y.io/careers",
+  "url": "https://www.u2y.io/",
+  "remote_policy": "Optional",
+  "hiring_policies": [
+      "Direct"
+  ],
+  "type": "Product",
+  "categories": [
+      "cloud_software",
+      "design_ux"
+  ],
+  "tags": [
+      "PHP",
+      "Laravel",
+      "Vue JS",
+      "AWS",
+      "Blockchain"
+  ]
+}
