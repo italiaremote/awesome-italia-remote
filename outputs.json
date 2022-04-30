@@ -98,7 +98,7 @@
     ]
   },
   {
-    "name": "alpenite",
+    "name": "Alpenite",
     "url": "https://www.alpenite.com",
     "career_page_url": "https://careers.alpenite.com/",
     "type": "Consulting",
@@ -320,6 +320,25 @@
       "Spring Boot",
       "PostgreSQL",
       "GIT"
+    ]
+  },
+  {
+    "name": "Brave",
+    "url": "https://brave.com/",
+    "career_page_url": "https://brave.com/careers/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "-"
+    ],
+    "tags": [
+      "React",
+      "Svelte",
+      "Python",
+      "Go"
     ]
   },
   {
@@ -894,6 +913,31 @@
       "Security",
       "Infosec",
       "Pentest"
+    ]
+  },
+  {
+    "name": "DualBit",
+    "url": "https://www.dualb.it",
+    "career_page_url": "https://www.dualb.it/work-with-us",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "iOS",
+      "Swift",
+      "Android",
+      "Kotlin",
+      "Native Mobile Development",
+      "Python",
+      "Django",
+      "Vue.js",
+      "Docker",
+      "Kubernetes"
     ]
   },
   {
@@ -2246,6 +2290,30 @@
     ]
   },
   {
+    "name": "Moneyfarm",
+    "url": "https://www.moneyfarm.com/",
+    "career_page_url": "https://www.moneyfarm.com/it/jobs/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Scala",
+      "AWS",
+      "Kubernetes",
+      "TypeScript",
+      "React",
+      "Kotlin",
+      "Swift",
+      "iOS",
+      "Android"
+    ]
+  },
+  {
     "name": "NearForm",
     "url": "https://www.nearform.com",
     "career_page_url": "https://www.nearform.com/careers/",
@@ -3537,6 +3605,28 @@
     ]
   },
   {
+    "name": "Ulixe Group S.r.l.",
+    "url": "https://www.ulixe.com/",
+    "career_page_url": "https://www.ulixe.com/work-with-us",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Java",
+      "iOS",
+      "Android",
+      ".NET",
+      "Databases",
+      "Big Data",
+      "Angular"
+    ]
+  },
+  {
     "name": "UNGUESS",
     "url": "https://unguess.io/",
     "career_page_url": "https://www.linkedin.com/company/unguess/jobs",
@@ -3558,6 +3648,27 @@
       "DevOps",
       "Databases",
       "PHP"
+    ]
+  },
+  {
+    "name": "Up2You Srl SB",
+    "url": "https://www.u2y.io/",
+    "career_page_url": "https://www.u2y.io/careers",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "PHP",
+      "Laravel",
+      "Vue JS",
+      "AWS",
+      "Blockchain"
     ]
   },
   {
@@ -3769,6 +3880,25 @@
     ]
   },
   {
+    "name": "Wikimedia Foundation",
+    "url": "https://wikimediafoundation.org/",
+    "career_page_url": "https://wikimediafoundation.org/about/jobs/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "-"
+    ],
+    "tags": [
+      "PHP",
+      "Java",
+      "Python",
+      "Go"
+    ]
+  },
+  {
     "name": "WorkWave",
     "url": "https://workwave.com",
     "career_page_url": "https://careers.workwave.com/",
@@ -3833,6 +3963,25 @@
       "MSSQL",
       "PostgreSQL",
       "MongoDB"
+    ]
+  },
+  {
+    "name": "Zapier",
+    "url": "https://www.zapier.com/",
+    "career_page_url": "https://zapier.com/jobs/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "-"
+    ],
+    "tags": [
+      "React",
+      "Redux",
+      "Python",
+      "Django"
     ]
   },
   {
