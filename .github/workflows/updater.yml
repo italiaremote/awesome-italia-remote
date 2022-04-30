@@ -6,6 +6,7 @@ on:
     - main
     paths:
      - 'data/**'
+     - '.github/workflows/updater.yml'
 
 jobs:
   build:
@@ -28,6 +29,7 @@ jobs:
     - name: Update README
       run: |
         git add README.md
+        git add outputs.json
         git commit -m "Update README"
         git push
     
