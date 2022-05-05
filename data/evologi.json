@@ -1,0 +1,27 @@
+{
+  "name": "Evologi",
+  "url": "https://evologi.it/",
+  "career_page_url": "https://evologi.it/carriera/",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "design_ux"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "PostgreSQL",
+    "MongoDB",
+    "Azure",
+    "Kubernetes",
+    "RabbitMQ",
+    "Angular",
+    "DevOps",
+    "Python"
+  ]
+}
