@@ -47,6 +47,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Arduino](https://arduino.cc/) | [Career Page](https://careers.arduino.cc/) | Product | Optional | Direct | Python - Go - AWS - React
 [Aruba S.p.A.](https://www.aruba.it/en/home.aspx) | [Career Page](https://www.aruba.it/en/home.aspx) | Product | - | Direct | OpenShift - Serverless - Istio
 [Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/hiring) | Consulting | Optional | Direct | JavaScript - React - TypeScript
+[BendingSpoons](https://bendingspoons.com/) | [Career Page](https://bendingspoons.com/careers.html) |  | - | Direct | 
 [BitBull](https://www.bitbull.it) | [Career Page](https://www.bitbull.it/team/) | Consulting | Full | Direct | Magento - Shopify - JavaScript - PHP - Node - AWS - Terraform - Serverless - Vue.js - Nuxt.js
 [Blexin](https://www.blexin.com/) | [Career Page](https://www.linkedin.com/company/blexin/jobs/) | Consulting | Optional | Direct | .NET - Microsoft Azure - DevOps - Javascript - Angular - React - Docker - Kubernetes
 [BOOM](https://boom.co/) | [Career Page](https://boom.co/careers) | B2B | - | - | Typescript - React - NestJS - Java - Kotlin - Data Science - AWS
@@ -132,6 +133,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Madisoft](https://labs.madisoft.it) | [Career Page](https://labs.madisoft.it/entra-nel-team/) | Product | Full | Direct | AWS - PHP - React
 [MailUp](https://www.mailup.com/) | [Career Page](https://www.growens.io/en/work-with-us/) | Product | - | - | Linux - Go - AWS - IaC - React - Angular - C# - Python
 [Medicilio](https://www.medicilio.it) | [Career Page](https://medicilio.it/careers) | B2C | Full | Direct | Python - Django - Javascript - Go - REST API - React.js - Vue.js - PostgreSQL - Typescript - Docker - AWS
+[Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) |  | - | - | 
 [Mia Burton](https://corporate.miaburton.com/en/) | [Career Page](https://corporate.miaburton.com/en/jobs/) | B2C | Full | Direct | NodeJS - Go - VueJs - TypeScript - NuxtJS - AWS - MongoDB - MariaDB - Redis
 [Mia-Platform](https://mia-platform.eu/) | [Career Page](https://mia-platform.eu/company/careers/?utm_source=github&utm_medium=awesome-italian-remote) | Product | Hybrid | Direct | Kubernetes - DevOps - Cloud Native Technologies - TypeScript - Node.js - C# - Java - Kotlin - Go - Python - Rust
 [Microsoft](https://www.microsoft.com/it-it/) | [Career Page](https://careers.microsoft.com/professionals/us/en/search-results?rk=l-c-engineering) | Product | Full | Direct | Azure - C# - SAP - TypeScript
@@ -221,7 +223,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
 [Agile Lab](https://www.agilelab.it/) | [Career Page](https://www.agilelab.it/open-positions/) | - | -
 [Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/hiring) | Optional | Direct
-[BendingSpoons](https://bendingspoons.com/) | [Career Page](https://bendingspoons.com/careers.html) | - | -
+[BendingSpoons](https://bendingspoons.com/) | [Career Page](https://bendingspoons.com/careers.html) | - | Direct
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
 [Empatica](https://www.empatica.com) | [Career Page](https://apply.workable.com/empatica/) | Full | Direct
 [Everli](https://it.everli.com/it) | [Career Page](https://it.everli.com/it/lavora-con-noi) | Full | Direct
