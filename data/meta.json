@@ -2,13 +2,7 @@
   "name": "Meta",
   "url": "https://about.facebook.com/meta/",
   "career_page_url": "https://www.metacareers.com/jobs?roles[0]=full-time\u0026offices[0]=Remote%2C%20Italy",
-  "categories": [
-    "design_ux",
-    "hr",
-    "marketing_writing"
-  ],
+  "categories": ["design_ux", "hr", "marketing_writing", "cloud_software"],
   "remote_policy": "-",
-  "hiring_policies": [
-    "-"
-  ]
+  "hiring_policies": ["-"]
 }
