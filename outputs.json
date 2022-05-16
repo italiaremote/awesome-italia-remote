@@ -120,6 +120,32 @@
     ]
   },
   {
+    "name": "Alpian",
+    "url": "https://www.alpian.com/",
+    "career_page_url": "https://www.alpian.com/careers",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Java",
+      "Kotlin",
+      "Spring Boot",
+      "Flutter",
+      "React",
+      "Go",
+      "Typescript",
+      "Dart",
+      "GCP",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
     "name": "Amazon",
     "url": "https://www.amazon.it",
     "career_page_url": "https://www.amazon.jobs/en/search?offset=0\u0026result_limit=10\u0026sort=relevant\u0026category%5B%5D=software-development\u0026category%5B%5D=operations-it-support-engineering\u0026country%5B%5D=ITA\u0026distanceType=Mi\u0026radius=24km\u0026location%5B%5D=virtual-locations\u0026location%5B%5D=virtual-locations\u0026location%5B%5D=virtual-locations\u0026latitude=\u0026longitude=\u0026loc_group_id=\u0026loc_query=Virtual%20Locations\u0026base_query=\u0026city=\u0026country=\u0026region=\u0026county=\u0026query_options=\u0026",
