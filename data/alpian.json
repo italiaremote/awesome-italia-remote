@@ -1,0 +1,26 @@
+{
+  "name": "Alpian",
+  "url": "https://www.alpian.com/",
+  "career_page_url": "https://www.alpian.com/careers",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Java",
+    "Kotlin",
+    "Spring Boot",
+    "Flutter",
+    "React",
+    "Go",
+    "Typescript",
+    "Dart",
+    "GCP",
+    "Docker",
+    "Kubernetes"
+  ]
+}
