@@ -1,0 +1,26 @@
+{
+  "name": "Hudl",
+  "url": "https://www.hudl.com",
+  "career_page_url": "https://www.hudl.com/jobs",
+  "type": "B2B",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Hybrid",
+  "hiring_policies": [
+    "Contract",
+    "Direct"
+  ],
+  "tags": [
+    "AWS",
+    "C#",
+    "Docker",
+    "GraphQL",
+    "JavaScript",
+    "Python",
+    "React",
+    "React Native",
+    "Terraform",
+    "TypeScript"
+  ]
+}
