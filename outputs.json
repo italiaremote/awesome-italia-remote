@@ -3894,6 +3894,31 @@
     ]
   },
   {
+    "name": "WeSchool",
+    "url": "https://www.weschool.com/",
+    "career_page_url": "http://join.weschool.com/",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct",
+      "Contract"
+    ],
+    "tags": [
+      "Javascript",
+      "React",
+      "Mobx",
+      "PHP",
+      "Symfony",
+      "Elasticsearch",
+      "AWS",
+      "EdTech"
+    ]
+  },
+  {
     "name": "Weiji",
     "url": "https://weiji.it",
     "career_page_url": "https://weiji.it/contatti/",
