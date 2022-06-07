@@ -1,0 +1,20 @@
+{
+  "name": "Kiratech S.p.A.",
+  "career_page_url": "https://www.kiratech.it/en/work-with-us",
+  "url": "https://www.kiratech.it/en",
+  "remote_policy": "Hybrid",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "type": "B2B",
+  "categories": [
+    "cloud_software"
+  ],
+  "tags": [
+    "Cloud Native",
+    "Kubernetes",
+    "DevOps",
+    "Software Development",
+    "Cloud Native Technologies"
+  ]
+}
