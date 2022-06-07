@@ -1,0 +1,19 @@
+{
+  "name": "Pleo",
+  "url": "https://www.pleo.io/",
+  "career_page_url": "https://www.pleo.io/en/careers",
+  "type": "Product",
+  "categories": ["cloud_software"],
+  "remote_policy": "Optional",
+  "hiring_policies": ["Contract"],
+  "tags": [
+    "Javascript",
+    "Typescript",
+    "React",
+    "React Native",
+    "Kotlin",
+    "Kubernetes",
+    "AWS",
+    "PostgreSQL"
+  ]
+}
