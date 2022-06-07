@@ -1,0 +1,10 @@
+{
+  "name": "Unobravo",
+  "url": "https://www.unobravo.com/",
+  "career_page_url": "https://unobravo.teamtailor.com/",
+  "type": "Product",
+  "categories": ["cloud_software"],
+  "remote_policy": "Optional",
+  "hiring_policies": ["Direct"],
+  "tags": ["TypeScript", "JavaScript", "React", "GraphQL", "AWS", "Docker", "Node.js"]
+}
