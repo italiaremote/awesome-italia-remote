@@ -1615,6 +1615,24 @@
     ]
   },
   {
+    "name": "Heritage Holdings",
+    "url": "https://www.heritageholdings.co/",
+    "career_page_url": "https://careers.heritageholdings.co/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Typescript",
+      "Node",
+      "React"
+    ]
+  },
+  {
     "name": "Heveloon",
     "url": "https://www.heveloon.co.uk/",
     "career_page_url": "https://www.linkedin.com/company/heveloon-ltd",
@@ -3480,6 +3498,28 @@
       "Machine Learning",
       "Java",
       "Prometheus"
+    ]
+  },
+  {
+    "name": "TheFork",
+    "url": "https://www.thefork.com/",
+    "career_page_url": "https://careers.thefork.com/global/en",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Node.js",
+      "React",
+      "TypeScript",
+      "GraphQL",
+      "Kotlin",
+      "Swift",
+      "AWS"
     ]
   },
   {
