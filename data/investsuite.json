@@ -1,0 +1,23 @@
+{
+  "name": "InvestSuite",
+  "url": "https://investsuite.com",
+  "career_page_url": "https://www.investsuite.com/jobs",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Python",
+    "Scala",
+    "Flutter",
+    "TypeScript",
+    "Node",
+    "AWS",
+    "Azure",
+    "Terraform"
+  ]
+}
