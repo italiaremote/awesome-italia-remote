@@ -1958,6 +1958,29 @@
     ]
   },
   {
+    "name": "InvestSuite",
+    "url": "https://investsuite.com",
+    "career_page_url": "https://www.investsuite.com/jobs",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Python",
+      "Scala",
+      "Flutter",
+      "TypeScript",
+      "Node",
+      "AWS",
+      "Azure",
+      "Terraform"
+    ]
+  },
+  {
     "name": "iSolutions",
     "url": "https://www.isolutions.it/index.html",
     "career_page_url": "https://www.isolutions.it/workwithus.html",
