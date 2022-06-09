@@ -1,0 +1,10 @@
+{
+  "name": "BrandBastion",
+  "url": "https://www.brandbastion.com/",
+  "career_page_url": "https://www.brandbastion.com/careers",
+  "type": "Product",
+  "categories": ["cloud_software"],
+  "remote_policy": "Optional",
+  "hiring_policies": ["-"],
+  "tags": ["JavaScript", "TypeScript", "React", "AWS", "Node.js"]
+}
