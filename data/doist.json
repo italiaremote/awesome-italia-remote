@@ -1,0 +1,10 @@
+{
+  "name": "Doist",
+  "url": "https://doist.com/",
+  "career_page_url": "https://doist.com/careers",
+  "type": "Product",
+  "categories": ["cloud_software"],
+  "remote_policy": "Optional",
+  "hiring_policies": ["-"],
+  "tags": ["MySQL", "PostgreSQL", "Python", "JavaScript", "TypeScript", "React"]
+}
