@@ -1,0 +1,10 @@
+{
+  "name": "Deel",
+  "url": "https://www.letsdeel.com/",
+  "career_page_url": "https://www.letsdeel.com/careers",
+  "type": "Product",
+  "categories": ["cloud_software"],
+  "remote_policy": "Full",
+  "hiring_policies": ["Contract"],
+  "tags": ["Javascript", "React", "Node.js", "AWS", "PostgreSQL"]
+}

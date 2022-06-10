@@ -1,0 +1,21 @@
+{
+  "name": "Juni",
+  "url": "https://www.juni.co/",
+  "career_page_url": "https://www.juni.co/careers",
+  "type": "Product",
+  "categories": ["cloud_software"],
+  "remote_policy": "Full",
+  "hiring_policies": ["Intermediary"],
+  "tags": [
+    "Javascript",
+    "Typescript",
+    "React",
+    "React Native",
+    "Go",
+    "Kafka",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "gRPC"
+  ]
+}
