@@ -1506,6 +1506,32 @@
     ]
   },
   {
+    "name": "Giant Swarm",
+    "url": "https://giantswarm.io",
+    "career_page_url": "https://www.giantswarm.io/careers#open-positions",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Contract",
+      "Intermediary"
+    ],
+    "tags": [
+      "Kubernetes",
+      "Go",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Openstack",
+      "VMWare",
+      "DevOps",
+      "Cloud Native",
+      "Security"
+    ]
+  },
+  {
     "name": "Gitlab",
     "url": "https://www.gitlab.com/",
     "career_page_url": "https://about.gitlab.com/jobs/",
