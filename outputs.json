@@ -76,6 +76,26 @@
     ]
   },
   {
+    "name": "Aicof",
+    "url": "https://www.aicof.it",
+    "career_page_url": "https://www.linkedin.com/company/aicof/jobs/",
+    "type": "B2B",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Java",
+      "Spring Boot",
+      ".NET",
+      "Angular",
+      "Kubernetes"
+    ]
+  },
+  {
     "name": "Aiven",
     "url": "https://aiven.io",
     "career_page_url": "https://aiven.io/careers",
