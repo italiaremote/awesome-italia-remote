@@ -37,7 +37,6 @@ Intermediary | Company is hiring using a payroll intermediary in Italy.
 Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 ------------ | -- | ------- | ------- |---------------| -------
 [3Bee](https://www.3bee.com/) | [Career Page](https://www.linkedin.com/company/3beesrl/jobs/) | Product | Full | Direct | React - Django - AWS - IoT
-[Kiratech S.p.A.](https://www.kiratech.it/en) | [Career Page](https://www.kiratech.it/en/work-with-us) | B2B | Hybrid | Direct | Cloud Native - Kubernetes - DevOps - Software Development - Cloud Native Technologies
 [Advigator](https://www.advigator.com) | [Career Page](https://www.advigator.com/careers) | Product | Full | Direct | Ruby On Rails
 [Agile Lab](https://www.agilelab.it/) | [Career Page](https://www.agilelab.it/open-positions/) | Consulting | - | - | AWS - Spark - Scala - Java - Python
 [Aicof](https://www.aicof.it) | [Career Page](https://www.linkedin.com/company/aicof/jobs/) | B2B | Full | Direct | Java - Spring Boot - .NET - Angular - Kubernetes
@@ -137,6 +136,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Juni](https://www.juni.co/) | [Career Page](https://www.juni.co/careers) | Product | Full | Intermediary | Javascript - Typescript - React - React Native - Go - Kafka - Docker - Kubernetes - AWS - gRPC
 [Kaleyra](https://www.kaleyra.com) | [Career Page](https://www.kaleyra.com/careers?utm_source=GitHubAwesomeItaliaRemote) | Product | - | - | CPaaS - Node - PHP - Python
 [Kensu](https://www.kensu.io?utm_source=github&utm_medium=recruitment_channel) | [Career Page](https://kensu.betterteam.com?utm_source=github&utm_medium=recruitment_channel) | Product | - | - | Scala - React - TypeScript - Python - Redis - Terraform - Ansible - AWS - MariaDB - OrientDB
+[Kiratech S.p.A.](https://www.kiratech.it/en) | [Career Page](https://www.kiratech.it/en/work-with-us) | B2B | Hybrid | Direct | Cloud Native - Kubernetes - DevOps - Software Development - Cloud Native Technologies
 [Klondike](https://www.klondike.ai) | [Career Page](https://www.linkedin.com/company/klondike/jobs/) | B2B | Full | Direct | PHP - Javascript - Python
 [lastminute.com](https://www.lastminute.com/) | [Career Page](https://careers.lastminute.com/) | Product | Full | Direct | Android - AWS - iOS - Java - Kotlin - Kubernetes - Go - Python - React - React Native - TypeScript
 [Luxoft](https://www.luxoft.com/) | [Career Page](https://career.luxoft.com/locations/italy/) | Consulting | - | - | C++ - Python

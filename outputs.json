@@ -19,26 +19,6 @@
     ]
   },
   {
-    "name": "Kiratech S.p.A.",
-    "url": "https://www.kiratech.it/en",
-    "career_page_url": "https://www.kiratech.it/en/work-with-us",
-    "type": "B2B",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Hybrid",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Cloud Native",
-      "Kubernetes",
-      "DevOps",
-      "Software Development",
-      "Cloud Native Technologies"
-    ]
-  },
-  {
     "name": "Advigator",
     "url": "https://www.advigator.com",
     "career_page_url": "https://www.advigator.com/careers",
@@ -2275,6 +2255,26 @@
       "AWS",
       "MariaDB",
       "OrientDB"
+    ]
+  },
+  {
+    "name": "Kiratech S.p.A.",
+    "url": "https://www.kiratech.it/en",
+    "career_page_url": "https://www.kiratech.it/en/work-with-us",
+    "type": "B2B",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Cloud Native",
+      "Kubernetes",
+      "DevOps",
+      "Software Development",
+      "Cloud Native Technologies"
     ]
   },
   {
