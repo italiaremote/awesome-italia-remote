@@ -3,8 +3,17 @@
   "url": "https://brave.com/",
   "career_page_url": "https://brave.com/careers/",
   "type": "Product",
-  "categories": ["cloud_software"],
+  "categories": [
+    "cloud_software"
+  ],
   "remote_policy": "Full",
-  "hiring_policies": ["-"],
-  "tags": ["React", "Svelte", "Python", "Go"]
+  "hiring_policies": [
+    "-"
+  ],
+  "tags": [
+    "React",
+    "Svelte",
+    "Python",
+    "Go"
+  ]
 }

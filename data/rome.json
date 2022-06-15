@@ -1,18 +1,18 @@
 {
-    "name": "Rome Tools, Inc.",
-    "career_page_url": "https://careers.rome.tools",
-    "url": "https://rome.tools",
-    "remote_policy": "Full",
-    "hiring_policies": [
-        "Intermediary"
-    ],
-    "type": "Product",
-    "categories": [
-        "cloud_software"
-    ],
-    "tags": [
-        "Rust",
-        "TypeScript",
-        "Cloudflare"
-    ]
+  "name": "Rome Tools, Inc.",
+  "url": "https://rome.tools",
+  "career_page_url": "https://careers.rome.tools",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Intermediary"
+  ],
+  "tags": [
+    "Rust",
+    "TypeScript",
+    "Cloudflare"
+  ]
 }

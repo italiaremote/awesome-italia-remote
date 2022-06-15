@@ -1,21 +1,21 @@
 {
-    "name": "Buzzoole",
-    "url": "https://buzzoole.com/",
-    "career_page_url": "https://buzzoole.com/page/jobs",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "PHP",
-      "Go",
-      "AWS",
-      "React",
-      "MongoDB",
-      "ElasticSearch"
-    ]
-  }
+  "name": "Buzzoole",
+  "url": "https://buzzoole.com/",
+  "career_page_url": "https://buzzoole.com/page/jobs",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "PHP",
+    "Go",
+    "AWS",
+    "React",
+    "MongoDB",
+    "ElasticSearch"
+  ]
+}

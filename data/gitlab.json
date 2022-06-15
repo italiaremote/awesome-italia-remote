@@ -3,8 +3,15 @@
   "url": "https://www.gitlab.com/",
   "career_page_url": "https://about.gitlab.com/jobs/",
   "type": "Product",
-  "categories": ["cloud_software"],
+  "categories": [
+    "cloud_software"
+  ],
   "remote_policy": "Full",
-  "hiring_policies": ["Intermediary"],
-  "tags": ["Ruby", "Ruby On Rails"]
+  "hiring_policies": [
+    "Intermediary"
+  ],
+  "tags": [
+    "Ruby",
+    "Ruby On Rails"
+  ]
 }

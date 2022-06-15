@@ -3,8 +3,19 @@
   "url": "https://primer.io",
   "career_page_url": "https://primer.io/careers/",
   "type": "Product",
-  "categories": ["cloud_software"],
+  "categories": [
+    "cloud_software"
+  ],
   "remote_policy": "Full",
-  "hiring_policies": ["-"],
-  "tags": ["Javascript", "Typescript", "React", "Python", "AWS", "Docker"]
+  "hiring_policies": [
+    "-"
+  ],
+  "tags": [
+    "Javascript",
+    "Typescript",
+    "React",
+    "Python",
+    "AWS",
+    "Docker"
+  ]
 }

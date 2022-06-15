@@ -1,25 +1,25 @@
 {
   "name": "WeSchool",
-  "career_page_url": "http://join.weschool.com/",
   "url": "https://www.weschool.com/",
-  "remote_policy": "Hybrid",
-  "hiring_policies": [
-      "Direct",
-      "Contract"
-  ],
+  "career_page_url": "http://join.weschool.com/",
   "type": "Product",
   "categories": [
     "cloud_software",
     "design_ux"
   ],
+  "remote_policy": "Hybrid",
+  "hiring_policies": [
+    "Direct",
+    "Contract"
+  ],
   "tags": [
-      "Javascript",
-      "React",
-      "Mobx",
-      "PHP",
-      "Symfony",
-      "Elasticsearch",
-      "AWS",
-      "EdTech"
+    "Javascript",
+    "React",
+    "Mobx",
+    "PHP",
+    "Symfony",
+    "Elasticsearch",
+    "AWS",
+    "EdTech"
   ]
 }

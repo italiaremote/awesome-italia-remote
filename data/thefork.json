@@ -1,22 +1,22 @@
 {
-    "name": "TheFork",
-    "career_page_url": "https://careers.thefork.com/global/en",
-    "url": "https://www.thefork.com/",
-    "remote_policy": "Hybrid",
-    "hiring_policies": [
-        "Direct"
-    ],
-    "type": "Product",
-    "categories": [
-        "cloud_software"
-    ],
-    "tags": [
-        "Node.js",
-        "React",
-        "TypeScript",
-        "GraphQL",
-        "Kotlin",
-        "Swift",
-        "AWS"
-    ]
+  "name": "TheFork",
+  "url": "https://www.thefork.com/",
+  "career_page_url": "https://careers.thefork.com/global/en",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Hybrid",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Node.js",
+    "React",
+    "TypeScript",
+    "GraphQL",
+    "Kotlin",
+    "Swift",
+    "AWS"
+  ]
 }

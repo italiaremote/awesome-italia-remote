@@ -1,26 +1,26 @@
 {
-    "name": "Giant Swarm",
-    "career_page_url": "https://www.giantswarm.io/careers#open-positions",
-    "url": "https://giantswarm.io",
-    "remote_policy": "Full",
-    "hiring_policies": [
-        "Contract",
-        "Intermediary"
-    ],
-    "type": "Product",
-    "categories": [
-        "cloud_software"
-    ],
-    "tags": [
-        "Kubernetes",
-        "Go",
-        "AWS",
-        "Azure",
-        "GCP",
-        "Openstack",
-        "VMWare",
-        "DevOps",
-        "Cloud Native",
-        "Security"
-    ]
+  "name": "Giant Swarm",
+  "url": "https://giantswarm.io",
+  "career_page_url": "https://www.giantswarm.io/careers#open-positions",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Contract",
+    "Intermediary"
+  ],
+  "tags": [
+    "Kubernetes",
+    "Go",
+    "AWS",
+    "Azure",
+    "GCP",
+    "Openstack",
+    "VMWare",
+    "DevOps",
+    "Cloud Native",
+    "Security"
+  ]
 }

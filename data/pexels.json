@@ -3,8 +3,17 @@
   "url": "https://www.pexels.com/",
   "career_page_url": "https://angel.co/company/pexels/jobs",
   "type": "Product",
-  "categories": ["cloud_software"],
+  "categories": [
+    "cloud_software"
+  ],
   "remote_policy": "Full",
-  "hiring_policies": ["Contract"],
-  "tags": ["Javascript", "TypeScript", "React", "Ruby On Rails"]
+  "hiring_policies": [
+    "Contract"
+  ],
+  "tags": [
+    "Javascript",
+    "TypeScript",
+    "React",
+    "Ruby On Rails"
+  ]
 }
