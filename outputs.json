@@ -3601,6 +3601,27 @@
     ]
   },
   {
+    "name": "Stellantis",
+    "url": "https://www.stellantis.com/",
+    "career_page_url": "https://careers.fcagroup.com/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Scala",
+      "DevOps",
+      "AWS",
+      "Kubernetes",
+      "Python",
+      "Go"
+    ]
+  },
+  {
     "name": "Subito",
     "url": "https://www.subito.it/",
     "career_page_url": "https://www.adevinta.com/jobs?company=subito",
