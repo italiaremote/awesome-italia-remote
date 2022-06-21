@@ -43,16 +43,18 @@
       "cloud_software",
       "marketing_writing"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
-      "-"
+      "Direct"
     ],
     "tags": [
       "AWS",
       "Spark",
       "Scala",
       "Java",
-      "Python"
+      "Python",
+      "TypeScript",
+      "React"
     ]
   },
   {

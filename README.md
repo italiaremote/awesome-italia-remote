@@ -38,7 +38,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 ------------ | -- | ------- | ------- |---------------| -------
 [3Bee](https://www.3bee.com/) | [Career Page](https://www.linkedin.com/company/3beesrl/jobs/) | Product | Full | Direct | React - Django - AWS - IoT
 [Advigator](https://www.advigator.com) | [Career Page](https://www.advigator.com/careers) | Product | Full | Direct | Ruby On Rails
-[Agile Lab](https://www.agilelab.it/) | [Career Page](https://www.agilelab.it/open-positions/) | Consulting | - | - | AWS - Spark - Scala - Java - Python
+[Agile Lab](https://www.agilelab.it/) | [Career Page](https://www.agilelab.it/open-positions/) | Consulting | Optional | Direct | AWS - Spark - Scala - Java - Python - TypeScript - React
 [Aicof](https://www.aicof.it) | [Career Page](https://www.linkedin.com/company/aicof/jobs/) | B2B | Full | Direct | Java - Spring Boot - .NET - Angular - Kubernetes
 [Aiven](https://aiven.io) | [Career Page](https://aiven.io/careers) | Product | Full | Direct | AWS - GCP - Python - PostgreSQL - Kafka - Databases
 [AlgorandEurope](https://www.algorand.com) | [Career Page](https://www.algorand.com/about/careers/our-jobs) | Product | Optional | Direct | Blockchain - Go - JavaScript - Python - React - Typescript
@@ -239,7 +239,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 
 Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
-[Agile Lab](https://www.agilelab.it/) | [Career Page](https://www.agilelab.it/open-positions/) | - | -
+[Agile Lab](https://www.agilelab.it/) | [Career Page](https://www.agilelab.it/open-positions/) | Optional | Direct
 [Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/hiring) | Optional | Direct
 [BendingSpoons](https://bendingspoons.com/) | [Career Page](https://bendingspoons.com/careers.html) | - | Direct
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
