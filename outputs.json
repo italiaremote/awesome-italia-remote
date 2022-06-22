@@ -516,12 +516,15 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
-      "-"
+      "Direct"
     ],
     "tags": [
-      "Consulting"
+      "Consulting",
+      "AWS",
+      "GCP",
+      "Azure"
     ]
   },
   {

@@ -61,7 +61,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Caffeina](https://caffeina.com) | [Career Page](https://caffeina.com/jobs) | Product | Optional | Direct | JavaScript - PHP - NodeJS - ReactJS - ReactNative - Laravel - AWS - Kubernetes - Terraform
 [Canonical](https://canonical.com/) | [Career Page](https://canonical.com/careers) | Product | Full | Contract | Python - Go - OpenStack - Kubernetes
 [Capbase](https://capbase.com/) | [Career Page](https://www.linkedin.com/company/capbase/jobs/) | B2B | Full | Intermediary | 
-[Capgemini](https://www.capgemini.com/it-it/) | [Career Page](https://www.capgemini.com/it-it/careers/) | Consulting | - | - | Consulting
+[Capgemini](https://www.capgemini.com/it-it/) | [Career Page](https://www.capgemini.com/it-it/careers/) | Consulting | Optional | Direct | Consulting - AWS - GCP - Azure
 [Casavo](https://casavo.com) | [Career Page](https://careers.casavo.com) | Product | Full | Direct | Elixir - CQRS Event-driven architectures - Python - Next.js - React - Android - iOS - Terraform - AWS - Kubernetes - Kotlin
 [Claranet Italia](https://www.claranet.it/) | [Career Page](https://claranetitalia.recruitee.com/l/it) | Consulting | Optional | Direct | AWS
 [Clastix](https://clastix.io) | [Career Page](https://github.com/clastix/hiring) | Product | - | - | Cloud Native - Kubernetes - Go - DevOps - Software Development
