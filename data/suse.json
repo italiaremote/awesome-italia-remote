@@ -1,0 +1,19 @@
+{
+  "name": "SUSE",
+  "url": "https://www.suse.com/",
+  "career_page_url": "https://jobs.suse.com",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Linux",
+    "Go",
+    "Rust",
+    "Java"
+  ]
+}
