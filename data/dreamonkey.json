@@ -1,0 +1,24 @@
+{
+    "name": "Dreamonkey",
+    "career_page_url": "https://dreamonkey.com/en/work-with-us",
+    "url": "https://dreamonkey.com",
+    "remote_policy": "Optional",
+    "hiring_policies": [
+        "Contract"
+    ],
+    "type": "Consultancy",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "Quasar",
+        "Vue.js",
+        "UX/UI",
+        "PHP",
+        "Laravel",
+        "Node.js",
+        "NestJS",
+        "AWS",
+        "Serverless"
+    ]
+}
