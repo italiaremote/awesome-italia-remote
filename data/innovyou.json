@@ -1,0 +1,25 @@
+{
+	"name": "Innovyou",
+	"url": "https://www.innovyou.co/",
+	"career_page_url": "https://www.linkedin.com/company/innovi-/",
+	"type": "B2B",
+	"categories": [
+		"cloud_software"
+	],
+	"remote_policy": "Full",
+	"hiring_policies": [
+		"Direct"
+	],
+	"tags": [
+		"Odoo",
+		"Bitcoin",
+		"Python",
+		"NodeJS",
+		"Javascript",
+		"Angular",
+		"React",
+		"Django",
+		"Docker",
+		"Postgres"
+	]
+}
