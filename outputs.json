@@ -1029,6 +1029,30 @@
     ]
   },
   {
+    "name": "Dreamonkey",
+    "url": "https://dreamonkey.com",
+    "career_page_url": "https://dreamonkey.com/en/work-with-us",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Contract"
+    ],
+    "tags": [
+      "Quasar",
+      "Vue.js",
+      "UX/UI",
+      "PHP",
+      "Laravel",
+      "Node.js",
+      "NestJS",
+      "AWS",
+      "Serverless"
+    ]
+  },
+  {
     "name": "DualBit",
     "url": "https://www.dualb.it",
     "career_page_url": "https://www.dualb.it/work-with-us",
