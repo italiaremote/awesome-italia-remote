@@ -172,7 +172,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Pinv](https://www.pinv.it) | [Career Page](https://pinv.it/contatti/) | Product | Full | Direct | Node.js - React - TypeScript
 [Pleo](https://www.pleo.io/) | [Career Page](https://www.pleo.io/en/careers) | Product | Optional | Contract | Javascript - Typescript - React - React Native - Kotlin - Kubernetes - AWS - PostgreSQL
 [Portchain](https://www.portchain.com/) | [Career Page](https://www.portchain.com/international-team/) | Product | Optional | Contract | JavaScript - TypeScript - Node.js - React - Python - PostgreSQL - AWS - Heroku
-[Prima](https://www.prima.it/) | [Career Page](https://it.prima.jobs/?lang=it-it) | Product | Full | Direct | AWS - Kubernetes - Rust - Elixir - Android - iOS - Elm - React - PHP - Python - Spark - Machine Learning - RabbitMQ - CQRS - DDD - Pulumi
+[Prima](https://www.prima.it/) | [Career Page](https://it.prima.jobs/?lang=it-it) | Product | Full | Direct | AWS - Kubernetes - Rust - Elixir - Android - iOS - Elm - React - PHP - Python - Spark - Machine Learning - RabbitMQ - CQRS - DDD - Pulumi - Security
 [Primer](https://primer.io) | [Career Page](https://primer.io/careers/) | Product | Full | - | Javascript - Typescript - React - Python - AWS - Docker
 [ProntoPro](https://www.prontopro.it/) | [Career Page](https://jobs.jobvite.com/prontopro/jobs) | Product | - | Direct | PHP - Go - AWS - Terraform - Kubernetes
 [Qonto](https://qonto.com/en) | [Career Page](https://qonto.com/en/careers) | Product | - | Contract | Go - EmberJS - Kotlin - Swift - Kubernetes - Terraform - AWS
