@@ -26,6 +26,7 @@
     "RabbitMQ",
     "CQRS",
     "DDD",
-    "Pulumi"
+    "Pulumi",
+    "Security"
   ]
 }
