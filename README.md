@@ -48,6 +48,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Aptus.AI](https://www.aptus.ai/) | [Career Page](https://www.aptus.ai/team) | Product | Optional | Direct | AWS - Python - TypeScript - Machine Learning - Natural Language Processing
 [Arduino](https://arduino.cc/) | [Career Page](https://careers.arduino.cc/) | Product | Optional | Direct | Python - Go - AWS - React
 [Aruba S.p.A.](https://www.aruba.it/en/home.aspx) | [Career Page](https://www.aruba.it/en/home.aspx) | Product | - | Direct | OpenShift - Serverless - Istio
+[Beliven](https://beliven.com) | [Career Page](https://careers.beliven.com) | B2B | Hybrid | Direct | PHP - Node - Vue.js - React - Angular - React Native - Docker - Kubernetes - Terraform
 [Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/hiring) | Consulting | Optional | Direct | JavaScript - React - TypeScript
 [BendingSpoons](https://bendingspoons.com/) | [Career Page](https://bendingspoons.com/careers.html) |  | - | Direct | 
 [BitBull](https://www.bitbull.it) | [Career Page](https://www.bitbull.it/team/) | Consulting | Full | Direct | Magento - Shopify - JavaScript - PHP - Node - AWS - Terraform - Serverless - Vue.js - Nuxt.js
@@ -116,7 +117,6 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [HACKERSGEN](https://hackersgen.com) | [Career Page](https://www.sorint.com/en/careers/) | Consulting | Full | Direct | Online Trainings - DevOps - Linux - FullStackDev - Cloud - CyberSec
 [Hastega](https://www.hastega.it/) | [Career Page](https://www.hastega.it/posizioni-aperte/) | Consulting | Optional | Direct | Angular - Laravel - Spring Boot - Android - iOS - AWS - GCP
 [Hasura](https://hasura.io/) | [Career Page](https://hasura.io/careers/) | Product | Full | Contract | Haskell - React - TypeScript
-[Heply](https://heply.it) | [Career Page](https://careers.heply.it) | B2B | Hybrid | Direct | PHP - Node - Vue.js - React - Angular - React Native - Docker - Kubernetes - Terraform
 [Heritage Holdings](https://www.heritageholdings.co/) | [Career Page](https://careers.heritageholdings.co/) | Product | Full | Direct | Typescript - Node - React
 [Heveloon](https://www.heveloon.co.uk/) | [Career Page](https://www.linkedin.com/company/heveloon-ltd) | Consulting | Full | Contract | React - Flutter - AWS - IoT - Swifth - Kotlin - Node.js - Solidity
 [Hinto®](https://www.hinto.com/) | [Career Page](https://www.hinto.com/en/join-us) | Consulting | - | - | AWS - Terraform - PHP - Symfony - Drupal - JS - TypeScript - React - Node.js
@@ -273,12 +273,12 @@ Name | Career Page | Remote Policy| Hiring Policy
 
 Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
+[Beliven](https://beliven.com) | [Career Page](https://careers.beliven.com) | Hybrid | Direct
 [Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/hiring) | Optional | Direct
 [Cloud Academy](https://www.cloudacademy.com) | [Career Page](https://jobs.cloudacademy.com) | Optional | -
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
 [Evologi](https://evologi.it/) | [Career Page](https://evologi.it/carriera/) | Optional | Direct
 [Flowing](https://flowing.it) | [Career Page](https://www.flowing.it/job-opportunity/) | Full | Contract - Direct
-[Heply](https://heply.it) | [Career Page](https://careers.heply.it) | Hybrid | Direct
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | - | -
 [Immobiliare.it](https://labs.immobiliare.it/) | [Career Page](https://www.immobiliare.it/info/lavora-con-noi/?utm_source=GitHubAwesomeItaliaRemote) | Optional | Direct
 [Jagaad](https://jagaad.com) | [Career Page](https://jagaad.com/careers) | Full | Direct
