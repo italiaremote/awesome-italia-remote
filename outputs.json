@@ -2856,6 +2856,29 @@
     ]
   },
   {
+    "name": "Objectway",
+    "url": "https://www.objectway.com/",
+    "career_page_url": "https://www.objectway.com/careers-open-job-positions/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Java",
+      "Spring",
+      "Javascript",
+      "Typescript",
+      "Angular",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ]
+  },
+  {
     "name": "OpenCity Labs",
     "url": "https://www.opencityitalia.it/",
     "career_page_url": "https://opencityitalia.it/lavora-con-noi/",
