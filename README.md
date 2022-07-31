@@ -49,7 +49,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Arduino](https://arduino.cc/) | [Career Page](https://careers.arduino.cc/) | Product | Optional | Direct | Python - Go - AWS - React
 [Aruba S.p.A.](https://www.aruba.it/en/home.aspx) | [Career Page](https://www.aruba.it/en/home.aspx) | Product | - | Direct | OpenShift - Serverless - Istio
 [Beliven](https://beliven.com) | [Career Page](https://careers.beliven.com) | B2B | Hybrid | Direct | PHP - Node - Vue.js - React - Angular - React Native - Docker - Kubernetes - Terraform
-[Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/hiring) | Consulting | Optional | Direct | JavaScript - React - TypeScript
+[Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/careers) | Consulting | Optional | Direct | JavaScript - React - TypeScript
 [BendingSpoons](https://bendingspoons.com/) | [Career Page](https://bendingspoons.com/careers.html) |  | - | Direct | 
 [BitBull](https://www.bitbull.it) | [Career Page](https://www.bitbull.it/team/) | Consulting | Full | Direct | Magento - Shopify - JavaScript - PHP - Node - AWS - Terraform - Serverless - Vue.js - Nuxt.js
 [Blexin](https://www.blexin.com/) | [Career Page](https://www.linkedin.com/company/blexin/jobs/) | Consulting | Optional | Direct | .NET - Microsoft Azure - DevOps - Javascript - Angular - React - Docker - Kubernetes
@@ -245,7 +245,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
 [Agile Lab](https://www.agilelab.it/) | [Career Page](https://www.agilelab.it/open-positions/) | Optional | Direct
-[Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/hiring) | Optional | Direct
+[Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/careers) | Optional | Direct
 [BendingSpoons](https://bendingspoons.com/) | [Career Page](https://bendingspoons.com/careers.html) | - | Direct
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
 [Empatica](https://www.empatica.com) | [Career Page](https://apply.workable.com/empatica/) | Full | Direct
@@ -274,7 +274,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
 [Beliven](https://beliven.com) | [Career Page](https://careers.beliven.com) | Hybrid | Direct
-[Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/hiring) | Optional | Direct
+[Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/careers) | Optional | Direct
 [Cloud Academy](https://www.cloudacademy.com) | [Career Page](https://jobs.cloudacademy.com) | Optional | -
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
 [Evologi](https://evologi.it/) | [Career Page](https://evologi.it/carriera/) | Optional | Direct
