@@ -1,0 +1,23 @@
+{
+    "name": "Objectway",
+    "career_page_url": "https://www.objectway.com/careers-open-job-positions/",
+    "url": "https://www.objectway.com/",
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "Product",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "Java",
+        "Spring",
+        "Javascript",
+        "Typescript",
+        "Angular",
+        "Docker",
+        "Kubernetes",
+        "AWS"
+    ]
+}
