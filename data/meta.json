@@ -8,8 +8,14 @@
     "marketing_writing",
     "cloud_software"
   ],
-  "remote_policy": "-",
+  "remote_policy": "Full",
   "hiring_policies": [
-    "-"
+    "Direct"
+  ],
+  "tags": [
+    "C",
+    "Linux",
+    "Kernel",
+    "Rust"
   ]
 }
