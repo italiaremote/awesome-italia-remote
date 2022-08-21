@@ -44,7 +44,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [AlgorandEurope](https://www.algorand.com) | [Career Page](https://www.algorand.com/about/careers/our-jobs) | Product | Optional | Direct | Blockchain - Go - JavaScript - Python - React - Typescript
 [Alpenite](https://www.alpenite.com) | [Career Page](https://careers.alpenite.com/) | Consulting | - | - | Salesforce - Magento - Shopify - SAP - Hootsuite - JavaScript - Java
 [Alpian](https://www.alpian.com/) | [Career Page](https://www.alpian.com/careers) | Product | Optional | Direct | Java - Kotlin - Spring Boot - Flutter - React - Go - Typescript - Dart - GCP - Docker - Kubernetes
-[Amazon](https://www.amazon.it) | [Career Page](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&country%5B%5D=ITA&distanceType=Mi&radius=24km&location%5B%5D=virtual-locations&location%5B%5D=virtual-locations&location%5B%5D=virtual-locations&latitude=&longitude=&loc_group_id=&loc_query=Virtual%20Locations&base_query=&city=&country=&region=&county=&query_options=&) | Product | Full | Direct | Java - Python - C - Clojure
+[Amazon](https://www.amazon.it) | [Career Page](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&country%5B%5D=ITA&distanceType=Mi&radius=24km&location%5B%5D=virtual-locations&location%5B%5D=virtual-locations&location%5B%5D=virtual-locations&latitude=&longitude=&loc_group_id=&loc_query=Virtual%20Locations&base_query=&city=&country=&region=&county=&query_options=&) | Product | Full | Direct | Java - Python - C - Linux - Kernel - Clojure
 [Aptus.AI](https://www.aptus.ai/) | [Career Page](https://www.aptus.ai/team) | Product | Optional | Direct | AWS - Python - TypeScript - Machine Learning - Natural Language Processing
 [Arduino](https://arduino.cc/) | [Career Page](https://careers.arduino.cc/) | Product | Optional | Direct | Python - Go - AWS - React
 [Aruba S.p.A.](https://www.aruba.it/en/home.aspx) | [Career Page](https://www.aruba.it/en/home.aspx) | Product | - | Direct | OpenShift - Serverless - Istio
@@ -147,10 +147,10 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Madisoft](https://labs.madisoft.it) | [Career Page](https://labs.madisoft.it/entra-nel-team/) | Product | Full | Direct | AWS - PHP - React
 [MailUp](https://www.mailup.com/) | [Career Page](https://www.growens.io/en/work-with-us/) | Product | - | - | Linux - Go - AWS - IaC - React - Angular - C# - Python
 [Medicilio](https://www.medicilio.it) | [Career Page](https://medicilio.it/careers) | B2C | Full | Direct | Python - Django - Javascript - Go - REST API - React.js - Vue.js - PostgreSQL - Typescript - Docker - AWS
-[Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) |  | - | - | 
+[Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) |  | Full | Direct | C - Linux - Kernel - Rust
 [Mia Burton](https://corporate.miaburton.com/en/) | [Career Page](https://corporate.miaburton.com/en/jobs/) | B2C | Full | Direct | NodeJS - Go - VueJs - TypeScript - NuxtJS - AWS - MongoDB - MariaDB - Redis
 [Mia-Platform](https://mia-platform.eu/) | [Career Page](https://mia-platform.eu/company/careers/?utm_source=github&utm_medium=awesome-italian-remote) | Product | Hybrid | Direct | Kubernetes - DevOps - Cloud Native Technologies - TypeScript - Node.js - C# - Java - Kotlin - Go - Python - Rust
-[Microsoft](https://www.microsoft.com/it-it/) | [Career Page](https://careers.microsoft.com/professionals/us/en/search-results?rk=l-c-engineering) | Product | Full | Direct | Azure - C# - SAP - TypeScript
+[Microsoft](https://www.microsoft.com/it-it/) | [Career Page](https://careers.microsoft.com/professionals/us/en/search-results?rk=l-c-engineering) | Product | Full | Direct | Azure - C - Linux - Kernel - C# - SAP - TypeScript
 [Miinto](https://www.miinto-group.com/) | [Career Page](https://www.miinto-group.com/jobs/) | B2C | Full | Direct | Vue.js
 [Milkman Technologies](https://www.milkmantechnologies.com/) | [Career Page](https://www.linkedin.com/company/milkmantechnologies/jobs/) | Product | - | - | Java - Clojure - AWS - JavaScript - React - Kotlin - Kafka
 [IMQ Minded Security](https://mindedsecurity.com/) | [Career Page](https://mindedsecurity.com/jobs/) | Consulting | Full | Direct | Security - Pentest - Code Review
@@ -180,7 +180,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Qonto](https://qonto.com/en) | [Career Page](https://qonto.com/en/careers) | Product | - | Contract | Go - EmberJS - Kotlin - Swift - Kubernetes - Terraform - AWS
 [Radical Storage](https://radicalstorage.com/) | [Career Page](https://www.linkedin.com/company/radicalstorage/jobs/) | Product | Full | Contract | Go - AWS - React - Docker - Kubernetes - Terraform - DDD
 [Rapsodoo Italia](https://www.rapsodoo.com) | [Career Page](https://italia.rapsodoo.com/jobs) | Consulting | Optional | Direct | Python - Javascript - Docker - GCP - AWS - Kubernetes - DevOps - Odoo - Terraform - Git - Cloud Native - OWL
-[RedHat](https://www.redhat.com/it/global/italia) | [Career Page](https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=13270--Remote) | Product | Full | Direct | AWS - Java - Linux - OpenShift
+[Red Hat](https://www.redhat.com/it/global/italia) | [Career Page](https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=13270--Remote) | Product | Full | Direct | AWS - Java - Python - Go - C - Linux - Kernel - OpenShift
 [Refactory](https://www.refactory-project.com/) | [Career Page](https://www.refactory-project.com/join-the-team/) | Consulting | - | - | PHP - Symfony - JS - Node.js - Vue.js - AWS
 [Register S.p.A.](https://www.register.it/) | [Career Page](https://itcareers.team.blue/) | Product | - | Direct | Java - PHP - React
 [Remotamente S.r.l.](https://www.remotamente.it) | [Career Page](https://remotamente.it/en/job/) | Consulting | Full | Direct | NodeJS - React - AWS - Fullstack - JavaScript
@@ -254,7 +254,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Everli](https://it.everli.com/it) | [Career Page](https://it.everli.com/it/lavora-con-noi) | Full | Direct
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | - | -
 [Human Analytica](https://humananalytica.it) | [Career Page](https://www.linkedin.com/company/human-analytica/jobs) | Hybrid | Direct
-[Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | - | -
+[Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | Full | Direct
 [Neosperience](https://www.neosperience.com) | [Career Page](https://www.neosperience.com/we-are-hiring/) | Optional | Direct
 [Superfluid Team](https://www.superfluidteam.com/) | [Career Page](https://www.superfluidteam.com/careers/) | - | -
 [Thoughtworks](https://www.thoughtworks.com/) | [Career Page](https://www.thoughtworks.com/careers/jobs) | Hybrid | Direct
@@ -266,7 +266,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
-[Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | - | -
+[Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | Full | Direct
 [TUI](https://www.tuigroup.com/en-en) | [Career Page](https://careers.tuigroup.com/) | - | -
 [YOOX NET-A-PORTER GROUP](https://www.ynap.com/it) | [Career Page](https://www.ynap.com/it/pagine/careers) | Hybrid | Direct
 [ZuruTech](https://zuru.tech/) | [Career Page](https://zuru.tech/careers) | Optional | Direct
@@ -285,7 +285,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Immobiliare.it](https://labs.immobiliare.it/) | [Career Page](https://www.immobiliare.it/info/lavora-con-noi/?utm_source=GitHubAwesomeItaliaRemote) | Optional | Direct
 [Jagaad](https://jagaad.com) | [Career Page](https://jagaad.com/careers) | Full | Direct
 [MailUp](https://www.mailup.com/) | [Career Page](https://www.growens.io/en/work-with-us/) | - | -
-[Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | - | -
+[Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | Full | Direct
 [Neosperience](https://www.neosperience.com) | [Career Page](https://www.neosperience.com/we-are-hiring/) | Optional | Direct
 [Patchai](https://www.patchai.io/) | [Career Page](https://www.linkedin.com/company/ai-patch/jobs/) | Full | Direct
 [Subito](https://www.subito.it/) | [Career Page](https://www.adevinta.com/jobs?company=subito) | - | Direct
