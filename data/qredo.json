@@ -1,0 +1,20 @@
+{
+  "name": "Qredo",
+  "url": "https://qredo.com",
+  "career_page_url": "https://qredo.com/careers",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Intermediary"
+  ],
+  "tags": [
+    "Blockchain",
+    "Ethereum",
+    "Bitcoin",
+    "Cosmos",
+    "Go"
+  ]
+}
