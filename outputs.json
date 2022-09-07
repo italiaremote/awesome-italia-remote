@@ -3238,6 +3238,26 @@
     ]
   },
   {
+    "name": "Qredo",
+    "url": "https://qredo.com",
+    "career_page_url": "https://qredo.com/careers",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Intermediary"
+    ],
+    "tags": [
+      "Blockchain",
+      "Ethereum",
+      "Bitcoin",
+      "Cosmos",
+      "Go"
+    ]
+  },
+  {
     "name": "Radical Storage",
     "url": "https://radicalstorage.com/",
     "career_page_url": "https://www.linkedin.com/company/radicalstorage/jobs/",
