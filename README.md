@@ -154,7 +154,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Miinto](https://www.miinto-group.com/) | [Career Page](https://www.miinto-group.com/jobs/) | B2C | Full | Direct | Vue.js
 [Milkman Technologies](https://www.milkmantechnologies.com/) | [Career Page](https://www.linkedin.com/company/milkmantechnologies/jobs/) | Product | - | - | Java - Clojure - AWS - JavaScript - React - Kotlin - Kafka
 [IMQ Minded Security](https://mindedsecurity.com/) | [Career Page](https://mindedsecurity.com/jobs/) | Consulting | Full | Direct | Security - Pentest - Code Review
-[Moneyfarm](https://www.moneyfarm.com/) | [Career Page](https://www.moneyfarm.com/it/jobs/) | Product | Optional | Direct | Scala - AWS - Kubernetes - TypeScript - React - Kotlin - Swift - iOS - Android
+[Moneyfarm](https://www.moneyfarm.com/) | [Career Page](https://www.moneyfarm.com/it/jobs/) | Product | Optional | Direct | Android - AWS - Docker - EFK - Go - iOS - Istio - Kafka - Kong - Kotlin - Kubernetes - Prometheus - Python - RabbitMQ - React - Redis - Scala - Swift - Terraform - TypeScript
 [NearForm](https://www.nearform.com) | [Career Page](https://www.nearform.com/careers/) | Consulting | Full | Intermediary | Node.js - React - AWS - GCP - Kubernetes
 [Neato Robotics](https://neatorobotics.com) | [Career Page](https://neatorobotics.com/pages/careers) | Product | Full | Direct | AWS - iOS - Swift - Android - Kotlin - Elixir - Distributed Erlang
 [Neosperience](https://www.neosperience.com) | [Career Page](https://www.neosperience.com/we-are-hiring/) | B2B | Optional | Direct | AWS - Node - GraphQL - Kotlin - Python - Java - React - TypeScript - AI - Machine Learning - Data Science
