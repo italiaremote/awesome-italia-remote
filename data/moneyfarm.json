@@ -11,14 +11,25 @@
     "Direct"
   ],
   "tags": [
-    "Scala",
+    "Android",
     "AWS",
-    "Kubernetes",
-    "TypeScript",
-    "React",
-    "Kotlin",
-    "Swift",
+    "Docker",
+    "EFK",
+    "Go",
     "iOS",
-    "Android"
+    "Istio",
+    "Kafka",
+    "Kong",
+    "Kotlin",
+    "Kubernetes",
+    "Prometheus",
+    "Python",
+    "RabbitMQ",
+    "React",
+    "Redis",
+    "Scala",
+    "Swift",
+    "Terraform",
+    "TypeScript"
   ]
 }
