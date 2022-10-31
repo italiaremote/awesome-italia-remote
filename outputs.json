@@ -19,6 +19,25 @@
     ]
   },
   {
+    "name": "5w155",
+    "url": "https://5w155.ch/",
+    "career_page_url": "https://5w155.ch/careers.html",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Contract"
+    ],
+    "tags": [
+      "React",
+      "Node.js",
+      "Python",
+      "Java"
+    ]
+  },
+  {
     "name": "Advigator",
     "url": "https://www.advigator.com",
     "career_page_url": "https://www.advigator.com/careers",
@@ -2148,6 +2167,26 @@
       "Django",
       "Docker",
       "Postgres"
+    ]
+  },
+  {
+    "name": "Intergiro",
+    "url": "https://www.intergiro.com/",
+    "career_page_url": "https://jobs.intergiro.com/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Intermediary",
+      "Contract"
+    ],
+    "tags": [
+      "GCP",
+      "JavaScript",
+      "Kubernetes",
+      "Fintech"
     ]
   },
   {
