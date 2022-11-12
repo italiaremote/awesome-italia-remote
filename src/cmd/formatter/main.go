@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"log"
 	"os"
+	"regexp"
 
 	"github.com/italiaremote/awesome-italia-remote/pkg/cmp"
 )
@@ -16,6 +17,7 @@ func main() {
 	if err != nil {
 		log.Fatalln(err)
 	}
+	fileNameRegex := regexp.MustCompile(`([a-zA-Z0-9\_\-]+).json$`)
 
 	for _, companyFiles := range companiesFile {
 		fileName := dataPath + companyFiles.Name()
@@ -24,6 +26,10 @@ func main() {
 			log.Fatalln(err)
 		}
 		var company cmp.Company
+
+		if !fileNameRegex.MatchString(fileName) {
+			log.Fatalln("Invalid filename, use only letters. numbers and - _")
+		}
 
 		err = json.Unmarshal(file, &company)
 		if err != nil {
