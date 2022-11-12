@@ -3990,25 +3990,6 @@
     ]
   },
   {
-    "name": "Test",
-    "url": "https://www.3bee.com/",
-    "career_page_url": "https://test.test",
-    "type": "Product",
-    "categories": [
-      "cybersecurity"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "React",
-      "Django",
-      "AWS",
-      "IoT"
-    ]
-  },
-  {
     "name": "TheFork",
     "url": "https://www.thefork.com/",
     "career_page_url": "https://careers.thefork.com/global/en",
