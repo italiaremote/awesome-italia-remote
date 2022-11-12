@@ -65,6 +65,15 @@ Name | Career Page | Remote Policy| Hiring Policy
 [{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.RemotePolicy}} | {{.GetHiringPoliciesString}}
 {{- end}}
 
+### Cybersecurity
+
+Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
+------------ | -- | ------- | ------- |---------------| -------
+
+{{- range .Companies.cybersecurity}}
+[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.RemotePolicy}} | {{.GetHiringPoliciesString}} | {{.GetTagsString}}
+{{- end}}
+
 ---------
 
 ## Contributors
