@@ -46,6 +46,7 @@ Subsequently, the `README.md` file is automatically generated, so you don't have
 2. design_ux
 3. marketing_writing
 4. hr
+5. cybersecurity
 
 #### Allowed Company Types
 

@@ -23,6 +23,7 @@ var (
 		"design_ux":         true,
 		"marketing_writing": true,
 		"hr":                true,
+		"cybersecurity":     true,
 	}
 	allowedHiringPolicies = map[string]bool{
 		"-":            true,
