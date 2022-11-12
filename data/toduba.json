@@ -3,9 +3,13 @@
   "url": "https://toduba.it",
   "career_page_url": "https://clikapp.notion.site/Posizione-lavorativa-sviluppatore-fullstack-dda86a60d0094d4ab29c588e151cfc67",
   "type": "Product",
-  "categories": ["cloud_software"],
+  "categories": [
+    "cloud_software"
+  ],
   "remote_policy": "Optional",
-  "hiring_policies": ["Direct"],
+  "hiring_policies": [
+    "Direct"
+  ],
   "tags": [
     "React",
     "NextJS",

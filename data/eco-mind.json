@@ -1,30 +1,30 @@
 {
-    "name": "Eco-Mind",
-    "career_page_url": "https://eco-mind.eu/lavora-con-noi",
-    "url": "https://eco-mind.eu",
-    "remote_policy": "Optional",
-    "hiring_policies": [
-        "Direct"
-    ],
-    "type": "Product",
-    "categories": [
-        "cloud_software"
-    ],
-    "tags": [
-        "Java",
-        "Kotlin",
-        "Spring",
-        "TypeScript",
-        "Angular",
-        "Kubernetes",
-        "Flux",
-        "Helm",
-        "Azure",
-        "AWS",
-        "GCP",
-        "Mixed Reality",
-        "iOS",
-        "Android",
-        "React Native"
-    ]
+  "name": "Eco-Mind",
+  "url": "https://eco-mind.eu",
+  "career_page_url": "https://eco-mind.eu/lavora-con-noi",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Java",
+    "Kotlin",
+    "Spring",
+    "TypeScript",
+    "Angular",
+    "Kubernetes",
+    "Flux",
+    "Helm",
+    "Azure",
+    "AWS",
+    "GCP",
+    "Mixed Reality",
+    "iOS",
+    "Android",
+    "React Native"
+  ]
 }
