@@ -305,6 +305,12 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Full | Direct
 [ZuruTech](https://zuru.tech/) | [Career Page](https://zuru.tech/careers) | Optional | Direct
 
+### Cybersecurity
+
+Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
+------------ | -- | ------- | ------- |---------------| -------
+[Test](https://www.3bee.com/) | [Career Page](https://test.test) | Product | Full | Direct | React - Django - AWS - IoT
+
 ---------
 
 ## Contributors
