@@ -3531,6 +3531,26 @@
     ]
   },
   {
+    "name": "Shielder",
+    "url": "https://www.shielder.com/",
+    "career_page_url": "https://www.shielder.com/careers/",
+    "type": "B2B",
+    "categories": [
+      "cybersecurity"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Penetration Test",
+      "Security Research",
+      "Application Security",
+      "Red Teaming",
+      "Hardware Security"
+    ]
+  },
+  {
     "name": "ShippyPro",
     "url": "https://www.shippypro.com/",
     "career_page_url": "https://www.shippypro.com/en/work-with-us/",
