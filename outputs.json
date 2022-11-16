@@ -1147,6 +1147,38 @@
     ]
   },
   {
+    "name": "D/Vision Lab s.r.l.",
+    "url": "https://www.dvisionlab.com/",
+    "career_page_url": "https://www.dvisionlab.com/careers/careers",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Angular",
+      "Blender",
+      "Cornerstone.js",
+      "Django",
+      "Docker",
+      "Electron",
+      "JavaScript",
+      "Machine Learning",
+      "Node.js",
+      "Python",
+      "React",
+      "Three.js",
+      "TypeScript",
+      "VTK",
+      "Vue.js",
+      "WebGL"
+    ]
+  },
+  {
     "name": "Eco-Mind",
     "url": "https://eco-mind.eu",
     "career_page_url": "https://eco-mind.eu/lavora-con-noi",
