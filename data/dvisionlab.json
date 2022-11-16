@@ -1,0 +1,32 @@
+{
+    "name": "D/Vision Lab s.r.l.",
+    "career_page_url": "https://www.dvisionlab.com/careers/careers",
+    "url": "https://www.dvisionlab.com/",
+    "remote_policy": "Optional",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "Consulting",
+    "categories": [
+        "cloud_software",
+        "design_ux"
+    ],
+    "tags": [
+        "Angular",
+        "Blender",
+        "Cornerstone.js",
+        "Django",
+        "Docker",
+        "Electron",
+        "JavaScript",
+        "Machine Learning",
+        "Node.js",
+        "Python",
+        "React",
+        "Three.js",
+        "TypeScript",
+        "VTK",
+        "Vue.js",
+        "WebGL"
+    ]
+}
