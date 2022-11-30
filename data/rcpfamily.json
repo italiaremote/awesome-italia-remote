@@ -1,0 +1,23 @@
+{
+  "name": "Remote Control Family",
+  "url": "https://jobs.r-control.de/",
+  "career_page_url": "https://jobs.r-control.de/game-developer-jobs/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "C#",
+    "C++",
+    "Unity",
+    "Unreal",
+    "AWS",
+    "Terraform",
+    "Kubernetes",
+    "Docker"
+  ]
+}
