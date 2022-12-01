@@ -3389,6 +3389,29 @@
     ]
   },
   {
+    "name": "Remote Control Family",
+    "url": "https://jobs.r-control.de/",
+    "career_page_url": "https://jobs.r-control.de/game-developer-jobs/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "C#",
+      "C++",
+      "Unity",
+      "Unreal",
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "Docker"
+    ]
+  },
+  {
     "name": "Red Hat",
     "url": "https://www.redhat.com/it/global/italia",
     "career_page_url": "https://careers-redhat.icims.com/jobs/search?ss=1\u0026searchLocation=13270--Remote",
