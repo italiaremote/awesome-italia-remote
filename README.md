@@ -184,6 +184,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Qredo](https://qredo.com) | [Career Page](https://qredo.com/careers) | Product | Full | Intermediary | Blockchain - Ethereum - Bitcoin - Cosmos - Go
 [Radical Storage](https://radicalstorage.com/) | [Career Page](https://www.linkedin.com/company/radicalstorage/jobs/) | Product | Full | Contract | Go - AWS - React - Docker - Kubernetes - Terraform - DDD
 [Rapsodoo Italia](https://www.rapsodoo.com) | [Career Page](https://italia.rapsodoo.com/jobs) | Consulting | Optional | Direct | Python - Javascript - Docker - GCP - AWS - Kubernetes - DevOps - Odoo - Terraform - Git - Cloud Native - OWL
+[Remote Control Family](https://jobs.r-control.de/) | [Career Page](https://jobs.r-control.de/game-developer-jobs/) | Product | Full | Direct | C# - C++ - Unity - Unreal - AWS - Docker - Kubernetes |
 [Red Hat](https://www.redhat.com/it/global/italia) | [Career Page](https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=13270--Remote) | Product | Full | Direct | AWS - Java - Python - Go - C - Linux - Kernel - OpenShift
 [Refactory](https://www.refactory-project.com/) | [Career Page](https://www.refactory-project.com/join-the-team/) | Consulting | - | - | PHP - Symfony - JS - Node.js - Vue.js - AWS
 [Register S.p.A.](https://www.register.it/) | [Career Page](https://itcareers.team.blue/) | Product | - | Direct | Java - PHP - React
