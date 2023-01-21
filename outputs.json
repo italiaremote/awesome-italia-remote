@@ -3224,6 +3224,29 @@
     ]
   },
   {
+    "name": "Polaris Engineering spa",
+    "url": "https://polarisengineeringspa.com/",
+    "career_page_url": "https://www.linkedin.com/company/polaris-engineering-spa/jobs/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Kotlin",
+      "Java",
+      "AWS",
+      "Python",
+      "Kafka",
+      "Kubernetes",
+      "Docker",
+      "Matlab"
+    ]
+  },
+  {
     "name": "Portchain",
     "url": "https://www.portchain.com/",
     "career_page_url": "https://www.portchain.com/international-team/",
