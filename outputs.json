@@ -4734,6 +4734,27 @@
     ]
   },
   {
+    "name": "Xriba",
+    "url": "https://xriba.com/it/home/",
+    "career_page_url": "https://xriba.com/it/lavora-con-noi/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "React.js",
+      "TypeScript",
+      "Node.js",
+      "Redux",
+      ".NET",
+      "Java"
+    ]
+  },
+  {
     "name": "YOOX NET-A-PORTER GROUP",
     "url": "https://www.ynap.com/it",
     "career_page_url": "https://www.ynap.com/it/pagine/careers",
