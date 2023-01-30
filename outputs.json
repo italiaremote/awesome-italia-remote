@@ -1562,6 +1562,27 @@
     ]
   },
   {
+    "name": "Fatture in Cloud",
+    "url": "https://www.fattureincloud.it/",
+    "career_page_url": "https://www.fattureincloud.it/chi-siamo/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "TypeScript",
+      "React",
+      "PHP",
+      "Lumen",
+      "MySQL",
+      "MongoDB"
+    ]
+  },
+  {
     "name": "Fiscozen",
     "url": "https://www.fiscozen.it/",
     "career_page_url": "https://www.linkedin.com/company/fiscozen/",
@@ -3725,6 +3746,28 @@
       "Python",
       "React",
       "Kubernetes"
+    ]
+  },
+  {
+    "name": "Sidea Group",
+    "url": "https://www.sideagroup.com/",
+    "career_page_url": "https://www.sideagroup.com/sidea-hr/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Javascript",
+      "TypeScript",
+      "React",
+      "Angular",
+      "Wordpress",
+      "Magento",
+      "Salesforce Commerce Cloud"
     ]
   },
   {
