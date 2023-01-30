@@ -1,0 +1,22 @@
+{
+    "name": "Sidea Group",
+    "url": "https://www.sideagroup.com/",
+    "career_page_url": "https://www.sideagroup.com/sidea-hr/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Javascript",
+      "TypeScript",
+      "React",
+      "Angular",
+      "Wordpress",
+      "Magento",
+      "Salesforce Commerce Cloud"
+    ]
+  }
