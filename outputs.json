@@ -161,6 +161,30 @@
     ]
   },
   {
+    "name": "Alkemy",
+    "url": "https://www.alkemy.com/",
+    "career_page_url": "https://www.linkedin.com/company/alkemy-enabling-evolution/jobs/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Magento",
+      "PHP",
+      "Javascript",
+      "React",
+      "Angular",
+      "Ionic",
+      "Python",
+      "Django",
+      "Java"
+    ]
+  },
+  {
     "name": "Alpenite",
     "url": "https://www.alpenite.com",
     "career_page_url": "https://careers.alpenite.com/",
@@ -698,6 +722,61 @@
       "Vue.js",
       "Azure",
       "MongoDB"
+    ]
+  },
+  {
+    "name": "Codermine",
+    "url": "https://codermine.com/",
+    "career_page_url": "https://codermine.com/contatti/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "React",
+      "Angular",
+      ".NET",
+      "Kotlin",
+      "Swift",
+      "Python",
+      "Java"
+    ]
+  },
+  {
+    "name": "coders51",
+    "url": "https://www.coders51.com",
+    "career_page_url": "https://coders51.typeform.com/to/BpB9pe",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct",
+      "Contract"
+    ],
+    "tags": [
+      "Elixir/Erlang",
+      "Javascript/Typescript",
+      "Node.js/React",
+      "RabbitMQ",
+      "Kafka",
+      "GCP",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Test Driven Development",
+      "Microservice",
+      "Event Driven Architecture",
+      "EventStorming",
+      "Continuous Delivery",
+      "Functional Programming",
+      "Domain-Driven Design"
     ]
   },
   {
