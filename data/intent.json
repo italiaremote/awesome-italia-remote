@@ -1,0 +1,26 @@
+{
+    "name": "Intent",
+    "career_page_url": "https://withintent.com/careers",
+    "url": "https://withintent.com",
+    "remote_policy": "Full",
+    "hiring_policies": [
+        "Contract"
+    ],
+    "type": "B2B",
+    "categories": [
+        "cloud_software",
+        "design_ux"
+    ],
+    "tags": [
+        "iOS",
+        "Android",
+        "IoT",
+        "AWS",
+        "Node.js",
+        "Flutter",
+        "JavaScript",
+        "Swift",
+        "Kotlin",
+        "React Native"
+    ]
+}
