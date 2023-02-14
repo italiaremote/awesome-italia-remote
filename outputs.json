@@ -1777,6 +1777,24 @@
     ]
   },
   {
+    "name": "Fluentify",
+    "url": "https://www.fluentify.com/",
+    "career_page_url": "https://fluentifycareers.factorial.it/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Flutter",
+      "Nativescript",
+      "React Native"
+    ]
+  },
+  {
     "name": "FourTheorem",
     "url": "https://www.fourtheorem.com",
     "career_page_url": "https://www.fourtheorem.com/careers",
