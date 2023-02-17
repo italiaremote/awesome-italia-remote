@@ -1,0 +1,23 @@
+{
+    "name": "Meritocracy",
+    "url": "https://meritocracy.is/it",
+    "career_page_url": "https://meritocracy.is/it/seltishub",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "React",
+      "JavaScript",
+      "Java",
+      "Node",
+      "NoSQL",
+      "Elasticsearch",
+      "GO",
+      "SQL"
+    ]
+  }
