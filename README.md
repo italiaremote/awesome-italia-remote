@@ -125,7 +125,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Gitlab](https://www.gitlab.com/) | [Career Page](https://about.gitlab.com/jobs/) | Product | Full | Intermediary | Ruby - Ruby On Rails
 [Gorgias](https://www.gorgias.com/) | [Career Page](https://www.gorgias.com/about-us/jobs) | Product | - | - | GCP - Python - PostgreSQL - Typescript - Javascript - React - Terraform - Kubernetes - Socket.io - RabbitMQ - Celery
 [HACKERSGEN](https://hackersgen.com) | [Career Page](https://www.sorint.com/en/careers/) | Consulting | Full | Direct | Online Trainings - DevOps - Linux - FullStackDev - Cloud - CyberSec
-[Hastega](https://www.hastega.it/) | [Career Page](https://www.hastega.it/posizioni-aperte/) | Consulting | Optional | Direct | Angular - Laravel - Spring Boot - Android - iOS - AWS - GCP
+[Hastega](https://www.hastega.it/) | [Career Page](https://www.hastega.it/careers/) | Consulting | Optional | Direct | Angular - Laravel - Spring Boot - Android - iOS - AWS - GCP
 [Hasura](https://hasura.io/) | [Career Page](https://hasura.io/careers/) | Product | Full | Contract | Haskell - React - TypeScript
 [Heritage Holdings](https://www.heritageholdings.co/) | [Career Page](https://careers.heritageholdings.co/) | Product | Full | Direct | Typescript - Node - React
 [Heveloon](https://www.heveloon.co.uk/) | [Career Page](https://www.linkedin.com/company/heveloon-ltd) | Consulting | Full | Contract | React - Flutter - AWS - IoT - Swifth - Kotlin - Node.js - Solidity
