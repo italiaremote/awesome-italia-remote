@@ -1,0 +1,24 @@
+{
+    "name": "Bitrock",
+    "url": "https://bitrock.it/",
+    "career_page_url": "https://bitrock.it/join-us",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "React",
+      "Vue",
+      "Java",
+      "IOS",
+      "Python",
+      "Ruby",
+      "Scala",
+      "GO",
+      "SQL"
+    ]
+  }
