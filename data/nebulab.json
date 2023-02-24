@@ -1,17 +1,17 @@
 {
-    "name": "nebulab",
-    "url": "https://nebulab.com/",
-    "career_page_url": "https://nebulab.com/careers",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Contract"
-    ],
-    "tags": [
-      "React",
-      "Ruby on Rails"
-    ]
-  }
+  "name": "nebulab",
+  "url": "https://nebulab.com/",
+  "career_page_url": "https://nebulab.com/careers",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Contract"
+  ],
+  "tags": [
+    "React",
+    "Ruby on Rails"
+  ]
+}

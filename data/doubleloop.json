@@ -3,9 +3,14 @@
   "url": "https://doubleloop.io/",
   "career_page_url": "https://doubleloop.io/jobs.html",
   "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
   "remote_policy": "Full",
-  "hiring_policies": ["Direct", "Contract"],
-  "categories": ["cloud_software"],
+  "hiring_policies": [
+    "Direct",
+    "Contract"
+  ],
   "tags": [
     "Javascript/Typescript",
     "Node.js/React",

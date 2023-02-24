@@ -1,20 +1,20 @@
 {
-    "name": "Shielder",
-    "career_page_url": "https://www.shielder.com/careers/",
-    "url": "https://www.shielder.com/",
-    "remote_policy": "Optional",
-    "hiring_policies": [
-        "Direct"
-    ],
-    "type": "B2B",
-    "categories": [
-        "cybersecurity"
-    ],
-    "tags": [
-        "Penetration Test",
-        "Security Research",
-        "Application Security",
-        "Red Teaming",
-        "Hardware Security"
-    ]
+  "name": "Shielder",
+  "url": "https://www.shielder.com/",
+  "career_page_url": "https://www.shielder.com/careers/",
+  "type": "B2B",
+  "categories": [
+    "cybersecurity"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Penetration Test",
+    "Security Research",
+    "Application Security",
+    "Red Teaming",
+    "Hardware Security"
+  ]
 }
