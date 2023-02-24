@@ -1,24 +1,24 @@
 {
-    "name": "Alkemy",
-    "url": "https://www.alkemy.com/",
-    "career_page_url": "https://www.linkedin.com/company/alkemy-enabling-evolution/jobs/",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Magento",
-      "PHP",
-      "Javascript",
-      "React",
-      "Angular",
-      "Ionic",
-      "Python",
-      "Django",
-      "Java"
-    ]
-  }
+  "name": "Alkemy",
+  "url": "https://www.alkemy.com/",
+  "career_page_url": "https://www.linkedin.com/company/alkemy-enabling-evolution/jobs/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Magento",
+    "PHP",
+    "Javascript",
+    "React",
+    "Angular",
+    "Ionic",
+    "Python",
+    "Django",
+    "Java"
+  ]
+}

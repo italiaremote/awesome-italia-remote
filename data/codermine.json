@@ -1,22 +1,22 @@
 {
-    "name": "Codermine",
-    "url": "https://codermine.com/",
-    "career_page_url": "https://codermine.com/contatti/",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "React",
-      "Angular",
-      ".NET",
-      "Kotlin",
-      "Swift",
-      "Python",
-      "Java"
-    ]
-  }
+  "name": "Codermine",
+  "url": "https://codermine.com/",
+  "career_page_url": "https://codermine.com/contatti/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "React",
+    "Angular",
+    ".NET",
+    "Kotlin",
+    "Swift",
+    "Python",
+    "Java"
+  ]
+}
