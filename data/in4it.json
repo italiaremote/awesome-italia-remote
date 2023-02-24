@@ -1,0 +1,22 @@
+{
+    "name": "IN4IT",
+    "url": "https://in4it.io/",
+    "career_page_url": "https://www.linkedin.com/company/in4it/jobs/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Contract"
+    ],
+    "tags": [
+      "AWS",
+      "Cloud",
+      "Go",
+      "Migrations",
+      "Terraform",
+      "Kubernetes",
+      "Docker"
+    ]
+  }
