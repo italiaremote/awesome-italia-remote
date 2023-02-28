@@ -38,7 +38,6 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 ------------ | -- | ------- | ------- |---------------| -------
 [3Bee](https://www.3bee.com/) | [Career Page](https://www.linkedin.com/company/3beesrl/jobs/) | Product | Full | Direct | React - Django - AWS - IoT
 [5w155](https://5w155.ch/) | [Career Page](https://5w155.ch/careers.html) | Consulting | Full | Contract | React - Node.js - Python - Java
-[Ernesto](https://www.ernesto.it/) | [Career Page](https://help.ernesto.it/contatti/) | Product | Full | Direct | Java - Javascript - Git - Maven - Tomcat - Kibana - NginxPlus
 [Advigator](https://www.advigator.com) | [Career Page](https://www.advigator.com/careers) | Product | Full | Direct | Ruby On Rails
 [Agile Lab](https://www.agilelab.it/) | [Career Page](https://www.agilelab.it/open-positions/) | Consulting | Optional | Direct | AWS - Spark - Scala - Java - Python - TypeScript - React
 [Aicof](https://www.aicof.it) | [Career Page](https://www.linkedin.com/company/aicof/jobs/) | B2B | Full | Direct | Java - Spring Boot - .NET - Angular - Kubernetes
@@ -103,6 +102,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Empatica](https://www.empatica.com) | [Career Page](https://apply.workable.com/empatica/) | Product | Full | Direct | AWS - GCP - Kubernetes - Docker - Cloud-native - DevOps - DataOps - GitOps - SecOps - Python - Typescript - Terraform - Security - Go - React
 [Engage IT Services](https://www.linkedin.com/company/engage-it-services-s-r-l-) | [Career Page](https://www.linkedin.com/company/engage-it-services-s-r-l-/jobs) | Product | Optional | Direct | .NET - C# - PowerShell - SQL Server - Azure - TypeScript - Angular - REST Api - RabbitMQ - Redis - Docker - Architecture - DevOps - Enterprise solutions
 [Engage Labs](https://www.linkedin.com/company/engage-labs) | [Career Page](https://www.linkedin.com/company/engage-labs/jobs) | Consulting | Optional | Direct | .NET - C# - SQL Server - Azure - TypeScript - Angular - REST Api - RabbitMQ - Docker - Architecture - DevOps - Learning - Troubleshooting
+[Ernesto](https://www.ernesto.it/) | [Career Page](https://help.ernesto.it/contatti/) | Product | Full | Direct | Java - Javascript - Git - Maven - Tomcat - Kibana - NginxPlus
 [ESTECO](https://www.esteco.com/) | [Career Page](https://jobs.esteco.com/) | Product | Optional | Direct | Android - Angular - AWS - iOS - Java - JavaScript - TypeScript - Kubernetes - GCP - Python - Node.js
 [Everli](https://it.everli.com/it) | [Career Page](https://it.everli.com/it/lavora-con-noi) | Product | Full | Direct | Laravel - Python - MySQL - Elasticsearch - RabbitMQ - Redis - Vue.js - Kotlin - Swift - AWS - Docker
 [Evologi](https://evologi.it/) | [Career Page](https://evologi.it/carriera/) | Product | Optional | Direct | JavaScript - TypeScript - Node.js - PostgreSQL - MongoDB - Azure - Kubernetes - RabbitMQ - Angular - DevOps - Python

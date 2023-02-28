@@ -38,28 +38,6 @@
     ]
   },
   {
-    "name": "Ernesto",
-    "url": "https://www.ernesto.it/",
-    "career_page_url": "https://help.ernesto.it/contatti/",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Java",
-      "Javascript",
-      "Git",
-      "Maven",
-      "Tomcat",
-      "Kibana",
-      "NginxPlus"
-    ]
-  },
-  {
     "name": "Advigator",
     "url": "https://www.advigator.com",
     "career_page_url": "https://www.advigator.com/careers",
@@ -1496,6 +1474,28 @@
       "DevOps",
       "Learning",
       "Troubleshooting"
+    ]
+  },
+  {
+    "name": "Ernesto",
+    "url": "https://www.ernesto.it/",
+    "career_page_url": "https://help.ernesto.it/contatti/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Java",
+      "Javascript",
+      "Git",
+      "Maven",
+      "Tomcat",
+      "Kibana",
+      "NginxPlus"
     ]
   },
   {
