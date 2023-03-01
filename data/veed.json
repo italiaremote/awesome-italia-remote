@@ -1,0 +1,19 @@
+{
+    "name": "Veed.io",
+    "career_page_url": "https://www.veed.io/careers",
+    "url": "https://www.veed.io",
+    "remote_policy": "Full",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "B2C",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "React",
+        "C++",
+        "Python",
+        "TypeScript"
+    ]
+}
