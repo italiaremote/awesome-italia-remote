@@ -4826,6 +4826,25 @@
     ]
   },
   {
+    "name": "Veed.io",
+    "url": "https://www.veed.io",
+    "career_page_url": "https://www.veed.io/careers",
+    "type": "B2C",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "React",
+      "C++",
+      "Python",
+      "TypeScript"
+    ]
+  },
+  {
     "name": "Verizon Connect",
     "url": "https://www.verizonconnect.com/",
     "career_page_url": "https://www.verizon.com/about/work/search/firenze-italy/jobs",
