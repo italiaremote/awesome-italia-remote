@@ -1,0 +1,19 @@
+{
+    "name": "Hopper",
+    "career_page_url": "https://hopper.com/careers",
+    "url": "https://hopper.com/",
+    "remote_policy": "Full",
+    "hiring_policies": [
+        "Intermediary"
+    ],
+    "type": "Product",
+    "categories": [
+        "cloud_software",
+	"design_ux"
+    ],
+    "tags": [
+        "Scala",
+        "Kubernetes",
+        "Terraform"
+    ]
+}
