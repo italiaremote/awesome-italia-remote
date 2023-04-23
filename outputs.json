@@ -2116,6 +2116,25 @@
     ]
   },
   {
+    "name": "Hopper",
+    "url": "https://hopper.com/",
+    "career_page_url": "https://hopper.com/careers",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Intermediary"
+    ],
+    "tags": [
+      "Scala",
+      "Kubernetes",
+      "Terraform"
+    ]
+  },
+  {
     "name": "Hotjar",
     "url": "https://www.hotjar.com/",
     "career_page_url": "https://careers.hotjar.com/",
