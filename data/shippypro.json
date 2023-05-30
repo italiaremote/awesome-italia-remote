@@ -6,12 +6,17 @@
   "categories": [
     "cloud_software"
   ],
-  "remote_policy": "-",
+  "remote_policy": "optional",
   "hiring_policies": [
-    "-"
+    "Direct"
   ],
   "tags": [
+    "AWS",
+    "Serverless",
+    "Kubernetes",
+    "EventBridge",
     "PHP",
-    "Terraform"
+    "React",
+    "TypeScript"
   ]
 }
