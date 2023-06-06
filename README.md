@@ -209,7 +209,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [S2E - Solutions to Enterprises](https://solutions2enterprises.com/it/) | [Career Page](https://solutions2enterprises.com/lavoraconnoi/) | Consulting | Optional | Direct | Consulting - AWS - Python - ElasticSearch
 [Searchmetrics](https://www.searchmetrics.com/) | [Career Page](https://www.searchmetrics.com/company-and-careers/) | B2B | Full | Contract | 
 [Serenis](https://www.serenis.it/) | [Career Page](https://join.com/companies/serenis/) | Product | Optional | Direct | Apollo GraphQL Federation - AWS - Docker - Jest - Kubernetes - NestJS - Node.js - React Native - React - TypeScript
-[ShippyPro](https://www.shippypro.com/) | [Career Page](https://www.shippypro.com/en/work-with-us/) | Product | - | - | PHP - Terraform
+[ShippyPro](https://www.shippypro.com/) | [Career Page](https://www.shippypro.com/en/work-with-us/) | Product | Optional | Direct | AWS - Serverless - Kubernetes - EventBridge - PHP - React - TypeScript
 [ShopFully](https://corporate.shopfully.com/) | [Career Page](https://corporate.shopfully.com/it/lavora-con-noi/) | Product | Full | Contract | PHP - React - React Native - Node.js - Docker - AWS - Serverless - MySQL
 [Shopify](https://www.shopify.com) | [Career Page](https://www.shopify.com/careers) | Product | Full | - | Ruby - Go - Python - React - Kubernetes
 [Sidea Group](https://www.sideagroup.com/) | [Career Page](https://www.sideagroup.com/sidea-hr/) | Consulting | Hybrid | Direct | Javascript - TypeScript - React - Angular - Wordpress - Magento - Salesforce Commerce Cloud
