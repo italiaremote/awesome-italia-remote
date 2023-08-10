@@ -1,0 +1,23 @@
+{
+  "name": "Hakuna",
+  "url": "https://www.hellohakuna.com/",
+  "career_page_url": "https://hakuna.jobs.personio.de/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Intermediary"
+  ],
+  "tags": [
+    "React",
+    "Typescript",
+    "Node.js",
+    "Serverless",
+    "AWS",
+    "EventStorming",
+    "Functional Programming",
+    "Domain-Driven Design"
+  ]
+}
