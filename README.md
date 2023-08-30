@@ -266,6 +266,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Product | Full | Direct | Android - AWS - Go - iOS - Java - JavaScript - Kafka - Kubernetes - Python - React - Scala - Terraform - Typescript
 [Zupit](https://www.zupit.it) | [Career Page](https://www.zupit.it/careers.html) | Consulting | Full | Direct | C# - .NET - Xamarin - Java - Spring Boot - Python - Django - Angular - Vue - React - Typescript - Docker
 [ZuruTech](https://zuru.tech/) | [Career Page](https://zuru.tech/careers) | Product | Optional | Direct | C++ - UnrealEngine - MacOS - Linux - Machine Learning
+[Exprivia](https://www.exprivia.it/) | [Career Page](https://exprivia.intervieweb.it/it/career) | Consulting | SQL | Java | DEV - PM
 
 ### Marketing and Writing
 
