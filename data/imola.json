@@ -2,15 +2,17 @@
     "name": "Imola Informatica",
     "url": "https://www.linkedin.com/company/imola-informatica/",
     "career_page_url": "https:/www.linkedin.com/company/imola-informatica/jobs",
-    "type": "FILLME",
+    "type": "Consulting",
     "categories": [
-        "FILLME"
+        "cloud_software"
     ],
-    "remote_policy": "FILLME",
+    "remote_policy": "Full",
     "hiring_policies": [
-        "FILLME"
+        "Direct"
     ],
     "tags": [
-        "FILLME"
+        "Java"
+        "Javascript"
+        "Angular"
     ]
 }

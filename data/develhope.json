@@ -2,15 +2,16 @@
     "name": "Develhope",
     "url": "https://www.linkedin.com/school/develhope/",
     "career_page_url": "https:/www.linkedin.com/school/develhope/jobs",
-    "type": "FILLME",
+    "type": "B2C",
     "categories": [
-        "FILLME"
+        "hr"
     ],
-    "remote_policy": "FILLME",
+    "remote_policy": "Full",
     "hiring_policies": [
-        "FILLME"
+        "Direct"
     ],
     "tags": [
-        "FILLME"
+        "HR"
+        "Bootcamp"
     ]
 }

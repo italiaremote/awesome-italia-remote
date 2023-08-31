@@ -2,15 +2,17 @@
     "name": "Daito Solutions",
     "url": "https://www.linkedin.com/company/daito-solutions/about/",
     "career_page_url": "https:/www.linkedin.com/company/daito-solutions/about/jobs",
-    "type": "FILLME",
+    "type": "Product",
     "categories": [
-        "FILLME"
+        "cloud_software"
     ],
-    "remote_policy": "FILLME",
+    "remote_policy": "Full",
     "hiring_policies": [
-        "FILLME"
+        "Direct"
     ],
     "tags": [
-        "FILLME"
+        "DotNet"
+        "Elastic"
+        "RabbitMQ"
     ]
 }
