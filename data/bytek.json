@@ -2,15 +2,17 @@
     "name": "BYTEK | the martech of Datrix group",
     "url": "https://www.linkedin.com/company/bytek-marketing/",
     "career_page_url": "https:/www.linkedin.com/company/bytek-marketing/jobs",
-    "type": "FILLME",
+    "type": "B2B",
     "categories": [
-        "FILLME"
+        "marketing_writing"
     ],
-    "remote_policy": "FILLME",
+    "remote_policy": "Optional",
     "hiring_policies": [
-        "FILLME"
+        "Direct"
     ],
     "tags": [
-        "FILLME"
+        "marketing"
+        "AI"
+	    "Python"
     ]
 }

@@ -1,16 +1,18 @@
 {
-    "name": "Black Pep\n",
+    "name": "Black Pep",
     "url": "https://www.linkedin.com/company/black-pep/",
     "career_page_url": "https:/www.linkedin.com/company/black-pep/jobs",
-    "type": "FILLME",
+    "type": "Consulting",
     "categories": [
-        "FILLME"
+        "marketing_writing"
     ],
-    "remote_policy": "FILLME",
+    "remote_policy": "Full",
     "hiring_policies": [
-        "FILLME"
+        "Direct"
     ],
     "tags": [
-        "FILLME"
+        "UX"
+        "UI"
+        "Ecommerce"
     ]
 }

@@ -2,15 +2,17 @@
     "name": "ARGO Vision",
     "url": "https://www.linkedin.com/company/argo-vision/",
     "career_page_url": "https:/www.linkedin.com/company/argo-vision/jobs",
-    "type": "FILLME",
+    "type": "Consulting",
     "categories": [
-        "FILLME"
+        "cloud_software"
     ],
-    "remote_policy": "FILLME",
+    "remote_policy": "Optional",
     "hiring_policies": [
-        "FILLME"
+        "Direct"
     ],
     "tags": [
-        "FILLME"
+        "AI"
+        "Computer vision"
+        "Python"
     ]
 }

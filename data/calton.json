@@ -2,15 +2,18 @@
     "name": "Calton",
     "url": "https://www.linkedin.com/company/calton-io/",
     "career_page_url": "https:/www.linkedin.com/company/calton-io/jobs",
-    "type": "FILLME",
+    "type": "Product",
     "categories": [
-        "FILLME"
+        "cloud_software"
     ],
-    "remote_policy": "FILLME",
+    "remote_policy": "Full",
     "hiring_policies": [
-        "FILLME"
+        "Direct"
     ],
     "tags": [
-        "FILLME"
+        "AI"
+        "Python"
+        "AWS"
+
     ]
 }
