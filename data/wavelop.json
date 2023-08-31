@@ -11,8 +11,8 @@
         "Direct"
     ],
     "tags": [
-        "Cloud"
-        "CI/CD"
+        "Cloud",
+        "CI/CD",
         "AWS"
     ]
 }

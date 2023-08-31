@@ -11,8 +11,8 @@
         "Direct"
     ],
     "tags": [
-        "DotNet"
-        "Elastic"
+        "DotNet",
+        "Elastic",
         "RabbitMQ"
     ]
 }

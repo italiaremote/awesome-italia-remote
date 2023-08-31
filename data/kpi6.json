@@ -11,10 +11,10 @@
         "Direct"
     ],
     "tags": [
-        "Node"
-        "Mysql"
-        "Python"
-        "NoSql"
+        "Node",
+        "Mysql",
+        "Python",
+        "NoSql",
         "AWS"
     ]
 }

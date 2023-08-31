@@ -11,9 +11,9 @@
         "Direct"
     ],
     "tags": [
-        "PHP"
-        "Vue"
-        "Docker"
+        "PHP",
+        "Vue",
+        "Docker",
         "AWS"
     ]
 }

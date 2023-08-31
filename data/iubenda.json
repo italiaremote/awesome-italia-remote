@@ -11,9 +11,9 @@
         "Direct"
     ],
     "tags": [
-        "Python"
-        "SQL"
-        "Ruby"
+        "Python",
+        "SQL",
+        "Ruby",
         "MongoDB"
     ]
 }
