@@ -2,15 +2,16 @@
     "name": "InTribe",
     "url": "https://www.linkedin.com/company/intribetrend/",
     "career_page_url": "https:/www.linkedin.com/company/intribetrend/jobs",
-    "type": "FILLME",
+    "type": "Product",
     "categories": [
-        "FILLME"
+        "cloud_software"
     ],
-    "remote_policy": "FILLME",
+    "remote_policy": "Full",
     "hiring_policies": [
-        "FILLME"
+        "Direct"
     ],
     "tags": [
-        "FILLME"
+        "Python"
+        "Data Intelligence"
     ]
 }

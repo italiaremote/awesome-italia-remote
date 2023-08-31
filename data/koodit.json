@@ -2,15 +2,18 @@
     "name": "Koodit",
     "url": "https://www.linkedin.com/company/koodit/",
     "career_page_url": "https:/www.linkedin.com/company/koodit/jobs",
-    "type": "FILLME",
+    "type": "B2B",
     "categories": [
-        "FILLME"
+        "design_ux"
     ],
-    "remote_policy": "FILLME",
+    "remote_policy": "Full",
     "hiring_policies": [
-        "FILLME"
+        "Direct"
     ],
     "tags": [
-        "FILLME"
+        "Ecommerce"
+        "Digital Marketing"
+        "React"
+        "Wordpress"
     ]
 }

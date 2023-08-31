@@ -2,15 +2,17 @@
     "name": "Wavelop",
     "url": "https://www.linkedin.com/company/wavelop/",
     "career_page_url": "https:/www.linkedin.com/company/wavelop/jobs",
-    "type": "FILLME",
+    "type": "Consulting",
     "categories": [
-        "FILLME"
+        "cloud_software"
     ],
-    "remote_policy": "FILLME",
+    "remote_policy": "Full",
     "hiring_policies": [
-        "FILLME"
+        "Direct"
     ],
     "tags": [
-        "FILLME"
+        "Cloud"
+        "CI/CD"
+        "AWS"
     ]
 }

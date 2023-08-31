@@ -2,15 +2,17 @@
     "name": "Lotrek Digital Agency",
     "url": "https://www.linkedin.com/company/lotrek/",
     "career_page_url": "https:/www.linkedin.com/company/lotrek/jobs",
-    "type": "FILLME",
+    "type": "Consulting",
     "categories": [
-        "FILLME"
+        "design_ux"
     ],
-    "remote_policy": "FILLME",
+    "remote_policy": "Full",
     "hiring_policies": [
-        "FILLME"
+        "Direct"
     ],
     "tags": [
-        "FILLME"
+        "Javascript"
+        "Typescript"
+        "Angular"
     ]
 }

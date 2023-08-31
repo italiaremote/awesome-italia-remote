@@ -2,15 +2,19 @@
     "name": "KPI6",
     "url": "https://www.linkedin.com/company/kpi6/",
     "career_page_url": "https:/www.linkedin.com/company/kpi6/jobs",
-    "type": "FILLME",
+    "type": "Product",
     "categories": [
-        "FILLME"
+        "cloud_software"
     ],
-    "remote_policy": "FILLME",
+    "remote_policy": "Full",
     "hiring_policies": [
-        "FILLME"
+        "Direct"
     ],
     "tags": [
-        "FILLME"
+        "Node"
+        "Mysql"
+        "Python"
+        "NoSql"
+        "AWS"
     ]
 }
