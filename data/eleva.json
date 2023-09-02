@@ -1,0 +1,19 @@
+{
+    "name": "ELEVA",
+    "url": "https://www.linkedin.com/company/eleva-srl/",
+    "career_page_url": "https:/www.linkedin.com/company/eleva-srl/jobs",
+    "type": "Consulting",
+    "categories": [
+        "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "tags": [
+        "Javascript",
+        "React",
+        "AWS",
+        "Java"
+    ]
+}

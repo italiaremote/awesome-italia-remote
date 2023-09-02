@@ -1,0 +1,19 @@
+{
+    "name": "iubenda",
+    "url": "https://www.linkedin.com/company/iubenda/",
+    "career_page_url": "https:/www.linkedin.com/company/iubenda/jobs",
+    "type": "Product",
+    "categories": [
+        "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "tags": [
+        "Python",
+        "SQL",
+        "Ruby",
+        "MongoDB"
+    ]
+}
