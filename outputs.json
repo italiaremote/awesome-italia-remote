@@ -2922,6 +2922,41 @@
     ]
   },
   {
+    "name": "Interlogica",
+    "url": "https://www.interlogica.it/",
+    "career_page_url": "https://jobs.interlogica.it/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct",
+      "Intermediary"
+    ],
+    "tags": [
+      "Cloud Native",
+      "Kubernetes",
+      "DevOps",
+      "Software Development",
+      "Cloud Native Technologies",
+      "React",
+      "Django",
+      "AWS",
+      "IoT",
+      "Java",
+      "Spring",
+      "Javascript",
+      "Angular",
+      "Azure",
+      ".NET",
+      "SQL",
+      "AWS",
+      "PHP",
+      "Node.js"
+    ]
+  },
+  {
     "name": "InTribe",
     "url": "https://www.linkedin.com/company/intribetrend/",
     "career_page_url": "https:/www.linkedin.com/company/intribetrend/jobs",
