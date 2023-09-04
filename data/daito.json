@@ -1,6 +1,6 @@
 {
     "name": "Daito Solutions",
-    "url": "https://www.linkedin.com/company/daito-solutions/about/",
+    "url": "https://www.daito.it",
     "career_page_url": "https://www.linkedin.com/company/daito-solutions/about/jobs",
     "type": "Product",
     "categories": [
@@ -12,10 +12,10 @@
     ],
     "tags": [
         ".NET",
-		"C#",
-		"AWS",
+        "C#",
+        "AWS",
         "Elastic",
         "RabbitMQ",
-		"Ecommerce"
+        "Ecommerce"
     ]
 }
