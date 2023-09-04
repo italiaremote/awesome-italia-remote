@@ -4,12 +4,9 @@
   "career_page_url": "https://xfarm.ag/lavora-con-noi/",
   "type": "Product",
   "categories": [
-    "cloud_software",
-    "saas",
-    "AgTech",
-    "startup"
+    "cloud_software"
   ],
-  "remote_policy": "Hybrid / Full-Remote / Optional",
+  "remote_policy": "Optional",
   "hiring_policies": [
     "Direct"
   ],
