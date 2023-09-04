@@ -4,13 +4,45 @@
   "career_page_url": "https://claranetitalia.recruitee.com/l/it",
   "type": "Consulting",
   "categories": [
-    "cloud_software"
+    "cloud_software",
+    "design_ux"
   ],
-  "remote_policy": "Optional",
+  "remote_policy": "Full",
   "hiring_policies": [
+    "Contract",
     "Direct"
   ],
   "tags": [
-    "AWS"
+    "AWS",
+    "Serverless",
+    "Terraform",
+    "PHP",
+    "Symfony",
+    "NodeJs",
+    "Javascript",
+    "TypeScript",
+    "React",
+    "Angular",
+    "Vue.js",
+    "Fastify",
+    "Next.js",
+    "NestJs",
+    "Java",
+    "Kotlin",
+    "Android",
+    "iOS",
+    "Python",
+    "FastApi",
+    ".NET",
+    "Mobile Apps",
+    "CQRS Event-driven architectures",
+    "Domain-Driven Design",
+    "Microservices",
+    "Docker",
+    "Kubernetes",
+    "Databases",
+    "UI Design",
+    "UX Design",
+    "Figma"   
   ]
 }
