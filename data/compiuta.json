@@ -1,0 +1,22 @@
+{
+  "name": "compiuta",
+  "url": "https://www.compiuta.com/",
+  "career_page_url": "https://www.compiuta.com/careers/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "IoT",
+    "Typescript",
+    "Node.js",
+    "Angular",
+    "Go",
+    "Kubernetes",
+    "Python"
+  ]
+}
