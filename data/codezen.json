@@ -1,0 +1,17 @@
+{
+    "name": "Codezen",
+    "career_page_url": "https://www.linkedin.com/company/codezensrls/jobs/",
+    "url": "https://codezen.tech",
+    "remote_policy": "Full",
+    "hiring_policies": ["Direct"],
+    "type": "Consulting",
+    "categories": ["cybersecurity"],
+    "tags": [
+        "Rust",
+        "Go",
+        "Solidity",
+        "Blockchain",
+        "Cryptography",
+        "Distributed Systems"
+    ]
+}
