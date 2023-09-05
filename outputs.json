@@ -54,6 +54,26 @@
     ]
   },
   {
+    "name": "Bhlack Srl",
+    "url": "https://www.blhack.it/",
+    "career_page_url": "https://www.blhack.it/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Ruby On Rails",
+      "Javascript",
+      "React",
+      "nextjs",
+      "shopify"
+    ]
+  },
+  {
     "name": "DigitalMakers",
     "url": "https://digitalmakers.media/",
     "career_page_url": "https://www.linkedin.com/company/digitalmakers-media/jobs/",
@@ -70,6 +90,23 @@
       "React.js",
       "PHP",
       "MySQL"
+    ]
+  },
+  {
+    "name": "Lhub srl",
+    "url": "https://lhubagency.com/",
+    "career_page_url": "https://lhubagency.com/",
+    "type": "Consulting",
+    "categories": [
+      "marketing_writing"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Marketing",
+      "Agency"
     ]
   },
   {
@@ -431,6 +468,35 @@
     "remote_policy": "-",
     "hiring_policies": [
       "Direct"
+    ]
+  },
+  {
+    "name": "BIP",
+    "url": "https://www.bip-group.com/",
+    "career_page_url": "https://www.bip-group.com/careers/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software",
+      "cybersecurity",
+      "design_ux",
+      "hr"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Cloud",
+      "GCP",
+      "AWS",
+      "Azure",
+      "AI",
+      "Data Science",
+      "UX",
+      "UI",
+      "BI",
+      "Mobile Develoopment",
+      "Web Development"
     ]
   },
   {
@@ -1003,15 +1069,25 @@
     "career_page_url": "https://codiceplastico.com/jobs/",
     "type": "Consulting",
     "categories": [
-      "cloud_software"
+      "cloud_software",
+      "design_ux"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Full",
     "hiring_policies": [
-      "-"
+      "Direct"
     ],
     "tags": [
       ".NET",
-      "Node.js"
+      "Node.js",
+      "Elixir",
+      "Angular",
+      "React",
+      "Azure",
+      "Kubernetes",
+      "Figma",
+      "RabbitMQ",
+      "MongoDb",
+      "PostgreSQL"
     ]
   },
   {
@@ -1467,6 +1543,35 @@
     ]
   },
   {
+    "name": "DonQ",
+    "url": "https://donq.io",
+    "career_page_url": "https://www.linkedin.com/company/donq",
+    "type": "B2B",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Contract",
+      "Direct"
+    ],
+    "tags": [
+      "Node",
+      "TypeScript",
+      "AWS",
+      "PHP",
+      "Laravel",
+      "Magento",
+      "React Native",
+      "GraphQL",
+      "OpenAI",
+      "LLama",
+      "Terraform",
+      "Cloudflare",
+      "Docker"
+    ]
+  },
+  {
     "name": "doubleloop",
     "url": "https://doubleloop.io/",
     "career_page_url": "https://doubleloop.io/jobs.html",
@@ -1893,6 +1998,29 @@
       "GCP",
       "Python",
       "Node.js"
+    ]
+  },
+  {
+    "name": "ETIQA srl",
+    "url": "https://etiqa.it/",
+    "career_page_url": "https://etiqa-srl.breezy.hr/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "NodeJS",
+      "Typescript",
+      "Python",
+      "Javascript",
+      "ReactJS",
+      "AWS Cloud",
+      "Headless CMS",
+      "Scrum"
     ]
   },
   {
@@ -3958,6 +4086,25 @@
     ]
   },
   {
+    "name": "Nenet",
+    "url": "https://www.nenetcompany.com",
+    "career_page_url": "https://www.linkedin.com/company/nenetcompany/jobs/",
+    "type": "B2B",
+    "categories": [
+      "marketing_writing",
+      "hr"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Training",
+      "Coaching",
+      "Learning"
+    ]
+  },
+  {
     "name": "Neosperience",
     "url": "https://www.neosperience.com",
     "career_page_url": "https://www.neosperience.com/we-are-hiring/",
@@ -4095,6 +4242,29 @@
     ],
     "tags": [
       "Ecommerce"
+    ]
+  },
+  {
+    "name": "Nibol",
+    "url": "https://www.nibol.com/",
+    "career_page_url": "https://nibol.notion.site/Careers-at-Nibol-3fab744eabd34c479abf44089cd9f299",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct",
+      "Contract"
+    ],
+    "tags": [
+      "React.js",
+      "Node.js",
+      "JavaScript",
+      "Flutter",
+      "AWS",
+      "Figma",
+      "Notion"
     ]
   },
   {
@@ -4634,6 +4804,25 @@
     "tags": [
       "Ecommerce",
       "PHP"
+    ]
+  },
+  {
+    "name": "Qintesi",
+    "url": "https://www.qintesi.com/",
+    "career_page_url": "https://www.qintesi.com/lavora-con-noi/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "SAP",
+      "GCP",
+      "Python",
+      "SQL"
     ]
   },
   {
@@ -5553,6 +5742,39 @@
     ]
   },
   {
+    "name": "Telepass",
+    "url": "http://telepass.com",
+    "career_page_url": "https://www.telepass.com/it/gruppo/lavora-con-noi",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "cybersecurity",
+      "design_ux"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Cloud",
+      "GCP",
+      "AI",
+      "Data Science",
+      "UX",
+      "UI",
+      "Mobile Develoopment",
+      "iOS",
+      "Android",
+      "Web Development",
+      "JavaScript",
+      "React",
+      "Java",
+      "Ruby",
+      "Swift",
+      "Kotlin"
+    ]
+  },
+  {
     "name": "TextYess",
     "url": "https://www.linkedin.com/company/textyess/",
     "career_page_url": "https:/www.linkedin.com/company/textyess/jobs",
@@ -5819,6 +6041,35 @@
       "C#",
       "Java",
       "Vue.js"
+    ]
+  },
+  {
+    "name": "Tundr",
+    "url": "https://www.tundr.tech/",
+    "career_page_url": "https://www.tundr.tech/jobs",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct",
+      "Contract"
+    ],
+    "tags": [
+      "Node",
+      "Go",
+      "Nest",
+      "React",
+      "Serverless",
+      "Microservices",
+      "Vue",
+      "TypeScript",
+      "Android",
+      "iOS",
+      "Flutter",
+      "AWS"
     ]
   },
   {

@@ -1,0 +1,29 @@
+{
+    "name": "DonQ",
+    "career_page_url": "https://www.linkedin.com/company/donq",
+    "url": "https://donq.io",
+    "remote_policy": "Full",
+    "hiring_policies": [
+        "Contract",
+        "Direct"
+    ],
+    "type": "B2B",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "Node",
+        "TypeScript",
+        "AWS",
+        "PHP",
+        "Laravel",
+        "Magento", 
+        "React Native",
+        "GraphQL",
+        "OpenAI",
+        "LLama",
+        "Terraform",
+        "Cloudflare",
+        "Docker"   
+    ]
+}
