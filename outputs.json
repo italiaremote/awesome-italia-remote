@@ -1170,8 +1170,8 @@
   },
   {
     "name": "Daito Solutions",
-    "url": "https://www.linkedin.com/company/daito-solutions/about/",
-    "career_page_url": "https:/www.linkedin.com/company/daito-solutions/about/jobs",
+    "url": "https://www.daito.it",
+    "career_page_url": "https://www.linkedin.com/company/daito-solutions/about/jobs",
     "type": "Product",
     "categories": [
       "cloud_software"
@@ -1181,9 +1181,12 @@
       "Direct"
     ],
     "tags": [
-      "DotNet",
+      ".NET",
+      "C#",
+      "AWS",
       "Elastic",
-      "RabbitMQ"
+      "RabbitMQ",
+      "Ecommerce"
     ]
   },
   {

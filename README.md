@@ -86,7 +86,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Coverflex Italia](https://www.linkedin.com/company/getcoverflex/) | [Career Page](https:/www.linkedin.com/company/getcoverflex/jobs) | Product | Full | Direct | Javascript - Typescript - AWS - jAVA
 [CrowdStrike](https://www.crowdstrike.com/) | [Career Page](https://www.crowdstrike.com/careers/) | Product | - | - | Go - AWS - IoT - Security
 [Cubbit](https://www.cubbit.io/) | [Career Page](https://www.cubbit.io/disruptive-jobs-in-tech) | Product | Optional | Direct | AWS - Docker - Kubernetes - PostgreSQL - Redis - Android - iOS - C++ - WebAssembly - Python - Rust - TypeScript - React
-[Daito Solutions](https://www.linkedin.com/company/daito-solutions/about/) | [Career Page](https:/www.linkedin.com/company/daito-solutions/about/jobs) | Product | Full | Direct | DotNet - Elastic - RabbitMQ
+[Daito Solutions](https://www.daito.it) | [Career Page](https://www.linkedin.com/company/daito-solutions/about/jobs) | Product | Full | Direct | .NET - C# - AWS - Elastic - RabbitMQ - Ecommerce
 [Datadog](https://www.datadoghq.com/) | [Career Page](https://www.datadoghq.com/careers/) | Product | - | - | Go - Kubernetes
 [Deel](https://www.letsdeel.com/) | [Career Page](https://www.letsdeel.com/careers) | Product | Full | Contract | Javascript - React - Node.js - AWS - PostgreSQL
 [Deltatre](https://www.deltatre.com/) | [Career Page](https://www.deltatre.com/careers/open-positions) | B2B | Optional | Direct | .NET - Azure - AWS - GCP - DevOps - MLOps - Machine Learning - Cybersec - C# - Unity 3D - Python - Javascript - Angular - React - Docker - Kubernetes - Terraform - Kafka - iOS - Android
