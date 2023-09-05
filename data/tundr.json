@@ -1,0 +1,29 @@
+{
+  "name": "Tundr",
+  "url": "https://www.tundr.tech/",
+  "career_page_url": "https://www.tundr.tech/jobs",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "design_ux"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct",
+    "Contract"
+  ],
+  "tags": [
+    "Node",
+    "Go",
+    "Nest",
+    "React",
+    "Serverless",
+    "Microservices",
+    "Vue",
+    "TypeScript",
+    "Android",
+    "iOS",
+    "Flutter",
+    "AWS"
+  ]
+}
