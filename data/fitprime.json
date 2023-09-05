@@ -1,0 +1,29 @@
+{
+    "name": "Fitprime",
+    "career_page_url": "https://labs.fitprime.com",
+    "url": "https://fitprime.com",
+    "remote_policy": "Optional",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "Product",
+    "categories": [
+        "cloud_software",
+        "hr"
+    ],
+    "tags": [
+        "React",
+        "NextJS",
+        "Typescript",
+        "Laravel",
+        "Swift",
+        "Java",
+        "PostgreSQL",
+        "TimeScale",
+        "MySQL",
+        "AWS",
+        "Agile",
+        "Wellbeing",
+        "HealthTech"
+    ]
+}
