@@ -54,6 +54,26 @@
     ]
   },
   {
+    "name": "Bhlack Srl",
+    "url": "https://www.blhack.it/",
+    "career_page_url": "https://www.blhack.it/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Ruby On Rails",
+      "Javascript",
+      "React",
+      "nextjs",
+      "shopify"
+    ]
+  },
+  {
     "name": "DigitalMakers",
     "url": "https://digitalmakers.media/",
     "career_page_url": "https://www.linkedin.com/company/digitalmakers-media/jobs/",
@@ -70,6 +90,23 @@
       "React.js",
       "PHP",
       "MySQL"
+    ]
+  },
+  {
+    "name": "Lhub srl",
+    "url": "https://lhubagency.com/",
+    "career_page_url": "https://lhubagency.com/",
+    "type": "Consulting",
+    "categories": [
+      "marketing_writing"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Marketing",
+      "Agency"
     ]
   },
   {
@@ -5573,6 +5610,39 @@
       "Machine Learning",
       "Java",
       "Prometheus"
+    ]
+  },
+  {
+    "name": "Telepass",
+    "url": "http://telepass.com",
+    "career_page_url": "https://www.telepass.com/it/gruppo/lavora-con-noi",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "cybersecurity",
+      "design_ux"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Cloud",
+      "GCP",
+      "AI",
+      "Data Science",
+      "UX",
+      "UI",
+      "Mobile Develoopment",
+      "iOS",
+      "Android",
+      "Web Development",
+      "JavaScript",
+      "React",
+      "Java",
+      "Ruby",
+      "Swift",
+      "Kotlin"
     ]
   },
   {
