@@ -3918,28 +3918,6 @@
     ]
   },
   {
-    "name": "Neato Robotics",
-    "url": "https://neatorobotics.com",
-    "career_page_url": "https://neatorobotics.com/pages/careers",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "iOS",
-      "Swift",
-      "Android",
-      "Kotlin",
-      "Elixir",
-      "Distributed Erlang"
-    ]
-  },
-  {
     "name": "nebulab",
     "url": "https://nebulab.com/",
     "career_page_url": "https://nebulab.com/careers",
