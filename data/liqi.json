@@ -11,10 +11,13 @@
         "cloud_software"
     ],
     "tags": [
-        "AWS",
         "Django",
-        "Python",
         "htmx",
+        "hyperscript",
+        "AWS",
+        "terraform",
+        "Python",
+        "R",
         "AI",
         "fintech"
     ]
