@@ -1,0 +1,25 @@
+{
+    "name": "Zaxtras",
+    "career_page_url": "https://www.linkedin.com/company/zextras/jobs/",
+    "url": "https://www.zextras.com",
+    "remote_policy": "Full",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "Product",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "Java",
+        "React",
+        "Swift",
+        "Kotlin",
+        "PostgreSQL",
+        "Consul",
+        "Kafka",
+        "RabbitMQ",
+        "WebRTC",
+        "GraphQL"
+    ]
+}

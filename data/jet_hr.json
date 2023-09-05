@@ -1,0 +1,26 @@
+{
+  "name": "Jet HR",
+  "url": "https://www.jethr.com/",
+  "career_page_url": "https://www.linkedin.com/company/jethr/jobs/",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "design_ux",
+    "hr"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Direct",
+    "Contract"
+  ],
+  "tags": [
+    "Python",
+    "Django",
+    "Django REST framework",
+    "JavaScript",
+    "Vue.js",
+    "AWS",
+    "Figma",
+    "Notion"
+  ]
+}

@@ -54,6 +54,25 @@
     ]
   },
   {
+    "name": "DigitalMakers",
+    "url": "https://digitalmakers.media/",
+    "career_page_url": "https://www.linkedin.com/company/digitalmakers-media/jobs/",
+    "type": "B2B",
+    "categories": [
+      "marketing_writing"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Javascript",
+      "React.js",
+      "PHP",
+      "MySQL"
+    ]
+  },
+  {
     "name": "Advigator",
     "url": "https://www.advigator.com",
     "career_page_url": "https://www.advigator.com/careers",
@@ -790,7 +809,7 @@
   {
     "name": "Ciaodino - Digital Evolution Agency",
     "url": "https://www.linkedin.com/company/ciaodino/",
-    "career_page_url": "https:/www.linkedin.com/company/ciaodino/jobs",
+    "career_page_url": "https://www.ciaodino.com/lavora-con-noi/",
     "type": "Consulting",
     "categories": [
       "marketing_writing"
@@ -811,14 +830,32 @@
     "career_page_url": "https://claranetitalia.recruitee.com/l/it",
     "type": "Consulting",
     "categories": [
-      "cloud_software"
+      "cloud_software",
+      "design_ux"
     ],
-    "remote_policy": "Optional",
+    "remote_policy": "Full",
     "hiring_policies": [
+      "Contract",
       "Direct"
     ],
     "tags": [
-      "AWS"
+      "AWS",
+      "Serverless",
+      "Terraform",
+      "PHP",
+      "NodeJs",
+      "Javascript",
+      "TypeScript",
+      "React",
+      "Angular",
+      "Java",
+      "Kotlin",
+      "Android",
+      "iOS",
+      "Python",
+      ".NET",
+      "Mobile Apps",
+      "UI/UX Design"
     ]
   },
   {
@@ -940,6 +977,27 @@
     ]
   },
   {
+    "name": "Codezen",
+    "url": "https://codezen.tech",
+    "career_page_url": "https://www.linkedin.com/company/codezensrls/jobs/",
+    "type": "Consulting",
+    "categories": [
+      "cybersecurity"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Rust",
+      "Go",
+      "Solidity",
+      "Blockchain",
+      "Cryptography",
+      "Distributed Systems"
+    ]
+  },
+  {
     "name": "CodicePlastico",
     "url": "https://codiceplastico.com/",
     "career_page_url": "https://codiceplastico.com/jobs/",
@@ -985,6 +1043,28 @@
       "Debian",
       "Continuous Integration",
       "C/C++"
+    ]
+  },
+  {
+    "name": "compiuta",
+    "url": "https://www.compiuta.com/",
+    "career_page_url": "https://www.compiuta.com/careers/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "IoT",
+      "Typescript",
+      "Node.js",
+      "Angular",
+      "Go",
+      "Kubernetes",
+      "Python"
     ]
   },
   {
@@ -1109,8 +1189,8 @@
   },
   {
     "name": "Daito Solutions",
-    "url": "https://www.linkedin.com/company/daito-solutions/about/",
-    "career_page_url": "https:/www.linkedin.com/company/daito-solutions/about/jobs",
+    "url": "https://www.daito.it",
+    "career_page_url": "https://www.linkedin.com/company/daito-solutions/about/jobs",
     "type": "Product",
     "categories": [
       "cloud_software"
@@ -1120,9 +1200,12 @@
       "Direct"
     ],
     "tags": [
-      "DotNet",
+      ".NET",
+      "C#",
+      "AWS",
       "Elastic",
-      "RabbitMQ"
+      "RabbitMQ",
+      "Ecommerce"
     ]
   },
   {
@@ -1742,6 +1825,29 @@
     ]
   },
   {
+    "name": "Enhancers",
+    "url": "https://enhancers.it/",
+    "career_page_url": "https://enhancers.it/culture/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "NodeJS",
+      "Typescript",
+      "AWS Cloud",
+      "React Native",
+      "PostgreSQL",
+      "Javascript",
+      "MQTT",
+      "Redux"
+    ]
+  },
+  {
     "name": "Ernesto",
     "url": "https://www.ernesto.it/",
     "career_page_url": "https://help.ernesto.it/contatti/",
@@ -2031,6 +2137,35 @@
     ]
   },
   {
+    "name": "Fitprime",
+    "url": "https://fitprime.com",
+    "career_page_url": "https://labs.fitprime.com",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "hr"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "React",
+      "NextJS",
+      "Typescript",
+      "Laravel",
+      "Swift",
+      "Java",
+      "PostgreSQL",
+      "TimeScale",
+      "MySQL",
+      "AWS",
+      "Agile",
+      "Wellbeing",
+      "HealthTech"
+    ]
+  },
+  {
     "name": "Flightradar24",
     "url": "https://flightradar24.com/",
     "career_page_url": "https://careers.flightradar24.com/",
@@ -2073,29 +2208,6 @@
       "C#",
       "Kotlin",
       "Swift"
-    ]
-  },
-  {
-    "name": "Flowing",
-    "url": "https://flowing.it",
-    "career_page_url": "https://www.flowing.it/job-opportunity/",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Contract",
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "PHP",
-      "TypeScript",
-      "Java",
-      "Kotlin",
-      "JS"
     ]
   },
   {
@@ -3071,6 +3183,32 @@
     ]
   },
   {
+    "name": "Jet HR",
+    "url": "https://www.jethr.com/",
+    "career_page_url": "https://www.linkedin.com/company/jethr/jobs/",
+    "type": "Product",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "hr"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct",
+      "Contract"
+    ],
+    "tags": [
+      "Python",
+      "Django",
+      "Django REST framework",
+      "JavaScript",
+      "Vue.js",
+      "AWS",
+      "Figma",
+      "Notion"
+    ]
+  },
+  {
     "name": "Jimdo",
     "url": "https://jimdo.com/",
     "career_page_url": "https://careers.jimdo.com/",
@@ -3803,28 +3941,6 @@
     ]
   },
   {
-    "name": "Neato Robotics",
-    "url": "https://neatorobotics.com",
-    "career_page_url": "https://neatorobotics.com/pages/careers",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "iOS",
-      "Swift",
-      "Android",
-      "Kotlin",
-      "Elixir",
-      "Distributed Erlang"
-    ]
-  },
-  {
     "name": "nebulab",
     "url": "https://nebulab.com/",
     "career_page_url": "https://nebulab.com/careers",
@@ -4037,6 +4153,27 @@
       "Vue",
       "Docker",
       "AWS"
+    ]
+  },
+  {
+    "name": "Officina Microtesti",
+    "url": "https://www.officinamicrotesti.it/",
+    "career_page_url": "https://www.linkedin.com/company/officina-microtesti/jobs",
+    "type": "Consulting, B2B",
+    "categories": [
+      "design_ux",
+      "marketing_writing"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "UX Writing",
+      "Content design",
+      "Inclusive content",
+      "Accessible content",
+      "Information architecture"
     ]
   },
   {
@@ -4461,6 +4598,28 @@
     ]
   },
   {
+    "name": "Proxima Service srl - HOTELCUBE",
+    "url": "https://www.hotelcube.eu/",
+    "career_page_url": "https://www.hotelcube.eu/lavora-con-noi/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      ".NET",
+      "C#",
+      "Angular",
+      "SQL server",
+      "PowerBI",
+      "Azure",
+      "DevOps"
+    ]
+  },
+  {
     "name": "Qapla' Tracking=Marketing",
     "url": "https://www.linkedin.com/company/qapla'-srl/",
     "career_page_url": "https:/www.linkedin.com/company/qapla'-srl/jobs",
@@ -4648,7 +4807,7 @@
     ]
   },
   {
-    "name": "Redlab - The Consultancy Solution\n",
+    "name": "Redlab - The Consultancy Solution",
     "url": "https://www.linkedin.com/company/redlabsolution/",
     "career_page_url": "https:/www.linkedin.com/company/redlabsolution/jobs",
     "type": "B2B",
@@ -6134,6 +6293,35 @@
     ]
   },
   {
+    "name": "xFarm Technologies",
+    "url": "https://xfarm.ag/",
+    "career_page_url": "https://xfarm.ag/lavora-con-noi/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Cloud",
+      "GCP",
+      "AWS",
+      "AI",
+      "Java",
+      "Micronaut",
+      "Grails",
+      "IoT",
+      "MongoDB",
+      "Cassandra",
+      "ElasticSearch",
+      "Redis",
+      "Mobile Development",
+      "Web Development"
+    ]
+  },
+  {
     "name": "Xriba",
     "url": "https://xriba.com/it/home/",
     "career_page_url": "https://xriba.com/it/lavora-con-noi/",
@@ -6268,6 +6456,31 @@
       "Scala",
       "Terraform",
       "Typescript"
+    ]
+  },
+  {
+    "name": "Zaxtras",
+    "url": "https://www.zextras.com",
+    "career_page_url": "https://www.linkedin.com/company/zextras/jobs/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Java",
+      "React",
+      "Swift",
+      "Kotlin",
+      "PostgreSQL",
+      "Consul",
+      "Kafka",
+      "RabbitMQ",
+      "WebRTC",
+      "GraphQL"
     ]
   },
   {

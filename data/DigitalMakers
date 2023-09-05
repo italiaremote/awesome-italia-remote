@@ -1,0 +1,19 @@
+{
+    "name": "DigitalMakers",
+    "career_page_url": "https://www.linkedin.com/company/digitalmakers-media/jobs/",
+    "url": "https://digitalmakers.media/",
+    "remote_policy": "Optional",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "B2B",
+    "categories": [
+        "marketing_writing"
+    ],
+    "tags": [
+        "Javascript",
+        "React.js",
+        "PHP",
+        "MySQL"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "xFarm Technologies",
+  "url": "https://xfarm.ag/",
+  "career_page_url": "https://xfarm.ag/lavora-con-noi/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Cloud",
+    "GCP",
+    "AWS",
+    "AI",
+    "Java",
+    "Micronaut",
+    "Grails",
+    "IoT",
+    "MongoDB",
+    "Cassandra",
+    "ElasticSearch",
+    "Redis",
+    "Mobile Development",
+    "Web Development"
+  ]
+}
