@@ -1896,6 +1896,29 @@
     ]
   },
   {
+    "name": "ETIQA srl",
+    "url": "https://etiqa.it/",
+    "career_page_url": "https://etiqa-srl.breezy.hr/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "NodeJS",
+      "Typescript",
+      "Python",
+      "Javascript",
+      "ReactJS",
+      "AWS Cloud",
+      "Headless CMS",
+      "Scrum"
+    ]
+  },
+  {
     "name": "Everli",
     "url": "https://it.everli.com/it",
     "career_page_url": "https://it.everli.com/it/lavora-con-noi",
