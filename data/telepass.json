@@ -1,0 +1,33 @@
+{
+  "name": "Telepass",
+  "url": "http://telepass.com",
+  "career_page_url": "https://www.telepass.com/it/gruppo/lavora-con-noi",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "cybersecurity",
+    "design_ux"
+  ],
+  "remote_policy": "Hybrid",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Cloud",
+    "GCP",
+    "AI",
+    "Data Science",
+    "UX",
+    "UI",
+    "Mobile Develoopment",
+    "iOS",
+    "Android",
+    "Web Development",
+    "JavaScript",
+    "React",
+    "Java",
+    "Ruby",
+    "Swift",
+    "Kotlin"
+  ]
+}
