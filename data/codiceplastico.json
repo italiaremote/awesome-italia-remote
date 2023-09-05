@@ -4,14 +4,24 @@
   "career_page_url": "https://codiceplastico.com/jobs/",
   "type": "Consulting",
   "categories": [
-    "cloud_software"
+    "cloud_software",
+    "design_ux"
   ],
-  "remote_policy": "-",
+  "remote_policy": "Full",
   "hiring_policies": [
-    "-"
+    "Direct"
   ],
   "tags": [
     ".NET",
-    "Node.js"
+    "Node.js",
+    "Elixir",
+    "Angular",
+    "React",
+    "Azure",
+    "Kubernetes",
+    "Figma",
+    "RabbitMQ",
+    "MongoDb",
+    "PostgreSQL"
   ]
 }
