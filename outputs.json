@@ -3472,6 +3472,29 @@
     ]
   },
   {
+    "name": "Klarna",
+    "url": "https://www.klarna.com/",
+    "career_page_url": "https://jobs.lever.co/klarna/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Java",
+      "Python",
+      "Node",
+      "JavaScript",
+      "Typescript",
+      "React",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
     "name": "Klondike",
     "url": "https://www.klondike.ai",
     "career_page_url": "https://www.linkedin.com/company/klondike/jobs/",
