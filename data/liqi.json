@@ -1,0 +1,21 @@
+{
+    "name": "liqi",
+    "career_page_url": "https://www.linkedin.com/company/liqi-ita/jobs/",
+    "url": "https://liqi.it/",
+    "remote_policy": "Optional",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "Product",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "AWS",
+        "Django",
+        "Python",
+        "htmx",
+        "AI",
+        "fintech"
+    ]
+}
