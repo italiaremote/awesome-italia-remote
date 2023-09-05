@@ -80,7 +80,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Codemotion](https://www.codemotion.com) | [Career Page](https://www.codemotion.com/work-with-us) | Product | Hybrid | Direct | Laravel - Vue.js - Azure - MongoDB
 [Codermine](https://codermine.com/) | [Career Page](https://codermine.com/contatti/) | Consulting | Optional | Direct | React - Angular - .NET - Kotlin - Swift - Python - Java
 [coders51](https://www.coders51.com) | [Career Page](https://coders51.typeform.com/to/BpB9pe) | Consulting | Full | Direct - Contract | Elixir/Erlang - Javascript/Typescript - Node.js/React - RabbitMQ - Kafka - GCP - AWS - Docker - Kubernetes - Terraform - Test Driven Development - Microservice - Event Driven Architecture - EventStorming - Continuous Delivery - Functional Programming - Domain-Driven Design
-[CodicePlastico](https://codiceplastico.com/) | [Career Page](https://codiceplastico.com/jobs/) | Consulting | - | - | .NET - Node.js
+[CodicePlastico](https://codiceplastico.com/) | [Career Page](https://codiceplastico.com/jobs/) | Consulting | Full | Direct | .NET - Node.js - Elixir - Angular - React - Azure - Kubernetes - Figma - RabbitMQ - MongoDb - PostgreSQL
 [Collabora Ltd.](https://www.collabora.com/) | [Career Page](https://www.collabora.com/careers.html) | Consulting | Full | Contract | Vulkan - Rust - Python - Open Source - Multimedia - Mesa - Linux - Kubernetes - Kernel - Go - GStreamer - Embedded - DevOps - Debian - Continuous Integration - C/C++
 [compiuta](https://www.compiuta.com/) | [Career Page](https://www.compiuta.com/careers/) | Product | Optional | Direct | IoT - Typescript - Node.js - Angular - Go - Kubernetes - Python
 [Conio S.r.l.](https://www.conio.com) | [Career Page](https://www.linkedin.com/company/conio/jobs/) | Product | Hybrid | Direct | Blockchain - Python - AWS - iOS - Android
@@ -378,6 +378,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [BIP](https://www.bip-group.com/) | [Career Page](https://www.bip-group.com/careers/) | Optional | Direct
 [Claranet Italia](https://www.claranet.it/) | [Career Page](https://claranetitalia.recruitee.com/l/it) | Full | Contract - Direct
 [Cloud Academy](https://www.cloudacademy.com) | [Career Page](https://jobs.cloudacademy.com) | Optional | -
+[CodicePlastico](https://codiceplastico.com/) | [Career Page](https://codiceplastico.com/jobs/) | Full | Direct
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
 [D/Vision Lab s.r.l.](https://www.dvisionlab.com/) | [Career Page](https://www.dvisionlab.com/careers/careers) | Optional | Direct
 [Evologi](https://evologi.it/) | [Career Page](https://evologi.it/carriera/) | Optional | Direct
