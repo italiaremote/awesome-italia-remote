@@ -41,9 +41,9 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Bhlack Srl](https://www.blhack.it/) | [Career Page](https://www.blhack.it/) | Product | Full | Direct | Ruby On Rails - Javascript - React - nextjs - shopify
 [Advigator](https://www.advigator.com) | [Career Page](https://www.advigator.com/careers) | Product | Full | Direct | Ruby On Rails
 [Agile Lab](https://www.agilelab.it/) | [Career Page](https://www.agilelab.it/open-positions/) | Consulting | Optional | Direct | AWS - Spark - Scala - Java - Python - TypeScript - React
-[AI Maid Help](https://www.linkedin.com/company/aimaidhelp/) | [Career Page](https:/www.linkedin.com/company/aimaidhelp/jobs) | Product | Full | Direct | AI - Python
+[AI Maid Help](https://www.linkedin.com/company/aimaidhelp/) | [Career Page](https://www.linkedin.com/company/aimaidhelp/jobs) | Product | Full | Direct | AI - Python
 [Aicof](https://www.aicof.it) | [Career Page](https://www.linkedin.com/company/aicof/jobs/) | B2B | Full | Direct | Java - Spring Boot - .NET - Angular - Kubernetes
-[AIKO - Infinite ways to autonomy](https://www.linkedin.com/company/aikospace/) | [Career Page](https:/www.linkedin.com/company/aikospace/jobs) | Product | Full | Direct | Aerospace - AI
+[AIKO - Infinite ways to autonomy](https://www.linkedin.com/company/aikospace/) | [Career Page](https://www.linkedin.com/company/aikospace/jobs) | Product | Full | Direct | Aerospace - AI
 [Aiven](https://aiven.io) | [Career Page](https://aiven.io/careers) | Product | Full | Direct | AWS - GCP - Python - PostgreSQL - Kafka - Databases
 [AlgorandEurope](https://www.algorand.com) | [Career Page](https://www.algorand.com/about/careers/our-jobs) | Product | Optional | Direct | Blockchain - Go - JavaScript - Python - React - Typescript
 [Alkemy](https://www.alkemy.com/) | [Career Page](https://www.linkedin.com/company/alkemy-enabling-evolution/jobs/) | Consulting | Optional | Direct | Magento - PHP - Javascript - React - Angular - Ionic - Python - Django - Java
@@ -52,7 +52,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Amazon](https://www.amazon.it) | [Career Page](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&country%5B%5D=ITA&distanceType=Mi&radius=24km&location%5B%5D=virtual-locations&location%5B%5D=virtual-locations&location%5B%5D=virtual-locations&latitude=&longitude=&loc_group_id=&loc_query=Virtual%20Locations&base_query=&city=&country=&region=&county=&query_options=&) | Product | Full | Direct | Java - Python - C - Linux - Kernel - Clojure
 [Aptus.AI](https://www.aptus.ai/) | [Career Page](https://www.aptus.ai/careers) | Product | Optional | Direct | AWS - Python - TypeScript - Machine Learning - Natural Language Processing
 [Arduino](https://arduino.cc/) | [Career Page](https://careers.arduino.cc/) | Product | Optional | Direct | Python - Go - AWS - React
-[ARGO Vision](https://www.linkedin.com/company/argo-vision/) | [Career Page](https:/www.linkedin.com/company/argo-vision/jobs) | Consulting | Optional | Direct | AI - Computer vision - Python
+[ARGO Vision](https://www.linkedin.com/company/argo-vision/) | [Career Page](https://www.linkedin.com/company/argo-vision/jobs) | Consulting | Optional | Direct | AI - Computer vision - Python
 [Aruba S.p.A.](https://www.aruba.it/en/home.aspx) | [Career Page](https://www.aruba.it/en/home.aspx) | Product | - | Direct | OpenShift - Serverless - Istio
 [Beliven](https://beliven.com) | [Career Page](https://careers.beliven.com) | B2B | Hybrid | Direct | PHP - Node - Vue.js - React - Angular - React Native - Docker - Kubernetes - Terraform
 [Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/careers) | Consulting | Optional | Direct | JavaScript - React - TypeScript
@@ -61,7 +61,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [BitBull](https://www.bitbull.it) | [Career Page](https://www.bitbull.it/team/) | Consulting | Full | Direct | Magento - Shopify - JavaScript - PHP - Node - AWS - Terraform - Serverless - Vue.js - Nuxt.js
 [Bitrock](https://bitrock.it/) | [Career Page](https://bitrock.it/join-us) | Consulting | Full | Direct | React - Vue - Java - IOS - Python - Ruby - Scala - GO - SQL
 [Blexin](https://www.blexin.com/) | [Career Page](https://www.linkedin.com/company/blexin/jobs/) | Consulting | Optional | Direct | .NET - Microsoft Azure - DevOps - Javascript - Angular - React - Docker - Kubernetes
-[BonusX](https://www.linkedin.com/company/bonusxitalia/) | [Career Page](https:/www.linkedin.com/company/bonusxitalia/jobs) | Product | Full | Direct | Node - Javascript - Typescript
+[BonusX](https://www.linkedin.com/company/bonusxitalia/) | [Career Page](https://www.linkedin.com/company/bonusxitalia/jobs) | Product | Full | Direct | Node - Javascript - Typescript
 [BOOM](https://boom.co/) | [Career Page](https://boom.co/careers) | B2B | - | - | Typescript - React - NestJS - Java - Kotlin - Data Science - AWS
 [Brainy Labs](https://www.brainylabs.it/) | [Career Page](https://www.linkedin.com/company/brainylabsit/jobs) | Consulting | Optional | Direct | Java - Python - Node - JavaScript - Typescript - Angular - Docker - Spring Boot - PostgreSQL - GIT
 [BrandBastion](https://www.brandbastion.com/) | [Career Page](https://www.brandbastion.com/careers) | Product | Optional | - | JavaScript - TypeScript - React - AWS - Node.js
@@ -69,7 +69,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Breadcrumbs](https://breadcrumbs.io/) | [Career Page](https://www.linkedin.com/company/breadcrumbsio/jobs/) | Product | Full | Direct | AWS - Machine Learning - PHP - Python - React - TypeScript
 [Buzzoole](https://buzzoole.com/) | [Career Page](https://buzzoole.com/page/jobs) | Product | Full | Direct | PHP - Go - AWS - React - MongoDB - ElasticSearch
 [Caffeina](https://caffeina.com) | [Career Page](https://caffeina.com/jobs) | Product | Optional | Direct | JavaScript - PHP - NodeJS - ReactJS - ReactNative - Laravel - AWS - Kubernetes - Terraform
-[Calton](https://www.linkedin.com/company/calton-io/) | [Career Page](https:/www.linkedin.com/company/calton-io/jobs) | Product | Full | Direct | AI - Python - AWS
+[Calton](https://www.linkedin.com/company/calton-io/) | [Career Page](https://www.linkedin.com/company/calton-io/jobs) | Product | Full | Direct | AI - Python - AWS
 [Canonical](https://canonical.com/) | [Career Page](https://canonical.com/careers) | Product | Full | Contract | Python - Go - OpenStack - Kubernetes
 [Capbase](https://capbase.com/) | [Career Page](https://www.linkedin.com/company/capbase/jobs/) | B2B | Full | Intermediary | 
 [Capgemini](https://www.capgemini.com/it-it/) | [Career Page](https://www.capgemini.com/it-it/careers/) | Consulting | Optional | Direct | Consulting - AWS - GCP - Azure
@@ -85,7 +85,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [compiuta](https://www.compiuta.com/) | [Career Page](https://www.compiuta.com/careers/) | Product | Optional | Direct | IoT - Typescript - Node.js - Angular - Go - Kubernetes - Python
 [Conio S.r.l.](https://www.conio.com) | [Career Page](https://www.linkedin.com/company/conio/jobs/) | Product | Hybrid | Direct | Blockchain - Python - AWS - iOS - Android
 [Cortilia](https://about.cortilia.it/) | [Career Page](https://about.cortilia.it/lavora-con-noi) | Product | - | - | AWS - Java
-[Coverflex Italia](https://www.linkedin.com/company/getcoverflex/) | [Career Page](https:/www.linkedin.com/company/getcoverflex/jobs) | Product | Full | Direct | Javascript - Typescript - AWS - jAVA
+[Coverflex Italia](https://www.linkedin.com/company/getcoverflex/) | [Career Page](https://www.linkedin.com/company/getcoverflex/jobs) | Product | Full | Direct | Javascript - Typescript - AWS - jAVA
 [CrowdStrike](https://www.crowdstrike.com/) | [Career Page](https://www.crowdstrike.com/careers/) | Product | - | - | Go - AWS - IoT - Security
 [Cubbit](https://www.cubbit.io/) | [Career Page](https://www.cubbit.io/disruptive-jobs-in-tech) | Product | Optional | Direct | AWS - Docker - Kubernetes - PostgreSQL - Redis - Android - iOS - C++ - WebAssembly - Python - Rust - TypeScript - React
 [Daito Solutions](https://www.daito.it) | [Career Page](https://www.linkedin.com/company/daito-solutions/about/jobs) | Product | Full | Direct | .NET - C# - AWS - Elastic - RabbitMQ - Ecommerce
@@ -110,7 +110,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Eco-Mind](https://eco-mind.eu) | [Career Page](https://eco-mind.eu/lavora-con-noi) | Product | Optional | Direct | Java - Kotlin - Spring - TypeScript - Angular - Kubernetes - Flux - Helm - Azure - AWS - GCP - Mixed Reality - iOS - Android - React Native
 [EDB](https://www.enterprisedb.com/) | [Career Page](https://www.enterprisedb.com/careers) | Product | Optional | Direct | AWS - Ansible - Azure - C - CI/CD - DevOps - Go - Kubernetes - Kubernetes operators - Open Source - OpenShift - Postgres - PostgreSQL - Python - Terraform
 [Elastic](https://www.elastic.co/) | [Career Page](https://www.elastic.co/about/careers/) | Product | Full | Direct | Go - Cloud - Scala - OpenStack
-[ELEVA](https://www.linkedin.com/company/eleva-srl/) | [Career Page](https:/www.linkedin.com/company/eleva-srl/jobs) | Consulting | Full | Direct | Javascript - React - AWS - Java
+[ELEVA](https://www.linkedin.com/company/eleva-srl/) | [Career Page](https://www.linkedin.com/company/eleva-srl/jobs) | Consulting | Full | Direct | Javascript - React - AWS - Java
 [Empatica](https://www.empatica.com) | [Career Page](https://apply.workable.com/empatica/) | Product | Full | Direct | AWS - GCP - Kubernetes - Docker - Cloud-native - DevOps - DataOps - GitOps - SecOps - Python - Typescript - Terraform - Security - Go - React
 [Engage IT Services](https://www.linkedin.com/company/engage-it-services-s-r-l-) | [Career Page](https://www.linkedin.com/company/engage-it-services-s-r-l-/jobs) | Product | Optional | Direct | .NET - C# - PowerShell - SQL Server - Azure - TypeScript - Angular - REST Api - RabbitMQ - Redis - Docker - Architecture - DevOps - Enterprise solutions
 [Engage Labs](https://www.linkedin.com/company/engage-labs) | [Career Page](https://www.linkedin.com/company/engage-labs/jobs) | Consulting | Optional | Direct | .NET - C# - SQL Server - Azure - TypeScript - Angular - REST Api - RabbitMQ - Docker - Architecture - DevOps - Learning - Troubleshooting
@@ -153,7 +153,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [iGenius S.r.l.](https://igenius.ai/) | [Career Page](https://www.linkedin.com/company/igeniusai/jobs/) | Product | Optional | Direct | React - Kotlin - Swift - JavaScript - TypeScript - Node.js - Python - AWS - GCP - Kubernetes - Docker - Machine Learning - Go - PostgreSQL
 [Ignite](https://ignt.com) | [Career Page](https://ignt.com/careers) | Product | Full | Direct | Blockchain - Cosmos - Go - JavaScript - Vue - Typescript - Kubernetes
 [Immobiliare.it](https://labs.immobiliare.it/) | [Career Page](https://www.immobiliare.it/info/lavora-con-noi/?utm_source=GitHubAwesomeItaliaRemote) | Product | Optional | Direct | Swift - Java - Kotlin - Sass - React - Node.js - PHP - Python - Go - GIS - RabbitMQ - Big Data - Machine Learning - OpenStack - Palo Alto Networks - Arista Networks - Kubernetes - Terraform - SaltStack - Ansible
-[Imola Informatica](https://www.linkedin.com/company/imola-informatica/) | [Career Page](https:/www.linkedin.com/company/imola-informatica/jobs) | Consulting | Full | Direct | Java - Javascript - Angular
+[Imola Informatica](https://www.linkedin.com/company/imola-informatica/) | [Career Page](https://www.linkedin.com/company/imola-informatica/jobs) | Consulting | Full | Direct | Java - Javascript - Angular
 [IN4IT](https://in4it.io/) | [Career Page](https://www.linkedin.com/company/in4it/jobs/) | Consulting | Full | Contract | AWS - Cloud - Go - Migrations - Terraform - Kubernetes - Docker
 [InfinitasLearning](https://www.infinitaslearning.com/) | [Career Page](https://careers.infinitaslearning.com/o/software-engineer) | Product | Full | Direct | Javascript - Typescript - Node - React - MongoDB - PosgtgreSQL - Redis - GraphQL - Cloudflare - Azure - K8s - Terraform - Python - Git
 [Infovista](https://www.infovista.com/) | [Career Page](https://www.linkedin.com/company/infovista/jobs/) | Product | Hybrid | Direct | Kubernetes - Rancher - Istio - Docker - DevOps - Terraform - Prometheus - Go - C++ - Java - Quarkus - REST - JavaScript - Angular - Redis - Kafka
@@ -162,10 +162,10 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Intent](https://withintent.com) | [Career Page](https://withintent.com/careers) | B2B | Full | Contract | iOS - Android - IoT - AWS - Node.js - Flutter - JavaScript - Swift - Kotlin - React Native
 [Intergiro](https://www.intergiro.com/) | [Career Page](https://jobs.intergiro.com/) | Product | Full | Intermediary - Contract | GCP - JavaScript - Kubernetes - Fintech
 [Interlogica](https://www.interlogica.it/) | [Career Page](https://jobs.interlogica.it/) | Consulting | Optional | Direct - Intermediary | Cloud Native - Kubernetes - DevOps - Software Development - Cloud Native Technologies - React - Django - AWS - IoT - Java - Spring - Javascript - Angular - Azure - .NET - SQL - AWS - PHP - Node.js
-[InTribe](https://www.linkedin.com/company/intribetrend/) | [Career Page](https:/www.linkedin.com/company/intribetrend/jobs) | Product | Full | Direct | Python - Data Intelligence
+[InTribe](https://www.linkedin.com/company/intribetrend/) | [Career Page](https://www.linkedin.com/company/intribetrend/jobs) | Product | Full | Direct | Python - Data Intelligence
 [InvestSuite](https://investsuite.com) | [Career Page](https://www.investsuite.com/jobs) | Product | Full | Direct | Python - Scala - Flutter - TypeScript - Node - AWS - Azure - Terraform
 [iSolutions](https://www.isolutions.it/index.html) | [Career Page](https://www.isolutions.it/workwithus.html) | Product | - | - | Azure - .NET - SQL server - AWS
-[iubenda](https://www.linkedin.com/company/iubenda/) | [Career Page](https:/www.linkedin.com/company/iubenda/jobs) | Product | Full | Direct | Python - SQL - Ruby - MongoDB
+[iubenda](https://www.linkedin.com/company/iubenda/) | [Career Page](https://www.linkedin.com/company/iubenda/jobs) | Product | Full | Direct | Python - SQL - Ruby - MongoDB
 [Jagaad](https://jagaad.com) | [Career Page](https://jagaad.com/careers) | B2C | Full | Direct | API Integrations - AWS - Docker - Figma - Flutter - Go - Java - JavaScript - Magento - Mobile Apps - NextJS - Node - PHP - PostgreSQL - PrestaShop - React - Sitecore - Strapi - TypeScript - Vue
 [Jet HR](https://www.jethr.com/) | [Career Page](https://www.linkedin.com/company/jethr/jobs/) | Product | Full | Direct - Contract | Python - Django - Django REST framework - JavaScript - Vue.js - AWS - Figma - Notion
 [Jimdo](https://jimdo.com/) | [Career Page](https://careers.jimdo.com/) | Product | - | - | SaaS - TypeScript - React - Kotlin - AWS
@@ -175,15 +175,15 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Kensu](https://www.kensu.io?utm_source=github&utm_medium=recruitment_channel) | [Career Page](https://kensu.betterteam.com?utm_source=github&utm_medium=recruitment_channel) | Product | - | - | Scala - React - TypeScript - Python - Redis - Terraform - Ansible - AWS - MariaDB - OrientDB
 [Kiratech S.p.A.](https://www.kiratech.it/en) | [Career Page](https://www.kiratech.it/en/work-with-us) | B2B | Hybrid | Direct | Cloud Native - Kubernetes - DevOps - Software Development - Cloud Native Technologies
 [Klondike](https://www.klondike.ai) | [Career Page](https://www.linkedin.com/company/klondike/jobs/) | B2B | Full | Direct | PHP - Javascript - Python
-[KPI6](https://www.linkedin.com/company/kpi6/) | [Career Page](https:/www.linkedin.com/company/kpi6/jobs) | Product | Full | Direct | Node - Mysql - Python - NoSql - AWS
+[KPI6](https://www.linkedin.com/company/kpi6/) | [Career Page](https://www.linkedin.com/company/kpi6/jobs) | Product | Full | Direct | Node - Mysql - Python - NoSql - AWS
 [lastminute.com](https://www.lastminute.com/) | [Career Page](https://careers.lastminute.com/) | Product | Full | Direct | Android - AWS - iOS - Java - Kotlin - Kubernetes - Go - Python - React - React Native - TypeScript
-[Learnn](https://www.linkedin.com/school/learnn-srl/) | [Career Page](https:/www.linkedin.com/school/learnn-srl/jobs) | Product | Full | Direct | Javascript
-[Lualtek](https://www.linkedin.com/company/lualtek/) | [Career Page](https:/www.linkedin.com/company/lualtek/jobs) | Product | Full | Direct | Python - MongoDB
+[Learnn](https://www.linkedin.com/school/learnn-srl/) | [Career Page](https://www.linkedin.com/school/learnn-srl/jobs) | Product | Full | Direct | Javascript
+[Lualtek](https://www.linkedin.com/company/lualtek/) | [Career Page](https://www.linkedin.com/company/lualtek/jobs) | Product | Full | Direct | Python - MongoDB
 [Luxoft](https://www.luxoft.com/) | [Career Page](https://career.luxoft.com/locations/italy/) | Consulting | - | - | C++ - Python
 [Macai](https://macaiapp.com/) | [Career Page](https://www.linkedin.com/company/macaiit/jobs/) | Product | Full | Direct | AWS - Serverless - DynamoDB - CDK - CQRS Event-driven architectures - Go - Node.js - TypeScript - fp-ts - React - React Native - Android - iOS - CI/CD - LocalStack - Docker - Python - Machine Learning - Serverless Big Data - Kanban
 [Madisoft](https://labs.madisoft.it) | [Career Page](https://labs.madisoft.it/entra-nel-team/) | Product | Full | Direct | AWS - PHP - React
 [MailUp](https://www.mailup.com/) | [Career Page](https://www.growens.io/en/work-with-us/) | Product | - | - | Linux - Go - AWS - IaC - React - Angular - C# - Python
-[Managed Designs S.r.l.](https://www.linkedin.com/company/manageddesigns/) | [Career Page](https:/www.linkedin.com/company/manageddesigns/jobs) | Consulting | Full | Direct | Consulting company - Cloud
+[Managed Designs S.r.l.](https://www.linkedin.com/company/manageddesigns/) | [Career Page](https://www.linkedin.com/company/manageddesigns/jobs) | Consulting | Full | Direct | Consulting company - Cloud
 [Medicilio](https://www.medicilio.it) | [Career Page](https://medicilio.it/careers) | B2C | Full | Direct | Python - Django - Javascript - Go - REST API - React.js - Vue.js - PostgreSQL - Typescript - Docker - AWS
 [Meritocracy](https://meritocracy.is/it) | [Career Page](https://meritocracy.is/it/seltishub) | Product | Full | Direct | React - JavaScript - Java - Node - NoSQL - Elasticsearch - GO - SQL
 [Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) |  | Full | Direct | C - Linux - Kernel - Rust
@@ -203,13 +203,13 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Neulabs](https://neulabs.com/) | [Career Page](https://neulabs.com/careers) | Product | - | Direct | AWS - Kubernetes - Serverless - Terraform - Python - Typescript - React
 [Newesis Srl](https://www.newesis.com) | [Career Page](https://www.newesis.com/career) | Consulting | Full | Direct | Azure - AWS - GCP - Alibaba Cloud - Terraform - IaC - Kubernetes - Docker - Cloud-native - CICD - Helm - DevOps - GitOps - GitHub - GitLab
 [Nibol](https://www.nibol.com/) | [Career Page](https://nibol.notion.site/Careers-at-Nibol-3fab744eabd34c479abf44089cd9f299) | Product | Full | Direct - Contract | React.js - Node.js - JavaScript - Flutter - AWS - Figma - Notion
-[NotOnlyDesk](https://www.linkedin.com/company/notonlydesk/) | [Career Page](https:/www.linkedin.com/company/notonlydesk/jobs) | Product | Full | Direct | Javascript
+[NotOnlyDesk](https://www.linkedin.com/company/notonlydesk/) | [Career Page](https://www.linkedin.com/company/notonlydesk/jobs) | Product | Full | Direct | Javascript
 [Objectway](https://www.objectway.com/) | [Career Page](https://www.objectway.com/careers-open-job-positions/) | Product | Hybrid | Direct | Java - Spring - Javascript - Typescript - Angular - Docker - Kubernetes - AWS
-[OfCourseMe](https://www.linkedin.com/company/ofcourseme-official/) | [Career Page](https:/www.linkedin.com/company/ofcourseme-official/jobs) | Product | Full | Direct | PHP - Vue - Docker - AWS
-[Onlytech Industries](https://www.linkedin.com/company/onlytech-industries/) | [Career Page](https:/www.linkedin.com/company/onlytech-industries/jobs) | B2C | Full | Direct | Blockchain
+[OfCourseMe](https://www.linkedin.com/company/ofcourseme-official/) | [Career Page](https://www.linkedin.com/company/ofcourseme-official/jobs) | Product | Full | Direct | PHP - Vue - Docker - AWS
+[Onlytech Industries](https://www.linkedin.com/company/onlytech-industries/) | [Career Page](https://www.linkedin.com/company/onlytech-industries/jobs) | B2C | Full | Direct | Blockchain
 [OpenCity Labs](https://www.opencityitalia.it/) | [Career Page](https://opencityitalia.it/lavora-con-noi/) | Product | - | - | Open Source - PHP - Symfony - AWS - Docker - Go - Angular - Kafka - Python
 [OverIT](https://www.overit.it/) | [Career Page](https://www.overit.it/lavora-con-noi/) | Product | Optional | Direct | Android - AWS - C# - GIS technologies - Java - JavaScript - Python
-[Pack](https://www.linkedin.com/company/pack-mentoring/) | [Career Page](https:/www.linkedin.com/company/pack-mentoring/jobs) | Product | Full | Direct | E-learning - Javascript
+[Pack](https://www.linkedin.com/company/pack-mentoring/) | [Career Page](https://www.linkedin.com/company/pack-mentoring/jobs) | Product | Full | Direct | E-learning - Javascript
 [PagoPA S.p.A.](https://www.pagopa.it/it/) | [Career Page](https://www.pagopa.it/it/lavora-con-noi) | Product | Optional | Direct | TypeScript - React - Scala - Node.js - JavaScript - Java - Terraform - Azure - Kubernetes
 [Palmabit](https://www.palmabit.com) | [Career Page](https://www.palmabit.com/it/work-with-us) | Consulting | Optional | Direct | Node.js - React Native - React - Next.js - TypeScript - Jest - GraphQL - Docker - Kubernetes - Netlify
 [Par-Tec](https://www.par-tec.it/) | [Career Page](https://www.par-tec.it/lavorare-in-par-tec/) | Consulting | Optional | Direct | Linux - Opensource - GCP - OpenStack - Terraform - Ansible - Kubernetes - Openshift - Cloud-native - DevOps - GitOps - Python - Go
@@ -225,7 +225,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Primer](https://primer.io) | [Career Page](https://primer.io/careers/) | Product | Full | - | Javascript - Typescript - React - Python - AWS - Docker
 [ProntoPro](https://www.prontopro.it/) | [Career Page](https://jobs.jobvite.com/prontopro/jobs) | Product | - | Direct | PHP - Go - AWS - Terraform - Kubernetes
 [Proxima Service srl - HOTELCUBE](https://www.hotelcube.eu/) | [Career Page](https://www.hotelcube.eu/lavora-con-noi/) | Product | Optional | Direct | .NET - C# - Angular - SQL server - PowerBI - Azure - DevOps
-[Qapla' Tracking=Marketing](https://www.linkedin.com/company/qapla'-srl/) | [Career Page](https:/www.linkedin.com/company/qapla'-srl/jobs) | Product | Full | Direct | Ecommerce - PHP
+[Qapla' Tracking=Marketing](https://www.linkedin.com/company/qapla'-srl/) | [Career Page](https://www.linkedin.com/company/qapla'-srl/jobs) | Product | Full | Direct | Ecommerce - PHP
 [Qintesi](https://www.qintesi.com/) | [Career Page](https://www.qintesi.com/lavora-con-noi/) | Consulting | Hybrid | Direct | SAP - GCP - Python - SQL
 [Qonto](https://qonto.com/en) | [Career Page](https://qonto.com/en/careers) | Product | - | Contract | Go - EmberJS - Kotlin - Swift - Kubernetes - Terraform - AWS
 [Qredo](https://qredo.com) | [Career Page](https://qredo.com/careers) | Product | Full | Intermediary | Blockchain - Ethereum - Bitcoin - Cosmos - Go
@@ -246,7 +246,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Shopify](https://www.shopify.com) | [Career Page](https://www.shopify.com/careers) | Product | Full | - | Ruby - Go - Python - React - Kubernetes
 [Sidea Group](https://www.sideagroup.com/) | [Career Page](https://www.sideagroup.com/sidea-hr/) | Consulting | Hybrid | Direct | Javascript - TypeScript - React - Angular - Wordpress - Magento - Salesforce Commerce Cloud
 [SIGHUP](https://sighup.io/) | [Career Page](https://www.linkedin.com/company/sighup/jobs/) | Product | Full | Direct | Go - Typescript - Python - Docker - Terraform - Kubernetes
-[SMACE](https://www.linkedin.com/company/smace/) | [Career Page](https:/www.linkedin.com/company/smace/jobs) | B2B | Full | Direct | PHP - Bootstrap - Jquery
+[SMACE](https://www.linkedin.com/company/smace/) | [Career Page](https://www.linkedin.com/company/smace/jobs) | B2B | Full | Direct | PHP - Bootstrap - Jquery
 [SORINT.lab](https://www.sorint.com/en/) | [Career Page](https://www.sorint.com/en/careers/) | Consulting | Full | Direct | FullStackDev - DevOps - AWS - GCP - Azure - Linux - Opensource - Kubernates - OpenShift - Automation - Oracle
 [SORINT.OSS](https://sorintoss.io/) | [Career Page](https://sorintoss.io/contact/) | Consulting | Full | Direct | Open Source development - Agola - Ercole - Stolon - SYNwall
 [Space Heroes - Clayton](https://getclayton.com/) | [Career Page](https://www.notion.so/getclayton/Work-at-Clayton-98fa028f39b44129989d44a02bbbd374) | Product | Full | Contract | AWS - React - Typescript - Next.js - Java - Spring Boot - PostgreSQL
@@ -256,7 +256,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Spotify](https://www.spotify.com/it/) | [Career Page](https://www.lifeatspotify.com/jobs) | Product | - | Direct | Java - C++ - JavaScript - React - Node
 [Spreaker](https://www.spreaker.com/) | [Career Page](https://careers.spreaker.com/) | Product | - | - | PHP - Node.js - AWS - Kubernetes - Serverless
 [Stellantis](https://www.stellantis.com/) | [Career Page](https://careers.fcagroup.com/) | Product | Full | Direct | Scala - DevOps - AWS - Kubernetes - Python - Go
-[Storeis](https://www.linkedin.com/company/storeis/) | [Career Page](https:/www.linkedin.com/company/storeis/jobs) | B2B | Full | Direct | Ecommerce
+[Storeis](https://www.linkedin.com/company/storeis/) | [Career Page](https://www.linkedin.com/company/storeis/jobs) | B2B | Full | Direct | Ecommerce
 [storyteq](https://storyteq.com/) | [Career Page](https://apply.workable.com/storyteq/) | Product | Full | Direct | JavaScript - Vue - Node - NestJS - Express - RabbitMQ
 [Subito](https://www.subito.it/) | [Career Page](https://www.adevinta.com/jobs?company=subito) | Product | - | Direct | Go - React - Next.js - TypeScript - Android - iOS - Terraform - AWS - Kubernetes
 [Superlayer](https://superlayer.co/) | [Career Page](https://superlayer-1634135852323.freshteam.com/jobs) | Product | - | - | Go - Terraform - AWS - PostgreSQL - HTMX
@@ -286,9 +286,9 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Verizon Connect](https://www.verizonconnect.com/) | [Career Page](https://www.verizon.com/about/work/search/firenze-italy/jobs) | B2B | Optional | Direct | AWS - TypeScript - Angular - .NET - Python - Machine Learning - IoT - DevOps - Docker - PostgreSQL - iOS - Android
 [VLK Studio](https://vlkstudio.com/) | [Career Page](https://www.linkedin.com/company/vlk-studio) | Consulting | Full | Direct | JavaScript - TypeScript - React - React Native - Node.js - Open source - Full remote - .NET - morfeojs - nocode
 [VMWare](https://www.vmware.com/) | [Career Page](https://careers.vmware.com/main/jobs?stretch=10&stretchUnit=MILES&lat=&lng=&location=Italy&woe=12&keywords=&brand=&categories=&locations=&page=1&tags=Yes) | Product | Full | Direct | Cloud - Java - RabbitMQ
-[VoipVoice](https://www.linkedin.com/company/voipvoice/) | [Career Page](https:/www.linkedin.com/company/voipvoice/jobs) | Product | Full | Direct | -
+[VoipVoice](https://www.linkedin.com/company/voipvoice/) | [Career Page](https://www.linkedin.com/company/voipvoice/jobs) | Product | Full | Direct | -
 [Wave](https://www.wave.com) | [Career Page](https://www.wave.com/en/careers/) | Product | Full | - | 
-[Wavelop](https://www.linkedin.com/company/wavelop/) | [Career Page](https:/www.linkedin.com/company/wavelop/jobs) | Consulting | Full | Direct | Cloud - CI/CD - AWS
+[Wavelop](https://www.linkedin.com/company/wavelop/) | [Career Page](https://www.linkedin.com/company/wavelop/jobs) | Consulting | Full | Direct | Cloud - CI/CD - AWS
 [WeSchool](https://www.weschool.com/) | [Career Page](http://join.weschool.com/) | Product | Hybrid | Direct - Contract | Javascript - React - Mobx - PHP - Symfony - Elasticsearch - AWS - EdTech
 [Weiji](https://weiji.it) | [Career Page](https://weiji.it/contatti/) | Product | Optional | Direct | AWS - Cloud native - MongoDB - Node.js - Javascript - HTML - Phonegap - SCRUM - Bitbucket pipelines
 [WeRoad](https://www.weroad.it/) | [Career Page](https://career.weroad.travel/) | Product | Optional | Direct | Node.js (Nest.js) - PHP (Laravel) - Vue (Nuxt.js) - GCP
@@ -315,42 +315,42 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Agile Lab](https://www.agilelab.it/) | [Career Page](https://www.agilelab.it/open-positions/) | Optional | Direct
 [Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/careers) | Optional | Direct
 [BendingSpoons](https://bendingspoons.com/) | [Career Page](https://bendingspoons.com/careers.html) | - | Direct
-[Black Pep](https://www.linkedin.com/company/black-pep/) | [Career Page](https:/www.linkedin.com/company/black-pep/jobs) | Full | Direct
-[BYTEK | the martech of Datrix group](https://www.linkedin.com/company/bytek-marketing/) | [Career Page](https:/www.linkedin.com/company/bytek-marketing/jobs) | Optional | Direct
+[Black Pep](https://www.linkedin.com/company/black-pep/) | [Career Page](https://www.linkedin.com/company/black-pep/jobs) | Full | Direct
+[BYTEK | the martech of Datrix group](https://www.linkedin.com/company/bytek-marketing/) | [Career Page](https://www.linkedin.com/company/bytek-marketing/jobs) | Optional | Direct
 [Ciaodino - Digital Evolution Agency](https://www.linkedin.com/company/ciaodino/) | [Career Page](https://www.ciaodino.com/lavora-con-noi/) | Full | Direct
-[Creative Harbour](https://www.linkedin.com/company/creative-harbour/) | [Career Page](https:/www.linkedin.com/company/creative-harbour/jobs) | Full | Direct
-[Disal Consulting](https://www.linkedin.com/company/disalconsulting/) | [Career Page](https:/www.linkedin.com/company/disalconsulting/jobs) | Full | Direct
+[Creative Harbour](https://www.linkedin.com/company/creative-harbour/) | [Career Page](https://www.linkedin.com/company/creative-harbour/jobs) | Full | Direct
+[Disal Consulting](https://www.linkedin.com/company/disalconsulting/) | [Career Page](https://www.linkedin.com/company/disalconsulting/jobs) | Full | Direct
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
 [Empatica](https://www.empatica.com) | [Career Page](https://apply.workable.com/empatica/) | Full | Direct
 [Everli](https://it.everli.com/it) | [Career Page](https://it.everli.com/it/lavora-con-noi) | Full | Direct
-[FBC](https://www.linkedin.com/company/befbc/) | [Career Page](https:/www.linkedin.com/company/befbc/jobs) | Full | Direct
-[Forestae](https://www.linkedin.com/company/forestae/) | [Career Page](https:/www.linkedin.com/company/forestae/jobs) | Full | Contract
-[Good Morning Italia](https://www.linkedin.com/company/good-morning-italia/) | [Career Page](https:/www.linkedin.com/company/good-morning-italia/jobs) | Full | Contract
-[Gummy Industries](https://www.linkedin.com/company/gummy-industries/) | [Career Page](https:/www.linkedin.com/company/gummy-industries/jobs) | Full | Direct
+[FBC](https://www.linkedin.com/company/befbc/) | [Career Page](https://www.linkedin.com/company/befbc/jobs) | Full | Direct
+[Forestae](https://www.linkedin.com/company/forestae/) | [Career Page](https://www.linkedin.com/company/forestae/jobs) | Full | Contract
+[Good Morning Italia](https://www.linkedin.com/company/good-morning-italia/) | [Career Page](https://www.linkedin.com/company/good-morning-italia/jobs) | Full | Contract
+[Gummy Industries](https://www.linkedin.com/company/gummy-industries/) | [Career Page](https://www.linkedin.com/company/gummy-industries/jobs) | Full | Direct
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | - | -
 [Human Analytica](https://humananalytica.it) | [Career Page](https://www.linkedin.com/company/human-analytica/jobs) | Hybrid | Direct
-[Hybrida Marketing](https://www.linkedin.com/company/hybrida-marketing/) | [Career Page](https:/www.linkedin.com/company/hybrida-marketing/jobs) | Full | Direct
-[Innoleaps | Business Builders](https://www.linkedin.com/company/innoleaps/) | [Career Page](https:/www.linkedin.com/company/innoleaps/jobs) | Full | Direct
-[Kopernicana](https://www.linkedin.com/company/kopernicana/) | [Career Page](https:/www.linkedin.com/company/kopernicana/jobs) | Full | Contract
-[Larin Group](https://www.linkedin.com/company/larin-group/) | [Career Page](https:/www.linkedin.com/company/larin-group/jobs) | Full | Contract
-[Loop Srl](https://www.linkedin.com/company/loopsrl/) | [Career Page](https:/www.linkedin.com/company/loopsrl/jobs) | Full | Contract
-[Lucus](https://www.linkedin.com/company/lucus-live/) | [Career Page](https:/www.linkedin.com/company/lucus-live/jobs) | Full | Direct
+[Hybrida Marketing](https://www.linkedin.com/company/hybrida-marketing/) | [Career Page](https://www.linkedin.com/company/hybrida-marketing/jobs) | Full | Direct
+[Innoleaps | Business Builders](https://www.linkedin.com/company/innoleaps/) | [Career Page](https://www.linkedin.com/company/innoleaps/jobs) | Full | Direct
+[Kopernicana](https://www.linkedin.com/company/kopernicana/) | [Career Page](https://www.linkedin.com/company/kopernicana/jobs) | Full | Contract
+[Larin Group](https://www.linkedin.com/company/larin-group/) | [Career Page](https://www.linkedin.com/company/larin-group/jobs) | Full | Contract
+[Loop Srl](https://www.linkedin.com/company/loopsrl/) | [Career Page](https://www.linkedin.com/company/loopsrl/jobs) | Full | Contract
+[Lucus](https://www.linkedin.com/company/lucus-live/) | [Career Page](https://www.linkedin.com/company/lucus-live/jobs) | Full | Direct
 [Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | Full | Direct
 [Nenet](https://www.nenetcompany.com) | [Career Page](https://www.linkedin.com/company/nenetcompany/jobs/) | Full | Direct
 [Neosperience](https://www.neosperience.com) | [Career Page](https://www.neosperience.com/we-are-hiring/) | Optional | Direct
-[Next2Ad](https://www.linkedin.com/company/next2ad/) | [Career Page](https:/www.linkedin.com/company/next2ad/jobs) | Full | Direct
+[Next2Ad](https://www.linkedin.com/company/next2ad/) | [Career Page](https://www.linkedin.com/company/next2ad/jobs) | Full | Direct
 [Officina Microtesti](https://www.officinamicrotesti.it/) | [Career Page](https://www.linkedin.com/company/officina-microtesti/jobs) | Full | Direct
-[Onoblo](https://www.linkedin.com/company/onoblo/) | [Career Page](https:/www.linkedin.com/company/onoblo/jobs) | Full | Contract
-[Quindo | Agenzia SEO](https://www.linkedin.com/company/quindoagenziaseo/) | [Career Page](https:/www.linkedin.com/company/quindoagenziaseo/jobs) | Full | Contract
-[Quiver Marketing](https://www.linkedin.com/company/quiver-marketing/) | [Career Page](https:/www.linkedin.com/company/quiver-marketing/jobs) | Full | Contract
-[Sensify](https://www.linkedin.com/company/sensifygroup/) | [Career Page](https:/www.linkedin.com/company/sensifygroup/jobs) | Full | Direct
+[Onoblo](https://www.linkedin.com/company/onoblo/) | [Career Page](https://www.linkedin.com/company/onoblo/jobs) | Full | Contract
+[Quindo | Agenzia SEO](https://www.linkedin.com/company/quindoagenziaseo/) | [Career Page](https://www.linkedin.com/company/quindoagenziaseo/jobs) | Full | Contract
+[Quiver Marketing](https://www.linkedin.com/company/quiver-marketing/) | [Career Page](https://www.linkedin.com/company/quiver-marketing/jobs) | Full | Contract
+[Sensify](https://www.linkedin.com/company/sensifygroup/) | [Career Page](https://www.linkedin.com/company/sensifygroup/jobs) | Full | Direct
 [Superfluid Team](https://www.superfluidteam.com/) | [Career Page](https://www.superfluidteam.com/careers/) | - | -
-[TextYess](https://www.linkedin.com/company/textyess/) | [Career Page](https:/www.linkedin.com/company/textyess/jobs) | Full | Direct
+[TextYess](https://www.linkedin.com/company/textyess/) | [Career Page](https://www.linkedin.com/company/textyess/jobs) | Full | Direct
 [Thoughtworks](https://www.thoughtworks.com/) | [Career Page](https://www.thoughtworks.com/careers/jobs) | Hybrid | Direct
-[TJ Taylor](https://www.linkedin.com/company/tj-taylor/) | [Career Page](https:/www.linkedin.com/company/tj-taylor/jobs) | Full | Contract
-[TWOW](https://www.linkedin.com/company/twow/) | [Career Page](https:/www.linkedin.com/company/twow/jobs) | Full | Direct
+[TJ Taylor](https://www.linkedin.com/company/tj-taylor/) | [Career Page](https://www.linkedin.com/company/tj-taylor/jobs) | Full | Contract
+[TWOW](https://www.linkedin.com/company/twow/) | [Career Page](https://www.linkedin.com/company/twow/jobs) | Full | Direct
 [UNGUESS](https://unguess.io/) | [Career Page](https://www.linkedin.com/company/unguess/jobs) | Full | Direct
-[Up.00  brand with passion](https://www.linkedin.com/company/up-00/) | [Career Page](https:/www.linkedin.com/company/up-00/jobs) | Full | Contract
+[Up.00  brand with passion](https://www.linkedin.com/company/up-00/) | [Career Page](https://www.linkedin.com/company/up-00/jobs) | Full | Contract
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Full | Direct
 
 ### HR
@@ -358,13 +358,13 @@ Name | Career Page | Remote Policy| Hiring Policy
 Name | Career Page | Remote Policy| Hiring Policy
 ------------ | -- | ------- | -------
 [BIP](https://www.bip-group.com/) | [Career Page](https://www.bip-group.com/careers/) | Optional | Direct
-[Develhope](https://www.linkedin.com/school/develhope/) | [Career Page](https:/www.linkedin.com/school/develhope/jobs) | Full | Direct
+[Develhope](https://www.linkedin.com/school/develhope/) | [Career Page](https://www.linkedin.com/school/develhope/jobs) | Full | Direct
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
 [Fitprime](https://fitprime.com) | [Career Page](https://labs.fitprime.com) | Optional | Direct
 [Jet HR](https://www.jethr.com/) | [Career Page](https://www.linkedin.com/company/jethr/jobs/) | Full | Direct - Contract
 [Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | Full | Direct
 [Nenet](https://www.nenetcompany.com) | [Career Page](https://www.linkedin.com/company/nenetcompany/jobs/) | Full | Direct
-[Redlab - The Consultancy Solution](https://www.linkedin.com/company/redlabsolution/) | [Career Page](https:/www.linkedin.com/company/redlabsolution/jobs) | Full | Direct
+[Redlab - The Consultancy Solution](https://www.linkedin.com/company/redlabsolution/) | [Career Page](https://www.linkedin.com/company/redlabsolution/jobs) | Full | Direct
 [TUI](https://www.tuigroup.com/en-en) | [Career Page](https://careers.tuigroup.com/) | - | -
 [YOOX NET-A-PORTER GROUP](https://www.ynap.com/it) | [Career Page](https://www.ynap.com/it/pagine/careers) | Hybrid | Direct
 [ZuruTech](https://zuru.tech/) | [Career Page](https://zuru.tech/careers) | Optional | Direct
@@ -382,19 +382,19 @@ Name | Career Page | Remote Policy| Hiring Policy
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Full | -
 [D/Vision Lab s.r.l.](https://www.dvisionlab.com/) | [Career Page](https://www.dvisionlab.com/careers/careers) | Optional | Direct
 [Evologi](https://evologi.it/) | [Career Page](https://evologi.it/carriera/) | Optional | Direct
-[Exeen](https://www.linkedin.com/company/exeen/) | [Career Page](https:/www.linkedin.com/company/exeen/jobs) | Full | Contract
+[Exeen](https://www.linkedin.com/company/exeen/) | [Career Page](https://www.linkedin.com/company/exeen/jobs) | Full | Contract
 [Hopper](https://hopper.com/) | [Career Page](https://hopper.com/careers) | Full | Intermediary
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | - | -
 [Immobiliare.it](https://labs.immobiliare.it/) | [Career Page](https://www.immobiliare.it/info/lavora-con-noi/?utm_source=GitHubAwesomeItaliaRemote) | Optional | Direct
-[Intarget](https://www.linkedin.com/company/intarget-group/) | [Career Page](https:/www.linkedin.com/company/intarget-group/jobs) | Full | Direct
+[Intarget](https://www.linkedin.com/company/intarget-group/) | [Career Page](https://www.linkedin.com/company/intarget-group/jobs) | Full | Direct
 [Intent](https://withintent.com) | [Career Page](https://withintent.com/careers) | Full | Contract
 [Jagaad](https://jagaad.com) | [Career Page](https://jagaad.com/careers) | Full | Direct
 [Jet HR](https://www.jethr.com/) | [Career Page](https://www.linkedin.com/company/jethr/jobs/) | Full | Direct - Contract
-[Koodit](https://www.linkedin.com/company/koodit/) | [Career Page](https:/www.linkedin.com/company/koodit/jobs) | Full | Direct
-[Lotrek Digital Agency](https://www.linkedin.com/company/lotrek/) | [Career Page](https:/www.linkedin.com/company/lotrek/jobs) | Full | Direct
+[Koodit](https://www.linkedin.com/company/koodit/) | [Career Page](https://www.linkedin.com/company/koodit/jobs) | Full | Direct
+[Lotrek Digital Agency](https://www.linkedin.com/company/lotrek/) | [Career Page](https://www.linkedin.com/company/lotrek/jobs) | Full | Direct
 [MailUp](https://www.mailup.com/) | [Career Page](https://www.growens.io/en/work-with-us/) | - | -
 [Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) | Full | Direct
-[MIRAI BAY](https://www.linkedin.com/company/mirai-bay/) | [Career Page](https:/www.linkedin.com/company/mirai-bay/jobs) | Full | Direct
+[MIRAI BAY](https://www.linkedin.com/company/mirai-bay/) | [Career Page](https://www.linkedin.com/company/mirai-bay/jobs) | Full | Direct
 [Neosperience](https://www.neosperience.com) | [Career Page](https://www.neosperience.com/we-are-hiring/) | Optional | Direct
 [Officina Microtesti](https://www.officinamicrotesti.it/) | [Career Page](https://www.linkedin.com/company/officina-microtesti/jobs) | Full | Direct
 [Patchai](https://www.patchai.io/) | [Career Page](https://www.linkedin.com/company/ai-patch/jobs/) | Full | Direct
@@ -418,12 +418,12 @@ Name | Career Page | Remote Policy| Hiring Policy
 
 Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 ------------ | -- | ------- | ------- |---------------| -------
-[4Securitas](https://www.linkedin.com/company/4securitas/) | [Career Page](https:/www.linkedin.com/company/4securitas/jobs) | Consulting | Full | Direct | ACSIA
+[4Securitas](https://www.linkedin.com/company/4securitas/) | [Career Page](https://www.linkedin.com/company/4securitas/jobs) | Consulting | Full | Direct | ACSIA
 [BIP](https://www.bip-group.com/) | [Career Page](https://www.bip-group.com/careers/) | Consulting | Optional | Direct | Cloud - GCP - AWS - Azure - AI - Data Science - UX - UI - BI - Mobile Develoopment - Web Development
 [Codezen](https://codezen.tech) | [Career Page](https://www.linkedin.com/company/codezensrls/jobs/) | Consulting | Full | Direct | Rust - Go - Solidity - Blockchain - Cryptography - Distributed Systems
 [Shielder](https://www.shielder.com/) | [Career Page](https://www.shielder.com/careers/) | B2B | Optional | Direct | Penetration Test - Security Research - Application Security - Red Teaming - Hardware Security
 [Telepass](http://telepass.com) | [Career Page](https://www.telepass.com/it/gruppo/lavora-con-noi) | Product | Hybrid | Direct | Cloud - GCP - AI - Data Science - UX - UI - Mobile Develoopment - iOS - Android - Web Development - JavaScript - React - Java - Ruby - Swift - Kotlin
-[THE I](https://www.linkedin.com/company/thei/) | [Career Page](https:/www.linkedin.com/company/thei/jobs) | Consulting | Full | Direct | -
+[THE I](https://www.linkedin.com/company/thei/) | [Career Page](https://www.linkedin.com/company/thei/jobs) | Consulting | Full | Direct | -
 
 ---------
 
