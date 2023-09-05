@@ -1,0 +1,23 @@
+{
+    "name": "Enhancers",
+    "career_page_url": "https://enhancers.it/culture/",
+    "url": "https://enhancers.it/",
+    "remote_policy": "Full",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "Consulting",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "NodeJS",
+        "Typescript",
+        "AWS Cloud",
+        "React Native",
+        "PostgreSQL",
+        "Javascript",
+        "MQTT",
+        "Redux"
+    ]
+}
