@@ -1,0 +1,22 @@
+{
+    "name": "Proxima Service srl - HOTELCUBE",
+    "career_page_url": "https://www.hotelcube.eu/lavora-con-noi/",
+    "url": "https://www.hotelcube.eu/",
+    "remote_policy": "Optional",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "Product",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        ".NET",
+        "C#",
+        "Angular",
+        "SQL server",
+        "PowerBI",
+        "Azure",
+        "DevOps"
+    ]
+}
