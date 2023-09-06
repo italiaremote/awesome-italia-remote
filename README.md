@@ -224,7 +224,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Portchain](https://www.portchain.com/) | [Career Page](https://www.portchain.com/international-team/) | Product | Optional | Contract | JavaScript - TypeScript - Node.js - React - Python - PostgreSQL - AWS - Heroku
 [Prima](https://www.prima.it/) | [Career Page](https://it.prima.jobs/?lang=it-it) | Product | Full | Direct | AWS - Kubernetes - Rust - Elixir - Android - iOS - Elm - React - PHP - Python - Spark - Machine Learning - RabbitMQ - CQRS - DDD - Pulumi - Security
 [Primer](https://primer.io) | [Career Page](https://primer.io/careers/) | Product | Full | - | Javascript - Typescript - React - Python - AWS - Docker
-[ProntoPro](https://www.prontopro.it/) | [Career Page](https://jobs.jobvite.com/prontopro/jobs) | Product | - | Direct | PHP - Go - AWS - Terraform - Kubernetes
+[ProntoPro](https://www.prontopro.it/) | [Career Page](https://www.prontopro.it/people/careers) | Product | Optional | Direct | PHP - Go - AWS - Terraform - Kubernetes
 [Proxima Service srl - HOTELCUBE](https://www.hotelcube.eu/) | [Career Page](https://www.hotelcube.eu/lavora-con-noi/) | Product | Optional | Direct | .NET - C# - Angular - SQL server - PowerBI - Azure - DevOps
 [Qapla' Tracking=Marketing](https://www.linkedin.com/company/qapla'-srl/) | [Career Page](https://www.linkedin.com/company/qapla'-srl/jobs) | Product | Full | Direct | Ecommerce - PHP
 [Qintesi](https://www.qintesi.com/) | [Career Page](https://www.qintesi.com/lavora-con-noi/) | Consulting | Hybrid | Direct | SAP - GCP - Python - SQL
