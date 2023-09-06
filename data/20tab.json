@@ -1,0 +1,29 @@
+{
+  "name": "20tab",
+  "url": "https://www.20tab.com/",
+  "career_page_url": "https://www.20tab.com/connect/careers",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "AWS",
+    "DevOps",
+    "Docker",
+    "Django",
+    "Firebase",
+    "Flutter",
+    "Kubernetes",
+    "PostgreSQL",
+    "Python",
+    "React",
+    "React Native",
+    "Redux",
+    "Terraform",
+    "TypeScript"
+  ]
+}
