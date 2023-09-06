@@ -3646,6 +3646,30 @@
     ]
   },
   {
+    "name": "Liqi",
+    "url": "https://liqi.it/",
+    "career_page_url": "https://www.linkedin.com/company/liqi-ita/jobs/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Django",
+      "htmx",
+      "hyperscript",
+      "AWS",
+      "terraform",
+      "Python",
+      "R",
+      "AI",
+      "fintech"
+    ]
+  },
+  {
     "name": "Loop Srl",
     "url": "https://www.linkedin.com/company/loopsrl/",
     "career_page_url": "https://www.linkedin.com/company/loopsrl/jobs",
