@@ -2188,7 +2188,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "Hybrid",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "Direct"
     ],
@@ -2205,7 +2205,8 @@
       "React",
       "Open Source",
       "Swift",
-      "Kotlin"
+      "Kotlin",
+      "fp-ts"
     ]
   },
   {

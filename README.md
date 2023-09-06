@@ -124,7 +124,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Faberbee](https://faberbee.com) | [Career Page](https://faberbee.com/en/job.html) | Product | Full | Direct | Blockchain - Java - Node.js - Angular - TypeScript - Kubernetes - GCP
 [Fabrick](https://www.fabrick.com/) | [Career Page](https://www.fabrick.com/it/azienda/lavora-con-noi/) | B2B | Hybrid | - | Typescript - Java - React - React Native - OracleSQL
 [FACEIT](https://www.faceit.com/en) | [Career Page](https://corporate.faceit.com/available-jobs/) | Product | Full | Contract | React - Typescript - Go
-[Facile.it](https://www.facile.it/) | [Career Page](https://jobs.facile.it/) | Product | Hybrid | Direct | PHP - Node.js - TypeScript - MySQL - MongoDB - RabbitMQ - Docker - Kubernetes - ELK - React - Open Source - Swift - Kotlin
+[Facile.it](https://www.facile.it/) | [Career Page](https://jobs.facile.it/) | Product | Optional | Direct | PHP - Node.js - TypeScript - MySQL - MongoDB - RabbitMQ - Docker - Kubernetes - ELK - React - Open Source - Swift - Kotlin - fp-ts
 [Fatture in Cloud](https://www.fattureincloud.it/) | [Career Page](https://www.fattureincloud.it/chi-siamo/) | Product | Optional | Direct | TypeScript - React - PHP - Lumen - MySQL - MongoDB
 [Fiscozen](https://www.fiscozen.it/) | [Career Page](https://www.linkedin.com/company/fiscozen/) | Product | Full | Direct | JavaScript - PostgresQL - Python - Vue
 [Fitprime](https://fitprime.com) | [Career Page](https://labs.fitprime.com) | Product | Optional | Direct | React - NextJS - Typescript - Laravel - Swift - Java - PostgreSQL - TimeScale - MySQL - AWS - Agile - Wellbeing - HealthTech
