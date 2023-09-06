@@ -1,0 +1,21 @@
+{
+    "name": "Gipo - Ianiri Informatica",
+    "url": "https://www.gipo.it",
+    "career_page_url": "https://www.docplanner.com/career",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      ".NET",
+      "Angular",
+      "Azure",
+      "Docker",
+      "DDD",
+      "DevOps"
+    ]
+  }
