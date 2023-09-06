@@ -3035,6 +3035,26 @@
     ]
   },
   {
+    "name": "Injenia",
+    "url": "https://injenia.it/",
+    "career_page_url": "https://www.linkedin.com/company/injenia/jobs/",
+    "type": "B2B",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Angular",
+      "Spring",
+      "GCP",
+      "AI",
+      "Machine Learning"
+    ]
+  },
+  {
     "name": "Innoleaps | Business Builders",
     "url": "https://www.linkedin.com/company/innoleaps/",
     "career_page_url": "https://www.linkedin.com/company/innoleaps/jobs",
@@ -3623,6 +3643,30 @@
     ],
     "tags": [
       "Javascript"
+    ]
+  },
+  {
+    "name": "Liqi",
+    "url": "https://liqi.it/",
+    "career_page_url": "https://www.linkedin.com/company/liqi-ita/jobs/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Django",
+      "htmx",
+      "hyperscript",
+      "AWS",
+      "terraform",
+      "Python",
+      "R",
+      "AI",
+      "fintech"
     ]
   },
   {
