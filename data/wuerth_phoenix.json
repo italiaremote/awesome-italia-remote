@@ -1,0 +1,32 @@
+{
+    "name": "Wuerth Phoenix",
+    "career_page_url": "https://wuerth-phoenix.com/it/carriera/carriera-wuerth-phoenix/posizioni-aperte",
+    "url": "https://wuerth-phoenix.com/",
+    "remote_policy": "Full",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "Product",
+    "categories": [
+        "cloud_software",
+	"cybersecurity"
+    ],
+    "tags": [
+        "Kubernetes",
+        "Red Hat OpenShift",
+        "Ansible",
+        "DevOps",
+        "DevSecOps",
+        "SRE",
+        "Rust",
+        "VueJS",
+        "Application Security",
+        "Red Teaming",
+        "Pentest",
+        "SOC",
+        "OSINT",
+        "Azure",
+        "AWS",
+        "Atlassian"
+    ]
+}
