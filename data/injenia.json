@@ -1,0 +1,20 @@
+{
+    "name": "Injenia",
+    "url": "https://injenia.it/",
+    "career_page_url": "https://www.linkedin.com/company/injenia/jobs/",
+    "type": "B2B",
+    "categories": [
+        "cloud_software"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "tags": [
+        "Angular",
+        "Spring",
+        "GCP",
+        "AI",
+        "Machine Learning"
+    ]
+}
