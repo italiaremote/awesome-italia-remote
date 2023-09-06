@@ -175,7 +175,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Juni](https://www.juni.co/) | [Career Page](https://www.juni.co/careers) | Product | Full | Intermediary | Javascript - Typescript - React - React Native - Go - Kafka - Docker - Kubernetes - AWS - gRPC
 [Kaleyra](https://www.kaleyra.com) | [Career Page](https://www.kaleyra.com/careers?utm_source=GitHubAwesomeItaliaRemote) | Product | - | - | CPaaS - Node - PHP - Python
 [Kensu](https://www.kensu.io?utm_source=github&utm_medium=recruitment_channel) | [Career Page](https://kensu.betterteam.com?utm_source=github&utm_medium=recruitment_channel) | Product | - | - | Scala - React - TypeScript - Python - Redis - Terraform - Ansible - AWS - MariaDB - OrientDB
-[Kiratech S.p.A.](https://www.kiratech.it/en) | [Career Page](https://www.kiratech.it/en/work-with-us) | B2B | Hybrid | Direct | Cloud Native - Kubernetes - DevOps - Software Development - Cloud Native Technologies
+[Kiratech S.p.A.](https://www.kiratech.it/en) | [Career Page](https://www.kiratech.it/en/work-with-us) | B2B | Full | Direct | Cloud Native - Consultancy - Kubernetes - DevOps - Software Development - Cloud Native Technologies - Platform Engineering
 [Klarna](https://www.klarna.com/) | [Career Page](https://jobs.lever.co/klarna/) | Product | Optional | Direct | Java - Python - Node - JavaScript - Typescript - React - Docker - AWS
 [Klondike](https://www.klondike.ai) | [Career Page](https://www.linkedin.com/company/klondike/jobs/) | B2B | Full | Direct | PHP - Javascript - Python
 [KPI6](https://www.linkedin.com/company/kpi6/) | [Career Page](https://www.linkedin.com/company/kpi6/jobs) | Product | Full | Direct | Node - Mysql - Python - NoSql - AWS
@@ -426,6 +426,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [4Securitas](https://www.linkedin.com/company/4securitas/) | [Career Page](https://www.linkedin.com/company/4securitas/jobs) | Consulting | Full | Direct | ACSIA
 [BIP](https://www.bip-group.com/) | [Career Page](https://www.bip-group.com/careers/) | Consulting | Optional | Direct | Cloud - GCP - AWS - Azure - AI - Data Science - UX - UI - BI - Mobile Develoopment - Web Development
 [Codezen](https://codezen.tech) | [Career Page](https://www.linkedin.com/company/codezensrls/jobs/) | Consulting | Full | Direct | Rust - Go - Solidity - Blockchain - Cryptography - Distributed Systems
+[Kiratech S.p.A.](https://www.kiratech.it/en) | [Career Page](https://www.kiratech.it/en/work-with-us) | B2B | Full | Direct | Cloud Native - Consultancy - Kubernetes - DevOps - Software Development - Cloud Native Technologies - Platform Engineering
 [Shielder](https://www.shielder.com/) | [Career Page](https://www.shielder.com/careers/) | B2B | Optional | Direct | Penetration Test - Security Research - Application Security - Red Teaming - Hardware Security
 [Telepass](http://telepass.com) | [Career Page](https://www.telepass.com/it/gruppo/lavora-con-noi) | Product | Hybrid | Direct | Cloud - GCP - AI - Data Science - UX - UI - Mobile Develoopment - iOS - Android - Web Development - JavaScript - React - Java - Ruby - Swift - Kotlin
 [THE I](https://www.linkedin.com/company/thei/) | [Career Page](https://www.linkedin.com/company/thei/jobs) | Consulting | Full | Direct | -
