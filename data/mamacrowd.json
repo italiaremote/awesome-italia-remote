@@ -1,0 +1,21 @@
+{
+    "name": "Mamacrowd",
+    "career_page_url": "https://mamacrowd.com/_/lavora-con-noi",
+    "url": "https://mamacrowd.com/",
+    "remote_policy": "Optional",
+    "hiring_policies": [
+        "Contract"
+    ],
+    "type": "Product",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "Node.js",
+        "React",
+        "Typescript",
+        "PostgreSQL",
+        "Docker",
+        "AWS"
+    ]
+}
