@@ -1,0 +1,19 @@
+{
+  "name": "Qintesi",
+  "url": "https://www.qintesi.com/",
+  "career_page_url": "https://www.qintesi.com/lavora-con-noi/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Hybrid",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "SAP",
+    "GCP",
+    "Python",
+    "SQL"
+  ]
+}

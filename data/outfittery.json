@@ -1,0 +1,28 @@
+{
+    "name": "Outfittery",
+    "career_page_url": "https://outfitterygmbh.teamtailor.com/",
+    "url": "https://www.outfittery.com/",
+    "remote_policy": "Full",
+    "hiring_policies": [
+        "Intermediary"
+    ],
+    "type": "Product",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "Java",
+        "Kotlin",
+        "Python",
+        "Javascript",
+        "Kubernetes",
+        "Microservices",
+        "Airflow",
+        "Data Science",
+        "Machine Learning",
+        "Data Engineering",
+        "AWS",
+        "Navision",
+        "Scrum"
+    ]
+}

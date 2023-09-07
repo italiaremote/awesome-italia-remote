@@ -1,0 +1,23 @@
+{
+    "name": "ETIQA srl",
+    "career_page_url": "https://etiqa-srl.breezy.hr/",
+    "url": "https://etiqa.it/",
+    "remote_policy": "Full",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "Consulting",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "NodeJS",
+        "Typescript",
+        "Python",
+        "Javascript",
+        "ReactJS",
+        "AWS Cloud",
+        "Headless CMS",
+        "Scrum"
+    ]
+}
