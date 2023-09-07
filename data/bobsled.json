@@ -1,0 +1,28 @@
+{
+  "name": "Bobsled",
+  "url": "https://bobsled.co/",
+  "career_page_url": "https://www.bobsled.co/company",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Intermediary"
+  ],
+  "tags": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Remix",
+    "Firebase",
+    "Node.js",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Snowflake",
+    "Databricks",
+    "Terraform",
+    "Serverless"
+  ]
+}
