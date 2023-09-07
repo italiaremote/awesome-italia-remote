@@ -1,0 +1,20 @@
+{
+  "name": "Infor srl SB",
+  "url": "https://infor.gruppoinfor.it",
+  "career_page_url": "https://infor.gruppoinfor.it/chi-siamo/lavora-con-noi/",
+  "type": "B2B",
+  "categories": [
+  "cybersecurity"
+  ],
+  "remote_policy": "Hybrid",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Vulnerability Assessment",
+    "Penetration Testing",
+    "Hardware Security",
+    "IT Managed Services",
+    "Digital Transformation"
+  ]
+}
