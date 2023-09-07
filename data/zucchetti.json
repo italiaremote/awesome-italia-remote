@@ -1,0 +1,28 @@
+{
+  "name": "Zucchetti S.p.A.",
+  "url": "https://www.zucchetti.it",
+  "career_page_url": "https://www.zucchetti.it/website/cms/zcareers.html",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "cybersecurity"
+  ],
+  "remote_policy": "Hybrid",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Ansible",
+    "Kubernetes",
+    "Java",
+    "PostgreSQL",
+    "Cloud Native",
+    "DevOps",
+    "Go",
+    "OpenShift",
+    "React",
+    "Linux",
+    "CI/CD",
+    "SQL"
+  ]
+}
