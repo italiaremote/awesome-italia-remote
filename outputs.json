@@ -876,6 +876,36 @@
     ]
   },
   {
+    "name": "Cardo AI",
+    "url": "https://cardoai.com/",
+    "career_page_url": "https://cardoai.com/talent/",
+    "type": "B2B",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Python",
+      "Django",
+      "FastAPI",
+      "JavaScript",
+      "React",
+      ".NET",
+      "Airflow",
+      "Postgres",
+      "TrinoDB",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Azure",
+      "Data Engineering",
+      "Data Science"
+    ]
+  },
+  {
     "name": "Casavo",
     "url": "https://casavo.com",
     "career_page_url": "https://careers.casavo.com",
