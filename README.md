@@ -233,7 +233,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Proxima Service srl - HOTELCUBE](https://www.hotelcube.eu/) | [Career Page](https://www.hotelcube.eu/lavora-con-noi/) | Product | Optional | Direct | .NET - C# - Angular - SQL server - PowerBI - Azure - DevOps
 [Qapla' Tracking=Marketing](https://www.linkedin.com/company/qapla'-srl/) | [Career Page](https://www.linkedin.com/company/qapla'-srl/jobs) | Product | Full | Direct | Ecommerce - PHP
 [Qintesi](https://www.qintesi.com/) | [Career Page](https://www.qintesi.com/lavora-con-noi/) | Consulting | Hybrid | Direct | SAP - GCP - Python - SQL
-[Qonto](https://qonto.com/en) | [Career Page](https://qonto.com/en/careers) | Product | - | Contract | Go - EmberJS - Kotlin - Swift - Kubernetes - Terraform - AWS
+[Qonto](https://qonto.com/en) | [Career Page](https://qonto.com/en/careers) | Product | Optional | Direct | Go - Ruby - Python - EmberJS - Kotlin - Swift - Kubernetes - Terraform - AWS
 [Qredo](https://qredo.com) | [Career Page](https://qredo.com/careers) | Product | Full | Intermediary | Blockchain - Ethereum - Bitcoin - Cosmos - Go
 [Radical Storage](https://radicalstorage.com/) | [Career Page](https://www.linkedin.com/company/radicalstorage/jobs/) | Product | Full | Contract | Go - AWS - React - Docker - Kubernetes - Terraform - DDD
 [Rapsodoo Italia](https://www.rapsodoo.com) | [Career Page](https://italia.rapsodoo.com/jobs) | Consulting | Optional | Direct | Python - Javascript - Docker - GCP - AWS - Kubernetes - DevOps - Odoo - Terraform - Git - Cloud Native - OWL
