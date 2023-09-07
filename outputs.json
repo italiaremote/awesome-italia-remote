@@ -3808,6 +3808,42 @@
     ]
   },
   {
+    "name": "Luna Labs Srl",
+    "url": "https://www.lunalabs.it",
+    "career_page_url": "https://www.lunalabs.it/p/lavora-con-noi/careers",
+    "type": "B2B",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "marketing_writing",
+      "hr",
+      "cybersecurity"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "PHP",
+      "Java",
+      "Angular",
+      "Vue",
+      "Node",
+      "Python",
+      "C#",
+      ".NET",
+      "iOS",
+      "Android",
+      "Docker",
+      "PostgreSQL",
+      "MySQL",
+      "Apache Solr",
+      "GitLab",
+      "DevOps",
+      "AI"
+    ]
+  },
+  {
     "name": "Luxoft",
     "url": "https://www.luxoft.com/",
     "career_page_url": "https://career.luxoft.com/locations/italy/",
