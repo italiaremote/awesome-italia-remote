@@ -4541,6 +4541,34 @@
     ]
   },
   {
+    "name": "Outfittery",
+    "url": "https://www.outfittery.com/",
+    "career_page_url": "https://outfitterygmbh.teamtailor.com/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Intermediary"
+    ],
+    "tags": [
+      "Java",
+      "Kotlin",
+      "Python",
+      "Javascript",
+      "Kubernetes",
+      "Microservices",
+      "Airflow",
+      "Data Science",
+      "Machine Learning",
+      "Data Engineering",
+      "AWS",
+      "Navision",
+      "Scrum"
+    ]
+  },
+  {
     "name": "OverIT",
     "url": "https://www.overit.it/",
     "career_page_url": "https://www.overit.it/lavora-con-noi/",
