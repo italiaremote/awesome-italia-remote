@@ -1,7 +1,7 @@
 {
     "name": "ELEVA",
-    "url": "https://www.linkedin.com/company/eleva-srl/",
-    "career_page_url": "https://www.linkedin.com/company/eleva-srl/jobs",
+    "url": "https://eleva.it/",
+    "career_page_url": "https://eleva.it/team/",
     "type": "Consulting",
     "categories": [
         "cloud_software"
@@ -11,9 +11,16 @@
         "Direct"
     ],
     "tags": [
-        "Javascript",
-        "React",
+        "Cloud Native",
         "AWS",
-        "Java"
+        "Serverless",
+        "Node.js",
+        "IaC",
+        "React",
+        "React Native",
+        "Javascript",
+        "PHP",
+        "Symfony",
+        "UX/UI"
     ]
 }
