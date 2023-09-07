@@ -2572,6 +2572,27 @@
     ]
   },
   {
+    "name": "Gipo - Ianiri Informatica",
+    "url": "https://www.gipo.it",
+    "career_page_url": "https://www.docplanner.com/career",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      ".NET",
+      "Angular",
+      "Azure",
+      "Docker",
+      "DDD",
+      "DevOps"
+    ]
+  },
+  {
     "name": "Gitlab",
     "url": "https://www.gitlab.com/",
     "career_page_url": "https://about.gitlab.com/jobs/",
@@ -3963,6 +3984,27 @@
       "Angular",
       "C#",
       "Python"
+    ]
+  },
+  {
+    "name": "Mamacrowd",
+    "url": "https://mamacrowd.com/",
+    "career_page_url": "https://mamacrowd.com/_/lavora-con-noi",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Contract"
+    ],
+    "tags": [
+      "Node.js",
+      "React",
+      "Typescript",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
     ]
   },
   {
