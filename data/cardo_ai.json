@@ -1,0 +1,30 @@
+{
+  "name": "Cardo AI",
+  "career_page_url": "https://cardoai.com/talent/",
+  "url": "https://cardoai.com/",
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "type": "B2B",
+  "categories": [
+    "cloud_software"
+  ],
+  "tags": [
+    "Python",
+    "Django",
+    "FastAPI",
+    "JavaScript",
+    "React",
+    ".NET",
+    "Airflow",
+    "Postgres",
+    "TrinoDB",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Azure",
+    "Data Engineering",
+    "Data Science"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Luna Labs Srl",
+    "career_page_url": "https://www.lunalabs.it/p/lavora-con-noi/careers",
+    "url": "https://www.lunalabs.it",
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "B2B",
+    "categories": [
+        "cloud_software",
+        "design_ux",
+        "marketing_writing",
+        "hr",
+        "cybersecurity"
+    ],
+    "tags": [
+        "PHP",
+        "Java",
+        "Angular",
+        "Vue",
+        "Node",
+        "Python",
+        "C#",
+        ".NET",
+        "iOS",
+        "Android",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "Apache Solr",
+        "GitLab",
+        "DevOps",
+        "AI"
+    ]
+}

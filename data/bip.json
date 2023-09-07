@@ -1,0 +1,29 @@
+{
+  "name": "BIP",
+  "url": "https://www.bip-group.com/",
+  "career_page_url": "https://www.bip-group.com/careers/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software",
+    "cybersecurity",
+    "design_ux",
+    "hr"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Cloud",
+    "GCP",
+    "AWS",
+    "Azure",
+    "AI",
+    "Data Science",
+    "UX",
+    "UI",
+    "BI",
+    "Mobile Develoopment",
+    "Web Development"
+  ]
+}

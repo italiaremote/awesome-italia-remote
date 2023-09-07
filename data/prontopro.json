@@ -1,12 +1,12 @@
 {
   "name": "ProntoPro",
   "url": "https://www.prontopro.it/",
-  "career_page_url": "https://jobs.jobvite.com/prontopro/jobs",
+  "career_page_url": "https://www.prontopro.it/people/careers",
   "type": "Product",
   "categories": [
     "cloud_software"
   ],
-  "remote_policy": "-",
+  "remote_policy": "Optional",
   "hiring_policies": [
     "Direct"
   ],

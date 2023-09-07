@@ -4,17 +4,20 @@
   "career_page_url": "https://www.kiratech.it/en/work-with-us",
   "type": "B2B",
   "categories": [
-    "cloud_software"
+    "cloud_software",
+    "cybersecurity"
   ],
-  "remote_policy": "Hybrid",
+  "remote_policy": "Full",
   "hiring_policies": [
     "Direct"
   ],
   "tags": [
     "Cloud Native",
+    "Consultancy",
     "Kubernetes",
     "DevOps",
     "Software Development",
-    "Cloud Native Technologies"
+    "Cloud Native Technologies",
+    "Platform Engineering"
   ]
 }

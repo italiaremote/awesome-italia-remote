@@ -1,0 +1,23 @@
+{
+  "name": "Klarna",
+  "career_page_url": "https://jobs.lever.co/klarna/",
+  "url": "https://www.klarna.com/",
+  "remote_policy": "Optional",
+  "hiring_policies": [
+      "Direct"
+  ],
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "tags": [
+    "Java",
+    "Python",
+    "Node",
+    "JavaScript",
+    "Typescript",
+    "React",
+    "Docker",
+    "AWS"
+  ]
+}
