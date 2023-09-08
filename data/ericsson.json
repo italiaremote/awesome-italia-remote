@@ -1,0 +1,21 @@
+{
+    "name": "Ericsson",
+    "career_page_url": "https://www.ericsson.com/en/careers",
+    "url": "https://www.ericsson.com",
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "B2B",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "Kubernetes",
+        "OpenStack",
+        "Docker",
+        "Linux",
+        "Python",
+        "Ansible"
+    ]
+}
