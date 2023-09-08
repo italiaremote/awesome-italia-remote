@@ -2082,6 +2082,27 @@
     ]
   },
   {
+    "name": "Ericsson",
+    "url": "https://www.ericsson.com",
+    "career_page_url": "https://www.ericsson.com/en/careers",
+    "type": "B2B",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Kubernetes",
+      "OpenStack",
+      "Docker",
+      "Linux",
+      "Python",
+      "Ansible"
+    ]
+  },
+  {
     "name": "Ernesto",
     "url": "https://www.ernesto.it/",
     "career_page_url": "https://help.ernesto.it/contatti/",
