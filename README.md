@@ -267,6 +267,7 @@ Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
 [Spendesk](https://www.spendesk.com) | [Career Page](https://www.spendesk.com/careers) | Product | Optional | Intermediary | NodeJS - TypeScript - React - Kotlin - Swift - GraphQL - AWS - Kubernetes - PostgreSQL - Terraform - Redis - Kafka
 [Spotify](https://www.spotify.com/it/) | [Career Page](https://www.lifeatspotify.com/jobs) | Product | - | Direct | Java - C++ - JavaScript - React - Node
 [Spreaker](https://www.spreaker.com/) | [Career Page](https://careers.spreaker.com/) | Product | - | - | PHP - Node.js - AWS - Kubernetes - Serverless
+[SQLite Cloud](https://sqlitecloud.io) | [Career Page](https://www.linkedin.com/company/sqlitecloud/jobs/) | Product | Full | Contract | C/C++ - Go - Rust - WASM - Node.js - Next.js - AWS - React - Docker
 [Stellantis](https://www.stellantis.com/) | [Career Page](https://careers.fcagroup.com/) | Product | Full | Direct | Scala - DevOps - AWS - Kubernetes - Python - Go
 [Storeis](https://www.linkedin.com/company/storeis/) | [Career Page](https://www.linkedin.com/company/storeis/jobs) | B2B | Full | Direct | Ecommerce
 [storyteq](https://storyteq.com/) | [Career Page](https://apply.workable.com/storyteq/) | Product | Full | Direct | JavaScript - Vue - Node - NestJS - Express - RabbitMQ
