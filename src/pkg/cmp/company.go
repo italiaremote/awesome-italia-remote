@@ -103,3 +103,7 @@ func (c Company) Validate() error {
 
 	return nil
 }
+
+func (c *Company) Fix() {
+	c.Name = strings.ReplaceAll(c.Name, "|", "\\|")
+}
