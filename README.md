@@ -330,7 +330,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/careers) | Optional | Direct
 [BendingSpoons](https://bendingspoons.com/) | [Career Page](https://bendingspoons.com/careers.html) | - | Direct
 [Black Pep](https://www.linkedin.com/company/black-pep/) | [Career Page](https://www.linkedin.com/company/black-pep/jobs) | Full | Direct
-[BYTEK | the martech of Datrix group](https://www.linkedin.com/company/bytek-marketing/) | [Career Page](https://www.linkedin.com/company/bytek-marketing/jobs) | Optional | Direct
+[BYTEK \| the martech of Datrix group](https://www.linkedin.com/company/bytek-marketing/) | [Career Page](https://www.linkedin.com/company/bytek-marketing/jobs) | Optional | Direct
 [Ciaodino - Digital Evolution Agency](https://www.linkedin.com/company/ciaodino/) | [Career Page](https://www.ciaodino.com/lavora-con-noi/) | Full | Direct
 [Creative Harbour](https://www.linkedin.com/company/creative-harbour/) | [Career Page](https://www.linkedin.com/company/creative-harbour/jobs) | Full | Direct
 [Disal Consulting](https://www.linkedin.com/company/disalconsulting/) | [Career Page](https://www.linkedin.com/company/disalconsulting/jobs) | Full | Direct
@@ -344,7 +344,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | - | -
 [Human Analytica](https://humananalytica.it) | [Career Page](https://www.linkedin.com/company/human-analytica/jobs) | Hybrid | Direct
 [Hybrida Marketing](https://www.linkedin.com/company/hybrida-marketing/) | [Career Page](https://www.linkedin.com/company/hybrida-marketing/jobs) | Full | Direct
-[Innoleaps | Business Builders](https://www.linkedin.com/company/innoleaps/) | [Career Page](https://www.linkedin.com/company/innoleaps/jobs) | Full | Direct
+[Innoleaps \| Business Builders](https://www.linkedin.com/company/innoleaps/) | [Career Page](https://www.linkedin.com/company/innoleaps/jobs) | Full | Direct
 [Kopernicana](https://www.linkedin.com/company/kopernicana/) | [Career Page](https://www.linkedin.com/company/kopernicana/jobs) | Full | Contract
 [Larin Group](https://www.linkedin.com/company/larin-group/) | [Career Page](https://www.linkedin.com/company/larin-group/jobs) | Full | Contract
 [Loop Srl](https://www.linkedin.com/company/loopsrl/) | [Career Page](https://www.linkedin.com/company/loopsrl/jobs) | Full | Contract
@@ -356,7 +356,7 @@ Name | Career Page | Remote Policy| Hiring Policy
 [Next2Ad](https://www.linkedin.com/company/next2ad/) | [Career Page](https://www.linkedin.com/company/next2ad/jobs) | Full | Direct
 [Officina Microtesti](https://www.officinamicrotesti.it/) | [Career Page](https://www.linkedin.com/company/officina-microtesti/jobs) | Full | Direct
 [Onoblo](https://www.linkedin.com/company/onoblo/) | [Career Page](https://www.linkedin.com/company/onoblo/jobs) | Full | Contract
-[Quindo | Agenzia SEO](https://www.linkedin.com/company/quindoagenziaseo/) | [Career Page](https://www.linkedin.com/company/quindoagenziaseo/jobs) | Full | Contract
+[Quindo \| Agenzia SEO](https://www.linkedin.com/company/quindoagenziaseo/) | [Career Page](https://www.linkedin.com/company/quindoagenziaseo/jobs) | Full | Contract
 [Quiver Marketing](https://www.linkedin.com/company/quiver-marketing/) | [Career Page](https://www.linkedin.com/company/quiver-marketing/jobs) | Full | Contract
 [Sensify](https://www.linkedin.com/company/sensifygroup/) | [Career Page](https://www.linkedin.com/company/sensifygroup/jobs) | Full | Direct
 [Superfluid Team](https://www.superfluidteam.com/) | [Career Page](https://www.superfluidteam.com/careers/) | - | -
