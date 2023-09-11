@@ -5876,6 +5876,31 @@
     ]
   },
   {
+    "name": "SQLite Cloud",
+    "url": "https://sqlitecloud.io/",
+    "career_page_url": "https://www.linkedin.com/company/sqlitecloud/jobs/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Contract"
+    ],
+    "tags": [
+      "C",
+      "C++",
+      "Go",
+      "Rust",
+      "WASM",
+      "Node.js",
+      "Next.js",
+      "AWS",
+      "React",
+      "Docker"
+    ]
+  },
+  {
     "name": "Stellantis",
     "url": "https://www.stellantis.com/",
     "career_page_url": "https://careers.fcagroup.com/",
