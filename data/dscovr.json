@@ -1,0 +1,32 @@
+{
+  "name": "Dscovr",
+  "url": "http://www.dscovr.io",
+  "career_page_url": "https://apply.workable.com/dscovr",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "design_ux"
+  ],
+  "remote_policy": "Hybrid",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "AWS",
+    "AI/ML",
+    "Data Science",
+    "Python",
+    "UX",
+    "UI",
+    "PHP",
+    "Web Development",
+    "Typescript",
+    "Tailwindcss",
+    "Vue.js",
+    "Laravel",
+    "GraphQL",
+    "Terraform",
+    "Docker",
+    "Mixpanel"
+  ]
+}
