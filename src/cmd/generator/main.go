@@ -45,6 +45,7 @@ func main() {
 			log.Println(companyFiles.Name())
 			log.Fatalln(err)
 		}
+		company.Fix()
 
 		allCompanies = append(allCompanies, company)
 		for _, category := range company.Categories {
