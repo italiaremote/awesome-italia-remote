@@ -8,6 +8,7 @@ on:
     paths:
      - 'data/**'
      - '.github/workflows/data-tester.yml'
+     - 'src/**'
 
 jobs:
   build:
