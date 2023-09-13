@@ -32,7 +32,6 @@ var (
 		"Intermediary": true,
 	}
 	allowedRemotePolicies = map[string]bool{
-		"-":        true,
 		"Full":     true,
 		"Hybrid":   true,
 		"Optional": true,
