@@ -828,7 +828,7 @@
     ]
   },
   {
-    "name": "BYTEK | the martech of Datrix group",
+    "name": "BYTEK \\| the martech of Datrix group",
     "url": "https://www.linkedin.com/company/bytek-marketing/",
     "career_page_url": "https://www.linkedin.com/company/bytek-marketing/jobs",
     "type": "B2B",
@@ -2303,6 +2303,42 @@
     ]
   },
   {
+    "name": "Exibe",
+    "url": "https://www.exibe.it",
+    "career_page_url": "https://www.exibe.it/careers",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Contract"
+    ],
+    "tags": [
+      "Laravel",
+      "PHP",
+      "Wordpress",
+      "WooCommerce",
+      "Flutter",
+      "Android",
+      "iOS",
+      "Vue",
+      "Livewire",
+      "Agile Development",
+      "JavaScript",
+      "TailwindCSS",
+      "SASS",
+      "Docker",
+      "Internet of Things",
+      "Arduino",
+      "ESP32",
+      "CRM",
+      "Python",
+      "Figma"
+    ]
+  },
+  {
     "name": "Faberbee",
     "url": "https://faberbee.com",
     "career_page_url": "https://faberbee.com/en/job.html",
@@ -3278,7 +3314,7 @@
     ]
   },
   {
-    "name": "Innoleaps | Business Builders",
+    "name": "Innoleaps \\| Business Builders",
     "url": "https://www.linkedin.com/company/innoleaps/",
     "career_page_url": "https://www.linkedin.com/company/innoleaps/jobs",
     "type": "B2B",
@@ -5249,7 +5285,7 @@
     ]
   },
   {
-    "name": "Quindo | Agenzia SEO",
+    "name": "Quindo \\| Agenzia SEO",
     "url": "https://www.linkedin.com/company/quindoagenziaseo/",
     "career_page_url": "https://www.linkedin.com/company/quindoagenziaseo/jobs",
     "type": "B2B",
