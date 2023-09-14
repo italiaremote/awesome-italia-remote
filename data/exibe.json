@@ -1,0 +1,36 @@
+{
+  "name": "Exibe",
+  "url": "https://www.exibe.it",
+  "career_page_url": "https://www.exibe.it/careers",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software",
+    "design_ux"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Contract"
+  ],
+  "tags": [
+    "Laravel",
+    "PHP",
+    "Wordpress",
+    "WooCommerce",
+    "Flutter",
+    "Android",
+    "iOS",
+    "Vue",
+    "Livewire",
+    "Agile Development",
+    "JavaScript",
+    "TailwindCSS",
+    "SASS",
+    "Docker",
+    "Internet of Things",
+    "Arduino",
+    "ESP32",
+    "CRM",
+    "Python",
+    "Figma"
+  ]
+}
