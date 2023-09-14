@@ -1,0 +1,22 @@
+{
+    "name": "IUNGO S.p.A.",
+    "url": "https://www.iungo.com/",
+    "career_page_url": "https://www.iungo.com/lavora-con-noi/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Docker",
+      "Kubernetes",
+      "GCP",
+      "DevOps",
+      "Software Development",
+      "Java",
+      "React"
+    ]
+}
