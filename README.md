@@ -96,7 +96,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [hlpy](https://hlpy.co) | [Career Page](https://www.linkedin.com/company/hlpy/jobs/) | Product | Direct | Vue.js - Flutter - Python - PostgreSQL - GIS - Kubernetes - ElasticSearch - AWS - Terraform - Machine Learning
 [Hopper](https://hopper.com/) | [Career Page](https://hopper.com/careers) | Product | Intermediary | Scala - Kubernetes - Terraform
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | Product | - | AWS - Kubernetes - Terraform - Python - React
-[Hyland Software, Inc.](https://www.hyland.com/en) | [Career Page](https://careers-hyland.icims.com/jobs/intro) | Product | Direct | Ansible - AWS - Kubernetes - Terraform - DevOps - Java - Open Source - PostgreSQL - Alfresco
+[Hyland](https://www.hyland.com/) | [Career Page](https://www.linkedin.com/company/hyland-software/) | Product | Direct | Java - Typescript - AWS - .NET
 [Ignite](https://ignt.com) | [Career Page](https://ignt.com/careers) | Product | Direct | Blockchain - Cosmos - Go - JavaScript - Vue - Typescript - Kubernetes
 [Imola Informatica](https://www.linkedin.com/company/imola-informatica/) | [Career Page](https://www.linkedin.com/company/imola-informatica/jobs) | Consulting | Direct | Java - Javascript - Angular
 [IN4IT](https://in4it.io/) | [Career Page](https://www.linkedin.com/company/in4it/jobs/) | Consulting | Contract | AWS - Cloud - Go - Migrations - Terraform - Kubernetes - Docker
