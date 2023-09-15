@@ -280,7 +280,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [Conio S.r.l.](https://www.conio.com) | [Career Page](https://www.linkedin.com/company/conio/jobs/) | Product | Direct | Blockchain - Python - AWS - iOS - Android
 [Cortilia](https://about.cortilia.it/) | [Career Page](https://about.cortilia.it/lavora-con-noi) | Product | - | AWS - Java
 [DevInterface](https://www.devinterface.com/) | [Career Page](https://www.devinterface.com/en/work-with-us) | Consulting | Direct | Ruby On Rails - Python - Django - Node.js - React - Go
-[Doctolib](https://www.doctolib.it/) | [Career Page](https://careers.doctolib.it/) | Consulting | Contract | RAILS - REACT - POSTGRESQL - ELASTICSEARCH
+[Doctolib](https://www.doctolib.it/) | [Career Page](https://careers.doctolib.it/) | Consulting | Contract | Rails - React - PostgreSQL - ElasticSearch
 [Dscovr](http://www.dscovr.io) | [Career Page](https://apply.workable.com/dscovr) | Product | Direct | AWS - AI/ML - Data Science - Python - UX - UI - PHP - Web Development - Typescript - Tailwindcss - Vue.js - Laravel - GraphQL - Terraform - Docker - Mixpanel
 [DualBit](https://www.dualb.it) | [Career Page](https://www.dualb.it/work-with-us) | Consulting | Direct | iOS - Swift - Android - Kotlin - Native Mobile Development - Python - Django - Vue.js - Docker - Kubernetes
 [Ericsson](https://www.ericsson.com) | [Career Page](https://www.ericsson.com/en/careers) | B2B | Direct | Kubernetes - OpenStack - Docker - Linux - Python - Ansible
