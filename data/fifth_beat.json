@@ -1,0 +1,36 @@
+{
+    "name": "Fifth Beat",
+    "career_page_url": "https://fifthbeat.com/contacts",
+    "url": "https://fifthbeat.com/",
+    "remote_policy": "Optional",
+    "hiring_policies": [
+        "Direct",
+        "Contract"
+    ],
+    "type": "Consulting",
+    "categories": [
+        "design_ux",
+        "cloud_software"
+    ],
+    "tags": [
+        "Business Analyst",
+        "Content Design",
+        "AWS",
+        "Javascript/Typescript",
+        "Flutter",
+        "Node.js/React",
+        "Terraform",
+        "Docker",
+        "Continuous Delivery",
+        "Organization Design",
+        "QA",
+        "UAT",
+        "Functional Testing",
+        "User Research",
+        "Interaction Design",
+        "Brand Identity",
+        "Application Maintenance",
+        "UI Design",
+        "UX Design"
+    ]
+}
