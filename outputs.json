@@ -1600,6 +1600,25 @@
     ]
   },
   {
+    "name": "Doctolib",
+    "url": "https://www.doctolib.it/",
+    "career_page_url": "https://careers.doctolib.it/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Contract"
+    ],
+    "tags": [
+      "RAILS",
+      "REACT",
+      "POSTGRESQL",
+      "ELASTICSEARCH"
+    ]
+  },
+  {
     "name": "Doist",
     "url": "https://doist.com/",
     "career_page_url": "https://doist.com/careers",
