@@ -295,7 +295,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [Register S.p.A.](https://www.register.it/) | [Career Page](https://itcareers.team.blue/) | Product | Direct | Java - PHP - React
 [Sidea Group](https://www.sideagroup.com/) | [Career Page](https://www.sideagroup.com/sidea-hr/) | Consulting | Direct | Javascript - TypeScript - React - Angular - Wordpress - Magento - Salesforce Commerce Cloud
 [Sysdig](https://sysdig.com/) | [Career Page](https://sysdig.com/jobs/) | Product | Direct | Go - AWS - GCP - Node.js - TypeScript - React - Open Source - Kubernetes - Falco - Cloud - JavaScript - Machine Learning - Java - Prometheus
-[Telepass](http://telepass.com) | [Career Page](https://www.telepass.com/it/gruppo/lavora-con-noi) | Product | Direct | Cloud - GCP - AI - Data Science - UX - UI - Mobile Develoopment - iOS - Android - Web Development - JavaScript - React - Java - Ruby - Swift - Kotlin
+[Telepass](http://telepass.com) | [Career Page](https://www.telepass.com/it/gruppo/lavora-con-noi) | Product | Direct | Cloud - GCP - AI - Data Science - UX - UI - Mobile Development - iOS - Android - Web Development - JavaScript - React - Java - Ruby - Swift - Kotlin
 [TheFork](https://www.thefork.com/) | [Career Page](https://careers.thefork.com/global/en) | Product | Direct | Node.js - React - TypeScript - GraphQL - Kotlin - Swift - AWS
 [Thoughtworks](https://www.thoughtworks.com/) | [Career Page](https://www.thoughtworks.com/careers/jobs) | Consulting | Direct | Java - JavaScript - Typescript - Python - C# - AWS - Docker - Kubernetes - Rust - Terraform - React
 [Vcube](https://www.vcube.it/) | [Career Page](https://www.vcube.it/careers/) | Consulting | Direct | Ansible - Automation - Azure - DevOps - Docker - Elasticsearch - ELK - Jenkins - Kubernetes - Linux - Openshift - Terraform - VMware
@@ -329,7 +329,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [Dscovr](http://www.dscovr.io) | [Career Page](https://apply.workable.com/dscovr) | Product | Direct | AWS - AI/ML - Data Science - Python - UX - UI - PHP - Web Development - Typescript - Tailwindcss - Vue.js - Laravel - GraphQL - Terraform - Docker - Mixpanel
 [Luna Labs Srl](https://www.lunalabs.it) | [Career Page](https://www.lunalabs.it/p/lavora-con-noi/careers) | B2B | Direct | PHP - Java - Angular - Vue - Node - Python - C# - .NET - iOS - Android - Docker - PostgreSQL - MySQL - Apache Solr - GitLab - DevOps - AI
 [Sysdig](https://sysdig.com/) | [Career Page](https://sysdig.com/jobs/) | Product | Direct | Go - AWS - GCP - Node.js - TypeScript - React - Open Source - Kubernetes - Falco - Cloud - JavaScript - Machine Learning - Java - Prometheus
-[Telepass](http://telepass.com) | [Career Page](https://www.telepass.com/it/gruppo/lavora-con-noi) | Product | Direct | Cloud - GCP - AI - Data Science - UX - UI - Mobile Develoopment - iOS - Android - Web Development - JavaScript - React - Java - Ruby - Swift - Kotlin
+[Telepass](http://telepass.com) | [Career Page](https://www.telepass.com/it/gruppo/lavora-con-noi) | Product | Direct | Cloud - GCP - AI - Data Science - UX - UI - Mobile Development - iOS - Android - Web Development - JavaScript - React - Java - Ruby - Swift - Kotlin
 [Thoughtworks](https://www.thoughtworks.com/) | [Career Page](https://www.thoughtworks.com/careers/jobs) | Consulting | Direct | Java - JavaScript - Typescript - Python - C# - AWS - Docker - Kubernetes - Rust - Terraform - React
 [TUI](https://www.tuigroup.com/en-en) | [Career Page](https://careers.tuigroup.com/) |  | - | 
 [WeSchool](https://www.weschool.com/) | [Career Page](http://join.weschool.com/) | Product | Direct - Contract | Javascript - React - Mobx - PHP - Symfony - Elasticsearch - AWS - EdTech
@@ -341,7 +341,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 ------------ | ------- | ------- |---------------| -------
 [Infor srl SB](https://infor.gruppoinfor.it) | [Career Page](https://infor.gruppoinfor.it/chi-siamo/lavora-con-noi/) | B2B | Direct | Vulnerability Assessment - Penetration Testing - Hardware Security - IT Managed Services - Digital Transformation
 [Luna Labs Srl](https://www.lunalabs.it) | [Career Page](https://www.lunalabs.it/p/lavora-con-noi/careers) | B2B | Direct | PHP - Java - Angular - Vue - Node - Python - C# - .NET - iOS - Android - Docker - PostgreSQL - MySQL - Apache Solr - GitLab - DevOps - AI
-[Telepass](http://telepass.com) | [Career Page](https://www.telepass.com/it/gruppo/lavora-con-noi) | Product | Direct | Cloud - GCP - AI - Data Science - UX - UI - Mobile Develoopment - iOS - Android - Web Development - JavaScript - React - Java - Ruby - Swift - Kotlin
+[Telepass](http://telepass.com) | [Career Page](https://www.telepass.com/it/gruppo/lavora-con-noi) | Product | Direct | Cloud - GCP - AI - Data Science - UX - UI - Mobile Development - iOS - Android - Web Development - JavaScript - React - Java - Ruby - Swift - Kotlin
 [Zucchetti S.p.A.](https://www.zucchetti.it) | [Career Page](https://www.zucchetti.it/website/cms/zcareers.html) | Product | Direct | Ansible - Kubernetes - Java - PostgreSQL - Cloud Native - DevOps - Go - OpenShift - React - Linux - CI/CD - SQL
 ### Optional
 
@@ -359,7 +359,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [Aruba S.p.A.](https://www.aruba.it/en/home.aspx) | [Career Page](https://www.aruba.it/en/home.aspx) | Product | Direct | OpenShift - Serverless - Istio
 [Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/careers) | Consulting | Direct | JavaScript - React - TypeScript
 [BendingSpoons](https://bendingspoons.com/) | [Career Page](https://bendingspoons.com/careers.html) |  | Direct | 
-[BIP](https://www.bip-group.com/) | [Career Page](https://www.bip-group.com/careers/) | Consulting | Direct | Cloud - GCP - AWS - Azure - AI - Data Science - UX - UI - BI - Mobile Develoopment - Web Development
+[BIP](https://www.bip-group.com/) | [Career Page](https://www.bip-group.com/careers/) | Consulting | Direct | Cloud - GCP - AWS - Azure - AI - Data Science - UX - UI - BI - Mobile Development - Web Development
 [Blexin](https://www.blexin.com/) | [Career Page](https://www.linkedin.com/company/blexin/jobs/) | Consulting | Direct | .NET - Microsoft Azure - DevOps - Javascript - Angular - React - Docker - Kubernetes
 [Bmeme](https://www.bmeme.com) | [Career Page](https://www.bmeme.com/jobs) | Consulting | Direct | Drupal - Next.js - Angular - React - Symfony - Headless CMS - PHP - TypeScript - JS - GCP - Kubernetes - Docker - Cloud Native - Terraform - DevOps - Ansible - UX - UI - Scrum - Open Source
 [Brainy Labs](https://www.brainylabs.it/) | [Career Page](https://www.linkedin.com/company/brainylabsit/jobs) | Consulting | Direct | Java - Python - Node - JavaScript - Typescript - Angular - Docker - Spring Boot - PostgreSQL - GIT
@@ -471,7 +471,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 
 Name | Career Page | Company Type | Hiring Policy | Stack
 ------------ | ------- | ------- |---------------| -------
-[BIP](https://www.bip-group.com/) | [Career Page](https://www.bip-group.com/careers/) | Consulting | Direct | Cloud - GCP - AWS - Azure - AI - Data Science - UX - UI - BI - Mobile Develoopment - Web Development
+[BIP](https://www.bip-group.com/) | [Career Page](https://www.bip-group.com/careers/) | Consulting | Direct | Cloud - GCP - AWS - Azure - AI - Data Science - UX - UI - BI - Mobile Development - Web Development
 [Fitprime](https://fitprime.com) | [Career Page](https://labs.fitprime.com) | Product | Direct | React - NextJS - Typescript - Laravel - Swift - Java - PostgreSQL - TimeScale - MySQL - AWS - Agile - Wellbeing - HealthTech
 [ZuruTech](https://zuru.tech/) | [Career Page](https://zuru.tech/careers) | Product | Direct | C++ - UnrealEngine - MacOS - Linux - Machine Learning
 
@@ -480,7 +480,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 Name | Career Page | Company Type | Hiring Policy | Stack
 ------------ | ------- | ------- |---------------| -------
 [Belka](https://www.belkadigital.com) | [Career Page](https://www.belkadigital.com/careers) | Consulting | Direct | JavaScript - React - TypeScript
-[BIP](https://www.bip-group.com/) | [Career Page](https://www.bip-group.com/careers/) | Consulting | Direct | Cloud - GCP - AWS - Azure - AI - Data Science - UX - UI - BI - Mobile Develoopment - Web Development
+[BIP](https://www.bip-group.com/) | [Career Page](https://www.bip-group.com/careers/) | Consulting | Direct | Cloud - GCP - AWS - Azure - AI - Data Science - UX - UI - BI - Mobile Development - Web Development
 [Cloud Academy](https://www.cloudacademy.com) | [Career Page](https://jobs.cloudacademy.com) | Product | - | AWS - Django - GraphQL - Kotlin - Python - PostgresQL - React - TypeScript
 [D/Vision Lab s.r.l.](https://www.dvisionlab.com/) | [Career Page](https://www.dvisionlab.com/careers/careers) | Consulting | Direct | Angular - Blender - Cornerstone.js - Django - Docker - Electron - JavaScript - Machine Learning - Node.js - Python - React - Three.js - TypeScript - VTK - Vue.js - WebGL
 [Evologi](https://evologi.it/) | [Career Page](https://evologi.it/carriera/) | Product | Direct | JavaScript - TypeScript - Node.js - PostgreSQL - MongoDB - Azure - Kubernetes - RabbitMQ - Angular - DevOps - Python
@@ -498,7 +498,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 
 Name | Career Page | Company Type | Hiring Policy | Stack
 ------------ | ------- | ------- |---------------| -------
-[BIP](https://www.bip-group.com/) | [Career Page](https://www.bip-group.com/careers/) | Consulting | Direct | Cloud - GCP - AWS - Azure - AI - Data Science - UX - UI - BI - Mobile Develoopment - Web Development
+[BIP](https://www.bip-group.com/) | [Career Page](https://www.bip-group.com/careers/) | Consulting | Direct | Cloud - GCP - AWS - Azure - AI - Data Science - UX - UI - BI - Mobile Development - Web Development
 [Shielder](https://www.shielder.com/) | [Career Page](https://www.shielder.com/careers/) | B2B | Direct | Penetration Test - Security Research - Application Security - Red Teaming - Hardware Security
 
 ---------
