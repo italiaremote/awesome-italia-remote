@@ -32,54 +32,53 @@ Direct | Company is hiring directly with a legal entity in Italy.
 Contract | Company is hiring contractors in Italy, VAT Number is required.
 Intermediary | Company is hiring using a payroll intermediary in Italy.
 
-## Companies sorted by remote policies 
 
-{{- range .Companies}}
-### {{.RemoteTypeName}}
+{{- range .remote_policies}}
+### {{.Name}}
 
 #### Software and Cloud
 
-Name | Career Page | Company Type | Hiring Policy | Stack
------------- | ------- | ------- |---------------| -------
+Name | Category | Career Page | Company Type | Hiring Policy | Stack
+------------ | -- | ------- | ------- |---------------| -------
 
-{{- range .CompaniesByCategoryType.cloud_software}}
-[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.GetHiringPoliciesString}} | {{.GetTagsString}}
+{{- range .Companies.cloud_software}}
+[{{.Name}}]({{.URL}}) | {{.Category}} | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.GetHiringPoliciesString}} | {{.GetTagsString}}
 {{- end}}
 
 #### Marketing and Writing
 
-Name | Career Page | Company Type | Hiring Policy | Stack
------------- | ------- | ------- |---------------| -------
+Name | Category | Career Page | Company Type | Hiring Policy | Stack
+------------ | -- | ------- | ------- |---------------| -------
 
-{{- range .CompaniesByCategoryType.marketing_writing}}
-[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.GetHiringPoliciesString}} | {{.GetTagsString}}
+{{- range .Companies.marketing_writing}}
+[{{.Name}}]({{.URL}}) | {{.Category}} | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.GetHiringPoliciesString}} | {{.GetTagsString}}
 {{- end}}
 
 #### HR
 
-Name | Career Page | Company Type | Hiring Policy | Stack
------------- | ------- | ------- |---------------| -------
+Name | Category | Career Page | Company Type | Hiring Policy | Stack
+------------ | -- | ------- | ------- |---------------| -------
 
-{{- range .CompaniesByCategoryType.hr}}
-[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.GetHiringPoliciesString}} | {{.GetTagsString}}
+{{- range .Companies.hr}}
+[{{.Name}}]({{.URL}}) | {{.Category}} | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.GetHiringPoliciesString}} | {{.GetTagsString}}
 {{- end}}
 
 #### Design and UX
 
-Name | Career Page | Company Type | Hiring Policy | Stack
------------- | ------- | ------- |---------------| -------
+Name | Category | Career Page | Company Type | Hiring Policy | Stack
+------------ | -- | ------- | ------- |---------------| -------
 
-{{- range .CompaniesByCategoryType.design_ux}}
-[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.GetHiringPoliciesString}} | {{.GetTagsString}}
+{{- range .Companies.design_ux}}
+[{{.Name}}]({{.URL}}) | {{.Category}} | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.GetHiringPoliciesString}} | {{.GetTagsString}}
 {{- end}}
 
 #### Cybersecurity
 
-Name | Career Page | Company Type | Hiring Policy | Stack
------------- | ------- | ------- |---------------| -------
+Name | Category | Career Page | Company Type | Hiring Policy | Stack
+------------ | -- | ------- | ------- |---------------| -------
 
-{{- range .CompaniesByCategoryType.cybersecurity}}
-[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.GetHiringPoliciesString}} | {{.GetTagsString}}
+{{- range .Companies.cybersecurity}}
+[{{.Name}}]({{.URL}}) | {{.Category}} | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.GetHiringPoliciesString}} | {{.GetTagsString}}
 {{- end}}
 
 {{- end}}

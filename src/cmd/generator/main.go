@@ -14,12 +14,29 @@ const dataPath = homePath + "data/"
 
 type TemplateParameters struct {
 	Len       int
-	Companies map[string][]cmp.Company
+	Companies map[string]CompaniesByRemoteType
+}
+
+type CompaniesByRemoteType struct {
+	RemoteTypeName          string
+	CompaniesByCategoryType map[string][]cmp.Company
 }
 
 func main() {
 	companies := TemplateParameters{}
-	companies.Companies = make(map[string][]cmp.Company)
+	companies.Companies = make(map[string]CompaniesByRemoteType)
+
+	for _, v := range []string{"Full", "Optional", "Hybrid"} {
+		companies.Companies[v] = CompaniesByRemoteType{
+			RemoteTypeName: v,
+		}
+	}
+
+	for k, v := range companies.Companies {
+		v.CompaniesByCategoryType = make(map[string][]cmp.Company)
+		companies.Companies[k] = v
+	}
+
 	companiesFile, err := os.ReadDir(dataPath)
 	if err != nil {
 		log.Fatalln(err)
@@ -48,10 +65,27 @@ func main() {
 		company.Fix()
 
 		allCompanies = append(allCompanies, company)
+
 		for _, category := range company.Categories {
-			companies.Companies[category] = append(companies.Companies[category], company)
+			if company.RemotePolicy == "-" {
+				continue
+			}
+			companies.Companies[company.RemotePolicy].CompaniesByCategoryType[category] = append(companies.Companies[company.RemotePolicy].CompaniesByCategoryType[category], company)
 		}
 	}
+
+	//Create a json file for outside use of the list
+	jsonByte, err := json.MarshalIndent(allCompanies, "", "  ")
+	if err != nil {
+		log.Fatalln(err)
+	}
+
+	err = os.WriteFile(homePath+"outputs.json", jsonByte, 0644)
+	if err != nil {
+		log.Fatalln(err)
+	}
+
+	//Update README file
 
 	templ, err := template.ParseFiles("./template.md")
 	if err != nil {
@@ -69,16 +103,6 @@ func main() {
 	}
 
 	err = f.Close()
-	if err != nil {
-		log.Fatalln(err)
-	}
-
-	jsonByte, err := json.MarshalIndent(allCompanies, "", "  ")
-	if err != nil {
-		log.Fatalln(err)
-	}
-
-	err = os.WriteFile(homePath+"outputs.json", jsonByte, 0644)
 	if err != nil {
 		log.Fatalln(err)
 	}
