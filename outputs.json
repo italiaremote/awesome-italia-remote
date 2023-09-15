@@ -103,25 +103,6 @@
     ]
   },
   {
-    "name": "DigitalMakers",
-    "url": "https://digitalmakers.media/",
-    "career_page_url": "https://www.linkedin.com/company/digitalmakers-media/jobs/",
-    "type": "B2B",
-    "categories": [
-      "marketing_writing"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Javascript",
-      "React.js",
-      "PHP",
-      "MySQL"
-    ]
-  },
-  {
     "name": "Lhub srl",
     "url": "https://lhubagency.com/",
     "career_page_url": "https://lhubagency.com/",
@@ -298,28 +279,6 @@
     ]
   },
   {
-    "name": "Alpenite",
-    "url": "https://www.alpenite.com",
-    "career_page_url": "https://careers.alpenite.com/",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "Salesforce",
-      "Magento",
-      "Shopify",
-      "SAP",
-      "Hootsuite",
-      "JavaScript",
-      "Java"
-    ]
-  },
-  {
     "name": "Alpian",
     "url": "https://www.alpian.com/",
     "career_page_url": "https://www.alpian.com/careers",
@@ -431,7 +390,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "Direct"
     ],
@@ -494,7 +453,7 @@
       "marketing_writing",
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "Direct"
     ]
@@ -697,28 +656,6 @@
       "Node",
       "Javascript",
       "Typescript"
-    ]
-  },
-  {
-    "name": "BOOM",
-    "url": "https://boom.co/",
-    "career_page_url": "https://boom.co/careers",
-    "type": "B2B",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "Typescript",
-      "React",
-      "NestJS",
-      "Java",
-      "Kotlin",
-      "Data Science",
-      "AWS"
     ]
   },
   {
@@ -1054,7 +991,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -1293,7 +1230,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Hybrid",
     "hiring_policies": [
       "-"
     ],
@@ -1346,7 +1283,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -1414,7 +1351,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -1569,6 +1506,25 @@
     ]
   },
   {
+    "name": "DigitalMakers",
+    "url": "https://digitalmakers.media/",
+    "career_page_url": "https://www.linkedin.com/company/digitalmakers-media/jobs/",
+    "type": "B2B",
+    "categories": [
+      "marketing_writing"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Javascript",
+      "React.js",
+      "PHP",
+      "MySQL"
+    ]
+  },
+  {
     "name": "Digital Science",
     "url": "https://www.digital-science.com",
     "career_page_url": "https://digitalscience.pinpointhq.com/#js-careers-jobs-block",
@@ -1632,7 +1588,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -1729,7 +1685,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -1751,7 +1707,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -2520,7 +2476,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -2600,7 +2556,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Full",
     "hiring_policies": [
       "-"
     ],
@@ -2640,7 +2596,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -2747,32 +2703,6 @@
     ],
     "tags": [
       "Newsletter"
-    ]
-  },
-  {
-    "name": "Gorgias",
-    "url": "https://www.gorgias.com/",
-    "career_page_url": "https://www.gorgias.com/about-us/jobs",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "GCP",
-      "Python",
-      "PostgreSQL",
-      "Typescript",
-      "Javascript",
-      "React",
-      "Terraform",
-      "Kubernetes",
-      "Socket.io",
-      "RabbitMQ",
-      "Celery"
     ]
   },
   {
@@ -2917,30 +2847,6 @@
     ]
   },
   {
-    "name": "Hinto®",
-    "url": "https://www.hinto.com/",
-    "career_page_url": "https://www.hinto.com/en/join-us",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "AWS",
-      "Terraform",
-      "PHP",
-      "Symfony",
-      "Drupal",
-      "JS",
-      "TypeScript",
-      "React",
-      "Node.js"
-    ]
-  },
-  {
     "name": "hlpy",
     "url": "https://hlpy.co",
     "career_page_url": "https://www.linkedin.com/company/hlpy/jobs/",
@@ -2994,7 +2900,7 @@
       "design_ux",
       "marketing_writing"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Full",
     "hiring_policies": [
       "-"
     ],
@@ -3524,7 +3430,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -3646,7 +3552,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -3717,7 +3623,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -3726,31 +3632,6 @@
       "Node",
       "PHP",
       "Python"
-    ]
-  },
-  {
-    "name": "Kensu",
-    "url": "https://www.kensu.io?utm_source=github\u0026utm_medium=recruitment_channel",
-    "career_page_url": "https://kensu.betterteam.com?utm_source=github\u0026utm_medium=recruitment_channel",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "Scala",
-      "React",
-      "TypeScript",
-      "Python",
-      "Redis",
-      "Terraform",
-      "Ansible",
-      "AWS",
-      "MariaDB",
-      "OrientDB"
     ]
   },
   {
@@ -4066,7 +3947,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -4137,7 +4018,7 @@
       "cloud_software",
       "design_ux"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -4356,7 +4237,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -4572,7 +4453,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Full",
     "hiring_policies": [
       "Contract"
     ],
@@ -4593,7 +4474,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "Direct"
     ],
@@ -4796,7 +4677,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -5458,7 +5339,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Full",
     "hiring_policies": [
       "-"
     ],
@@ -5479,7 +5360,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Hybrid",
     "hiring_policies": [
       "Direct"
     ],
@@ -5933,7 +5814,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "Direct"
     ],
@@ -5953,7 +5834,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Full",
     "hiring_policies": [
       "-"
     ],
@@ -6049,38 +5930,13 @@
     ]
   },
   {
-    "name": "Subito",
-    "url": "https://www.subito.it/",
-    "career_page_url": "https://www.adevinta.com/jobs?company=subito",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "-",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Go",
-      "React",
-      "Next.js",
-      "TypeScript",
-      "Android",
-      "iOS",
-      "Terraform",
-      "AWS",
-      "Kubernetes"
-    ]
-  },
-  {
     "name": "Superfluid Team",
     "url": "https://www.superfluidteam.com/",
     "career_page_url": "https://www.superfluidteam.com/careers/",
     "categories": [
       "marketing_writing"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ]
@@ -6094,7 +5950,7 @@
       "cloud_software",
       "design_ux"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Full",
     "hiring_policies": [
       "-"
     ],
@@ -6156,7 +6012,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Optional",
     "hiring_policies": [
       "-"
     ],
@@ -6184,7 +6040,7 @@
       "cloud_software",
       "design_ux"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Hybrid",
     "hiring_policies": [
       "Direct"
     ],
@@ -6371,7 +6227,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Full",
     "hiring_policies": [
       "-"
     ],
@@ -6481,7 +6337,7 @@
       "design_ux",
       "hr"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Hybrid",
     "hiring_policies": [
       "-"
     ]
@@ -7164,7 +7020,7 @@
     "categories": [
       "cloud_software"
     ],
-    "remote_policy": "-",
+    "remote_policy": "Hybrid",
     "hiring_policies": [
       "-"
     ],
