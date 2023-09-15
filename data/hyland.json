@@ -1,7 +1,7 @@
 {
-  "name": "Hyland Software, Inc.",
-  "url": "https://www.hyland.com/en",
-  "career_page_url": "https://careers-hyland.icims.com/jobs/intro",
+  "name": "Hyland",
+  "url": "https://www.hyland.com/",
+  "career_page_url": "https://www.linkedin.com/company/hyland-software/",
   "type": "Product",
   "categories": [
     "cloud_software"
@@ -11,14 +11,9 @@
     "Direct"
   ],
   "tags": [
-    "Ansible",
-    "AWS",
-    "Kubernetes",
-    "Terraform",
-    "DevOps",
     "Java",
-    "Open Source",
-    "PostgreSQL",
-    "Alfresco"
+    "Typescript",
+    "AWS",
+    ".NET"
   ]
 }
