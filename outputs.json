@@ -2440,6 +2440,42 @@
     ]
   },
   {
+    "name": "Fifth Beat",
+    "url": "https://fifthbeat.com/",
+    "career_page_url": "https://fifthbeat.com/contacts",
+    "type": "Consulting",
+    "categories": [
+      "design_ux",
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct",
+      "Contract"
+    ],
+    "tags": [
+      "Business Analyst",
+      "Content Design",
+      "AWS",
+      "Javascript/Typescript",
+      "Flutter",
+      "Node.js/React",
+      "Terraform",
+      "Docker",
+      "Continuous Delivery",
+      "Organization Design",
+      "QA",
+      "UAT",
+      "Functional Testing",
+      "User Research",
+      "Interaction Design",
+      "Brand Identity",
+      "Application Maintenance",
+      "UI Design",
+      "UX Design"
+    ]
+  },
+  {
     "name": "Fiscozen",
     "url": "https://www.fiscozen.it/",
     "career_page_url": "https://www.linkedin.com/company/fiscozen/",
