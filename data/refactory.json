@@ -2,20 +2,21 @@
   "name": "Refactory",
   "url": "https://www.refactory-project.com/",
   "career_page_url": "https://www.refactory-project.com/join-the-team/",
-  "type": "Consulting",
+  "type": "B2B",
   "categories": [
     "cloud_software"
   ],
   "remote_policy": "Full",
   "hiring_policies": [
-    "-"
+    "Direct"
   ],
   "tags": [
     "PHP",
     "Symfony",
+    "Yii",
     "JS",
-    "Node.js",
-    "Vue.js",
+    "TypeScript",
+    "Vue",
     "AWS"
   ]
 }
