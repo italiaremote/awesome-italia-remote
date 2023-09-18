@@ -1,0 +1,35 @@
+{
+  "name": "Fastcode",
+  "url": "https://www.fastcode.it/",
+  "career_page_url": "https://www.fastcode.it/lavora-con-noi/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Direct",
+    "Contract"
+  ],
+  "tags": [
+    ".NET",
+    "C#",
+    "Asp.NET",
+    "JAVA",
+    "Spring",
+    "Javascript",
+    "Typescript",
+    "Angular",
+    "SQL",
+    "NoSQL",
+    "Azure",
+    "DevOps",
+    "Docker",
+    "Android",
+    "Kotlin",
+    "iOS",
+    "Swift",
+    "Xamarin",
+    "Flutter"
+  ]
+}
