@@ -150,7 +150,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [Radical Storage](https://radicalstorage.com/) | [Career Page](https://www.linkedin.com/company/radicalstorage/jobs/) | Product | Contract | Go - AWS - React - Docker - Kubernetes - Terraform - DDD
 [Remote Control Family](https://jobs.r-control.de/) | [Career Page](https://jobs.r-control.de/game-developer-jobs/) | Product | Direct | C# - C++ - Unity - Unreal - AWS - Terraform - Kubernetes - Docker
 [Red Hat](https://www.redhat.com/it/global/italia) | [Career Page](https://careers-redhat.icims.com/jobs/search?ss=1&searchLocation=13270--Remote) | Product | Direct | AWS - Java - Python - Go - C - Linux - Kernel - OpenShift
-[Refactory](https://www.refactory-project.com/) | [Career Page](https://www.refactory-project.com/join-the-team/) | Consulting | - | PHP - Symfony - JS - Node.js - Vue.js - AWS
+[Refactory](https://www.refactory-project.com/) | [Career Page](https://www.refactory-project.com/join-the-team/) | B2B | Direct | PHP - Symfony - Yii - JS - TypeScript - Vue - AWS
 [Remotamente S.r.l.](https://www.remotamente.it) | [Career Page](https://remotamente.it/en/job/) | Consulting | Direct | NodeJS - React - AWS - Fullstack - JavaScript
 [Remote](https://remote.com/) | [Career Page](https://boards.greenhouse.io/remotecom) | Product | Direct | React.js - JavaScript - Elixir
 [Searchmetrics](https://www.searchmetrics.com/) | [Career Page](https://www.searchmetrics.com/company-and-careers/) | B2B | Contract | 
