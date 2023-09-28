@@ -66,7 +66,7 @@
   {
     "name": "5w155",
     "url": "https://5w155.ch/",
-    "career_page_url": "https://5w155.ch/careers.html",
+    "career_page_url": "https://5w155.ch/careers",
     "type": "Consulting",
     "categories": [
       "cloud_software"
@@ -1125,7 +1125,7 @@
   {
     "name": "CodicePlastico",
     "url": "https://codiceplastico.com/",
-    "career_page_url": "https://codiceplastico.com/jobs/",
+    "career_page_url": "https://codiceplastico.com/",
     "type": "Consulting",
     "categories": [
       "cloud_software",
@@ -2358,7 +2358,7 @@
   {
     "name": "FACEIT",
     "url": "https://www.faceit.com/en",
-    "career_page_url": "https://corporate.faceit.com/available-jobs/",
+    "career_page_url": "https://corporate.faceit.com/working-at-faceit/",
     "type": "Product",
     "categories": [
       "cloud_software"
@@ -2734,7 +2734,7 @@
   {
     "name": "Getir",
     "url": "https://getir.com/it/",
-    "career_page_url": "https://apply.workable.com/getir/",
+    "career_page_url": "https://career.getir.com/",
     "type": "Product",
     "categories": [
       "cloud_software"
@@ -3360,7 +3360,7 @@
   {
     "name": "Innoteam",
     "url": "https://www.innoteam.it/",
-    "career_page_url": "https://labs.innoteam.it/carriere/",
+    "career_page_url": "https://www.axelerant.it/carriere/",
     "type": "Consulting",
     "categories": [
       "cloud_software"
@@ -4315,7 +4315,7 @@
   {
     "name": "Microsoft",
     "url": "https://www.microsoft.com/it-it/",
-    "career_page_url": "https://careers.microsoft.com/professionals/us/en/search-results?rk=l-c-engineering",
+    "career_page_url": "https://careers.microsoft.com/",
     "type": "Product",
     "categories": [
       "cloud_software"
@@ -5027,7 +5027,7 @@
   {
     "name": "Pinv",
     "url": "https://www.pinv.it",
-    "career_page_url": "https://pinv.it/contatti/",
+    "career_page_url": "https://pinv.it/lavora-con-noi/",
     "type": "Product",
     "categories": [
       "cloud_software"
