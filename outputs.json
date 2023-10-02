@@ -2732,6 +2732,41 @@
     ]
   },
   {
+    "name": "GeoDataLab",
+    "url": "https://www.geodatalab.it/",
+    "career_page_url": "https://www.linkedin.com/company/geodatalab-srls/jobs/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "GIS",
+      "Java",
+      "Angular",
+      "Spring",
+      "Hibernate",
+      "Geonode",
+      "GeoServer",
+      "MapStore",
+      "Python",
+      "Django",
+      "Javascript",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "PostgreSQL",
+      "Oracle",
+      "MySQL",
+      "React",
+      "Ionic",
+      "Node"
+    ]
+  },
+  {
     "name": "Getir",
     "url": "https://getir.com/it/",
     "career_page_url": "https://career.getir.com/",
