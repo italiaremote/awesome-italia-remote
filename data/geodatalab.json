@@ -4,9 +4,10 @@
     "url": "https://www.geodatalab.it/",
     "remote_policy": "Full",
     "hiring_policies": ["Direct"],
-    "type": "GIS Application",
-    "categories": ["gis","software","consulting"],
+    "type": "consulting",
+    "categories": ["cloud_software"],
     "tags": [
+        "GIS",
         "Java",
         "Angular",
         "Spring",
