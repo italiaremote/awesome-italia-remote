@@ -1,0 +1,31 @@
+{
+    "name": "GeoDataLab",
+    "career_page_url": "https://www.linkedin.com/company/geodatalab-srls/jobs/",
+    "url": "https://www.geodatalab.it/",
+    "remote_policy": "Full",
+    "hiring_policies": ["Direct"],
+    "type": "Consulting",
+    "categories": ["cloud_software"],
+    "tags": [
+        "GIS",
+        "Java",
+        "Angular",
+        "Spring",
+        "Hibernate",
+        "Geonode",
+        "GeoServer",
+        "MapStore",
+        "Python",
+        "Django",
+        "Javascript",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "Oracle",
+        "MySQL",
+        "React",
+        "Ionic",
+        "Node"
+    ]
+}
