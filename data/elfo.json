@@ -1,0 +1,29 @@
+{
+    "name": "Elfo",
+    "career_page_url": "https://www.elfo.net/en/work-with-us/",
+    "url": "https://www.elfo.net/en/custom-software-development/",
+    "remote_policy": "Full",
+    "hiring_policies": [
+        "Direct",
+        "Contract"
+    ],
+    "type": "B2B",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        ".NET",
+        "C#",
+        "ASP.NET Core",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "SQL Server",
+        "Vue",
+        "Azure",
+        "DDD",
+        "CQRS",
+        "DevOps"
+    ]
+}
