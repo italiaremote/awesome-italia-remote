@@ -1978,6 +1978,35 @@
     ]
   },
   {
+    "name": "Elfo",
+    "url": "https://www.elfo.net/en/custom-software-development/",
+    "career_page_url": "https://www.elfo.net/en/work-with-us/",
+    "type": "B2B",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct",
+      "Contract"
+    ],
+    "tags": [
+      ".NET",
+      "C#",
+      "ASP.NET Core",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "SQL Server",
+      "Vue",
+      "Azure",
+      "DDD",
+      "CQRS",
+      "DevOps"
+    ]
+  },
+  {
     "name": "Empatica",
     "url": "https://www.empatica.com",
     "career_page_url": "https://apply.workable.com/empatica/",
