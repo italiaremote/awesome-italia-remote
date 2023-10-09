@@ -1,0 +1,29 @@
+{
+  "name": "Intesys",
+  "url": "https://www.intesys.it",
+  "career_page_url": "https://www.intesys.it/lavora-con-noi/posizioni-aperte-y-career/",
+  "type": "B2B",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Hybrid",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Java",
+    "Spring Boot",
+    "MongoDB",
+    "Kotlin",
+    "Android",
+    "iOS",
+    "Javascript/Typescript",
+    "Node.js/React",
+    "RabbitMQ",
+    "Kafka",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform"
+  ]
+}
