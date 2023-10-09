@@ -6898,6 +6898,34 @@
     ]
   },
   {
+    "name": "WEGG - The Impact Factory",
+    "url": "https://wegg.it/",
+    "career_page_url": "https://wegg.it/lavora-con-noi/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Contract"
+    ],
+    "tags": [
+      "Angular",
+      "Azure",
+      "Consulting",
+      "Databases",
+      "DevOps",
+      "Java",
+      "Javascript",
+      "Linux",
+      "PHP",
+      "Powershell",
+      "Spring Boot",
+      "SQL",
+      "Windows"
+    ]
+  },
+  {
     "name": "Weiji",
     "url": "https://weiji.it",
     "career_page_url": "https://weiji.it/contatti/",
