@@ -1,0 +1,28 @@
+{
+	"name": "WEGG - The Impact Factory",
+	"career_page_url": "https://wegg.it/lavora-con-noi/",
+	"url": "https://wegg.it/",
+	"remote_policy": "Optional",
+	"hiring_policies": [
+		"Contract"
+	],
+	"type": "Consulting",
+	"categories": [
+		"cloud_software"
+	],
+	"tags": [
+		"Angular",
+		"Azure",
+		"Consulting",
+		"Databases",
+		"DevOps",
+		"Java",
+		"Javascript",
+		"Linux",
+		"PHP",
+		"Powershell",
+		"Spring Boot",
+		"SQL",
+		"Windows"
+	]
+}
