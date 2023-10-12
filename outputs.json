@@ -103,6 +103,29 @@
     ]
   },
   {
+    "name": "Extendi",
+    "url": "https://www.extendi.it",
+    "career_page_url": "https://www.extendi.it/careers",
+    "type": "B2B",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Contract"
+    ],
+    "tags": [
+      "Ruby on rails",
+      "React Native",
+      "Node.js",
+      "Python",
+      "Javascript/Typescript",
+      "Kubernetes",
+      "React",
+      "AWS"
+    ]
+  },
+  {
     "name": "Lhub srl",
     "url": "https://lhubagency.com/",
     "career_page_url": "https://lhubagency.com/",
