@@ -4048,6 +4048,31 @@
     ]
   },
   {
+    "name": "LightCode",
+    "url": "https://lightcode.net/",
+    "career_page_url": "https://lightcode.net/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct",
+      "Contract"
+    ],
+    "tags": [
+      ".NET",
+      "Blazor",
+      "Angular",
+      "TDD/BDD",
+      "Clean Architecture",
+      "Azure",
+      "OpenAI",
+      "Cloud Native",
+      "SQLServer"
+    ]
+  },
+  {
     "name": "Liqi",
     "url": "https://liqi.it/",
     "career_page_url": "https://www.linkedin.com/company/liqi-ita/jobs/",
