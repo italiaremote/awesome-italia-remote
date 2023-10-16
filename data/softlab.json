@@ -1,0 +1,37 @@
+{
+    "name": "Softlab S.p.A.",
+    "career_page_url": "https://www.linkedin.com/company/softlab-spa/jobs/",
+    "url": "https://soft.it/softlab-spa/",
+    "remote_policy": "Optional",
+    "hiring_policies": [
+        "Direct",
+        "Contract"
+    ],
+    "type": "Consulting",
+    "categories": [
+        "cloud_software",
+        "marketing_writing",
+        "cybersecurity"
+    ],
+    "tags": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Vue",
+        "Angular",
+        "NodeJS",
+        "Java",
+        "PHP",
+        "Spring Boot",
+        "Python",
+        "GCP",
+        "Kubernetes",
+        "Terraform",
+        "DevOps",
+        "Cloud Native",
+        "GraphQL",
+        "AWS",
+        "Data Science",
+        "Machine Learning"
+    ]
+}
