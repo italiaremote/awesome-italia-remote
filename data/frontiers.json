@@ -1,0 +1,26 @@
+{
+    "name": "Frontiers Media",
+    "url": "https://www.frontiersin.org/",
+    "career_page_url": "https://careers.frontiersin.org/",
+    "type": "B2B",
+    "categories": [
+      "marketing_writing",
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Azure",
+      "GCP",
+      "Python",
+      "C#",
+      "BigQuery",
+      "SQL",
+      "Kafka",
+      "Spark",
+      "Docker",
+      "K8s"
+    ]
+  }
