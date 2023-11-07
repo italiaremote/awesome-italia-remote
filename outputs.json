@@ -2612,6 +2612,7 @@
     ],
     "tags": [
       "JavaScript",
+      "TypeScript",
       "PostgresQL",
       "Python",
       "Vue"
@@ -2807,6 +2808,37 @@
     "tags": [
       "Typescript",
       "Kubernetes"
+    ]
+  },
+  {
+    "name": "Genius Loci",
+    "url": "https://geniusloci.tech/",
+    "career_page_url": "https://www.linkedin.com/jobs/view/3750658278",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "AWS",
+      "Data Science",
+      "Docker",
+      "Laravel",
+      "Elasticsearch",
+      "Redis",
+      "JavaScript",
+      "Machine Learning",
+      "Computer Vision",
+      "GIS",
+      "TensorFlow",
+      "Geo-intelligence",
+      "Big data",
+      "PostgreSQL",
+      "Python",
+      "TypeScript"
     ]
   },
   {
