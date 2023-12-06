@@ -177,6 +177,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [Superlayer](https://superlayer.co/) | [Career Page](https://superlayer-1634135852323.freshteam.com/jobs) | Product | - | Go - Terraform - AWS - PostgreSQL - HTMX
 [SUSE](https://www.suse.com/) | [Career Page](https://jobs.suse.com) | Product | Direct | Linux - Go - Rust - Java
 [Switcho](https://www.switcho.it/) | [Career Page](https://switcho.it/jobs) | Product | Direct | PostgreSQL - Kubernetes - GCP - PHP - Typescript - React Native - Vue - React
+[THE I](https://www.linkedin.com/company/thei/) | [Career Page](https://www.linkedin.com/company/thei/jobs) | Consulting | Direct | AWS - Azure - Cloud Native Technologies - Terraform - DevOps -- Kubernetes - CyberSecurity - Node.js - Python - Go
 [TLM Partners](https://tlmpartners.com) | [Career Page](https://tlmpartners.com/being-a-monster/) | Product | - | UnrealEngine
 [Treatwell](https://treatwell.com/) | [Career Page](https://treatwell.com/openings/) | Product | Direct | TypeScript - Java - Ruby - React - TDD - DDD
 [UNGUESS](https://unguess.io/) | [Career Page](https://www.linkedin.com/company/unguess/jobs) | Product | Direct | AWS - Node.js - TypeScript - React - DevOps - Databases - PHP
@@ -275,7 +276,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [4Securitas](https://www.linkedin.com/company/4securitas/) | [Career Page](https://www.linkedin.com/company/4securitas/jobs) | Consulting | Direct | ACSIA
 [Codezen](https://codezen.tech) | [Career Page](https://www.linkedin.com/company/codezensrls/jobs/) | Consulting | Direct | Rust - Go - Solidity - Blockchain - Cryptography - Distributed Systems
 [Kiratech S.p.A.](https://www.kiratech.it/en) | [Career Page](https://www.kiratech.it/en/work-with-us) | B2B | Direct | Cloud Native - Consultancy - Kubernetes - DevOps - Software Development - Cloud Native Technologies - Platform Engineering
-[THE I](https://www.linkedin.com/company/thei/) | [Career Page](https://www.linkedin.com/company/thei/jobs) | Consulting | Direct | -
+[THE I](https://www.linkedin.com/company/thei/) | [Career Page](https://www.linkedin.com/company/thei/jobs) | Consulting | Direct | AWS - Azure - Cloud Native Technologies - Terraform - DevOps -- Kubernetes - CyberSecurity - Node.js - Python - Go
 [Wuerth Phoenix](https://wuerth-phoenix.com/) | [Career Page](https://wuerth-phoenix.com/it/carriera/carriera-wuerth-phoenix/posizioni-aperte) | Product | Direct | Kubernetes - Red Hat OpenShift - Ansible - DevOps - DevSecOps - SRE - Rust - VueJS - Application Security - Red Teaming - Pentest - SOC - OSINT - Azure - AWS - Atlassian
 ### Hybrid
 
