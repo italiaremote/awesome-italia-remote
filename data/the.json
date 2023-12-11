@@ -4,13 +4,23 @@
     "career_page_url": "https://www.linkedin.com/company/thei/jobs",
     "type": "Consulting",
     "categories": [
-        "cybersecurity"
+        "cybersecurity",
+        "cloud_software"
     ],
     "remote_policy": "Full",
     "hiring_policies": [
         "Direct"
     ],
     "tags": [
-        "-"
+        "AWS",
+        "Azure",
+        "Cloud Native Technologies",
+        "Terraform",
+        "DevOps",
+        "Kubernetes",
+        "CyberSecurity",
+        "Node.js",
+        "Python",
+        "Go"
     ]
 }
