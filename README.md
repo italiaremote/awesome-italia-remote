@@ -189,7 +189,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [Wave](https://www.wave.com) | [Career Page](https://www.wave.com/en/careers/) | Product | - | 
 [Wavelop](https://www.linkedin.com/company/wavelop/) | [Career Page](https://www.linkedin.com/company/wavelop/jobs) | Consulting | Direct | Cloud - CI/CD - AWS
 [Wikimedia Foundation](https://wikimediafoundation.org/) | [Career Page](https://wikimediafoundation.org/about/jobs/) | Product | - | PHP - Java - Python - Go
-[Wuerth Phoenix](https://wuerth-phoenix.com/) | [Career Page](https://wuerth-phoenix.com/it/carriera/carriera-wuerth-phoenix/posizioni-aperte) | Product | Direct | Kubernetes - Red Hat OpenShift - Ansible - DevOps - DevSecOps - SRE - Rust - VueJS - Application Security - Red Teaming - Pentest - SOC - OSINT - Azure - AWS - Atlassian
+[Wuerth Phoenix](https://wuerth-phoenix.com/) | [Career Page](https://www.wuerth-phoenix.com/posizioni-aperte) | Product | Direct | Kubernetes - Red Hat OpenShift - Ansible - DevOps - DevSecOps - SRE - Rust - VueJS - Application Security - Red Teaming - Pentest - SOC - OSINT - Azure - AWS - Atlassian
 [Zapier](https://www.zapier.com/) | [Career Page](https://zapier.com/jobs/) | Product | - | React - Redux - Python - Django
 [Zendesk](https://www.zendesk.com) | [Career Page](https://jobs.zendesk.com/us/en) | Product | Direct | Android - AWS - Go - iOS - Java - JavaScript - Kafka - Kubernetes - Python - React - Scala - Terraform - Typescript
 [Zaxtras](https://www.zextras.com) | [Career Page](https://www.linkedin.com/company/zextras/jobs/) | Product | Direct | Java - React - Swift - Kotlin - PostgreSQL - Consul - Kafka - RabbitMQ - WebRTC - GraphQL
@@ -277,7 +277,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [Codezen](https://codezen.tech) | [Career Page](https://www.linkedin.com/company/codezensrls/jobs/) | Consulting | Direct | Rust - Go - Solidity - Blockchain - Cryptography - Distributed Systems
 [Kiratech S.p.A.](https://www.kiratech.it/en) | [Career Page](https://www.kiratech.it/en/work-with-us) | B2B | Direct | Cloud Native - Consultancy - Kubernetes - DevOps - Software Development - Cloud Native Technologies - Platform Engineering
 [THE I](https://www.linkedin.com/company/thei/) | [Career Page](https://www.linkedin.com/company/thei/jobs) | Consulting | Direct | AWS - Azure - Cloud Native Technologies - Terraform - DevOps - Kubernetes - CyberSecurity - Node.js - Python - Go
-[Wuerth Phoenix](https://wuerth-phoenix.com/) | [Career Page](https://wuerth-phoenix.com/it/carriera/carriera-wuerth-phoenix/posizioni-aperte) | Product | Direct | Kubernetes - Red Hat OpenShift - Ansible - DevOps - DevSecOps - SRE - Rust - VueJS - Application Security - Red Teaming - Pentest - SOC - OSINT - Azure - AWS - Atlassian
+[Wuerth Phoenix](https://wuerth-phoenix.com/) | [Career Page](https://www.wuerth-phoenix.com/posizioni-aperte) | Product | Direct | Kubernetes - Red Hat OpenShift - Ansible - DevOps - DevSecOps - SRE - Rust - VueJS - Application Security - Red Teaming - Pentest - SOC - OSINT - Azure - AWS - Atlassian
 ### Hybrid
 
 #### Software and Cloud
