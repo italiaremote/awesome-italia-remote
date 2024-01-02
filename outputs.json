@@ -1228,7 +1228,7 @@
   {
     "name": "Conio S.r.l.",
     "url": "https://www.conio.com",
-    "career_page_url": "https://www.linkedin.com/company/conio/jobs/",
+    "career_page_url": "https://www.conio.com/jobs/posizioni-aperte",
     "type": "Product",
     "categories": [
       "cloud_software"
@@ -1242,7 +1242,9 @@
       "Python",
       "AWS",
       "iOS",
-      "Android"
+      "Android",
+      "React",
+      "TypeScript"
     ]
   },
   {

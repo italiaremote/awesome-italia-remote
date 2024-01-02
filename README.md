@@ -286,7 +286,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 ------------ | ------- | ------- |---------------| -------
 [Beliven](https://beliven.com) | [Career Page](https://careers.beliven.com) | B2B | Direct | PHP - Node - Vue.js - React - Angular - React Native - Docker - Kubernetes - Terraform
 [Codemotion](https://www.codemotion.com) | [Career Page](https://www.codemotion.com/work-with-us) | Product | Direct | Laravel - Vue.js - Azure - MongoDB
-[Conio S.r.l.](https://www.conio.com) | [Career Page](https://www.linkedin.com/company/conio/jobs/) | Product | Direct | Blockchain - Python - AWS - iOS - Android
+[Conio S.r.l.](https://www.conio.com) | [Career Page](https://www.conio.com/jobs/posizioni-aperte) | Product | Direct | Blockchain - Python - AWS - iOS - Android - React - TypeScript
 [Cortilia](https://about.cortilia.it/) | [Career Page](https://about.cortilia.it/lavora-con-noi) | Product | - | AWS - Java
 [DevInterface](https://www.devinterface.com/) | [Career Page](https://www.devinterface.com/en/work-with-us) | Consulting | Direct | Ruby On Rails - Python - Django - Node.js - React - Go
 [Doctolib](https://www.doctolib.it/) | [Career Page](https://careers.doctolib.it/) | Consulting | Contract | Rails - React - PostgreSQL - ElasticSearch
