@@ -1,0 +1,25 @@
+{
+  "name": "Unitiva",
+  "url": "https://unitiva.it/",
+  "career_page_url": "https://unitiva.it/careers",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "AI",
+    "Angular",
+    "Blockchain",
+    "Flutter",
+    "Odoo",
+    "Plone",
+    "Python",
+    "React",
+    "TypeScript",
+    "UI"
+  ]
+}
