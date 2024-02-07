@@ -4644,6 +4644,41 @@
     ]
   },
   {
+    "name": "Mostrum Srl",
+    "url": "https://mostrum.com",
+    "career_page_url": "https://mostrum.com/candidature",
+    "type": "B2B",
+    "categories": [
+      "cloud_software",
+      "design_ux"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Javascript",
+      "TypeScript",
+      "React",
+      "React Native",
+      "VueJs",
+      "NodeJs",
+      "Express",
+      "Electron",
+      "PHP",
+      "Laravel",
+      "AWS",
+      "DigitalOcean",
+      "Firebase",
+      "Docker",
+      "IoT",
+      "AR (Augmented Reality)",
+      "VR (Virtual Reality)",
+      "WebGl",
+      "ThreeJs"
+    ]
+  },
+  {
     "name": "Nama Studio",
     "url": "https://namastudio.it/",
     "career_page_url": "https://namastudio.it/pages/careers",
