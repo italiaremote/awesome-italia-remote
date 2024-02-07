@@ -1,0 +1,35 @@
+{
+    "name": "Mostrum Srl",
+    "career_page_url": "https://mostrum.com/candidature",
+    "url": "https://mostrum.com",
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "B2B",
+    "categories": [
+        "cloud_software",
+        "design_ux"
+    ],
+    "tags": [
+        "Javascript",
+        "TypeScript",
+        "React",
+        "React Native",
+        "VueJs",
+        "NodeJs",
+        "Express",
+        "Electron",
+        "PHP",
+        "Laravel",
+        "AWS",
+        "DigitalOcean",
+        "Firebase",
+        "Docker",
+        "IoT",
+        "AR (Augmented Reality)",
+        "VR (Virtual Reality)",
+        "WebGl",
+        "ThreeJs"
+    ]
+}
