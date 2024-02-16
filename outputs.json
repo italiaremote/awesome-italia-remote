@@ -4609,6 +4609,26 @@
     ]
   },
   {
+    "name": "Mollie",
+    "url": "https://www.mollie.com/",
+    "career_page_url": "https://jobs.mollie.com/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "PHP",
+      "Java",
+      "GCP",
+      "Data Analysis",
+      "Data Science"
+    ]
+  },
+  {
     "name": "Moneyfarm",
     "url": "https://www.moneyfarm.com/",
     "career_page_url": "https://www.moneyfarm.com/it/jobs/",
