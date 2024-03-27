@@ -482,6 +482,27 @@
     ]
   },
   {
+    "name": "Billding",
+    "url": "https://www.billding.it/",
+    "career_page_url": "https://billding.it/join-us",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "PostgreSQL",
+      "Golang",
+      "AWS",
+      "Typescript",
+      "React Native",
+      "React"
+    ]
+  },
+  {
     "name": "BIP",
     "url": "https://www.bip-group.com/",
     "career_page_url": "https://www.bip-group.com/careers/",
