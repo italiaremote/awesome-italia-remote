@@ -1,0 +1,10 @@
+{
+  "name": "Cleafy",
+  "url": "https://www.cleafy.com/",
+  "career_page_url": "https://www.cleafy.com/careers",
+  "type": "B2B",
+  "categories": ["cybersecurity"],
+  "remote_policy": "Full",
+  "hiring_policies": ["Direct"],
+  "tags": ["React", "Java", "Kotlin", "Go"]
+}
