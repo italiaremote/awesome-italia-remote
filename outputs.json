@@ -4650,6 +4650,32 @@
     ]
   },
   {
+    "name": "Mobile Solutions Srl",
+    "url": "https://enerp.it",
+    "career_page_url": "https://www.linkedin.com/company/mobile-solutions-srl/jobs/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "PHP",
+      "SQL",
+      "Laravel",
+      "git",
+      "Docker",
+      "Svelte",
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "AI",
+      "Python"
+    ]
+  },
+  {
     "name": "Mollie",
     "url": "https://www.mollie.com/",
     "career_page_url": "https://jobs.mollie.com/",
