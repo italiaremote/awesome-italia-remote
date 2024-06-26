@@ -5434,29 +5434,6 @@
     ]
   },
   {
-    "name": "Portchain",
-    "url": "https://www.portchain.com/",
-    "career_page_url": "https://www.portchain.com/international-team/",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Contract"
-    ],
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "Node.js",
-      "React",
-      "Python",
-      "PostgreSQL",
-      "AWS",
-      "Heroku"
-    ]
-  },
-  {
     "name": "Prima",
     "url": "https://www.prima.it/",
     "career_page_url": "https://it.prima.jobs/?lang=it-it",
