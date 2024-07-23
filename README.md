@@ -61,7 +61,6 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [Calton](https://www.linkedin.com/company/calton-io/) | [Career Page](https://www.linkedin.com/company/calton-io/jobs) | Product | Direct | AI - Python - AWS
 [Canonical](https://canonical.com/) | [Career Page](https://canonical.com/careers) | Product | Contract | Python - Go - OpenStack - Kubernetes
 [Capbase](https://capbase.com/) | [Career Page](https://www.linkedin.com/company/capbase/jobs/) | B2B | Intermediary | 
-[Casavo](https://casavo.com) | [Career Page](https://careers.casavo.com) | Product | Direct | Elixir - CQRS Event-driven architectures - Python - Next.js - React - Android - iOS - Terraform - AWS - Kubernetes - Kotlin
 [Claranet Italia](https://www.claranet.it/) | [Career Page](https://claranetitalia.recruitee.com/l/it) | Consulting | Contract - Direct | AWS - Serverless - Terraform - PHP - NodeJs - Javascript - TypeScript - React - Angular - Java - Kotlin - Android - iOS - Python - .NET - Mobile Apps - UI/UX Design
 [coders51](https://www.coders51.com) | [Career Page](https://coders51.typeform.com/to/BpB9pe) | Consulting | Direct - Contract | Elixir/Erlang - Javascript/Typescript - Node.js/React - RabbitMQ - Kafka - GCP - AWS - Docker - Kubernetes - Terraform - Test Driven Development - Microservice - Event Driven Architecture - EventStorming - Continuous Delivery - Functional Programming - Domain-Driven Design
 [CodicePlastico](https://codiceplastico.com/) | [Career Page](https://codiceplastico.com/) | Consulting | Direct | .NET - Node.js - Elixir - Angular - React - Azure - Kubernetes - Figma - RabbitMQ - MongoDb - PostgreSQL
@@ -287,6 +286,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 Name | Career Page | Company Type | Hiring Policy | Stack
 ------------ | ------- | ------- |---------------| -------
 [Beliven](https://beliven.com) | [Career Page](https://careers.beliven.com) | B2B | Direct | PHP - Node - Vue.js - React - Angular - React Native - Docker - Kubernetes - Terraform
+[Casavo](https://casavo.com) | [Career Page](https://careers.casavo.com) | Product | Direct | Elixir - CQRS Event-driven architectures - Python - Next.js - React - Android - iOS - Terraform - AWS - Kubernetes - Kotlin
 [Codemotion](https://www.codemotion.com) | [Career Page](https://www.codemotion.com/work-with-us) | Product | Direct | Laravel - Vue.js - Azure - MongoDB
 [Conio S.r.l.](https://www.conio.com) | [Career Page](https://www.conio.com/jobs/posizioni-aperte) | Product | Direct | Blockchain - Python - AWS - iOS - Android - React - TypeScript
 [Cortilia](https://about.cortilia.it/) | [Career Page](https://about.cortilia.it/lavora-con-noi) | Product | - | AWS - Java
