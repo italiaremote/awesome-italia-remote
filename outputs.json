@@ -581,6 +581,31 @@
     ]
   },
   {
+    "name": "BizAway",
+    "url": "https://bizaway.com",
+    "career_page_url": "https://bizaway.com/careers/",
+    "type": "B2B",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Javascript/TypeScript",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Docker",
+      "AWS",
+      "Elasticsearch",
+      "Redis",
+      "Angular",
+      "Figma"
+    ]
+  },
+  {
     "name": "Black Pep",
     "url": "https://www.linkedin.com/company/black-pep/",
     "career_page_url": "https://www.linkedin.com/company/black-pep/jobs",
