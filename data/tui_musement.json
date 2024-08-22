@@ -8,7 +8,7 @@
   ],
   "remote_policy": "Optional",
   "hiring_policies": [
-    "Direct"
+    "Direct", "Contract"
   ],
   "tags": [
     "AWS",
