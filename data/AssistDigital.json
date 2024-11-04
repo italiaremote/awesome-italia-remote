@@ -1,0 +1,24 @@
+{
+  "name": "AssistDigital",
+  "url": "https://www.20tab.com/",
+  "career_page_url": "https://assistdigital.com/it/carriera",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Hybrid",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "AWS",
+    "DevOps",
+    "Docker",
+    "JAVA",
+    "Javascript",
+    "Kubernetes",
+    "PostgreSQL",
+    "Kafka",
+    "TypeScript"
+  ]
+}
