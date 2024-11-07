@@ -83,6 +83,30 @@
     ]
   },
   {
+    "name": "AssistDigital",
+    "url": "https://www.20tab.com/",
+    "career_page_url": "https://assistdigital.com/it/carriera",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "AWS",
+      "DevOps",
+      "Docker",
+      "JAVA",
+      "Javascript",
+      "Kubernetes",
+      "PostgreSQL",
+      "Kafka",
+      "TypeScript"
+    ]
+  },
+  {
     "name": "Bhlack Srl",
     "url": "https://www.blhack.it/",
     "career_page_url": "https://www.blhack.it/",
@@ -2793,6 +2817,28 @@
     "tags": [
       "Digital marketing",
       "UX"
+    ]
+  },
+  {
+    "name": "Formance",
+    "url": "https://www.formance.com/",
+    "career_page_url": "https://www.ycombinator.com/companies/formance/jobs",
+    "type": "B2B",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Intermediary"
+    ],
+    "tags": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Go",
+      "PostgreSQL",
+      "React",
+      "TypeScript"
     ]
   },
   {
@@ -6820,7 +6866,7 @@
   },
   {
     "name": "TUI Musement",
-    "url": "https://www.musement.com/",
+    "url": "https://www.tuimusement.com/",
     "career_page_url": "https://careers.tuigroup.com/jobs/",
     "type": "Product",
     "categories": [
@@ -6828,7 +6874,8 @@
     ],
     "remote_policy": "Optional",
     "hiring_policies": [
-      "Direct"
+      "Direct",
+      "Contract"
     ],
     "tags": [
       "AWS",
