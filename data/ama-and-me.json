@@ -1,0 +1,21 @@
+{
+  "name": "Ama&Me",
+  "url": "https://amaandme.co.uk",
+  "career_page_url": "https://amaandme.co.uk/mission",
+  "type": "B2B",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Intermediary"
+  ],
+  "tags": [
+    "Python",
+    "Docker",
+    "Terraform",
+    "FastAPI",
+    "PostgreSQL",
+    "React Native"
+  ]
+}
