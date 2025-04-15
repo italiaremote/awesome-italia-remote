@@ -6574,6 +6574,27 @@
     ]
   },
   {
+    "name": "TeamSystem",
+    "url": "https://www.teamsystem.com",
+    "career_page_url": "https://teamsystem.wd103.myworkdayjobs.com/it-IT/TeamSystem",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "React",
+      "Java",
+      "Python",
+      "C#",
+      "TypeScript",
+      "NodeJS"
+    ]
+  },
+  {
     "name": "Telepass",
     "url": "http://telepass.com",
     "career_page_url": "https://www.telepass.com/it/gruppo/lavora-con-noi",
