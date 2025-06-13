@@ -1,0 +1,24 @@
+{
+  "name": "Supabase Inc.",
+  "url": "https://supabase.com",
+  "career_page_url": "https://supabase.com/careers",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Cloud Native Technologies",
+    "Kong",
+    "Next.js",
+    "Open Source",
+    "Platform Engineering",
+    "PostgreSQL",
+    "Software Development",
+    "SRE",
+    "TailwindCSS"
+  ]
+}
