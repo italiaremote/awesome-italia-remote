@@ -1,0 +1,25 @@
+{
+  "name": "Platform.sh",
+  "url": "https://platform.sh",
+  "career_page_url": "https://platform.sh/company/careers/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Cloud Native Technologies",
+    "Debian",
+    "Docker",
+    "GitLab",
+    "Go",
+    "Linux",
+    "Platform Engineering",
+    "PostgreSQL",
+    "Python",
+    "Software Development"
+  ]
+}
