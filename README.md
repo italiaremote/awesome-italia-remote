@@ -211,6 +211,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [FBC](https://www.linkedin.com/company/befbc/) | [Career Page](https://www.linkedin.com/company/befbc/jobs) | B2C | Direct | Ecommerce
 [Forestae](https://www.linkedin.com/company/forestae/) | [Career Page](https://www.linkedin.com/company/forestae/jobs) | B2B | Contract | Digital marketing - UX
 [Frontiers Media](https://www.frontiersin.org/) | [Career Page](https://careers.frontiersin.org/) | B2B | Direct | Azure - GCP - Python - C# - BigQuery - SQL - Kafka - Spark - Docker - K8s
+[Fuente Digital](https://www.fuente.digital) | [Career Page](https://www.fuente.digital/careers/) | B2B | Direct | React - TypeScript - Tailwind CSS 
 [Good Morning Italia](https://www.linkedin.com/company/good-morning-italia/) | [Career Page](https://www.linkedin.com/company/good-morning-italia/jobs) | B2C | Contract | Newsletter
 [Gummy Industries](https://www.linkedin.com/company/gummy-industries/) | [Career Page](https://www.linkedin.com/company/gummy-industries/jobs) | B2B | Direct | Digital Marketing
 [Hotjar](https://www.hotjar.com/) | [Career Page](https://careers.hotjar.com/) | Product | - | AWS - Kubernetes - Terraform - Python - React
