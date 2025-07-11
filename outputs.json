@@ -4145,6 +4145,32 @@
     ]
   },
   {
+    "name": "Kraken Tech",
+    "url": "https://kraken.tech",
+    "career_page_url": "https://kraken.tech/jobs",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "AWS",
+      "Consul",
+      "Django",
+      "GraphQL",
+      "Kubernetes",
+      "PostgreSQL",
+      "Python",
+      "React",
+      "Redux",
+      "REST API",
+      "Terraform"
+    ]
+  },
+  {
     "name": "Larin Group",
     "url": "https://www.linkedin.com/company/larin-group/",
     "career_page_url": "https://www.linkedin.com/company/larin-group/jobs",
