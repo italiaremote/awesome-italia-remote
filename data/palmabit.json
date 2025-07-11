@@ -1,7 +1,7 @@
 {
-  "name": "Palmabit",
-  "url": "https://www.palmabit.com",
-  "career_page_url": "https://www.palmabit.com/it/work-with-us",
+  "name": "Webidoo Engineering",
+  "url": "https://www.webidooengineering.com/it",
+  "career_page_url": "https://www.webidooengineering.com/it/work-with-us",
   "type": "Consulting",
   "categories": [
     "cloud_software"
@@ -20,6 +20,7 @@
     "GraphQL",
     "Docker",
     "Kubernetes",
-    "Netlify"
+    "Netlify",
+    "Angular"
   ]
 }
