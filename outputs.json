@@ -83,90 +83,6 @@
     ]
   },
   {
-    "name": "AssistDigital",
-    "url": "https://www.20tab.com/",
-    "career_page_url": "https://assistdigital.com/it/carriera",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Hybrid",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "DevOps",
-      "Docker",
-      "JAVA",
-      "Javascript",
-      "Kubernetes",
-      "PostgreSQL",
-      "Kafka",
-      "TypeScript"
-    ]
-  },
-  {
-    "name": "Bhlack Srl",
-    "url": "https://www.blhack.it/",
-    "career_page_url": "https://www.blhack.it/",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Ruby On Rails",
-      "Javascript",
-      "React",
-      "nextjs",
-      "shopify"
-    ]
-  },
-  {
-    "name": "Extendi",
-    "url": "https://www.extendi.it",
-    "career_page_url": "https://www.extendi.it/careers",
-    "type": "B2B",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Contract"
-    ],
-    "tags": [
-      "Ruby on rails",
-      "React Native",
-      "Node.js",
-      "Python",
-      "Javascript/Typescript",
-      "Kubernetes",
-      "React",
-      "AWS"
-    ]
-  },
-  {
-    "name": "Lhub srl",
-    "url": "https://lhubagency.com/",
-    "career_page_url": "https://lhubagency.com/",
-    "type": "Consulting",
-    "categories": [
-      "marketing_writing"
-    ],
-    "remote_policy": "Hybrid",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Marketing",
-      "Agency"
-    ]
-  },
-  {
     "name": "Advigator",
     "url": "https://www.advigator.com",
     "career_page_url": "https://www.advigator.com/careers",
@@ -185,7 +101,7 @@
   {
     "name": "Agile Lab",
     "url": "https://www.agilelab.it/",
-    "career_page_url": "https://www.agilelab.it/open-positions/",
+    "career_page_url": "https://careers.agilelab.it/",
     "type": "Consulting",
     "categories": [
       "cloud_software",
@@ -469,6 +385,30 @@
     ]
   },
   {
+    "name": "AssistDigital",
+    "url": "https://www.20tab.com/",
+    "career_page_url": "https://assistdigital.com/it/carriera",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "AWS",
+      "DevOps",
+      "Docker",
+      "JAVA",
+      "Javascript",
+      "Kubernetes",
+      "PostgreSQL",
+      "Kafka",
+      "TypeScript"
+    ]
+  },
+  {
     "name": "Beliven",
     "url": "https://beliven.com",
     "career_page_url": "https://careers.beliven.com",
@@ -516,7 +456,7 @@
   {
     "name": "BendingSpoons",
     "url": "https://bendingspoons.com/",
-    "career_page_url": "https://bendingspoons.com/careers.html",
+    "career_page_url": "https://bendingspoons.com/careers",
     "categories": [
       "marketing_writing",
       "cloud_software"
@@ -524,6 +464,26 @@
     "remote_policy": "Optional",
     "hiring_policies": [
       "Direct"
+    ]
+  },
+  {
+    "name": "Bhlack Srl",
+    "url": "https://www.blhack.it/",
+    "career_page_url": "https://www.blhack.it/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Ruby On Rails",
+      "Javascript",
+      "React",
+      "nextjs",
+      "shopify"
     ]
   },
   {
@@ -2479,6 +2439,29 @@
     ]
   },
   {
+    "name": "Extendi",
+    "url": "https://www.extendi.it",
+    "career_page_url": "https://www.extendi.it/careers",
+    "type": "B2B",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Contract"
+    ],
+    "tags": [
+      "Ruby on rails",
+      "React Native",
+      "Node.js",
+      "Python",
+      "Javascript/Typescript",
+      "Kubernetes",
+      "React",
+      "AWS"
+    ]
+  },
+  {
     "name": "Faberbee",
     "url": "https://faberbee.com",
     "career_page_url": "https://faberbee.com/en/job.html",
@@ -4238,6 +4221,23 @@
     ],
     "tags": [
       "Javascript"
+    ]
+  },
+  {
+    "name": "Lhub srl",
+    "url": "https://lhubagency.com/",
+    "career_page_url": "https://lhubagency.com/",
+    "type": "Consulting",
+    "categories": [
+      "marketing_writing"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Marketing",
+      "Agency"
     ]
   },
   {
