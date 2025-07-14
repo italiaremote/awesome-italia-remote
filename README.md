@@ -286,7 +286,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 
 Name | Career Page | Company Type | Hiring Policy | Stack
 ------------ | ------- | ------- |---------------| -------
-[AssistDigital](https://www.20tab.com/) | [Career Page](https://assistdigital.com/it/carriera) | Consulting | Direct | AWS - DevOps - Docker - JAVA - Javascript - Kubernetes - PostgreSQL - Kafka - TypeScript
+[AssistDigital](https://assistdigital.com/it) | [Career Page](https://assistdigital.com/it/carriera) | Consulting | Direct | AWS - DevOps - Docker - JAVA - Javascript - Kubernetes - PostgreSQL - Kafka - TypeScript
 [Beliven](https://beliven.com) | [Career Page](https://careers.beliven.com) | B2B | Direct | PHP - Node - Vue.js - React - Angular - React Native - Docker - Kubernetes - Terraform
 [Casavo](https://casavo.com) | [Career Page](https://careers.casavo.com) | Product | Direct | Elixir - CQRS Event-driven architectures - Python - Next.js - React - Android - iOS - Terraform - AWS - Kubernetes - Kotlin
 [Codemotion](https://www.codemotion.com) | [Career Page](https://www.codemotion.com/work-with-us) | Product | Direct | Laravel - Vue.js - Azure - MongoDB
