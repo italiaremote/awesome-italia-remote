@@ -442,7 +442,6 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [OpenCity Labs](https://www.opencityitalia.it/) | [Career Page](https://opencityitalia.it/lavora-con-noi/) | Product | - | Open Source - PHP - Symfony - AWS - Docker - Go - Angular - Kafka - Python
 [OverIT](https://www.overit.it/) | [Career Page](https://www.overit.it/lavora-con-noi/) | Product | Direct | Android - AWS - C# - GIS technologies - Java - JavaScript - Python
 [PagoPA S.p.A.](https://www.pagopa.it/it/) | [Career Page](https://www.pagopa.it/it/lavora-con-noi) | Product | Direct | TypeScript - React - Scala - Node.js - JavaScript - Java - Terraform - Azure - Kubernetes
-[Palmabit](https://www.palmabit.com) | [Career Page](https://www.palmabit.com/it/work-with-us) | Consulting | Direct | Node.js - React Native - React - Next.js - TypeScript - Jest - GraphQL - Docker - Kubernetes - Netlify
 [Par-Tec](https://www.par-tec.it/) | [Career Page](https://www.par-tec.it/lavorare-in-par-tec/) | Consulting | Direct | Linux - Opensource - GCP - OpenStack - Terraform - Ansible - Kubernetes - Openshift - Cloud-native - DevOps - GitOps - Python - Go
 [PED](https://ped.company/) | [Career Page](https://www.linkedin.com/company/pane&design/) | Consulting | Direct | PHP - Symfony - Node.js - React.js - Vue.js - Flutter - React Native - AWS
 [Pleo](https://www.pleo.io/) | [Career Page](https://www.pleo.io/en/careers) | Product | Contract | Javascript - Typescript - React - React Native - Kotlin - Kubernetes - AWS - PostgreSQL
@@ -472,6 +471,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [Unobravo](https://www.unobravo.com/) | [Career Page](https://unobravo.teamtailor.com/) | Product | Direct | TypeScript - JavaScript - React - GraphQL - AWS - Docker - Node.js
 [Up2You Srl SB](https://www.u2y.io/) | [Career Page](https://www.u2y.io/careers) | Product | Direct | PHP - Laravel - Vue JS - AWS - Blockchain
 [Verizon Connect](https://www.verizonconnect.com/) | [Career Page](https://www.verizon.com/about/work/search/firenze-italy/jobs) | B2B | Direct | AWS - TypeScript - Angular - .NET - Python - Machine Learning - IoT - DevOps - Docker - PostgreSQL - iOS - Android
+[Webidoo Engineering](https://www.webidooengineering.com/it) | [Career Page](https://www.webidooengineering.com/it/work-with-us) | Consulting | Direct | Node.js - React Native - React - Next.js - TypeScript - Jest - GraphQL - Docker - Kubernetes - Netlify - Angular
 [WEGG - The Impact Factory](https://wegg.it/) | [Career Page](https://wegg.it/lavora-con-noi/) | Consulting | Contract | Angular - Azure - Consulting - Databases - DevOps - Java - Javascript - Linux - PHP - Powershell - Spring Boot - SQL - Windows
 [Weiji](https://weiji.it) | [Career Page](https://weiji.it/contatti/) | Product | Direct | AWS - Cloud native - MongoDB - Node.js - Javascript - HTML - Phonegap - SCRUM - Bitbucket pipelines
 [WeRoad](https://www.weroad.it/) | [Career Page](https://career.weroad.travel/) | Product | Direct | Node.js (Nest.js) - PHP (Laravel) - Vue (Nuxt.js) - GCP

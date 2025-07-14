@@ -5326,31 +5326,6 @@
     ]
   },
   {
-    "name": "Palmabit",
-    "url": "https://www.palmabit.com",
-    "career_page_url": "https://www.palmabit.com/it/work-with-us",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Node.js",
-      "React Native",
-      "React",
-      "Next.js",
-      "TypeScript",
-      "Jest",
-      "GraphQL",
-      "Docker",
-      "Kubernetes",
-      "Netlify"
-    ]
-  },
-  {
     "name": "Par-Tec",
     "url": "https://www.par-tec.it/",
     "career_page_url": "https://www.par-tec.it/lavorare-in-par-tec/",
@@ -7375,6 +7350,32 @@
       "Elasticsearch",
       "AWS",
       "EdTech"
+    ]
+  },
+  {
+    "name": "Webidoo Engineering",
+    "url": "https://www.webidooengineering.com/it",
+    "career_page_url": "https://www.webidooengineering.com/it/work-with-us",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Node.js",
+      "React Native",
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Jest",
+      "GraphQL",
+      "Docker",
+      "Kubernetes",
+      "Netlify",
+      "Angular"
     ]
   },
   {
