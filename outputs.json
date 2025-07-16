@@ -461,7 +461,7 @@
       "Ruby On Rails",
       "Javascript",
       "React",
-      "nextjs",
+      "Next.js",
       "shopify"
     ]
   },
@@ -948,7 +948,7 @@
       "React",
       ".NET",
       "Airflow",
-      "Postgres",
+      "PostgreSQL",
       "TrinoDB",
       "Docker",
       "Kubernetes",
@@ -1573,7 +1573,7 @@
       "JavaScript",
       "Nestjs",
       "Next.js",
-      "Open source",
+      "Open Source",
       "React",
       "Redis",
       "Terraform",
@@ -1858,7 +1858,7 @@
       "PHP",
       "Web Development",
       "Typescript",
-      "Tailwindcss",
+      "TailwindCSS",
       "Vue.js",
       "Laravel",
       "GraphQL",
@@ -2001,7 +2001,6 @@
       "Kubernetes operators",
       "Open Source",
       "OpenShift",
-      "Postgres",
       "PostgreSQL",
       "Python",
       "Terraform"
@@ -2132,7 +2131,7 @@
       "Azure",
       "TypeScript",
       "Angular",
-      "REST Api",
+      "REST API",
       "RabbitMQ",
       "Redis",
       "Docker",
@@ -2160,7 +2159,7 @@
       "Azure",
       "TypeScript",
       "Angular",
-      "REST Api",
+      "REST API",
       "RabbitMQ",
       "Docker",
       "Architecture",
@@ -2708,7 +2707,7 @@
     ],
     "tags": [
       "React",
-      "NextJS",
+      "Next.js",
       "Typescript",
       "Laravel",
       "Swift",
@@ -3642,7 +3641,7 @@
       "React",
       "Django",
       "Docker",
-      "Postgres"
+      "PostgreSQL"
     ]
   },
   {
@@ -3898,7 +3897,7 @@
       "JavaScript",
       "Magento",
       "Mobile Apps",
-      "NextJS",
+      "Next.js",
       "Node",
       "PHP",
       "PostgreSQL",
@@ -5339,7 +5338,7 @@
     ],
     "tags": [
       "Linux",
-      "Opensource",
+      "Open Source",
       "GCP",
       "OpenStack",
       "Terraform",
@@ -6178,7 +6177,7 @@
       "GCP",
       "Azure",
       "Linux",
-      "Opensource",
+      "Open Source",
       "Kubernates",
       "OpenShift",
       "Automation",
@@ -6198,7 +6197,7 @@
       "Direct"
     ],
     "tags": [
-      "Open Source development",
+      "Open Source",
       "Agola",
       "Ercole",
       "Stolon",
@@ -6817,7 +6816,7 @@
     ],
     "tags": [
       "React",
-      "NextJS",
+      "Next.js",
       "NodeJS",
       "TypeScript",
       "AWS",
@@ -7255,7 +7254,7 @@
       "React",
       "React Native",
       "Node.js",
-      "Open source",
+      "Open Source",
       "Full remote",
       ".NET",
       "morfeojs",
