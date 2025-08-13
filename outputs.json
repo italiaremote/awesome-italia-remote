@@ -959,6 +959,23 @@
     ]
   },
   {
+    "name": "Cartsan",
+    "url": "https://cartsan.it/",
+    "career_page_url": "https://www.cartsan.it/lavora-con-noi",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Java",
+      "SQL"
+    ]
+  },
+  {
     "name": "Casavo",
     "url": "https://casavo.com",
     "career_page_url": "https://careers.casavo.com",
