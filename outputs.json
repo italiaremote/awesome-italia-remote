@@ -2098,6 +2098,33 @@
     ]
   },
   {
+    "name": "Elite Division",
+    "url": "https://www.elitedivision.it/",
+    "career_page_url": "https://www.linkedin.com/company/elite-division/jobs/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software",
+      "design_ux",
+      "marketing_writing"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct",
+      "Contract"
+    ],
+    "tags": [
+      "Java",
+      "Angular",
+      "Spring Framework",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "SQL",
+      "NoSQL"
+    ]
+  },
+  {
     "name": "Empatica",
     "url": "https://www.empatica.com",
     "career_page_url": "https://apply.workable.com/empatica/",
@@ -3704,26 +3731,6 @@
       "Swift",
       "Kotlin",
       "React Native"
-    ]
-  },
-  {
-    "name": "Intergiro",
-    "url": "https://www.intergiro.com/",
-    "career_page_url": "https://jobs.intergiro.com/",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Intermediary",
-      "Contract"
-    ],
-    "tags": [
-      "GCP",
-      "JavaScript",
-      "Kubernetes",
-      "Fintech"
     ]
   },
   {

@@ -76,6 +76,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [Elastic](https://www.elastic.co/) | [Career Page](https://www.elastic.co/about/careers/) | Product | Direct | Go - Cloud - Scala - OpenStack
 [ELEVA](https://eleva.it/) | [Career Page](https://eleva.it/team/) | Consulting | Direct | Cloud Native - AWS - Serverless - Node.js - IaC - React - React Native - Javascript - PHP - Symfony - UX/UI
 [Elfo](https://www.elfo.net/en/custom-software-development/) | [Career Page](https://www.elfo.net/en/work-with-us/) | B2B | Direct - Contract | .NET - C# - ASP.NET Core - JavaScript - TypeScript - HTML - CSS - SQL Server - Vue - Azure - DDD - CQRS - DevOps
+[Elite Division](https://www.elitedivision.it/) | [Career Page](https://www.linkedin.com/company/elite-division/jobs/) | Consulting | Direct - Contract | Java - Angular - Spring Framework - JavaScript - TypeScript - HTML - CSS - SQL - NoSQL
 [Empatica](https://www.empatica.com) | [Career Page](https://apply.workable.com/empatica/) | Product | Direct | AWS - GCP - Kubernetes - Docker - Cloud-native - DevOps - DataOps - GitOps - SecOps - Python - Typescript - Terraform - Security - Go - React
 [Enhancers](https://enhancers.it/) | [Career Page](https://enhancers.it/culture/) | Consulting | Direct | NodeJS - Typescript - AWS Cloud - React Native - PostgreSQL - Javascript - MQTT - Redux
 [Ernesto](https://www.ernesto.it/) | [Career Page](https://help.ernesto.it/contatti/) | Product | Direct | Java - Javascript - Git - Maven - Tomcat - Kibana - NginxPlus
@@ -112,7 +113,6 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [Innoteam](https://www.innoteam.it/) | [Career Page](https://www.axelerant.it/carriere/) | Consulting | Direct | AWS - Kubernetes - JavaScript - Python - React - TypeScript
 [Innovyou](https://www.innovyou.co/) | [Career Page](https://www.linkedin.com/company/innovi-/) | B2B | Direct | Odoo - Bitcoin - Python - NodeJS - Javascript - Angular - React - Django - Docker - PostgreSQL
 [Intent](https://withintent.com) | [Career Page](https://withintent.com/careers) | B2B | Contract | iOS - Android - IoT - AWS - Node.js - Flutter - JavaScript - Swift - Kotlin - React Native
-[Intergiro](https://www.intergiro.com/) | [Career Page](https://jobs.intergiro.com/) | Product | Intermediary - Contract | GCP - JavaScript - Kubernetes - Fintech
 [InTribe](https://www.linkedin.com/company/intribetrend/) | [Career Page](https://www.linkedin.com/company/intribetrend/jobs) | Product | Direct | Python - Data Intelligence
 [InvestSuite](https://investsuite.com) | [Career Page](https://www.investsuite.com/jobs) | Product | Direct | Python - Scala - Flutter - TypeScript - Node - AWS - Azure - Terraform
 [iubenda](https://www.linkedin.com/company/iubenda/) | [Career Page](https://www.linkedin.com/company/iubenda/jobs) | Product | Direct | Python - SQL - Ruby - MongoDB
@@ -206,6 +206,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [Creative Harbour](https://www.linkedin.com/company/creative-harbour/) | [Career Page](https://www.linkedin.com/company/creative-harbour/jobs) | B2C | Direct | Angular - Java
 [Disal Consulting](https://www.linkedin.com/company/disalconsulting/) | [Career Page](https://www.linkedin.com/company/disalconsulting/jobs) | Consulting | Direct | Marketing - Events
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Consulting | - | TypeScript - JavaScript - MacOS - iOS - Android
+[Elite Division](https://www.elitedivision.it/) | [Career Page](https://www.linkedin.com/company/elite-division/jobs/) | Consulting | Direct - Contract | Java - Angular - Spring Framework - JavaScript - TypeScript - HTML - CSS - SQL - NoSQL
 [Empatica](https://www.empatica.com) | [Career Page](https://apply.workable.com/empatica/) | Product | Direct | AWS - GCP - Kubernetes - Docker - Cloud-native - DevOps - DataOps - GitOps - SecOps - Python - Typescript - Terraform - Security - Go - React
 [Everli](https://it.everli.com/it) | [Career Page](https://it.everli.com/it/lavora-con-noi) | Product | Direct | Laravel - Python - MySQL - Elasticsearch - RabbitMQ - Redis - Vue.js - Kotlin - Swift - AWS - Docker
 [FBC](https://www.linkedin.com/company/befbc/) | [Career Page](https://www.linkedin.com/company/befbc/jobs) | B2C | Direct | Ecommerce
@@ -253,6 +254,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [Claranet Italia](https://www.claranet.it/) | [Career Page](https://claranetitalia.recruitee.com/l/it) | Consulting | Contract - Direct | AWS - Serverless - Terraform - PHP - NodeJs - Javascript - TypeScript - React - Angular - Java - Kotlin - Android - iOS - Python - .NET - Mobile Apps - UI/UX Design
 [CodicePlastico](https://codiceplastico.com/) | [Career Page](https://codiceplastico.com/) | Consulting | Direct | .NET - Node.js - Elixir - Angular - React - Azure - Kubernetes - Figma - RabbitMQ - MongoDb - PostgreSQL
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Consulting | - | TypeScript - JavaScript - MacOS - iOS - Android
+[Elite Division](https://www.elitedivision.it/) | [Career Page](https://www.linkedin.com/company/elite-division/jobs/) | Consulting | Direct - Contract | Java - Angular - Spring Framework - JavaScript - TypeScript - HTML - CSS - SQL - NoSQL
 [Exeen](https://www.linkedin.com/company/exeen/) | [Career Page](https://www.linkedin.com/company/exeen/jobs) | B2B | Contract | UX - Ecommerce
 [Fastloop](https://www.fastloop.it/) | [Career Page](https://www.fastloop.it/careers/) | Consulting | Direct - Contract | Business Analyst - Content Design - AWS - Javascript/Typescript - Flutter - Node.js/React - Terraform - Docker - Continuous Delivery - Organization Design - QA - UAT - Functional Testing - User Research - Interaction Design - Brand Identity - Application Maintenance - UI Design - UX Design
 [Hopper](https://hopper.com/) | [Career Page](https://hopper.com/careers) | Product | Intermediary | Scala - Kubernetes - Terraform
