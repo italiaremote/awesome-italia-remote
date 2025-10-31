@@ -173,7 +173,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [SparkFabrik](https://www.sparkfabrik.com) | [Career Page](https://careers.sparkfabrik.com) | Consulting | Direct | AWS - GCP - Alibaba Cloud - Kubernetes - Docker - Cloud-native - DevOps - GitOps - PHP - TypeScript - JS - Go - Drupal - Laravel - Symphony - Angular - React - React Native
 [Spreaker](https://www.spreaker.com/) | [Career Page](https://careers.spreaker.com/) | Product | - | PHP - Node.js - AWS - Kubernetes - Serverless
 [SQLite Cloud](https://sqlitecloud.io/) | [Career Page](https://www.linkedin.com/company/sqlitecloud/jobs/) | Product | Contract | C - C++ - Go - Rust - WASM - Node.js - Next.js - AWS - React - Docker
-[Stellantis](https://www.stellantis.com/) | [Career Page](https://careers.fcagroup.com/) | Product | Direct | Scala - DevOps - AWS - Kubernetes - Python - Go
+[Stellantis](https://www.stellantis.com/) | [Career Page](https://careers.stellantis.com/) | Product | Direct | Scala - DevOps - AWS - Kubernetes - Python - Go
 [Storeis](https://www.linkedin.com/company/storeis/) | [Career Page](https://www.linkedin.com/company/storeis/jobs) | B2B | Direct | Ecommerce
 [storyteq](https://storyteq.com/) | [Career Page](https://apply.workable.com/storyteq/) | Product | Direct | JavaScript - Vue - Node - NestJS - Express - RabbitMQ
 [Superlayer](https://superlayer.co/) | [Career Page](https://superlayer-1634135852323.freshteam.com/jobs) | Product | - | Go - Terraform - AWS - PostgreSQL - HTMX
