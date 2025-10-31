@@ -1,0 +1,27 @@
+{
+    "name": "Elite Division",
+    "career_page_url": "https://www.linkedin.com/company/elite-division/jobs/",
+    "url": "https://www.elitedivision.it/",
+    "remote_policy": "Full",
+    "hiring_policies": [
+        "Direct",
+        "Contract"
+    ],
+    "type": "Consulting",
+    "categories": [
+        "cloud_software",
+        "design_ux",
+        "marketing_writing"
+    ],
+    "tags": [
+        "Java",
+        "Angular",
+        "Spring Framework",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "SQL",
+        "NoSQL"
+    ]
+}
