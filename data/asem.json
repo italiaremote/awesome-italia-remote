@@ -1,0 +1,21 @@
+{
+    "name": "ASEM",
+    "career_page_url": "https://www.linkedin.com/jobs/asem-s.r.l.-jobs-worldwide",
+    "url": "https://www.asem.it/",
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "Product",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "C#",
+        "React",
+        "Azure",
+        "AWS",
+        "Terraform",
+        "Kubernetes"
+    ]
+}
