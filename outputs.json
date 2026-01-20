@@ -1653,26 +1653,6 @@
     ]
   },
   {
-    "name": "Docebo",
-    "url": "https://www.docebo.com/",
-    "career_page_url": "https://www.docebo.com/company/careers/",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "Terraform",
-      "Node.js",
-      "Angular",
-      "PHP"
-    ]
-  },
-  {
     "name": "Docplanner",
     "url": "https://www.docplanner.com",
     "career_page_url": "https://www.docplanner.com/career",
