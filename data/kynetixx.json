@@ -1,0 +1,23 @@
+{
+  "name": "Kynetixx",
+  "url": "https://kynetixx.ai",
+  "career_page_url": "https://www.linkedin.com/company/kynetixx/jobs/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Contract"
+  ],
+  "tags": [
+    "AI",
+    "Automation",
+    "LangFuse",
+    "LLM",
+    "Open Source",
+    "Python",
+    "RAG",
+    "WhatsApp API"
+  ]
+}
