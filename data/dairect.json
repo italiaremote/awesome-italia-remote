@@ -1,0 +1,28 @@
+{
+  "name": "dAirect",
+  "url": "https://www.dairect.io",
+  "career_page_url": "https://jobs.dairect.io",
+  "type": "Product",
+  "categories": [
+    "cloud_software",
+    "ai",
+    "geo",
+    "hospitality"
+  ],
+  "remote_policy": "Hybrid",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "GCP",
+    "DevOps",
+    "Docker",
+    "Firebase",
+    "Kubernetes",
+    "PostgreSQL",
+    "React",
+    "Node.js",
+    "TypeScript",
+    "LLMs"
+  ]
+}
