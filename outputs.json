@@ -48,22 +48,6 @@
     ]
   },
   {
-    "name": "4Securitas",
-    "url": "https://www.linkedin.com/company/4securitas/",
-    "career_page_url": "https://www.linkedin.com/company/4securitas/jobs",
-    "type": "Consulting",
-    "categories": [
-      "cybersecurity"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "ACSIA"
-    ]
-  },
-  {
     "name": "5w155",
     "url": "https://5w155.ch/",
     "career_page_url": "https://5w155.ch/careers",
@@ -119,23 +103,6 @@
       "Python",
       "TypeScript",
       "React"
-    ]
-  },
-  {
-    "name": "AI Maid Help",
-    "url": "https://www.linkedin.com/company/aimaidhelp/",
-    "career_page_url": "https://www.linkedin.com/company/aimaidhelp/jobs",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "AI",
-      "Python"
     ]
   },
   {
@@ -198,8 +165,8 @@
   },
   {
     "name": "AlgorandEurope",
-    "url": "https://www.algorand.com",
-    "career_page_url": "https://www.algorand.com/about/careers/our-jobs",
+    "url": "https://algorand.co/",
+    "career_page_url": "https://algorand.co/algorand-foundation/careers",
     "type": "Product",
     "categories": [
       "cloud_software"
@@ -265,27 +232,6 @@
       "GCP",
       "Docker",
       "Kubernetes"
-    ]
-  },
-  {
-    "name": "Ama\u0026Me",
-    "url": "https://amaandme.co.uk",
-    "career_page_url": "https://amaandme.co.uk/careers",
-    "type": "B2B",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Intermediary"
-    ],
-    "tags": [
-      "Python",
-      "Docker",
-      "Terraform",
-      "FastAPI",
-      "PostgreSQL",
-      "React Native"
     ]
   },
   {
@@ -443,26 +389,6 @@
     "remote_policy": "Optional",
     "hiring_policies": [
       "Direct"
-    ]
-  },
-  {
-    "name": "Bhlack Srl",
-    "url": "https://www.blhack.it/",
-    "career_page_url": "https://www.blhack.it/",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Ruby On Rails",
-      "Javascript",
-      "React",
-      "Next.js",
-      "shopify"
     ]
   },
   {
@@ -631,6 +557,26 @@
     ]
   },
   {
+    "name": "Blhack Srl",
+    "url": "https://www.blhack.it/",
+    "career_page_url": "https://www.blhack.it/",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Ruby On Rails",
+      "Javascript",
+      "React",
+      "Next.js",
+      "shopify"
+    ]
+  },
+  {
     "name": "Bmeme",
     "url": "https://www.bmeme.com",
     "career_page_url": "https://www.bmeme.com/jobs",
@@ -667,8 +613,8 @@
   },
   {
     "name": "Bobsled",
-    "url": "https://bobsled.co/",
-    "career_page_url": "https://www.bobsled.co/company",
+    "url": "https://www.bobsled.com/",
+    "career_page_url": "https://www.bobsled.com/company",
     "type": "Product",
     "categories": [
       "cloud_software"
@@ -773,27 +719,6 @@
       "Svelte",
       "Python",
       "Go"
-    ]
-  },
-  {
-    "name": "Breadcrumbs",
-    "url": "https://breadcrumbs.io/",
-    "career_page_url": "https://www.linkedin.com/company/breadcrumbsio/jobs/",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "Machine Learning",
-      "PHP",
-      "Python",
-      "React",
-      "TypeScript"
     ]
   },
   {
@@ -1090,30 +1015,6 @@
       "Java",
       "Kotlin",
       "Go"
-    ]
-  },
-  {
-    "name": "Cloud Academy",
-    "url": "https://www.cloudacademy.com",
-    "career_page_url": "https://jobs.cloudacademy.com",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "AWS",
-      "Django",
-      "GraphQL",
-      "Kotlin",
-      "Python",
-      "PostgresQL",
-      "React",
-      "TypeScript"
     ]
   },
   {
@@ -1453,9 +1354,25 @@
     ]
   },
   {
+    "name": "Dectar",
+    "url": "https://dectar.com/",
+    "career_page_url": "https://dectar.com/careers/",
+    "type": "Consulting",
+    "categories": [
+      "cybersecurity"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "ACSIA"
+    ]
+  },
+  {
     "name": "Deel",
-    "url": "https://www.letsdeel.com/",
-    "career_page_url": "https://www.letsdeel.com/careers",
+    "url": "https://www.deel.com/",
+    "career_page_url": "https://www.deel.com/careers/",
     "type": "Product",
     "categories": [
       "cloud_software"
@@ -1636,6 +1553,26 @@
     ]
   },
   {
+    "name": "Dinova",
+    "url": "https://www.dinova.one/",
+    "career_page_url": "https://www.linkedin.com/company/dinova-one-/jobs/",
+    "type": "B2B",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Hybrid",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Angular",
+      "Spring",
+      "GCP",
+      "AI",
+      "Machine Learning"
+    ]
+  },
+  {
     "name": "Disal Consulting",
     "url": "https://www.linkedin.com/company/disalconsulting/",
     "career_page_url": "https://www.linkedin.com/company/disalconsulting/jobs",
@@ -1729,6 +1666,35 @@
       "JavaScript",
       "TypeScript",
       "React"
+    ]
+  },
+  {
+    "name": "Domyn",
+    "url": "https://www.domyn.com/",
+    "career_page_url": "https://www.domyn.com/careers",
+    "type": "Product",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Optional",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "React",
+      "Kotlin",
+      "Swift",
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "Python",
+      "AWS",
+      "GCP",
+      "Kubernetes",
+      "Docker",
+      "Machine Learning",
+      "Go",
+      "PostgreSQL"
     ]
   },
   {
@@ -1962,36 +1928,6 @@
       "VTK",
       "Vue.js",
       "WebGL"
-    ]
-  },
-  {
-    "name": "Eco-Mind",
-    "url": "https://eco-mind.eu",
-    "career_page_url": "https://eco-mind.eu/lavora-con-noi",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Java",
-      "Kotlin",
-      "Spring",
-      "TypeScript",
-      "Angular",
-      "Kubernetes",
-      "Flux",
-      "Helm",
-      "Azure",
-      "AWS",
-      "GCP",
-      "Mixed Reality",
-      "iOS",
-      "Android",
-      "React Native"
     ]
   },
   {
@@ -2484,28 +2420,6 @@
     ]
   },
   {
-    "name": "Faberbee",
-    "url": "https://faberbee.com",
-    "career_page_url": "https://faberbee.com/en/job.html",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Blockchain",
-      "Java",
-      "Node.js",
-      "Angular",
-      "TypeScript",
-      "Kubernetes",
-      "GCP"
-    ]
-  },
-  {
     "name": "Fabrick",
     "url": "https://www.fabrick.com/",
     "career_page_url": "https://www.fabrick.com/it/azienda/lavora-con-noi/",
@@ -2811,24 +2725,6 @@
     ]
   },
   {
-    "name": "Fluentify",
-    "url": "https://www.fluentify.com/",
-    "career_page_url": "https://fluentifycareers.factorial.it/",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Flutter",
-      "Nativescript",
-      "React Native"
-    ]
-  },
-  {
     "name": "Forestae",
     "url": "https://www.linkedin.com/company/forestae/",
     "career_page_url": "https://www.linkedin.com/company/forestae/jobs",
@@ -3017,26 +2913,6 @@
     ]
   },
   {
-    "name": "Getir",
-    "url": "https://getir.com/it/",
-    "career_page_url": "https://career.getir.com/",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "iOS",
-      "Android",
-      "Node.js",
-      "Go",
-      "Java"
-    ]
-  },
-  {
     "name": "Giant Swarm",
     "url": "https://giantswarm.io",
     "career_page_url": "https://www.giantswarm.io/careers#open-positions",
@@ -3201,7 +3077,7 @@
   {
     "name": "Hasura",
     "url": "https://hasura.io/",
-    "career_page_url": "https://hasura.io/careers/",
+    "career_page_url": "https://promptql.io/careers",
     "type": "Product",
     "categories": [
       "cloud_software"
@@ -3236,8 +3112,8 @@
   },
   {
     "name": "Heveloon",
-    "url": "https://www.heveloon.co.uk/",
-    "career_page_url": "https://www.linkedin.com/company/heveloon-ltd",
+    "url": "https://www.heveloon.com/",
+    "career_page_url": "https://www.heveloon.com/career",
     "type": "Consulting",
     "categories": [
       "cloud_software"
@@ -3299,28 +3175,6 @@
       "Scala",
       "Kubernetes",
       "Terraform"
-    ]
-  },
-  {
-    "name": "Hotjar",
-    "url": "https://www.hotjar.com/",
-    "career_page_url": "https://careers.hotjar.com/",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux",
-      "marketing_writing"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "AWS",
-      "Kubernetes",
-      "Terraform",
-      "Python",
-      "React"
     ]
   },
   {
@@ -3399,35 +3253,6 @@
     ]
   },
   {
-    "name": "iGenius S.r.l.",
-    "url": "https://igenius.ai/",
-    "career_page_url": "https://www.linkedin.com/company/igeniusai/jobs/",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "React",
-      "Kotlin",
-      "Swift",
-      "JavaScript",
-      "TypeScript",
-      "Node.js",
-      "Python",
-      "AWS",
-      "GCP",
-      "Kubernetes",
-      "Docker",
-      "Machine Learning",
-      "Go",
-      "PostgreSQL"
-    ]
-  },
-  {
     "name": "Ignite",
     "url": "https://ignt.com",
     "career_page_url": "https://ignt.com/careers",
@@ -3501,6 +3326,24 @@
       "Java",
       "Javascript",
       "Angular"
+    ]
+  },
+  {
+    "name": "IMQ Intuity",
+    "url": "https://www.intuity.it/",
+    "career_page_url": "https://www.intuity.it/category/work-with-us/",
+    "type": "Consulting",
+    "categories": [
+      "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+      "Direct"
+    ],
+    "tags": [
+      "Security",
+      "Pentest",
+      "Code Review"
     ]
   },
   {
@@ -3606,26 +3449,6 @@
     ]
   },
   {
-    "name": "Injenia",
-    "url": "https://injenia.it/",
-    "career_page_url": "https://www.linkedin.com/company/injenia/jobs/",
-    "type": "B2B",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Hybrid",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Angular",
-      "Spring",
-      "GCP",
-      "AI",
-      "Machine Learning"
-    ]
-  },
-  {
     "name": "Innoleaps \\| Business Builders",
     "url": "https://www.linkedin.com/company/innoleaps/",
     "career_page_url": "https://www.linkedin.com/company/innoleaps/jobs",
@@ -3640,27 +3463,6 @@
     "tags": [
       "Venture capital",
       "Startup Builder"
-    ]
-  },
-  {
-    "name": "Innoteam",
-    "url": "https://www.innoteam.it/",
-    "career_page_url": "https://www.axelerant.it/carriere/",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "Kubernetes",
-      "JavaScript",
-      "Python",
-      "React",
-      "TypeScript"
     ]
   },
   {
@@ -4031,25 +3833,6 @@
     ]
   },
   {
-    "name": "Kaleyra",
-    "url": "https://www.kaleyra.com",
-    "career_page_url": "https://www.kaleyra.com/careers?utm_source=GitHubAwesomeItaliaRemote",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "CPaaS",
-      "Node",
-      "PHP",
-      "Python"
-    ]
-  },
-  {
     "name": "Kiratech S.p.A.",
     "url": "https://www.kiratech.it/en",
     "career_page_url": "https://www.kiratech.it/en/work-with-us",
@@ -4194,9 +3977,9 @@
     ]
   },
   {
-    "name": "Larin Group",
-    "url": "https://www.linkedin.com/company/larin-group/",
-    "career_page_url": "https://www.linkedin.com/company/larin-group/jobs",
+    "name": "Larin",
+    "url": "https://larin.it/",
+    "career_page_url": "https://www.linkedin.com/company/larin/jobs/",
     "type": "B2B",
     "categories": [
       "marketing_writing"
@@ -4294,30 +4077,6 @@
     ]
   },
   {
-    "name": "Liqi",
-    "url": "https://liqi.it/",
-    "career_page_url": "https://www.linkedin.com/company/liqi-ita/jobs/",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Django",
-      "htmx",
-      "hyperscript",
-      "AWS",
-      "terraform",
-      "Python",
-      "R",
-      "AI",
-      "fintech"
-    ]
-  },
-  {
     "name": "Loop Srl",
     "url": "https://www.linkedin.com/company/loopsrl/",
     "career_page_url": "https://www.linkedin.com/company/loopsrl/jobs",
@@ -4370,9 +4129,9 @@
     ]
   },
   {
-    "name": "Lucus",
-    "url": "https://www.linkedin.com/company/lucus-live/",
-    "career_page_url": "https://www.linkedin.com/company/lucus-live/jobs",
+    "name": "Lucus Travel",
+    "url": "https://www.lucusvideo.com/",
+    "career_page_url": "https://www.linkedin.com/company/lucus-travel/jobs/",
     "type": "B2B",
     "categories": [
       "marketing_writing"
@@ -4440,41 +4199,6 @@
     ]
   },
   {
-    "name": "Macai",
-    "url": "https://macaiapp.com/",
-    "career_page_url": "https://www.linkedin.com/company/macaiit/jobs/",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "Serverless",
-      "DynamoDB",
-      "CDK",
-      "CQRS Event-driven architectures",
-      "Go",
-      "Node.js",
-      "TypeScript",
-      "fp-ts",
-      "React",
-      "React Native",
-      "Android",
-      "iOS",
-      "CI/CD",
-      "LocalStack",
-      "Docker",
-      "Python",
-      "Machine Learning",
-      "Serverless Big Data",
-      "Kanban"
-    ]
-  },
-  {
     "name": "Madisoft",
     "url": "https://labs.madisoft.it",
     "career_page_url": "https://labs.madisoft.it/entra-nel-team/",
@@ -4495,7 +4219,7 @@
   {
     "name": "MailUp",
     "url": "https://www.mailup.com/",
-    "career_page_url": "https://www.growens.io/en/work-with-us/",
+    "career_page_url": "https://mailup.it/lavora-con-noi/",
     "type": "Product",
     "categories": [
       "cloud_software",
@@ -4713,46 +4437,6 @@
     ]
   },
   {
-    "name": "Milkman Technologies",
-    "url": "https://www.milkmantechnologies.com/",
-    "career_page_url": "https://www.linkedin.com/company/milkmantechnologies/jobs/",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "Java",
-      "Clojure",
-      "AWS",
-      "JavaScript",
-      "React",
-      "Kotlin",
-      "Kafka"
-    ]
-  },
-  {
-    "name": "IMQ Minded Security",
-    "url": "https://mindedsecurity.com/",
-    "career_page_url": "https://mindedsecurity.com/jobs/",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Security",
-      "Pentest",
-      "Code Review"
-    ]
-  },
-  {
     "name": "MIRAI BAY",
     "url": "https://www.linkedin.com/company/mirai-bay/",
     "career_page_url": "https://www.linkedin.com/company/mirai-bay/jobs",
@@ -4771,7 +4455,7 @@
   },
   {
     "name": "Mobile Solutions Srl",
-    "url": "https://enerp.it",
+    "url": "https://www.enerp.it/",
     "career_page_url": "https://www.linkedin.com/company/mobile-solutions-srl/jobs/",
     "type": "Product",
     "categories": [
@@ -5161,25 +4845,6 @@
     ]
   },
   {
-    "name": "OfCourseMe",
-    "url": "https://www.linkedin.com/company/ofcourseme-official/",
-    "career_page_url": "https://www.linkedin.com/company/ofcourseme-official/jobs",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "PHP",
-      "Vue",
-      "Docker",
-      "AWS"
-    ]
-  },
-  {
     "name": "Officina Microtesti",
     "url": "https://www.officinamicrotesti.it/",
     "career_page_url": "https://www.linkedin.com/company/officina-microtesti/jobs",
@@ -5260,7 +4925,7 @@
   {
     "name": "Outfittery",
     "url": "https://www.outfittery.com/",
-    "career_page_url": "https://outfitterygmbh.teamtailor.com/",
+    "career_page_url": "https://join.com/companies/outfittery",
     "type": "Product",
     "categories": [
       "cloud_software"
@@ -5374,53 +5039,6 @@
       "GitOps",
       "Python",
       "Go"
-    ]
-  },
-  {
-    "name": "Patchai",
-    "url": "https://www.patchai.io/",
-    "career_page_url": "https://www.linkedin.com/company/ai-patch/jobs/",
-    "type": "Product",
-    "categories": [
-      "cloud_software",
-      "design_ux"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "AWS",
-      "Kubernetes",
-      "Go",
-      "Node.js",
-      "Flutter",
-      "Dart",
-      "Python",
-      "Terraform"
-    ]
-  },
-  {
-    "name": "PED",
-    "url": "https://ped.company/",
-    "career_page_url": "https://www.linkedin.com/company/pane\u0026design/",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "PHP",
-      "Symfony",
-      "Node.js",
-      "React.js",
-      "Vue.js",
-      "Flutter",
-      "React Native",
-      "AWS"
     ]
   },
   {
@@ -5684,26 +5302,6 @@
     ]
   },
   {
-    "name": "Qredo",
-    "url": "https://qredo.com",
-    "career_page_url": "https://qredo.com/careers",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Intermediary"
-    ],
-    "tags": [
-      "Blockchain",
-      "Ethereum",
-      "Bitcoin",
-      "Cosmos",
-      "Go"
-    ]
-  },
-  {
     "name": "Quindo \\| Agenzia SEO",
     "url": "https://www.linkedin.com/company/quindoagenziaseo/",
     "career_page_url": "https://www.linkedin.com/company/quindoagenziaseo/jobs",
@@ -5787,8 +5385,8 @@
   },
   {
     "name": "Remote Control Family",
-    "url": "https://jobs.r-control.de/",
-    "career_page_url": "https://jobs.r-control.de/game-developer-jobs/",
+    "url": "https://rcp.family/",
+    "career_page_url": "https://rcp.family/career/",
     "type": "Product",
     "categories": [
       "cloud_software"
@@ -5945,36 +5543,6 @@
     ]
   },
   {
-    "name": "Searchmetrics",
-    "url": "https://www.searchmetrics.com/",
-    "career_page_url": "https://www.searchmetrics.com/company-and-careers/",
-    "type": "B2B",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Contract"
-    ]
-  },
-  {
-    "name": "Sensify",
-    "url": "https://www.linkedin.com/company/sensifygroup/",
-    "career_page_url": "https://www.linkedin.com/company/sensifygroup/jobs",
-    "type": "B2B",
-    "categories": [
-      "marketing_writing"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Digital marketing",
-      "Consumer insights"
-    ]
-  },
-  {
     "name": "Serenis",
     "url": "https://www.serenis.it/",
     "career_page_url": "https://join.com/companies/serenis/",
@@ -6042,9 +5610,9 @@
     ]
   },
   {
-    "name": "ShopFully",
-    "url": "https://corporate.shopfully.com/",
-    "career_page_url": "https://corporate.shopfully.com/it/lavora-con-noi/",
+    "name": "Shopfully",
+    "url": "https://shopfully.com/",
+    "career_page_url": "https://shopfully.com/careers/",
     "type": "Product",
     "categories": [
       "cloud_software"
@@ -6104,27 +5672,6 @@
       "Wordpress",
       "Magento",
       "Salesforce Commerce Cloud"
-    ]
-  },
-  {
-    "name": "SIGHUP",
-    "url": "https://sighup.io/",
-    "career_page_url": "https://www.linkedin.com/company/sighup/jobs/",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "Go",
-      "Typescript",
-      "Python",
-      "Docker",
-      "Terraform",
-      "Kubernetes"
     ]
   },
   {
@@ -6226,28 +5773,6 @@
       "Ercole",
       "Stolon",
       "SYNwall"
-    ]
-  },
-  {
-    "name": "Space Heroes - Clayton",
-    "url": "https://getclayton.com/",
-    "career_page_url": "https://www.notion.so/getclayton/Work-at-Clayton-98fa028f39b44129989d44a02bbbd374",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "Contract"
-    ],
-    "tags": [
-      "AWS",
-      "React",
-      "Typescript",
-      "Next.js",
-      "Java",
-      "Spring Boot",
-      "PostgreSQL"
     ]
   },
   {
@@ -6383,8 +5908,8 @@
     ]
   },
   {
-    "name": "SQLite Cloud",
-    "url": "https://sqlitecloud.io/",
+    "name": "SQLite AI",
+    "url": "https://www.sqlite.ai/",
     "career_page_url": "https://www.linkedin.com/company/sqlitecloud/jobs/",
     "type": "Product",
     "categories": [
@@ -6503,8 +6028,8 @@
   },
   {
     "name": "Superlayer",
-    "url": "https://superlayer.co/",
-    "career_page_url": "https://superlayer-1634135852323.freshteam.com/jobs",
+    "url": "https://superlayer.io/",
+    "career_page_url": "https://superlayer.io/",
     "type": "Product",
     "categories": [
       "cloud_software",
@@ -6808,22 +6333,6 @@
     ],
     "tags": [
       "-"
-    ]
-  },
-  {
-    "name": "TLM Partners",
-    "url": "https://tlmpartners.com",
-    "career_page_url": "https://tlmpartners.com/being-a-monster/",
-    "type": "Product",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Full",
-    "hiring_policies": [
-      "-"
-    ],
-    "tags": [
-      "UnrealEngine"
     ]
   },
   {
@@ -7288,7 +6797,7 @@
   {
     "name": "VMWare",
     "url": "https://www.vmware.com/",
-    "career_page_url": "https://careers.vmware.com/main/jobs?stretch=10\u0026stretchUnit=MILES\u0026lat=\u0026lng=\u0026location=Italy\u0026woe=12\u0026keywords=\u0026brand=\u0026categories=\u0026locations=\u0026page=1\u0026tags=Yes",
+    "career_page_url": "https://www.broadcom.com/company/careers",
     "type": "Product",
     "categories": [
       "cloud_software"
@@ -7535,9 +7044,9 @@
     ]
   },
   {
-    "name": "Wuerth Phoenix",
-    "url": "https://wuerth-phoenix.com/",
-    "career_page_url": "https://www.wuerth-phoenix.com/posizioni-aperte",
+    "name": "Würth IT Italy",
+    "url": "https://www.wuerth-it.it/",
+    "career_page_url": "https://www.wuerth-it.it/posizioni-aperte/",
     "type": "Product",
     "categories": [
       "cloud_software",
@@ -7593,27 +7102,6 @@
       "Redis",
       "Mobile Development",
       "Web Development"
-    ]
-  },
-  {
-    "name": "Xriba",
-    "url": "https://xriba.com/it/home/",
-    "career_page_url": "https://xriba.com/it/lavora-con-noi/",
-    "type": "Consulting",
-    "categories": [
-      "cloud_software"
-    ],
-    "remote_policy": "Optional",
-    "hiring_policies": [
-      "Direct"
-    ],
-    "tags": [
-      "React.js",
-      "TypeScript",
-      "Node.js",
-      "Redux",
-      ".NET",
-      "Java"
     ]
   },
   {
@@ -7733,7 +7221,7 @@
     ]
   },
   {
-    "name": "Zaxtras",
+    "name": "Zextras",
     "url": "https://www.zextras.com",
     "career_page_url": "https://www.linkedin.com/company/zextras/jobs/",
     "type": "Product",
