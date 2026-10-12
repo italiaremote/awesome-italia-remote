@@ -66,7 +66,6 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [Daito Solutions](https://www.daito.it) | [Career Page](https://www.linkedin.com/company/daito-solutions/about/jobs) | Product | Direct | .NET - C# - AWS - Elastic - RabbitMQ - Ecommerce
 [Deel](https://www.deel.com/) | [Career Page](https://www.deel.com/careers/) | Product | Contract | Javascript - React - Node.js - AWS - PostgreSQL
 [Digital Science](https://www.digital-science.com) | [Career Page](https://digitalscience.pinpointhq.com/#js-careers-jobs-block) | Product | Contract | Python - Rust - TypeScript - JavaScript
-[Docebo](https://www.docebo.com/) | [Career Page](https://www.docebo.com/company/careers/) | Product | Direct | AWS - Terraform - Node.js - Angular - PHP
 [DonQ](https://donq.io) | [Career Page](https://www.linkedin.com/company/donq) | B2B | Contract - Direct | Node - TypeScript - AWS - PHP - Laravel - Magento - React Native - GraphQL - OpenAI - LLama - Terraform - Cloudflare - Docker
 [doubleloop](https://doubleloop.io/) | [Career Page](https://doubleloop.io/jobs.html) | Consulting | Direct - Contract | Javascript/Typescript - Node.js/React - Java/Maven - C#/.NET - AWS - Terraform - Docker - MongoDB - EventStorming - Continuous Delivery - Functional Programming - Domain-Driven Design
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Consulting | - | TypeScript - JavaScript - MacOS - iOS - Android
